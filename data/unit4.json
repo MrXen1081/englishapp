@@ -1,0 +1,2107 @@
+{
+ "unit": 4,
+ "title": "Unit 4",
+ "source": "English File 5th ed. Elementary Workbook, Unit 4 (s.27-32)",
+ "vocab": [
+  {
+   "en": "grandmother",
+   "tr": "büyükanne",
+   "alt": [
+    "nine",
+    "babaanne",
+    "anneanne"
+   ],
+   "cat": "Aile",
+   "id": "u4-001"
+  },
+  {
+   "en": "grandfather",
+   "tr": "büyükbaba",
+   "alt": [
+    "dede"
+   ],
+   "cat": "Aile",
+   "id": "u4-002"
+  },
+  {
+   "en": "grandparents",
+   "tr": "büyükanne ve büyükbaba",
+   "alt": [],
+   "cat": "Aile",
+   "id": "u4-003"
+  },
+  {
+   "en": "parents",
+   "tr": "anne baba",
+   "alt": [
+    "ebeveynler"
+   ],
+   "cat": "Aile",
+   "id": "u4-004"
+  },
+  {
+   "en": "uncle",
+   "tr": "amca",
+   "alt": [
+    "dayı"
+   ],
+   "cat": "Aile",
+   "id": "u4-005"
+  },
+  {
+   "en": "aunt",
+   "tr": "teyze",
+   "alt": [
+    "hala"
+   ],
+   "cat": "Aile",
+   "id": "u4-006"
+  },
+  {
+   "en": "husband",
+   "tr": "koca",
+   "alt": [
+    "eş"
+   ],
+   "cat": "Aile",
+   "id": "u4-007"
+  },
+  {
+   "en": "wife",
+   "tr": "karı",
+   "alt": [
+    "eş"
+   ],
+   "cat": "Aile",
+   "id": "u4-008"
+  },
+  {
+   "en": "son",
+   "tr": "oğul",
+   "alt": [
+    "erkek çocuk"
+   ],
+   "cat": "Aile",
+   "id": "u4-009"
+  },
+  {
+   "en": "daughter",
+   "tr": "kız evlat",
+   "alt": [
+    "kız çocuk"
+   ],
+   "cat": "Aile",
+   "id": "u4-010"
+  },
+  {
+   "en": "nephew",
+   "tr": "erkek yeğen",
+   "alt": [
+    "yeğen"
+   ],
+   "cat": "Aile",
+   "id": "u4-011"
+  },
+  {
+   "en": "niece",
+   "tr": "kız yeğen",
+   "alt": [
+    "yeğen"
+   ],
+   "cat": "Aile",
+   "id": "u4-012"
+  },
+  {
+   "en": "cousin",
+   "tr": "kuzen",
+   "alt": [
+    "amca çocuğu",
+    "teyze çocuğu"
+   ],
+   "cat": "Aile",
+   "id": "u4-013"
+  },
+  {
+   "en": "brother-in-law",
+   "tr": "kayınbirader",
+   "alt": [],
+   "cat": "Aile",
+   "id": "u4-014"
+  },
+  {
+   "en": "mother-in-law",
+   "tr": "kayınvalide",
+   "alt": [
+    "kaynana"
+   ],
+   "cat": "Aile",
+   "id": "u4-015"
+  },
+  {
+   "en": "stepmother",
+   "tr": "üvey anne",
+   "alt": [],
+   "cat": "Aile",
+   "id": "u4-016"
+  },
+  {
+   "en": "get up",
+   "tr": "kalkmak",
+   "alt": [
+    "yataktan kalkmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-017"
+  },
+  {
+   "en": "get dressed",
+   "tr": "giyinmek",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-018"
+  },
+  {
+   "en": "have a shower",
+   "tr": "duş almak",
+   "alt": [
+    "duş yapmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-019"
+  },
+  {
+   "en": "have breakfast",
+   "tr": "kahvaltı yapmak",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-020"
+  },
+  {
+   "en": "have lunch",
+   "tr": "öğle yemeği yemek",
+   "alt": [
+    "öğle yemeği yapmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-021"
+  },
+  {
+   "en": "go to work",
+   "tr": "işe gitmek",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-022"
+  },
+  {
+   "en": "start work",
+   "tr": "işe başlamak",
+   "alt": [
+    "çalışmaya başlamak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-023"
+  },
+  {
+   "en": "finish work",
+   "tr": "işi bitirmek",
+   "alt": [
+    "paydos etmek"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-024"
+  },
+  {
+   "en": "go home",
+   "tr": "eve gitmek",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-025"
+  },
+  {
+   "en": "get home",
+   "tr": "eve varmak",
+   "alt": [
+    "eve gelmek"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-026"
+  },
+  {
+   "en": "make dinner",
+   "tr": "akşam yemeği hazırlamak",
+   "alt": [
+    "akşam yemeği yapmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-027"
+  },
+  {
+   "en": "go shopping",
+   "tr": "alışverişe gitmek",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-028"
+  },
+  {
+   "en": "check emails",
+   "tr": "e-postalara bakmak",
+   "alt": [
+    "e-postaları kontrol etmek"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-029"
+  },
+  {
+   "en": "put on make-up",
+   "tr": "makyaj yapmak",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-030"
+  },
+  {
+   "en": "see friends",
+   "tr": "arkadaşlarla görüşmek",
+   "alt": [
+    "arkadaşları görmek"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-031"
+  },
+  {
+   "en": "do the housework",
+   "tr": "ev işlerini yapmak",
+   "alt": [
+    "ev işi yapmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-032"
+  },
+  {
+   "en": "relax",
+   "tr": "dinlenmek",
+   "alt": [
+    "rahatlamak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-033"
+  },
+  {
+   "en": "take the dog for a walk",
+   "tr": "köpeği yürüyüşe çıkarmak",
+   "alt": [
+    "köpeği gezdirmek"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-034"
+  },
+  {
+   "en": "get to work",
+   "tr": "işe varmak",
+   "alt": [
+    "işe ulaşmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-035"
+  },
+  {
+   "en": "have a shave",
+   "tr": "tıraş olmak",
+   "alt": [],
+   "cat": "Günlük rutin",
+   "id": "u4-036"
+  },
+  {
+   "en": "go to bed",
+   "tr": "yatmaya gitmek",
+   "alt": [
+    "yatağa girmek",
+    "yatmak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-037"
+  },
+  {
+   "en": "have a bath",
+   "tr": "banyo yapmak",
+   "alt": [
+    "banyo almak"
+   ],
+   "cat": "Günlük rutin",
+   "id": "u4-038"
+  },
+  {
+   "en": "always",
+   "tr": "her zaman",
+   "alt": [
+    "daima"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-039"
+  },
+  {
+   "en": "usually",
+   "tr": "genellikle",
+   "alt": [
+    "çoğunlukla"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-040"
+  },
+  {
+   "en": "often",
+   "tr": "sık sık",
+   "alt": [
+    "çoğu zaman"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-041"
+  },
+  {
+   "en": "sometimes",
+   "tr": "bazen",
+   "alt": [
+    "ara sıra"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-042"
+  },
+  {
+   "en": "hardly ever",
+   "tr": "neredeyse hiç",
+   "alt": [
+    "çok nadiren"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-043"
+  },
+  {
+   "en": "never",
+   "tr": "asla",
+   "alt": [
+    "hiçbir zaman",
+    "hiç"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-044"
+  },
+  {
+   "en": "once a week",
+   "tr": "haftada bir",
+   "alt": [
+    "haftada bir kez"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-045"
+  },
+  {
+   "en": "twice a week",
+   "tr": "haftada iki kez",
+   "alt": [
+    "haftada iki"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-046"
+  },
+  {
+   "en": "three times a day",
+   "tr": "günde üç kez",
+   "alt": [
+    "günde üç defa"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-047"
+  },
+  {
+   "en": "every day",
+   "tr": "her gün",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-048"
+  },
+  {
+   "en": "every weekend",
+   "tr": "her hafta sonu",
+   "alt": [
+    "hafta sonları"
+   ],
+   "cat": "Aylar & sıklık",
+   "id": "u4-049"
+  },
+  {
+   "en": "January",
+   "tr": "ocak",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-050"
+  },
+  {
+   "en": "February",
+   "tr": "şubat",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-051"
+  },
+  {
+   "en": "March",
+   "tr": "mart",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-052"
+  },
+  {
+   "en": "April",
+   "tr": "nisan",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-053"
+  },
+  {
+   "en": "May",
+   "tr": "mayıs",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-054"
+  },
+  {
+   "en": "June",
+   "tr": "haziran",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-055"
+  },
+  {
+   "en": "July",
+   "tr": "temmuz",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-056"
+  },
+  {
+   "en": "August",
+   "tr": "ağustos",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-057"
+  },
+  {
+   "en": "September",
+   "tr": "eylül",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-058"
+  },
+  {
+   "en": "October",
+   "tr": "ekim",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-059"
+  },
+  {
+   "en": "November",
+   "tr": "kasım",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-060"
+  },
+  {
+   "en": "December",
+   "tr": "aralık",
+   "alt": [],
+   "cat": "Aylar & sıklık",
+   "id": "u4-061"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Iyelik 's (possessive 's)",
+   "tr": "Aile ve sahiplik için <b>kişi + 's</b> kullanılır: Rihanna's brother. 's, <b>of</b> anlamı taşır. İsim <b>s</b> ile bitiyorsa da 's eklenebilir: James's laptop.",
+   "table": {
+    "head": [
+     "Kural",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "tekil isim + 's",
+      "my brother's girlfriend"
+     ],
+     [
+      "s ile biten isim + 's",
+      "James's laptop"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "He's Rihanna's brother.",
+     "O, Rihanna'nın erkek kardeşi."
+    ],
+    [
+     "It's James's laptop.",
+     "Bu James'in dizüstü bilgisayarı."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Çoğul isimlerde 's / s'",
+   "tr": "Düzenli çoğul isimlerde (s ile biten) kesme işareti <b>s'den sonra</b> gelir: my parents' car. Düzensiz çoğul isimlerde (children, men) <b>'s</b> kullanılır: the children's room, men's clothes.",
+   "table": {
+    "head": [
+     "Çoğul türü",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "düzenli (-s)",
+      "my parents' car"
+     ],
+     [
+      "düzensiz",
+      "the children's room"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "It's my parents' car.",
+     "Bu, ailemin arabası."
+    ],
+    [
+     "The children's room is untidy.",
+     "Çocukların odası dağınık."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Whose...? ve kişi + 's",
+   "tr": "Sahiplik sormak için <b>Whose...?</b> kullanılır. İki biçimde sorulabilir: Whose is this bag? / Whose bag is this? Cevap: It's Maria's bag. / It's Maria's.",
+   "table": {
+    "head": [
+     "Soru",
+     "Cevap"
+    ],
+    "rows": [
+     [
+      "Whose is this bag?",
+      "It's Maria's."
+     ],
+     [
+      "Whose bag is this?",
+      "It's Maria's bag."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Whose charger is this?",
+     "Bu kimin şarj aleti?"
+    ],
+    [
+     "Whose are the glasses?",
+     "Gözlükler kimin?"
+    ]
+   ]
+  },
+  {
+   "id": "g4",
+   "title": "Şeylerde 's kullanılmaz",
+   "tr": "Nesneler için genellikle <b>'s</b> kullanılmaz; <b>of</b> ya da isim tamlaması kullanılır: the end of the film (the film's end değil), the city centre (the city's centre değil).",
+   "table": {
+    "head": [
+     "Doğru",
+     "Yanlış"
+    ],
+    "rows": [
+     [
+      "the end of the film",
+      "the film's end"
+     ],
+     [
+      "the city centre",
+      "the city's centre"
+     ],
+     [
+      "the end of the class",
+      "the class's end"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "The end of the film is fantastic.",
+     "Filmin sonu harika."
+    ],
+    [
+     "I live in the city centre.",
+     "Şehir merkezinde yaşıyorum."
+    ]
+   ]
+  },
+  {
+   "id": "g5",
+   "title": "'s = is mi, iyelik mi?",
+   "tr": "<b>'s</b> iki şey olabilir: <b>Maria's mother</b> ('s = of Maria, iyelik) ve <b>Maria's Spanish</b> ('s = is). <b>Whose</b> = kimin (Whose is this bag?), <b>Who's</b> = Who is (Who's that girl?). İkisi de /huːz/ okunur.",
+   "table": {
+    "head": [
+     "Biçim",
+     "Anlam"
+    ],
+    "rows": [
+     [
+      "Maria's mother",
+      "'s = of Maria"
+     ],
+     [
+      "Maria's Spanish",
+      "'s = is"
+     ],
+     [
+      "Whose bag is this?",
+      "kimin"
+     ],
+     [
+      "Who's that girl?",
+      "kim (Who is)"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Who's that girl? — She's my sister.",
+     "O kız kim? — Kız kardeşim."
+    ],
+    [
+     "Whose is this bag? — It's Jack's.",
+     "Bu çanta kimin? — Jack'in."
+    ]
+   ]
+  },
+  {
+   "id": "g6",
+   "title": "Zaman edatları: in / on / at",
+   "tr": "<b>in</b>: günün bölümleri (the morning), mevsimler, aylar, yıllar. <b>on</b>: günler ve tarihler (Monday, 1 January). <b>at</b>: saat (three o'clock), night, the weekend, bayramlar (Christmas), midday / midnight, lunchtime.",
+   "table": {
+    "head": [
+     "in",
+     "on",
+     "at"
+    ],
+    "rows": [
+     [
+      "the morning / the summer / December / 2018",
+      "Monday / 1 January / Monday morning",
+      "three o'clock / night / the weekend / Christmas"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I have a shower in the morning.",
+     "Sabahları duş alırım."
+    ],
+    [
+     "We have English classes on Tuesdays.",
+     "Salı günleri İngilizce dersimiz var."
+    ],
+    [
+     "They go on holiday in August.",
+     "Ağustosta tatile giderler."
+    ]
+   ]
+  },
+  {
+   "id": "g7",
+   "title": "Yer ve hareket edatları: at / in / to",
+   "tr": "<b>at</b> + work, home, school, university. <b>in</b> + diğer yerler (a flat, an office, a room). restaurant, cinema gibi bazı yerlerde in ya da at kullanılabilir. Hareket için <b>to</b>: go to the gym. <b>home</b> önünde to kullanılmaz: go home.",
+   "table": {
+    "head": [
+     "Kullanım",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "at + work/home/school",
+      "He has lunch at work."
+     ],
+     [
+      "in + diğer yerler",
+      "He works in an office."
+     ],
+     [
+      "to + hareket",
+      "She goes to the gym."
+     ],
+     [
+      "to yok",
+      "go home"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Jack isn't at home.",
+     "Jack evde değil."
+    ],
+    [
+     "I go to the gym on Tuesdays.",
+     "Salı günleri spor salonuna giderim."
+    ]
+   ]
+  },
+  {
+   "id": "g8",
+   "title": "Sıklık zarflarının yeri",
+   "tr": "always, usually, often, sometimes, hardly ever, never sıklık zarfları <b>ana fiilden önce</b> gelir. Olumsuz cümlede don't / doesn't ile fiil arasına girer. <b>be</b> fiilinden <b>sonra</b> gelir; be'li soruda öznenin arkasına gelir. hardly ever ve never olumlu fiille kullanılır.",
+   "table": {
+    "head": [
+     "Durum",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "ana fiilden önce",
+      "I always watch TV in the evening."
+     ],
+     [
+      "olumsuzda",
+      "She doesn't often go to bed late."
+     ],
+     [
+      "be'den sonra",
+      "They're hardly ever late."
+     ],
+     [
+      "be'li soru",
+      "Are you usually in this classroom?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "She sometimes does sport.",
+     "Bazen spor yapar."
+    ],
+    [
+     "He's never stressed.",
+     "O asla stresli değil."
+    ]
+   ]
+  },
+  {
+   "id": "g9",
+   "title": "Sıklık ifadeleri",
+   "tr": "every day, twice a week, three times a day, once a month gibi sıklık ifadeleri genellikle <b>cümlenin ya da fiil öbeğinin sonunda</b> yer alır. Sıklığı sormak için <b>How often...?</b> kullanılır.",
+   "table": {
+    "head": [
+     "Soru",
+     "Cevap"
+    ],
+    "rows": [
+     [
+      "How often do you cook?",
+      "I cook every evening."
+     ],
+     [
+      "How often do you go to the gym?",
+      "Twice a week."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I go to Italian classes twice a week.",
+     "Haftada iki kez İtalyanca kursuna giderim."
+    ],
+    [
+     "She doesn't work every day.",
+     "Her gün çalışmaz."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "Martha is my ___ girlfriend. (brother)",
+   "answer": [
+    "brother's"
+   ],
+   "explain": "",
+   "id": "u4-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "Do you know ___ sister? (Olga)",
+   "answer": [
+    "Olga's"
+   ],
+   "explain": "",
+   "id": "u4-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "___ wife is Hungarian. (Marc)",
+   "answer": [
+    "Marc's"
+   ],
+   "explain": "",
+   "id": "u4-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "I work in my ___ shop. (father)",
+   "answer": [
+    "father's"
+   ],
+   "explain": "",
+   "id": "u4-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "The Toyota is my ___ car. (parents)",
+   "answer": [
+    "parents'"
+   ],
+   "explain": "",
+   "id": "u4-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "The ___ room is very untidy. (children)",
+   "answer": [
+    "children's"
+   ],
+   "explain": "",
+   "id": "u4-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "Where is the ___ hairdresser? (men)",
+   "answer": [
+    "men's"
+   ],
+   "explain": "",
+   "id": "u4-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive 's",
+   "q": "___ friends are in Ireland. (Chris)",
+   "answer": [
+    "Chris's",
+    "Chris'"
+   ],
+   "explain": "",
+   "id": "u4-e008"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "Kate's sister is a lawyer. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "A (possessive)",
+   "explain": "",
+   "id": "u4-e009"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "His mother's very short. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "B (is)",
+   "explain": "",
+   "id": "u4-e010"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "My cousin's flat is very big. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "A (possessive)",
+   "explain": "",
+   "id": "u4-e011"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "Our grandfather's 70 today. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "B (is)",
+   "explain": "",
+   "id": "u4-e012"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "Their aunt's a pilot. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "B (is)",
+   "explain": "",
+   "id": "u4-e013"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "Jim's children wear glasses. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "A (possessive)",
+   "explain": "",
+   "id": "u4-e014"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "My brother's wife plays the piano. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "A (possessive)",
+   "explain": "",
+   "id": "u4-e015"
+  },
+  {
+   "type": "mc",
+   "topic": "'s: possessive or is",
+   "q": "Her name's Freya. — 's nedir?",
+   "options": [
+    "A (possessive)",
+    "B (is)"
+   ],
+   "answer": "B (is)",
+   "explain": "",
+   "id": "u4-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ is that bag?",
+   "answer": [
+    "Whose"
+   ],
+   "explain": "",
+   "id": "u4-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ the woman in the red dress?",
+   "answer": [
+    "Who's"
+   ],
+   "explain": "",
+   "id": "u4-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ dictionary is this?",
+   "answer": [
+    "Whose"
+   ],
+   "explain": "",
+   "id": "u4-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ her husband?",
+   "answer": [
+    "Who's"
+   ],
+   "explain": "",
+   "id": "u4-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ the man with the notebook?",
+   "answer": [
+    "Who's"
+   ],
+   "explain": "",
+   "id": "u4-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ pens are they?",
+   "answer": [
+    "Whose"
+   ],
+   "explain": "",
+   "id": "u4-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ your English teacher this year?",
+   "answer": [
+    "Who's"
+   ],
+   "explain": "",
+   "id": "u4-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "Whose / Who's",
+   "q": "___ books are they?",
+   "answer": [
+    "Whose"
+   ],
+   "explain": "",
+   "id": "u4-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My father's brother is my ___.",
+   "answer": [
+    "uncle"
+   ],
+   "explain": "",
+   "id": "u4-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My sister's daughter is my ___.",
+   "answer": [
+    "niece"
+   ],
+   "explain": "",
+   "id": "u4-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My mother's sister is my ___.",
+   "answer": [
+    "aunt"
+   ],
+   "explain": "",
+   "id": "u4-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My father's mother is my ___.",
+   "answer": [
+    "grandmother"
+   ],
+   "explain": "",
+   "id": "u4-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My aunt's daughter is my ___.",
+   "answer": [
+    "cousin"
+   ],
+   "explain": "",
+   "id": "u4-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My mother's father is my ___.",
+   "answer": [
+    "grandfather"
+   ],
+   "explain": "",
+   "id": "u4-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My brother's son is my ___.",
+   "answer": [
+    "nephew"
+   ],
+   "explain": "",
+   "id": "u4-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My sister's husband is my ___.",
+   "answer": [
+    "brother-in-law"
+   ],
+   "explain": "",
+   "id": "u4-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My husband's mother is my ___.",
+   "answer": [
+    "mother-in-law"
+   ],
+   "explain": "",
+   "id": "u4-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "family",
+   "q": "My father's new wife is my ___.",
+   "answer": [
+    "stepmother"
+   ],
+   "explain": "",
+   "id": "u4-e034"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi kelimenin sesi diğerlerinden farklı?",
+   "options": [
+    "brother",
+    "son",
+    "nurse"
+   ],
+   "answer": "nurse",
+   "explain": "",
+   "id": "u4-e035"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi kelimenin sesi diğerlerinden farklı?",
+   "options": [
+    "husband",
+    "uncle",
+    "model"
+   ],
+   "answer": "model",
+   "explain": "",
+   "id": "u4-e036"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi kelimenin sesi diğerlerinden farklı?",
+   "options": [
+    "Monday",
+    "mother",
+    "journalist"
+   ],
+   "answer": "journalist",
+   "explain": "",
+   "id": "u4-e037"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi ses? Those mobile phones are old. (altı çizili: phones, old)",
+   "options": [
+    "a up",
+    "b phone",
+    "c clock",
+    "d boot"
+   ],
+   "answer": "b phone",
+   "explain": "",
+   "id": "u4-e038"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi ses? Who are you? (who, you)",
+   "options": [
+    "a up",
+    "b phone",
+    "c clock",
+    "d boot"
+   ],
+   "answer": "d boot",
+   "explain": "",
+   "id": "u4-e039"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi ses? Their son comes every Monday. (son, comes, Monday)",
+   "options": [
+    "a up",
+    "b phone",
+    "c clock",
+    "d boot"
+   ],
+   "answer": "a up",
+   "explain": "",
+   "id": "u4-e040"
+  },
+  {
+   "type": "mc",
+   "topic": "/ʌ/ and the letter o",
+   "q": "Hangi ses? Tom's doctor is Scottish. (doctor, Scottish)",
+   "options": [
+    "a up",
+    "b phone",
+    "c clock",
+    "d boot"
+   ],
+   "answer": "c clock",
+   "explain": "",
+   "id": "u4-e041"
+  },
+  {
+   "type": "mc",
+   "topic": "daily routine",
+   "q": "Hangisi önce yapılır?",
+   "options": [
+    "have lunch",
+    "have breakfast"
+   ],
+   "answer": "have breakfast",
+   "explain": "",
+   "id": "u4-e042"
+  },
+  {
+   "type": "mc",
+   "topic": "daily routine",
+   "q": "Hangisi önce yapılır?",
+   "options": [
+    "go to work",
+    "start work"
+   ],
+   "answer": "go to work",
+   "explain": "",
+   "id": "u4-e043"
+  },
+  {
+   "type": "mc",
+   "topic": "daily routine",
+   "q": "Hangisi önce yapılır?",
+   "options": [
+    "go home",
+    "get home"
+   ],
+   "answer": "go home",
+   "explain": "",
+   "id": "u4-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "I ___ work at three o'clock on Fridays. (finish)",
+   "answer": [
+    "finish"
+   ],
+   "explain": "",
+   "id": "u4-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "We ___ friends on Saturday evenings.",
+   "answer": [
+    "see"
+   ],
+   "explain": "",
+   "id": "u4-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "Do you ___ make-up every day?",
+   "answer": [
+    "put on"
+   ],
+   "explain": "",
+   "id": "u4-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "My husband and I ___ the housework at the weekend.",
+   "answer": [
+    "do"
+   ],
+   "explain": "",
+   "id": "u4-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "They live near the office, so they ___ to work.",
+   "answer": [
+    "walk"
+   ],
+   "explain": "",
+   "id": "u4-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "How do you ___ after a hard day at work?",
+   "answer": [
+    "relax"
+   ],
+   "explain": "",
+   "id": "u4-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "I ___ the dog for a walk three times a day.",
+   "answer": [
+    "take"
+   ],
+   "explain": "",
+   "id": "u4-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "What time do you ___ to work in the morning?",
+   "answer": [
+    "get"
+   ],
+   "explain": "",
+   "id": "u4-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "daily routine",
+   "q": "Do you ___ a shave every day?",
+   "answer": [
+    "have"
+   ],
+   "explain": "",
+   "id": "u4-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ March",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u4-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ 6th December",
+   "answer": [
+    "on"
+   ],
+   "explain": "",
+   "id": "u4-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ 6.30",
+   "answer": [
+    "at"
+   ],
+   "explain": "",
+   "id": "u4-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ the winter",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u4-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ Monday night",
+   "answer": [
+    "on"
+   ],
+   "explain": "",
+   "id": "u4-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ the afternoon",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u4-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ the weekend",
+   "answer": [
+    "at"
+   ],
+   "explain": "",
+   "id": "u4-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ Saturday evening",
+   "answer": [
+    "on"
+   ],
+   "explain": "",
+   "id": "u4-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ 1984",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u4-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ Christmas",
+   "answer": [
+    "at"
+   ],
+   "explain": "",
+   "id": "u4-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: time",
+   "q": "___ 21st August",
+   "answer": [
+    "on"
+   ],
+   "explain": "",
+   "id": "u4-e064"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "I have a shower ___ the morning.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "in",
+   "explain": "",
+   "id": "u4-e065"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "They go on holiday ___ August.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "in",
+   "explain": "",
+   "id": "u4-e066"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "My sister studies economics ___ university.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "at",
+   "explain": "",
+   "id": "u4-e067"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "My brother goes to bed ___ midnight.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "at",
+   "explain": "",
+   "id": "u4-e068"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "Do you live ___ a house or flat?",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "in",
+   "explain": "",
+   "id": "u4-e069"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "We have English classes ___ Tuesdays and Thursdays.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "on",
+   "explain": "",
+   "id": "u4-e070"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "The children have lunch ___ school.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "at",
+   "explain": "",
+   "id": "u4-e071"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "Amelia works ___ the weekend.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "at",
+   "explain": "",
+   "id": "u4-e072"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "Jack goes ___ the gym after work.",
+   "options": [
+    "at",
+    "in",
+    "to"
+   ],
+   "answer": "to",
+   "explain": "",
+   "id": "u4-e073"
+  },
+  {
+   "type": "mc",
+   "topic": "prepositions: time, place, movement",
+   "q": "It's very hot ___ the summer.",
+   "options": [
+    "in",
+    "on",
+    "at"
+   ],
+   "answer": "in",
+   "explain": "",
+   "id": "u4-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "During the week, I get up ___ half past six.",
+   "answer": [
+    "at"
+   ],
+   "explain": "",
+   "id": "u4-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "I go ___ work by train.",
+   "answer": [
+    "to"
+   ],
+   "explain": "",
+   "id": "u4-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "___ Fridays I drive.",
+   "answer": [
+    "On"
+   ],
+   "explain": "",
+   "id": "u4-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "I visit my mother ___ the afternoon.",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u4-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "I start work ___ quarter to nine.",
+   "answer": [
+    "at"
+   ],
+   "explain": "",
+   "id": "u4-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "It's very hot in Rome ___ August.",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u4-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: text",
+   "q": "___ the summer I work different hours.",
+   "answer": [
+    "In"
+   ],
+   "explain": "",
+   "id": "u4-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many minutes in an hour? ___",
+   "answer": [
+    "sixty",
+    "60"
+   ],
+   "explain": "",
+   "id": "u4-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many months in a year? ___",
+   "answer": [
+    "twelve",
+    "12"
+   ],
+   "explain": "",
+   "id": "u4-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many days in a week? ___",
+   "answer": [
+    "seven",
+    "7"
+   ],
+   "explain": "",
+   "id": "u4-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many seconds in a minute? ___",
+   "answer": [
+    "sixty",
+    "60"
+   ],
+   "explain": "",
+   "id": "u4-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many weeks in a month? ___",
+   "answer": [
+    "four",
+    "4"
+   ],
+   "explain": "",
+   "id": "u4-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many hours in a day? ___",
+   "answer": [
+    "twenty-four",
+    "twenty four",
+    "24"
+   ],
+   "explain": "",
+   "id": "u4-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many days in June? ___",
+   "answer": [
+    "thirty",
+    "30"
+   ],
+   "explain": "",
+   "id": "u4-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "months & numbers",
+   "q": "How many weeks in a year? ___",
+   "answer": [
+    "fifty-two",
+    "fifty two",
+    "52"
+   ],
+   "explain": "",
+   "id": "u4-e089"
+  },
+  {
+   "type": "mc",
+   "topic": "adverbs of frequency",
+   "q": "He ___ eats meat. He's a vegetarian.",
+   "options": [
+    "never",
+    "always",
+    "often"
+   ],
+   "answer": "never",
+   "explain": "",
+   "id": "u4-e090"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "Luis",
+    "sometimes",
+    "drives",
+    "to",
+    "work",
+    "."
+   ],
+   "answer": "Luis sometimes drives to work.",
+   "id": "u4-e091"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "They",
+    "go",
+    "to",
+    "Italy",
+    "every",
+    "summer",
+    "."
+   ],
+   "answer": "They go to Italy every summer.",
+   "id": "u4-e092"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "Ellie",
+    "drinks",
+    "coffee",
+    "three",
+    "times",
+    "a",
+    "day",
+    "."
+   ],
+   "answer": "Ellie drinks coffee three times a day.",
+   "id": "u4-e093"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "We",
+    "study",
+    "English",
+    "twice",
+    "a",
+    "week",
+    "."
+   ],
+   "answer": "We study English twice a week.",
+   "id": "u4-e094"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "I'm",
+    "always",
+    "stressed",
+    "."
+   ],
+   "answer": "I'm always stressed.",
+   "id": "u4-e095"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "The",
+    "children",
+    "walk",
+    "to",
+    "school",
+    "every",
+    "day",
+    "."
+   ],
+   "answer": "The children walk to school every day.",
+   "id": "u4-e096"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "We",
+    "do",
+    "the",
+    "housework",
+    "once",
+    "a",
+    "week",
+    "."
+   ],
+   "answer": "We do the housework once a week.",
+   "id": "u4-e097"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "They",
+    "never",
+    "have",
+    "pizza",
+    "for",
+    "dinner",
+    "."
+   ],
+   "answer": "They never have pizza for dinner.",
+   "id": "u4-e098"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "My",
+    "parents",
+    "go",
+    "shopping",
+    "every",
+    "morning",
+    "."
+   ],
+   "answer": "My parents go shopping every morning.",
+   "id": "u4-e099"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "I",
+    "hardly",
+    "ever",
+    "sleep",
+    "for",
+    "eight",
+    "hours",
+    "."
+   ],
+   "answer": "I hardly ever sleep for eight hours.",
+   "id": "u4-e100"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "We",
+    "see",
+    "our",
+    "friends",
+    "every",
+    "weekend",
+    "."
+   ],
+   "answer": "We see our friends every weekend.",
+   "id": "u4-e101"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "I",
+    "usually",
+    "get",
+    "up",
+    "at",
+    "quarter",
+    "to",
+    "seven",
+    "."
+   ],
+   "answer": "I usually get up at quarter to seven.",
+   "id": "u4-e102"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "My",
+    "children",
+    "are",
+    "always",
+    "happy",
+    "."
+   ],
+   "answer": "My children are always happy.",
+   "id": "u4-e103"
+  },
+  {
+   "type": "order",
+   "topic": "adverbs of frequency",
+   "words": [
+    "She",
+    "takes",
+    "the",
+    "dog",
+    "for",
+    "a",
+    "walk",
+    "three",
+    "times",
+    "a",
+    "day",
+    "."
+   ],
+   "answer": "She takes the dog for a walk three times a day.",
+   "id": "u4-e104"
+  },
+  {
+   "type": "fill",
+   "topic": "the letter h",
+   "q": "My headphones are at ___.",
+   "answer": [
+    "home"
+   ],
+   "explain": "",
+   "id": "u4-e105"
+  },
+  {
+   "type": "fill",
+   "topic": "the letter h",
+   "q": "His mother is in ___.",
+   "answer": [
+    "hospital"
+   ],
+   "explain": "",
+   "id": "u4-e106"
+  },
+  {
+   "type": "fill",
+   "topic": "the letter h",
+   "q": "Lunch is half an ___.",
+   "answer": [
+    "hour"
+   ],
+   "explain": "",
+   "id": "u4-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "the letter h",
+   "q": "Helen is a ___.",
+   "answer": [
+    "hairdresser"
+   ],
+   "explain": "",
+   "id": "u4-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "the letter h",
+   "q": "The children are healthy and ___.",
+   "answer": [
+    "happy"
+   ],
+   "explain": "",
+   "id": "u4-e109"
+  },
+  {
+   "type": "mc",
+   "topic": "the letter h",
+   "q": "Hangi kelimede h harfi okunmaz?",
+   "options": [
+    "hour",
+    "happy",
+    "home"
+   ],
+   "answer": "hour",
+   "explain": "",
+   "id": "u4-e110"
+  }
+ ],
+ "skipped": [
+  "s.27 1d-1e (fotoğraflara bakarak Whose...? soruları: resim gerekir)",
+  "s.27 2a (aile tablosunu tamamlama: tablo OCR'da bozuk; kelimeler sözlüğe eklendi)",
+  "s.28 2c (Maya'nın aile ağacı: ağaç/resim gerekir), 2d (kişisel cevaplar), 3b ve 3d (dinleme, ses dosyası gerekir)",
+  "s.29 1a madde 2 (get dressed / have a shower) ve madde 4-6'nın bir kısmı (önce hangisi yapılır: cevap anahtarı olmadan belirsiz), 1c (have / go / get paragrafı: boşluk numaraları OCR'da karışık)",
+  "s.30 2 (dinleme ve cümle yazma), 3c madde 'have lunch ___ work' ve '15th June' boşlukları (OCR'da okunamıyor), 3d (kişisel cevaplar)",
+  "s.31 1a (ay adlarındaki eksik ünsüzler: boşluk deseni OCR'da kayıp; aylar sözlüğe eklendi), 1c madde 3-6 (boşluğa gelecek ifade belirsiz)",
+  "s.32 2c (kişisel tablo ve Caleb / Becky cümleleri: tablodaki işaretler OCR'da kayıp), 3b-3c (dinleme, ses dosyası gerekir)"
+ ]
+}

@@ -1,5 +1,5 @@
-const V='ef-v4';
-const FILES=['./','index.html','style.css','app.js','manifest.webmanifest','icons/icon.svg','icons/icon-maskable.svg','bg.jpg','data/units.json','data/unit1.json','data/unit2.json','data/unit3.json'];
+const V='ef-v5';
+const FILES=['./','index.html','style.css','app.js','manifest.webmanifest','icons/icon.svg','icons/icon-maskable.svg','bg.jpg','data/units.json','data/unit1.json','data/unit2.json','data/unit3.json','data/unit4.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',e=>{
