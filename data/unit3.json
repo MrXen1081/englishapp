@@ -1,0 +1,2320 @@
+{
+ "unit": 3,
+ "title": "Unit 3",
+ "source": "English File 5th ed. Elementary Workbook, Unit 3 (s.19-24)",
+ "vocab": [
+  {
+   "en": "need a new passport",
+   "tr": "yeni bir pasaporta ihtiyacı olmak",
+   "alt": [
+    "yeni pasaport gerekmek"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-001"
+  },
+  {
+   "en": "drink mineral water",
+   "tr": "maden suyu içmek",
+   "alt": [
+    "soda içmek"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-002"
+  },
+  {
+   "en": "wear glasses",
+   "tr": "gözlük takmak",
+   "alt": [
+    "gözlük kullanmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-003"
+  },
+  {
+   "en": "go to the cinema",
+   "tr": "sinemaya gitmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u3-004"
+  },
+  {
+   "en": "live in a flat",
+   "tr": "apartman dairesinde yaşamak",
+   "alt": [
+    "dairede yaşamak",
+    "dairede oturmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-005"
+  },
+  {
+   "en": "do housework",
+   "tr": "ev işi yapmak",
+   "alt": [
+    "ev işlerini yapmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-006"
+  },
+  {
+   "en": "watch TV",
+   "tr": "televizyon izlemek",
+   "alt": [
+    "tv izlemek"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-007"
+  },
+  {
+   "en": "drive a car",
+   "tr": "araba kullanmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u3-008"
+  },
+  {
+   "en": "study history",
+   "tr": "tarih okumak",
+   "alt": [
+    "tarih çalışmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-009"
+  },
+  {
+   "en": "work in an office",
+   "tr": "ofiste çalışmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u3-010"
+  },
+  {
+   "en": "cook dinner",
+   "tr": "akşam yemeği pişirmek",
+   "alt": [
+    "akşam yemeği yapmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u3-011"
+  },
+  {
+   "en": "go to university",
+   "tr": "üniversiteye gitmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u3-012"
+  },
+  {
+   "en": "bank manager",
+   "tr": "banka müdürü",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-013"
+  },
+  {
+   "en": "factory worker",
+   "tr": "fabrika işçisi",
+   "alt": [
+    "işçi"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-014"
+  },
+  {
+   "en": "flight attendant",
+   "tr": "uçuş görevlisi",
+   "alt": [
+    "hostes",
+    "kabin görevlisi"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-015"
+  },
+  {
+   "en": "police officer",
+   "tr": "polis memuru",
+   "alt": [
+    "polis"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-016"
+  },
+  {
+   "en": "shop assistant",
+   "tr": "tezgâhtar",
+   "alt": [
+    "satış elemanı",
+    "mağaza çalışanı"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-017"
+  },
+  {
+   "en": "taxi driver",
+   "tr": "taksi şoförü",
+   "alt": [
+    "taksi sürücüsü"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-018"
+  },
+  {
+   "en": "actor",
+   "tr": "aktör",
+   "alt": [
+    "oyuncu"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-019"
+  },
+  {
+   "en": "musician",
+   "tr": "müzisyen",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-020"
+  },
+  {
+   "en": "administrator",
+   "tr": "yönetici",
+   "alt": [
+    "idareci"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-021"
+  },
+  {
+   "en": "cleaner",
+   "tr": "temizlikçi",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-022"
+  },
+  {
+   "en": "engineer",
+   "tr": "mühendis",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-023"
+  },
+  {
+   "en": "builder",
+   "tr": "inşaatçı",
+   "alt": [
+    "yapı işçisi"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-024"
+  },
+  {
+   "en": "soldier",
+   "tr": "asker",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-025"
+  },
+  {
+   "en": "guide",
+   "tr": "rehber",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-026"
+  },
+  {
+   "en": "lawyer",
+   "tr": "avukat",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-027"
+  },
+  {
+   "en": "dentist",
+   "tr": "diş hekimi",
+   "alt": [
+    "dişçi"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-028"
+  },
+  {
+   "en": "architect",
+   "tr": "mimar",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-029"
+  },
+  {
+   "en": "doctor",
+   "tr": "doktor",
+   "alt": [
+    "hekim"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-030"
+  },
+  {
+   "en": "waiter",
+   "tr": "garson",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-031"
+  },
+  {
+   "en": "hairdresser",
+   "tr": "kuaför",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-032"
+  },
+  {
+   "en": "pilot",
+   "tr": "pilot",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-033"
+  },
+  {
+   "en": "accountant",
+   "tr": "muhasebeci",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-034"
+  },
+  {
+   "en": "teacher",
+   "tr": "öğretmen",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-035"
+  },
+  {
+   "en": "receptionist",
+   "tr": "resepsiyonist",
+   "alt": [
+    "resepsiyon görevlisi"
+   ],
+   "cat": "Meslekler",
+   "id": "u3-036"
+  },
+  {
+   "en": "journalist",
+   "tr": "gazeteci",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-037"
+  },
+  {
+   "en": "nurse",
+   "tr": "hemşire",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-038"
+  },
+  {
+   "en": "student",
+   "tr": "öğrenci",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-039"
+  },
+  {
+   "en": "vet",
+   "tr": "veteriner",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-040"
+  },
+  {
+   "en": "footballer",
+   "tr": "futbolcu",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-041"
+  },
+  {
+   "en": "retired",
+   "tr": "emekli",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-042"
+  },
+  {
+   "en": "unemployed",
+   "tr": "işsiz",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u3-043"
+  },
+  {
+   "en": "uniform",
+   "tr": "üniforma",
+   "alt": [
+    "resmî kıyafet"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-044"
+  },
+  {
+   "en": "overtime",
+   "tr": "fazla mesai",
+   "alt": [
+    "mesai"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-045"
+  },
+  {
+   "en": "long hours",
+   "tr": "uzun saatler",
+   "alt": [
+    "uzun çalışma saatleri"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-046"
+  },
+  {
+   "en": "qualifications",
+   "tr": "nitelikler",
+   "alt": [
+    "yeterlilikler",
+    "diploma ve sertifikalar"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-047"
+  },
+  {
+   "en": "company",
+   "tr": "şirket",
+   "alt": [],
+   "cat": "İş & çalışma",
+   "id": "u3-048"
+  },
+  {
+   "en": "factory",
+   "tr": "fabrika",
+   "alt": [],
+   "cat": "İş & çalışma",
+   "id": "u3-049"
+  },
+  {
+   "en": "hospital",
+   "tr": "hastane",
+   "alt": [],
+   "cat": "İş & çalışma",
+   "id": "u3-050"
+  },
+  {
+   "en": "newspaper",
+   "tr": "gazete",
+   "alt": [],
+   "cat": "İş & çalışma",
+   "id": "u3-051"
+  },
+  {
+   "en": "housework",
+   "tr": "ev işleri",
+   "alt": [
+    "ev işi"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-052"
+  },
+  {
+   "en": "at weekends",
+   "tr": "hafta sonları",
+   "alt": [
+    "hafta sonunda"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-053"
+  },
+  {
+   "en": "work outside",
+   "tr": "dışarıda çalışmak",
+   "alt": [],
+   "cat": "İş & çalışma",
+   "id": "u3-054"
+  },
+  {
+   "en": "travel to different countries",
+   "tr": "farklı ülkelere seyahat etmek",
+   "alt": [
+    "değişik ülkelere seyahat etmek"
+   ],
+   "cat": "İş & çalışma",
+   "id": "u3-055"
+  },
+  {
+   "en": "where",
+   "tr": "nerede",
+   "alt": [
+    "nereye"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-056"
+  },
+  {
+   "en": "what",
+   "tr": "ne",
+   "alt": [
+    "hangi"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-057"
+  },
+  {
+   "en": "when",
+   "tr": "ne zaman",
+   "alt": [],
+   "cat": "Soru kelimeleri",
+   "id": "u3-058"
+  },
+  {
+   "en": "who",
+   "tr": "kim",
+   "alt": [],
+   "cat": "Soru kelimeleri",
+   "id": "u3-059"
+  },
+  {
+   "en": "why",
+   "tr": "neden",
+   "alt": [
+    "niçin"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-060"
+  },
+  {
+   "en": "which",
+   "tr": "hangisi",
+   "alt": [
+    "hangi"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-061"
+  },
+  {
+   "en": "how many",
+   "tr": "kaç tane",
+   "alt": [
+    "kaç"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-062"
+  },
+  {
+   "en": "what kind of",
+   "tr": "ne tür",
+   "alt": [
+    "ne çeşit",
+    "nasıl bir"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-063"
+  },
+  {
+   "en": "because",
+   "tr": "çünkü",
+   "alt": [],
+   "cat": "Soru kelimeleri",
+   "id": "u3-064"
+  },
+  {
+   "en": "favourite",
+   "tr": "en sevilen",
+   "alt": [
+    "favori"
+   ],
+   "cat": "Soru kelimeleri",
+   "id": "u3-065"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Present simple + (olumlu)",
+   "tr": "Genel doğrular ve alışkanlıklar için <b>present simple</b> kullanılır. I / you / we / they ile fiil yalın halde kalır; <b>he / she / it</b> ile fiile <b>-s</b> gelir.",
+   "table": {
+    "head": [
+     "Özne",
+     "Fiil"
+    ],
+    "rows": [
+     [
+      "I / You / We / They",
+      "work"
+     ],
+     [
+      "He / She / It",
+      "works"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I speak English.",
+     "İngilizce konuşurum."
+    ],
+    [
+     "My mother cooks fantastic food.",
+     "Annem harika yemekler pişirir."
+    ],
+    [
+     "They live in a flat.",
+     "Bir apartman dairesinde yaşıyorlar."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Present simple − (olumsuz)",
+   "tr": "Olumsuz için <b>don't</b> (do not) ya da <b>doesn't</b> (does not) + fiilin yalın hali kullanılır. <b>doesn't</b> ile fiile -s gelmez: He doesn't work (He doesn't works değil).",
+   "table": {
+    "head": [
+     "Özne",
+     "Olumsuz"
+    ],
+    "rows": [
+     [
+      "I / You / We / They",
+      "don't work"
+     ],
+     [
+      "He / She / It",
+      "doesn't work"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I don't drink tea.",
+     "Çay içmem."
+    ],
+    [
+     "He doesn't play the guitar.",
+     "Gitar çalmaz."
+    ],
+    [
+     "We don't have a garden.",
+     "Bahçemiz yok."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "he / she / it yazım kuralları",
+   "tr": "he / she / it ile yazım, çoğul yapma kurallarıyla aynıdır. Çoğu fiile <b>-s</b>; <b>ch, sh, s, x, o</b> ile bitenlere <b>-es</b>; <b>ünsüz + y</b> ile bitenlerde <b>-ies</b> gelir. Düzensizler: have → <b>has</b>, go → <b>goes</b>, do → <b>does</b>. -es sonu /ɪz/ okunur: watches, finishes, closes, uses.",
+   "table": {
+    "head": [
+     "Kural",
+     "I / you / they",
+     "he / she / it"
+    ],
+    "rows": [
+     [
+      "-s",
+      "work / play / live",
+      "works / plays / lives"
+     ],
+     [
+      "-es",
+      "watch / finish / go / do",
+      "watches / finishes / goes / does"
+     ],
+     [
+      "ünsüz + y → -ies",
+      "study",
+      "studies"
+     ],
+     [
+      "düzensiz",
+      "have",
+      "has"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "She watches TV.",
+     "O televizyon izler."
+    ],
+    [
+     "Amira studies history.",
+     "Amira tarih okuyor."
+    ],
+    [
+     "He has four children.",
+     "Onun dört çocuğu var."
+    ]
+   ]
+  },
+  {
+   "id": "g4",
+   "title": "Present simple ? (soru)",
+   "tr": "Soru için <b>do</b> (he / she / it ile <b>does</b>) + özne + fiilin yalın hali kullanılır (sıra: Aux – Subject – Infinitive). Kısa cevaplar: Yes, I <b>do</b>. / No, she <b>doesn't</b>. <b>do</b> hem yardımcı fiil hem de asıl fiil olabilir: Do you do housework?",
+   "table": {
+    "head": [
+     "Soru",
+     "Kısa cevap"
+    ],
+    "rows": [
+     [
+      "Do you work at weekends?",
+      "Yes, I do. / No, I don't."
+     ],
+     [
+      "Does she work long hours?",
+      "Yes, she does. / No, she doesn't."
+     ],
+     [
+      "Do they wear a uniform?",
+      "Yes, they do. / No, they don't."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Do you live in New York?",
+     "New York'ta mı yaşıyorsun?"
+    ],
+    [
+     "Does he travel to different countries?",
+     "Farklı ülkelere seyahat eder mi?"
+    ],
+    [
+     "I do my homework in the evening.",
+     "Ödevimi akşamları yaparım."
+    ]
+   ]
+  },
+  {
+   "id": "g5",
+   "title": "Meslekler: What do you do? / a, an, at, in, for",
+   "tr": "Meslek sormak için <b>What do you do?</b> / <b>What does she do?</b> kullanılır; cevapta ünlüyle başlayan mesleklerde <b>an</b> (an engineer), diğerlerinde <b>a</b> (a nurse) gelir. Çalışılan yer için <b>work in</b> (a factory, an office), <b>work for</b> (a company), <b>study at</b> (university) kullanılır. <b>retired</b> ve <b>unemployed</b> önünde a/an kullanılmaz.",
+   "table": {
+    "head": [
+     "Kullanım",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "Meslek sormak",
+      "What do you do?"
+     ],
+     [
+      "a / an",
+      "a nurse / an engineer"
+     ],
+     [
+      "çalıştığı yer",
+      "work in a factory / for a company"
+     ],
+     [
+      "okuduğu yer",
+      "study at university"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "What does she do? — She's a waiter.",
+     "O ne iş yapıyor? — Garson."
+    ],
+    [
+     "We work for a Japanese company.",
+     "Japon bir şirkette çalışıyoruz."
+    ],
+    [
+     "My grandparents are retired.",
+     "Büyükanne ve büyükbabam emekli."
+    ]
+   ]
+  },
+  {
+   "id": "g6",
+   "title": "Soruda kelime sırası (be ve do / does)",
+   "tr": "<b>be</b> ile sorularda be öznenin önüne gelir: Question word + be + subject. Diğer fiillerle sıra <b>QuASI</b>'dir: <b>Qu</b>estion word – <b>A</b>uxiliary – <b>S</b>ubject – <b>I</b>nfinitive.",
+   "table": {
+    "head": [
+     "be ile",
+     "do / does ile"
+    ],
+    "rows": [
+     [
+      "Is she from Spain?",
+      "Do you live near here?"
+     ],
+     [
+      "Where is your office?",
+      "Where does he live?"
+     ],
+     [
+      "How old is she?",
+      "How many children do they have?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "How old are you?",
+     "Kaç yaşındasın?"
+    ],
+    [
+     "What kind of music does she like?",
+     "Ne tür müzik seviyor?"
+    ],
+    [
+     "Where is your teacher from?",
+     "Öğretmeniniz nereli?"
+    ]
+   ]
+  },
+  {
+   "id": "g7",
+   "title": "Soru kelimeleri",
+   "tr": "<b>Where</b> (yer), <b>When</b> (zaman), <b>Who</b> (kim), <b>Why</b> (neden; cevap <i>because</i>), <b>Which</b> (iki ya da birkaç seçenek arasından), <b>How many</b> (sayı), <b>What kind of</b> (tür), <b>What</b> (ne).",
+   "table": {
+    "head": [
+     "Soru",
+     "Cevap"
+    ],
+    "rows": [
+     [
+      "Where do you work?",
+      "In a factory."
+     ],
+     [
+      "When do you go to the cinema?",
+      "At weekends."
+     ],
+     [
+      "What kind of films do you like?",
+      "Action films."
+     ],
+     [
+      "How many children do you have?",
+      "Two."
+     ],
+     [
+      "Why do you like him?",
+      "Because he's great!"
+     ],
+     [
+      "Which do you prefer, tea or coffee?",
+      "Tea."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Who's your favourite actor?",
+     "En sevdiğin oyuncu kim?"
+    ],
+    [
+     "What car do you drive?",
+     "Ne araba kullanıyorsun?"
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "I ___ (not play) tennis.",
+   "answer": [
+    "don't play"
+   ],
+   "explain": "",
+   "id": "u3-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "They ___ (not go) to the cinema.",
+   "answer": [
+    "don't go"
+   ],
+   "explain": "",
+   "id": "u3-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "Paul ___ (have) four young children.",
+   "answer": [
+    "has"
+   ],
+   "explain": "",
+   "id": "u3-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "Her father ___ (not work) in an office.",
+   "answer": [
+    "doesn't work"
+   ],
+   "explain": "",
+   "id": "u3-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "It ___ (rain) a lot.",
+   "answer": [
+    "rains"
+   ],
+   "explain": "",
+   "id": "u3-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "We ___ (live) in a big flat.",
+   "answer": [
+    "live"
+   ],
+   "explain": "",
+   "id": "u3-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "My parents ___ (not watch) TV.",
+   "answer": [
+    "don't watch"
+   ],
+   "explain": "",
+   "id": "u3-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "My brother ___ (study) at Oxford University.",
+   "answer": [
+    "studies"
+   ],
+   "explain": "",
+   "id": "u3-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "You ___ (not do) your homework.",
+   "answer": [
+    "don't do"
+   ],
+   "explain": "",
+   "id": "u3-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "The restaurant ___ (open) at 11.30.",
+   "answer": [
+    "opens"
+   ],
+   "explain": "",
+   "id": "u3-e010"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "A lot of British people ___ animals.",
+   "options": [
+    "like",
+    "likes"
+   ],
+   "answer": "like",
+   "explain": "",
+   "id": "u3-e011"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "It ___ a lot in my country.",
+   "options": [
+    "don't rain",
+    "doesn't rain"
+   ],
+   "answer": "doesn't rain",
+   "explain": "",
+   "id": "u3-e012"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "Lewis ___ a fast car.",
+   "options": [
+    "drive",
+    "drives"
+   ],
+   "answer": "drives",
+   "explain": "",
+   "id": "u3-e013"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "People ___ identity cards in Britain.",
+   "options": [
+    "don't have",
+    "doesn't have"
+   ],
+   "answer": "don't have",
+   "explain": "",
+   "id": "u3-e014"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "You ___ a lot of books.",
+   "options": [
+    "read",
+    "reads"
+   ],
+   "answer": "read",
+   "explain": "",
+   "id": "u3-e015"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "My boyfriend ___ English.",
+   "options": [
+    "don't speak",
+    "doesn't speak"
+   ],
+   "answer": "doesn't speak",
+   "explain": "",
+   "id": "u3-e016"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple + / −",
+   "q": "We ___ a new computer.",
+   "options": [
+    "need",
+    "needs"
+   ],
+   "answer": "need",
+   "explain": "",
+   "id": "u3-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "I ___ in a flat with two other young women. (live)",
+   "answer": [
+    "live"
+   ],
+   "explain": "",
+   "id": "u3-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "Amira and I ___ history. (study)",
+   "answer": [
+    "study"
+   ],
+   "explain": "",
+   "id": "u3-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "Holly ___ in an office. (work)",
+   "answer": [
+    "works"
+   ],
+   "explain": "",
+   "id": "u3-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "She ___ her job, so she isn't very happy. (not like)",
+   "answer": [
+    "doesn't like"
+   ],
+   "explain": "",
+   "id": "u3-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + / −",
+   "q": "She ___ a new job! (want)",
+   "answer": [
+    "wants"
+   ],
+   "explain": "",
+   "id": "u3-e022"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s /ɪz/",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "lives",
+    "drinks",
+    "watches"
+   ],
+   "answer": "watches",
+   "explain": "",
+   "id": "u3-e023"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s /ɪz/",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "drives",
+    "finishes",
+    "plays"
+   ],
+   "answer": "finishes",
+   "explain": "",
+   "id": "u3-e024"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s /ɪz/",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "uses",
+    "takes",
+    "speaks"
+   ],
+   "answer": "uses",
+   "explain": "",
+   "id": "u3-e025"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s /ɪz/",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "does",
+    "listens",
+    "closes"
+   ],
+   "answer": "closes",
+   "explain": "",
+   "id": "u3-e026"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s /ɪz/",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "changes",
+    "gives",
+    "wears"
+   ],
+   "answer": "changes",
+   "explain": "",
+   "id": "u3-e027"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "need + ...?",
+   "options": [
+    "a new passport",
+    "mineral water",
+    "glasses"
+   ],
+   "answer": "a new passport",
+   "explain": "",
+   "id": "u3-e028"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "drink + ...?",
+   "options": [
+    "mineral water",
+    "a car",
+    "housework"
+   ],
+   "answer": "mineral water",
+   "explain": "",
+   "id": "u3-e029"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "wear + ...?",
+   "options": [
+    "glasses",
+    "TV",
+    "in a flat"
+   ],
+   "answer": "glasses",
+   "explain": "",
+   "id": "u3-e030"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "go + ...?",
+   "options": [
+    "to the cinema",
+    "housework",
+    "a car"
+   ],
+   "answer": "to the cinema",
+   "explain": "",
+   "id": "u3-e031"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "live + ...?",
+   "options": [
+    "in a flat",
+    "TV",
+    "glasses"
+   ],
+   "answer": "in a flat",
+   "explain": "",
+   "id": "u3-e032"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "do + ...?",
+   "options": [
+    "housework",
+    "mineral water",
+    "to the cinema"
+   ],
+   "answer": "housework",
+   "explain": "",
+   "id": "u3-e033"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "watch + ...?",
+   "options": [
+    "TV",
+    "a car",
+    "glasses"
+   ],
+   "answer": "TV",
+   "explain": "",
+   "id": "u3-e034"
+  },
+  {
+   "type": "mc",
+   "topic": "verb phrases",
+   "q": "drive + ...?",
+   "options": [
+    "a car",
+    "TV",
+    "in a flat"
+   ],
+   "answer": "a car",
+   "explain": "",
+   "id": "u3-e035"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Does",
+    "Hamza",
+    "travel",
+    "to",
+    "different",
+    "countries",
+    "?"
+   ],
+   "answer": "Does Hamza travel to different countries?",
+   "id": "u3-e036"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Do",
+    "they",
+    "wear",
+    "a",
+    "uniform",
+    "?"
+   ],
+   "answer": "Do they wear a uniform?",
+   "id": "u3-e037"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Does",
+    "Grace",
+    "do",
+    "a",
+    "lot",
+    "of",
+    "overtime",
+    "?"
+   ],
+   "answer": "Does Grace do a lot of overtime?",
+   "id": "u3-e038"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Do",
+    "you",
+    "have",
+    "special",
+    "qualifications",
+    "?"
+   ],
+   "answer": "Do you have special qualifications?",
+   "id": "u3-e039"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Does",
+    "your",
+    "room",
+    "have",
+    "a",
+    "desk",
+    "?"
+   ],
+   "answer": "Does your room have a desk?",
+   "id": "u3-e040"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Does",
+    "your",
+    "girlfriend",
+    "drive",
+    "?"
+   ],
+   "answer": "Does your girlfriend drive?",
+   "id": "u3-e041"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Does",
+    "Miriam",
+    "wear",
+    "a",
+    "uniform",
+    "?"
+   ],
+   "answer": "Does Miriam wear a uniform?",
+   "id": "u3-e042"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Do",
+    "they",
+    "earn",
+    "a",
+    "lot",
+    "of",
+    "money",
+    "?"
+   ],
+   "answer": "Do they earn a lot of money?",
+   "id": "u3-e043"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Do",
+    "you",
+    "like",
+    "your",
+    "job",
+    "?"
+   ],
+   "answer": "Do you like your job?",
+   "id": "u3-e044"
+  },
+  {
+   "type": "order",
+   "topic": "present simple ?",
+   "words": [
+    "Does",
+    "he",
+    "work",
+    "long",
+    "hours",
+    "?"
+   ],
+   "answer": "Does he work long hours?",
+   "id": "u3-e045"
+  },
+  {
+   "type": "mc",
+   "topic": "jobs",
+   "q": "bank ___",
+   "options": [
+    "manager",
+    "worker",
+    "attendant"
+   ],
+   "answer": "manager",
+   "explain": "",
+   "id": "u3-e046"
+  },
+  {
+   "type": "mc",
+   "topic": "jobs",
+   "q": "factory ___",
+   "options": [
+    "worker",
+    "officer",
+    "driver"
+   ],
+   "answer": "worker",
+   "explain": "",
+   "id": "u3-e047"
+  },
+  {
+   "type": "mc",
+   "topic": "jobs",
+   "q": "flight ___",
+   "options": [
+    "attendant",
+    "assistant",
+    "manager"
+   ],
+   "answer": "attendant",
+   "explain": "",
+   "id": "u3-e048"
+  },
+  {
+   "type": "mc",
+   "topic": "jobs",
+   "q": "police ___",
+   "options": [
+    "officer",
+    "driver",
+    "assistant"
+   ],
+   "answer": "officer",
+   "explain": "",
+   "id": "u3-e049"
+  },
+  {
+   "type": "mc",
+   "topic": "jobs",
+   "q": "shop ___",
+   "options": [
+    "assistant",
+    "worker",
+    "attendant"
+   ],
+   "answer": "assistant",
+   "explain": "",
+   "id": "u3-e050"
+  },
+  {
+   "type": "mc",
+   "topic": "jobs",
+   "q": "taxi ___",
+   "options": [
+    "driver",
+    "officer",
+    "manager"
+   ],
+   "answer": "driver",
+   "explain": "",
+   "id": "u3-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "___ he a builder?",
+   "answer": [
+    "Is"
+   ],
+   "explain": "",
+   "id": "u3-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "___ they accountants?",
+   "answer": [
+    "Are"
+   ],
+   "explain": "",
+   "id": "u3-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "What ___ she do?",
+   "answer": [
+    "does"
+   ],
+   "explain": "",
+   "id": "u3-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "What ___ they do?",
+   "answer": [
+    "do"
+   ],
+   "explain": "",
+   "id": "u3-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "What ___ you do?",
+   "answer": [
+    "do"
+   ],
+   "explain": "",
+   "id": "u3-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "Where ___ she work?",
+   "answer": [
+    "does"
+   ],
+   "explain": "",
+   "id": "u3-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "___ she a student?",
+   "answer": [
+    "Is"
+   ],
+   "explain": "",
+   "id": "u3-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: is / are / do / does",
+   "q": "What ___ he do?",
+   "answer": [
+    "does"
+   ],
+   "explain": "",
+   "id": "u3-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "He studies history ___ university.",
+   "answer": [
+    "at"
+   ],
+   "explain": "",
+   "id": "u3-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "My brother is ___ engineer.",
+   "answer": [
+    "an"
+   ],
+   "explain": "",
+   "id": "u3-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "We work ___ a Japanese company.",
+   "answer": [
+    "for"
+   ],
+   "explain": "",
+   "id": "u3-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "I don't have a job. I'm ___.",
+   "answer": [
+    "unemployed"
+   ],
+   "explain": "",
+   "id": "u3-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "Paola is ___ receptionist.",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u3-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "My grandparents are 75. They're ___.",
+   "answer": [
+    "retired"
+   ],
+   "explain": "",
+   "id": "u3-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "jobs: a / an / at / in / for",
+   "q": "They work ___ a factory.",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u3-e066"
+  },
+  {
+   "type": "mc",
+   "topic": "/ɜː/ and /ə/",
+   "q": "Hangi kelimede /ɜː/ (bird) sesi var?",
+   "options": [
+    "actor",
+    "nurse",
+    "doctor"
+   ],
+   "answer": "nurse",
+   "explain": "",
+   "id": "u3-e067"
+  },
+  {
+   "type": "mc",
+   "topic": "/ɜː/ and /ə/",
+   "q": "Hangi kelimede /ɜː/ (bird) sesi var?",
+   "options": [
+    "Thursday",
+    "manager",
+    "cleaner"
+   ],
+   "answer": "Thursday",
+   "explain": "",
+   "id": "u3-e068"
+  },
+  {
+   "type": "mc",
+   "topic": "/ɜː/ and /ə/",
+   "q": "Hangi kelimede /ɜː/ (bird) sesi var?",
+   "options": [
+    "footballer",
+    "work",
+    "actor"
+   ],
+   "answer": "work",
+   "explain": "",
+   "id": "u3-e069"
+  },
+  {
+   "type": "mc",
+   "topic": "/ɜː/ and /ə/",
+   "q": "Hangi kelimede /ɜː/ (bird) sesi var?",
+   "options": [
+    "dirty",
+    "doctor",
+    "understand"
+   ],
+   "answer": "dirty",
+   "explain": "",
+   "id": "u3-e070"
+  },
+  {
+   "type": "mc",
+   "topic": "/ɜː/ and /ə/",
+   "q": "Hangi kelimede /ɜː/ (bird) sesi var?",
+   "options": [
+    "cleaner",
+    "Germany",
+    "manager"
+   ],
+   "answer": "Germany",
+   "explain": "",
+   "id": "u3-e071"
+  },
+  {
+   "type": "mc",
+   "topic": "/ɜː/ and /ə/",
+   "q": "Hangi kelimede /ɜː/ (bird) sesi var?",
+   "options": [
+    "university",
+    "footballer",
+    "actor"
+   ],
+   "answer": "university",
+   "explain": "",
+   "id": "u3-e072"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "How",
+    "old",
+    "are",
+    "you",
+    "?"
+   ],
+   "answer": "How old are you?",
+   "id": "u3-e073"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Do",
+    "you",
+    "like",
+    "animals",
+    "?"
+   ],
+   "answer": "Do you like animals?",
+   "id": "u3-e074"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Is",
+    "your",
+    "dog",
+    "hungry",
+    "?"
+   ],
+   "answer": "Is your dog hungry?",
+   "id": "u3-e075"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "How",
+    "many",
+    "languages",
+    "do",
+    "you",
+    "speak",
+    "?"
+   ],
+   "answer": "How many languages do you speak?",
+   "id": "u3-e076"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Are",
+    "you",
+    "a",
+    "vet",
+    "?"
+   ],
+   "answer": "Are you a vet?",
+   "id": "u3-e077"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Where",
+    "is",
+    "your",
+    "teacher",
+    "from",
+    "?"
+   ],
+   "answer": "Where is your teacher from?",
+   "id": "u3-e078"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Does",
+    "your",
+    "house",
+    "have",
+    "a",
+    "big",
+    "garden",
+    "?"
+   ],
+   "answer": "Does your house have a big garden?",
+   "id": "u3-e079"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Do",
+    "you",
+    "live",
+    "with",
+    "your",
+    "parents",
+    "?"
+   ],
+   "answer": "Do you live with your parents?",
+   "id": "u3-e080"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Do",
+    "you",
+    "have",
+    "any",
+    "brothers",
+    "and",
+    "sisters",
+    "?"
+   ],
+   "answer": "Do you have any brothers and sisters?",
+   "id": "u3-e081"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Is",
+    "she",
+    "a",
+    "student",
+    "?"
+   ],
+   "answer": "Is she a student?",
+   "id": "u3-e082"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Where",
+    "do",
+    "you",
+    "work",
+    "?"
+   ],
+   "answer": "Where do you work?",
+   "id": "u3-e083"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Is",
+    "Luciana",
+    "a",
+    "flight",
+    "attendant",
+    "?"
+   ],
+   "answer": "Is Luciana a flight attendant?",
+   "id": "u3-e084"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Do",
+    "you",
+    "want",
+    "a",
+    "coffee",
+    "?"
+   ],
+   "answer": "Do you want a coffee?",
+   "id": "u3-e085"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "What's",
+    "your",
+    "phone",
+    "number",
+    "?"
+   ],
+   "answer": "What's your phone number?",
+   "id": "u3-e086"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "How",
+    "does",
+    "Toni",
+    "go",
+    "to",
+    "work",
+    "?"
+   ],
+   "answer": "How does Toni go to work?",
+   "id": "u3-e087"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "What",
+    "sports",
+    "do",
+    "you",
+    "like",
+    "?"
+   ],
+   "answer": "What sports do you like?",
+   "id": "u3-e088"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Are",
+    "you",
+    "tired",
+    "?"
+   ],
+   "answer": "Are you tired?",
+   "id": "u3-e089"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Where",
+    "are",
+    "my",
+    "keys",
+    "?"
+   ],
+   "answer": "Where are my keys?",
+   "id": "u3-e090"
+  },
+  {
+   "type": "order",
+   "topic": "word order in questions",
+   "words": [
+    "Does",
+    "your",
+    "boyfriend",
+    "like",
+    "dogs",
+    "?"
+   ],
+   "answer": "Does your boyfriend like dogs?",
+   "id": "u3-e091"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "Where do you work?",
+   "options": [
+    "In a factory.",
+    "At weekends.",
+    "A Mini."
+   ],
+   "answer": "In a factory.",
+   "explain": "",
+   "id": "u3-e092"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "What car do you drive?",
+   "options": [
+    "A Mini.",
+    "Two.",
+    "Tea."
+   ],
+   "answer": "A Mini.",
+   "explain": "",
+   "id": "u3-e093"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "When do you go to the cinema?",
+   "options": [
+    "At weekends.",
+    "Action films.",
+    "Two."
+   ],
+   "answer": "At weekends.",
+   "explain": "",
+   "id": "u3-e094"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "What kind of films do you like?",
+   "options": [
+    "Action films.",
+    "At weekends.",
+    "Pedro Pascal."
+   ],
+   "answer": "Action films.",
+   "explain": "",
+   "id": "u3-e095"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "How many children do you have?",
+   "options": [
+    "Two.",
+    "A Mini.",
+    "Tea."
+   ],
+   "answer": "Two.",
+   "explain": "",
+   "id": "u3-e096"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "Who's your favourite actor?",
+   "options": [
+    "Pedro Pascal.",
+    "Because he's great!",
+    "Tea."
+   ],
+   "answer": "Pedro Pascal.",
+   "explain": "",
+   "id": "u3-e097"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "Why do you like him?",
+   "options": [
+    "Because he's great!",
+    "In a factory.",
+    "Two."
+   ],
+   "answer": "Because he's great!",
+   "explain": "",
+   "id": "u3-e098"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "Which do you prefer, tea or coffee?",
+   "options": [
+    "Tea.",
+    "At weekends.",
+    "Action films."
+   ],
+   "answer": "Tea.",
+   "explain": "",
+   "id": "u3-e099"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ do you play the guitar? — In the evening.",
+   "options": [
+    "How many",
+    "When",
+    "Who"
+   ],
+   "answer": "When",
+   "explain": "",
+   "id": "u3-e100"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ music do you like? — Rock.",
+   "options": [
+    "What kind of",
+    "Which",
+    "Why"
+   ],
+   "answer": "What kind of",
+   "explain": "",
+   "id": "u3-e101"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ do you do? — I'm an engineer.",
+   "options": [
+    "What",
+    "Where",
+    "Who"
+   ],
+   "answer": "What",
+   "explain": "",
+   "id": "u3-e102"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ languages do you speak? — Three.",
+   "options": [
+    "How many",
+    "When",
+    "Which"
+   ],
+   "answer": "How many",
+   "explain": "",
+   "id": "u3-e103"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ is it cold in here? — Because the window is open.",
+   "options": [
+    "What kind of",
+    "Where",
+    "Why"
+   ],
+   "answer": "Why",
+   "explain": "",
+   "id": "u3-e104"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ is your favourite singer? — Adele.",
+   "options": [
+    "What",
+    "When",
+    "Who"
+   ],
+   "answer": "Who",
+   "explain": "",
+   "id": "u3-e105"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ do you prefer, the cinema or the theatre?",
+   "options": [
+    "How many",
+    "What kind of",
+    "Which"
+   ],
+   "answer": "Which",
+   "explain": "",
+   "id": "u3-e106"
+  },
+  {
+   "type": "mc",
+   "topic": "question words",
+   "q": "___ do you study English? — At a language school.",
+   "options": [
+    "What",
+    "Where",
+    "Why"
+   ],
+   "answer": "Where",
+   "explain": "",
+   "id": "u3-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___ do you live? — I live in Lucerne in Switzerland.",
+   "answer": [
+    "Where"
+   ],
+   "explain": "",
+   "id": "u3-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___ do you have English classes? — On Tuesdays and Thursdays.",
+   "answer": [
+    "When"
+   ],
+   "explain": "",
+   "id": "u3-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___ students are in your class? — Twelve.",
+   "answer": [
+    "How many"
+   ],
+   "explain": "",
+   "id": "u3-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___ food do you like? — I like Italian.",
+   "answer": [
+    "What kind of"
+   ],
+   "explain": "",
+   "id": "u3-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___ do you prefer, basketball or football? — I prefer basketball.",
+   "answer": [
+    "Which"
+   ],
+   "explain": "",
+   "id": "u3-e112"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___'s your favourite singer? — Dua Lipa.",
+   "answer": [
+    "Who"
+   ],
+   "explain": "",
+   "id": "u3-e113"
+  },
+  {
+   "type": "fill",
+   "topic": "question words",
+   "q": "___ do you like her? — Because she's a really good singer.",
+   "answer": [
+    "Why"
+   ],
+   "explain": "",
+   "id": "u3-e114"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“why” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "my",
+    "hot",
+    "now"
+   ],
+   "answer": "my",
+   "explain": "",
+   "id": "u3-e115"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“which” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "rich",
+    "there",
+    "ten"
+   ],
+   "answer": "rich",
+   "explain": "",
+   "id": "u3-e116"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“who” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "you",
+    "hot",
+    "now"
+   ],
+   "answer": "you",
+   "explain": "",
+   "id": "u3-e117"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“what” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "hot",
+    "ten",
+    "my"
+   ],
+   "answer": "hot",
+   "explain": "",
+   "id": "u3-e118"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“how” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "now",
+    "rich",
+    "there"
+   ],
+   "answer": "now",
+   "explain": "",
+   "id": "u3-e119"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“when” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "ten",
+    "my",
+    "you"
+   ],
+   "answer": "ten",
+   "explain": "",
+   "id": "u3-e120"
+  },
+  {
+   "type": "mc",
+   "topic": "question word sounds",
+   "q": "“where” ile aynı sesi içeren kelime hangisi?",
+   "options": [
+    "there",
+    "hot",
+    "rich"
+   ],
+   "answer": "there",
+   "explain": "",
+   "id": "u3-e121"
+  }
+ ],
+ "skipped": [
+  "s.19 1a (resimli fiil + isim eşleştirme: resim gerekir; kelimeler 1b'den sözlüğe eklendi) ve 1c (fiil kalıplarını tamamlama: OCR okunamıyor)",
+  "s.19 2a madde 8 (özne OCR'da kayıp: “... wear / doesn't wear glasses”)",
+  "s.20 2d (You sütunu, kişisel cevaplar) ve 2c madde 6-7 (olumlu/olumsuz işareti OCR'da belirsiz)",
+  "s.20 3a madde 1 (orta kelime OCR'da okunamıyor) ve 3b (dinleme/telaffuz, ses dosyası gerekir)",
+  "s.21 1a madde 6-7 (OCR bozuk), 1c madde 3-8 (kullanılacak fiiller okunamıyor) ve 2b eşleştirme (cevaplar karışık/üstü çizili)",
+  "s.22 2b (eksik ünlüleri tamamlama: boşluk deseni OCR'da kayıp; meslekler sözlüğe eklendi), 2c-2d (iş tanımları: OCR bozuk), 2f-2g (kişisel cevaplar ve paragraf)",
+  "s.22 3b (dinleme, ses dosyası gerekir)",
+  "s.23 1b madde 2-4 ve 1c madde 3'teki bazı boşluklar OCR'da okunamadı; okunabilen soru cümleleri kelime sırası alıştırması olarak eklendi",
+  "s.24 2d (kişisel cevaplar), 3b ve 3d (dinleme, ses dosyası gerekir), 3c (vurgulu kelimelerin altını çizme: cevap anahtarı olmadan belirsiz)"
+ ]
+}

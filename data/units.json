@@ -10,5 +10,11 @@
   "title": "Unit 2",
   "file": "data/unit2.json",
   "subtitle": "Your desk and you · Made in the USA · Don't worry. Be happy!"
+ },
+ {
+  "id": "unit3",
+  "title": "Unit 3",
+  "file": "data/unit3.json",
+  "subtitle": "Present simple · Goodbye to the office? · Are you a \"dog person\"?"
  }
 ]
