@@ -1,0 +1,2528 @@
+{
+ "unit": 6,
+ "title": "Unit 6",
+ "source": "English File 5th ed. Elementary Workbook, Unit 6 (s.41-46)",
+ "vocab": [
+  {
+   "en": "arrive",
+   "tr": "varmak",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-001"
+  },
+  {
+   "en": "towards",
+   "tr": "-e doğru",
+   "alt": [
+    "doğru"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-002"
+  },
+  {
+   "en": "sell",
+   "tr": "satmak",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-003"
+  },
+  {
+   "en": "through",
+   "tr": "içinden, boyunca",
+   "alt": [
+    "boyunca"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-004"
+  },
+  {
+   "en": "valuable",
+   "tr": "değerli",
+   "alt": [
+    "kıymetli"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-005"
+  },
+  {
+   "en": "village",
+   "tr": "köy",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-006"
+  },
+  {
+   "en": "desert",
+   "tr": "çöl",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-007"
+  },
+  {
+   "en": "comfortable",
+   "tr": "rahat",
+   "alt": [
+    "konforlu"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-008"
+  },
+  {
+   "en": "decide",
+   "tr": "karar vermek",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-009"
+  },
+  {
+   "en": "inside",
+   "tr": "içinde",
+   "alt": [
+    "içeride"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-010"
+  },
+  {
+   "en": "into",
+   "tr": "içine",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-011"
+  },
+  {
+   "en": "leave",
+   "tr": "ayrılmak",
+   "alt": [
+    "terk etmek",
+    "çıkmak"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-012"
+  },
+  {
+   "en": "mountain",
+   "tr": "dağ",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-013"
+  },
+  {
+   "en": "palace",
+   "tr": "saray",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-014"
+  },
+  {
+   "en": "strange",
+   "tr": "garip",
+   "alt": [
+    "tuhaf",
+    "yabancı"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-015"
+  },
+  {
+   "en": "surprised",
+   "tr": "şaşırmış",
+   "alt": [
+    "şaşkın"
+   ],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-016"
+  },
+  {
+   "en": "prince",
+   "tr": "prens",
+   "alt": [],
+   "cat": "Hikâye kelimeleri",
+   "id": "u6-017"
+  },
+  {
+   "en": "first",
+   "tr": "birinci",
+   "alt": [
+    "ilk"
+   ],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-018"
+  },
+  {
+   "en": "second",
+   "tr": "ikinci",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-019"
+  },
+  {
+   "en": "third",
+   "tr": "üçüncü",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-020"
+  },
+  {
+   "en": "fourth",
+   "tr": "dördüncü",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-021"
+  },
+  {
+   "en": "fifth",
+   "tr": "beşinci",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-022"
+  },
+  {
+   "en": "twelfth",
+   "tr": "on ikinci",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-023"
+  },
+  {
+   "en": "thirteenth",
+   "tr": "on üçüncü",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-024"
+  },
+  {
+   "en": "twentieth",
+   "tr": "yirminci",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-025"
+  },
+  {
+   "en": "twenty-first",
+   "tr": "yirmi birinci",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-026"
+  },
+  {
+   "en": "Christmas Day",
+   "tr": "Noel",
+   "alt": [
+    "Noel günü"
+   ],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-027"
+  },
+  {
+   "en": "Halloween",
+   "tr": "Cadılar Bayramı",
+   "alt": [
+    "Halloween"
+   ],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-028"
+  },
+  {
+   "en": "New Year's Day",
+   "tr": "Yılbaşı",
+   "alt": [
+    "yılbaşı günü"
+   ],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-029"
+  },
+  {
+   "en": "US Independence Day",
+   "tr": "ABD Bağımsızlık Günü",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-030"
+  },
+  {
+   "en": "Valentine's Day",
+   "tr": "Sevgililer Günü",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-031"
+  },
+  {
+   "en": "the twenty-fifth of December",
+   "tr": "25 Aralık",
+   "alt": [],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-032"
+  },
+  {
+   "en": "favourite day",
+   "tr": "en sevdiği gün",
+   "alt": [
+    "favori gün"
+   ],
+   "cat": "Sıra sayıları & tarihler",
+   "id": "u6-033"
+  },
+  {
+   "en": "trumpet",
+   "tr": "trompet",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-034"
+  },
+  {
+   "en": "acoustic guitar",
+   "tr": "akustik gitar",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-035"
+  },
+  {
+   "en": "accordion",
+   "tr": "akordeon",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-036"
+  },
+  {
+   "en": "drums",
+   "tr": "davul",
+   "alt": [
+    "bateri"
+   ],
+   "cat": "Müzik",
+   "id": "u6-037"
+  },
+  {
+   "en": "keyboard",
+   "tr": "klavye (müzik aleti)",
+   "alt": [
+    "org",
+    "klavye"
+   ],
+   "cat": "Müzik",
+   "id": "u6-038"
+  },
+  {
+   "en": "bass guitar",
+   "tr": "bas gitar",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-039"
+  },
+  {
+   "en": "piano",
+   "tr": "piyano",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-040"
+  },
+  {
+   "en": "violin",
+   "tr": "keman",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-041"
+  },
+  {
+   "en": "saxophone",
+   "tr": "saksofon",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-042"
+  },
+  {
+   "en": "trumpeter",
+   "tr": "trompetçi",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-043"
+  },
+  {
+   "en": "guitarist",
+   "tr": "gitarist",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-044"
+  },
+  {
+   "en": "accordionist",
+   "tr": "akordeoncu",
+   "alt": [
+    "akordeon çalan"
+   ],
+   "cat": "Müzik",
+   "id": "u6-045"
+  },
+  {
+   "en": "drummer",
+   "tr": "davulcu",
+   "alt": [
+    "baterist"
+   ],
+   "cat": "Müzik",
+   "id": "u6-046"
+  },
+  {
+   "en": "keyboard player",
+   "tr": "klavyeci",
+   "alt": [
+    "klavye çalan"
+   ],
+   "cat": "Müzik",
+   "id": "u6-047"
+  },
+  {
+   "en": "bass player",
+   "tr": "bas gitarist",
+   "alt": [
+    "basçı"
+   ],
+   "cat": "Müzik",
+   "id": "u6-048"
+  },
+  {
+   "en": "pianist",
+   "tr": "piyanist",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-049"
+  },
+  {
+   "en": "violinist",
+   "tr": "kemancı",
+   "alt": [
+    "viyolonist"
+   ],
+   "cat": "Müzik",
+   "id": "u6-050"
+  },
+  {
+   "en": "saxophonist",
+   "tr": "saksofoncu",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-051"
+  },
+  {
+   "en": "folk music",
+   "tr": "halk müziği",
+   "alt": [
+    "folk müzik"
+   ],
+   "cat": "Müzik",
+   "id": "u6-052"
+  },
+  {
+   "en": "classical music",
+   "tr": "klasik müzik",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-053"
+  },
+  {
+   "en": "heavy metal",
+   "tr": "heavy metal",
+   "alt": [
+    "ağır metal"
+   ],
+   "cat": "Müzik",
+   "id": "u6-054"
+  },
+  {
+   "en": "reggae",
+   "tr": "reggae",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-055"
+  },
+  {
+   "en": "solo artist",
+   "tr": "solo sanatçı",
+   "alt": [],
+   "cat": "Müzik",
+   "id": "u6-056"
+  },
+  {
+   "en": "lead singer",
+   "tr": "solist",
+   "alt": [
+    "baş vokal"
+   ],
+   "cat": "Müzik",
+   "id": "u6-057"
+  },
+  {
+   "en": "It's great.",
+   "tr": "Harika.",
+   "alt": [
+    "Çok iyi."
+   ],
+   "cat": "Fikir bildirme",
+   "id": "u6-058"
+  },
+  {
+   "en": "It's fantastic.",
+   "tr": "Muhteşem.",
+   "alt": [
+    "Fantastik."
+   ],
+   "cat": "Fikir bildirme",
+   "id": "u6-059"
+  },
+  {
+   "en": "He's awful.",
+   "tr": "O berbat.",
+   "alt": [
+    "Berbat."
+   ],
+   "cat": "Fikir bildirme",
+   "id": "u6-060"
+  },
+  {
+   "en": "She's terrible.",
+   "tr": "O korkunç.",
+   "alt": [
+    "Berbat."
+   ],
+   "cat": "Fikir bildirme",
+   "id": "u6-061"
+  },
+  {
+   "en": "I don't mind",
+   "tr": "umurumda değil",
+   "alt": [
+    "sorun etmem"
+   ],
+   "cat": "Fikir bildirme",
+   "id": "u6-062"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Object pronouns: me, you, him...",
+   "tr": "<b>Subject pronoun</b> fiilden önce (eylemi yapan), <b>object pronoun</b> fiilden veya edattan sonra gelir (eylemi alan): <b>I → me, you → you, he → him, she → her, it → it, we → us, they → them</b>. Edatlardan sonra da (with, to, from, for…) object pronoun kullanılır: <i>I'm in love with her</i> (with she değil).",
+   "table": {
+    "head": [
+     "Subject",
+     "Object"
+    ],
+    "rows": [
+     [
+      "I",
+      "me"
+     ],
+     [
+      "you",
+      "you"
+     ],
+     [
+      "he",
+      "him"
+     ],
+     [
+      "she",
+      "her"
+     ],
+     [
+      "it",
+      "it"
+     ],
+     [
+      "we",
+      "us"
+     ],
+     [
+      "they",
+      "them"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I love you.",
+     "Seni seviyorum."
+    ],
+    [
+     "She doesn't love him.",
+     "O onu sevmiyor."
+    ],
+    [
+     "Give this money to him.",
+     "Bu parayı ona ver."
+    ],
+    [
+     "Wait for us!",
+     "Bizi bekle!"
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "like + verb + -ing",
+   "tr": "<b>love, like, don't mind, hate</b> (ayrıca enjoy, prefer) fiillerinden sonra <b>fiil + -ing</b> gelir. Yazım: fiile <b>-ing</b> eklenir (cook → cooking); sessizle biten fiillerde <b>e düşer</b> (dance → dancing); <b>tek ünlü + tek ünsüz</b> ile biten fiillerde ünsüz <b>ikilenir</b> (run → running, swim → swimming); study → studying, play → playing.",
+   "table": {
+    "head": [
+     "Anlam",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "love",
+      "I love shopping."
+     ],
+     [
+      "like",
+      "I like going to the cinema."
+     ],
+     [
+      "don't mind",
+      "I don't mind getting up early."
+     ],
+     [
+      "don't like",
+      "I don't like doing housework."
+     ],
+     [
+      "hate",
+      "I hate driving at night."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Max hates dancing at parties.",
+     "Max partilerde dans etmekten nefret eder."
+    ],
+    [
+     "Tess doesn't like swimming in the sea.",
+     "Tess denizde yüzmeyi sevmez."
+    ],
+    [
+     "I enjoy watching football on TV.",
+     "TV'de futbol izlemekten hoşlanırım."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "be or do?",
+   "tr": "<b>be</b> ana fiil olarak (<i>I'm Ed. Are you Polish?</i>) ve present continuous için yardımcı fiil olarak (<i>I'm driving. Is it raining?</i>) kullanılır. <b>do / does</b> ana fiil olarak (<i>I'm doing my homework</i> → <i>do</i> = yapmak) ve present simple soru/olumsuzunda yardımcı olarak (<i>Do you speak English? He doesn't like jazz.</i>) kullanılır. Kural: fiilin sonunda <b>-ing</b> varsa <b>be</b> (Are you listening?), yalın fiil varsa <b>do</b> (Do you play?).",
+   "table": {
+    "head": [
+     "be",
+     "do / does"
+    ],
+    "rows": [
+     [
+      "Are you Polish?",
+      "Do you speak English?"
+     ],
+     [
+      "They aren't working today.",
+      "They don't have children."
+     ],
+     [
+      "Is it raining?",
+      "Where does your father work?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "What are you listening to?",
+     "Ne dinliyorsun?"
+    ],
+    [
+     "Do you play an instrument?",
+     "Bir enstrüman çalıyor musun?"
+    ],
+    [
+     "Laura isn't dancing at the moment.",
+     "Laura şu anda dans etmiyor."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Subject pronoun 'I' → object pronoun: ___",
+   "answer": [
+    "me"
+   ],
+   "explain": "",
+   "id": "u6-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Subject pronoun 'he' → object pronoun: ___",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u6-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Subject pronoun 'she' → object pronoun: ___",
+   "answer": [
+    "her"
+   ],
+   "explain": "",
+   "id": "u6-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Subject pronoun 'we' → object pronoun: ___",
+   "answer": [
+    "us"
+   ],
+   "explain": "",
+   "id": "u6-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Subject pronoun 'they' → object pronoun: ___",
+   "answer": [
+    "them"
+   ],
+   "explain": "",
+   "id": "u6-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Subject pronoun 'it' → object pronoun: ___",
+   "answer": [
+    "it"
+   ],
+   "explain": "",
+   "id": "u6-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "I have a new bag, but I can't find ___.",
+   "answer": [
+    "it"
+   ],
+   "explain": "",
+   "id": "u6-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "He loves her, but she doesn't love ___.",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u6-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "You always help them, but they never help ___.",
+   "answer": [
+    "you"
+   ],
+   "explain": "",
+   "id": "u6-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "They can hear her, but she can't hear ___.",
+   "answer": [
+    "them"
+   ],
+   "explain": "",
+   "id": "u6-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "We sometimes invite them for lunch, but they never invite ___.",
+   "answer": [
+    "us"
+   ],
+   "explain": "",
+   "id": "u6-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "I can see you, but you can't see ___.",
+   "answer": [
+    "me"
+   ],
+   "explain": "",
+   "id": "u6-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "You and your friends are nice to him, but he isn't nice to ___.",
+   "answer": [
+    "you"
+   ],
+   "explain": "",
+   "id": "u6-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "She's talking to him, but he isn't listening to ___.",
+   "answer": [
+    "her"
+   ],
+   "explain": "",
+   "id": "u6-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "Where's Charles? I want to talk to ___.",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u6-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "These shoes are new. Do you like ___?",
+   "answer": [
+    "them"
+   ],
+   "explain": "",
+   "id": "u6-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Do your parents like me? B: Of course ___ like you!",
+   "answer": [
+    "they"
+   ],
+   "explain": "",
+   "id": "u6-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Do your parents like me? B: Of course they like ___!",
+   "answer": [
+    "you"
+   ],
+   "explain": "",
+   "id": "u6-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: How often do you call your mother? B: I call ___ every day.",
+   "answer": [
+    "her"
+   ],
+   "explain": "",
+   "id": "u6-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Does your husband meet you after work? B: Yes, ___ meets me after work on Fridays.",
+   "answer": [
+    "he"
+   ],
+   "explain": "",
+   "id": "u6-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Does your husband meet you after work? B: Yes, he meets ___ after work on Fridays.",
+   "answer": [
+    "me"
+   ],
+   "explain": "",
+   "id": "u6-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Anna, can you take me and my girlfriend to the airport? B: Sure, ___ can take you. What time?",
+   "answer": [
+    "I"
+   ],
+   "explain": "",
+   "id": "u6-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Anna, can you take me and my girlfriend to the airport? B: Sure, I can take ___. What time?",
+   "answer": [
+    "you"
+   ],
+   "explain": "",
+   "id": "u6-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: How often does Jasmine invite you and your family to her house? B: ___ invites us once a month.",
+   "answer": [
+    "She"
+   ],
+   "explain": "",
+   "id": "u6-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: How often does Jasmine invite you and your family to her house? B: She invites ___ once a month.",
+   "answer": [
+    "us"
+   ],
+   "explain": "",
+   "id": "u6-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: When do you and your wife do the housework? B: ___ do it on Saturdays.",
+   "answer": [
+    "We"
+   ],
+   "explain": "",
+   "id": "u6-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: When do you and your wife do the housework? B: We do ___ on Saturdays.",
+   "answer": [
+    "it"
+   ],
+   "explain": "",
+   "id": "u6-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Do your friends like your boyfriend? B: Yes, ___ like him very much.",
+   "answer": [
+    "they"
+   ],
+   "explain": "",
+   "id": "u6-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Do your friends like your boyfriend? B: Yes, they like ___ very much.",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u6-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Do you wear glasses? B: Yes, ___ wear them for reading.",
+   "answer": [
+    "I"
+   ],
+   "explain": "",
+   "id": "u6-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns",
+   "q": "A: Do you wear glasses? B: Yes, I wear ___ for reading.",
+   "answer": [
+    "them"
+   ],
+   "explain": "",
+   "id": "u6-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "Dan calls her every day, but she doesn't call ___.",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u6-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "When he wants to talk to Nadine, ___ always says she's busy.",
+   "answer": [
+    "she"
+   ],
+   "explain": "",
+   "id": "u6-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "He waits for ___ after work, but she's often with some friends.",
+   "answer": [
+    "her"
+   ],
+   "explain": "",
+   "id": "u6-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "Nadine's friends don't like Dan, and he doesn't like ___.",
+   "answer": [
+    "them"
+   ],
+   "explain": "",
+   "id": "u6-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "Dan says hello, but ___ don't look at him.",
+   "answer": [
+    "they"
+   ],
+   "explain": "",
+   "id": "u6-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "Now he knows that Nadine doesn't love ___.",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u6-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "object pronouns: Dan and Nadine",
+   "q": "But he's happy because he knows that ___ can find a new girlfriend.",
+   "answer": [
+    "he"
+   ],
+   "explain": "",
+   "id": "u6-e038"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"to come to a place\"?",
+   "options": [
+    "arrive",
+    "sell",
+    "towards"
+   ],
+   "answer": "arrive",
+   "explain": "",
+   "id": "u6-e039"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"in the direction of somebody or something\"?",
+   "options": [
+    "sell",
+    "through",
+    "towards"
+   ],
+   "answer": "towards",
+   "explain": "",
+   "id": "u6-e040"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"to give something to somebody who pays you money for it\"?",
+   "options": [
+    "sell",
+    "through",
+    "valuable"
+   ],
+   "answer": "sell",
+   "explain": "",
+   "id": "u6-e041"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"from one side of something to the other side\"?",
+   "options": [
+    "through",
+    "valuable",
+    "village"
+   ],
+   "answer": "through",
+   "explain": "",
+   "id": "u6-e042"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"worth a lot of money\"?",
+   "options": [
+    "desert",
+    "valuable",
+    "village"
+   ],
+   "answer": "valuable",
+   "explain": "",
+   "id": "u6-e043"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"a very small town in the countryside\"?",
+   "options": [
+    "comfortable",
+    "desert",
+    "village"
+   ],
+   "answer": "village",
+   "explain": "",
+   "id": "u6-e044"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"a large dry area with very few plants\"?",
+   "options": [
+    "arrive",
+    "comfortable",
+    "desert"
+   ],
+   "answer": "desert",
+   "explain": "",
+   "id": "u6-e045"
+  },
+  {
+   "type": "mc",
+   "topic": "story words",
+   "q": "Which word means: \"nice to sit in, to be in, or to wear\"?",
+   "options": [
+    "arrive",
+    "comfortable",
+    "towards"
+   ],
+   "answer": "comfortable",
+   "explain": "",
+   "id": "u6-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "I don't like dogs when they run ___ me.",
+   "answer": [
+    "towards"
+   ],
+   "explain": "",
+   "id": "u6-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "When do they usually ___ home?",
+   "answer": [
+    "arrive"
+   ],
+   "explain": "",
+   "id": "u6-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "It's usually hot in the ___, but it can be very cold at night.",
+   "answer": [
+    "desert"
+   ],
+   "explain": "",
+   "id": "u6-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "I love these new boots. They're really ___.",
+   "answer": [
+    "comfortable"
+   ],
+   "explain": "",
+   "id": "u6-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "My wife is a sales assistant at Gucci. She ___ handbags and shoes.",
+   "answer": [
+    "sells"
+   ],
+   "explain": "",
+   "id": "u6-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "This is my grandfather's watch. It's very ___.",
+   "answer": [
+    "valuable"
+   ],
+   "explain": "",
+   "id": "u6-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "The river Thames goes ___ London.",
+   "answer": [
+    "through"
+   ],
+   "explain": "",
+   "id": "u6-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "I live in a small ___ about 30 minutes from Paris.",
+   "answer": [
+    "village"
+   ],
+   "explain": "",
+   "id": "u6-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "The prince in the story lives in a ___.",
+   "answer": [
+    "palace"
+   ],
+   "explain": "",
+   "id": "u6-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "What's ___ that box?",
+   "answer": [
+    "inside"
+   ],
+   "explain": "",
+   "id": "u6-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "I can't ___ what to have for dinner.",
+   "answer": [
+    "decide"
+   ],
+   "explain": "",
+   "id": "u6-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "What's that? I can hear a ___ noise.",
+   "answer": [
+    "strange"
+   ],
+   "explain": "",
+   "id": "u6-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "Kilimanjaro is a very high ___ in Tanzania.",
+   "answer": [
+    "mountain"
+   ],
+   "explain": "",
+   "id": "u6-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "What time does your train ___?",
+   "answer": [
+    "leave"
+   ],
+   "explain": "",
+   "id": "u6-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "Go ___ my office and wait for me there.",
+   "answer": [
+    "into"
+   ],
+   "explain": "",
+   "id": "u6-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "story words",
+   "q": "You're usually late, but not today. I'm ___!",
+   "answer": [
+    "surprised"
+   ],
+   "explain": "",
+   "id": "u6-e062"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /aɪ/ /ɪ/ /iː/",
+   "q": "Which word has a different vowel sound? (/ɪ/ fish, /iː/ tree, /aɪ/ bike): him / live / nice",
+   "options": [
+    "him",
+    "live",
+    "nice"
+   ],
+   "answer": "nice",
+   "explain": "",
+   "id": "u6-e063"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /aɪ/ /ɪ/ /iː/",
+   "q": "Which word has a different vowel sound? (/ɪ/ fish, /iː/ tree, /aɪ/ bike): she / this / meet",
+   "options": [
+    "she",
+    "this",
+    "meet"
+   ],
+   "answer": "this",
+   "explain": "",
+   "id": "u6-e064"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /aɪ/ /ɪ/ /iː/",
+   "q": "Which word has a different vowel sound? (/ɪ/ fish, /iː/ tree, /aɪ/ bike): me / I / my",
+   "options": [
+    "me",
+    "I",
+    "my"
+   ],
+   "answer": "me",
+   "explain": "",
+   "id": "u6-e065"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /aɪ/ /ɪ/ /iː/",
+   "q": "Which word has a different vowel sound? (/ɪ/ fish, /iː/ tree, /aɪ/ bike): these / his / ring",
+   "options": [
+    "these",
+    "his",
+    "ring"
+   ],
+   "answer": "these",
+   "explain": "",
+   "id": "u6-e066"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /aɪ/ /ɪ/ /iː/",
+   "q": "Which word has a different vowel sound? (/ɪ/ fish, /iː/ tree, /aɪ/ bike): we / leave / it",
+   "options": [
+    "we",
+    "leave",
+    "it"
+   ],
+   "answer": "it",
+   "explain": "",
+   "id": "u6-e067"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /aɪ/ /ɪ/ /iː/",
+   "q": "Which word has a different vowel sound? (/ɪ/ fish, /iː/ tree, /aɪ/ bike): smile / niece / buy",
+   "options": [
+    "smile",
+    "niece",
+    "buy"
+   ],
+   "answer": "niece",
+   "explain": "",
+   "id": "u6-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "2nd → ___",
+   "answer": [
+    "second"
+   ],
+   "explain": "",
+   "id": "u6-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "3rd → ___",
+   "answer": [
+    "third"
+   ],
+   "explain": "",
+   "id": "u6-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "5th → ___",
+   "answer": [
+    "fifth"
+   ],
+   "explain": "",
+   "id": "u6-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "12th → ___",
+   "answer": [
+    "twelfth"
+   ],
+   "explain": "",
+   "id": "u6-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "13th → ___",
+   "answer": [
+    "thirteenth"
+   ],
+   "explain": "",
+   "id": "u6-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "20th → ___",
+   "answer": [
+    "twentieth"
+   ],
+   "explain": "",
+   "id": "u6-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal numbers",
+   "q": "21st → ___",
+   "answer": [
+    "twenty-first"
+   ],
+   "explain": "",
+   "id": "u6-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "second, fourth, ___",
+   "answer": [
+    "sixth"
+   ],
+   "explain": "",
+   "id": "u6-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "second, fourth, sixth, ___",
+   "answer": [
+    "eighth"
+   ],
+   "explain": "",
+   "id": "u6-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "fifth, seventh, ___",
+   "answer": [
+    "ninth"
+   ],
+   "explain": "",
+   "id": "u6-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "fifth, seventh, ninth, ___",
+   "answer": [
+    "eleventh"
+   ],
+   "explain": "",
+   "id": "u6-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "tenth, fourteenth, ___",
+   "answer": [
+    "eighteenth"
+   ],
+   "explain": "",
+   "id": "u6-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "tenth, fourteenth, eighteenth, ___",
+   "answer": [
+    "twenty-second"
+   ],
+   "explain": "",
+   "id": "u6-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "fifth, tenth, ___",
+   "answer": [
+    "fifteenth"
+   ],
+   "explain": "",
+   "id": "u6-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "fifth, tenth, fifteenth, ___",
+   "answer": [
+    "twentieth"
+   ],
+   "explain": "",
+   "id": "u6-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "seventh, fourteenth, ___",
+   "answer": [
+    "twenty-first"
+   ],
+   "explain": "",
+   "id": "u6-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "seventh, fourteenth, twenty-first, ___",
+   "answer": [
+    "twenty-eighth"
+   ],
+   "explain": "",
+   "id": "u6-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "twenty-fifth, twenty-fourth, ___",
+   "answer": [
+    "twenty-third"
+   ],
+   "explain": "",
+   "id": "u6-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "twenty-fifth, twenty-fourth, twenty-third, ___",
+   "answer": [
+    "twenty-second"
+   ],
+   "explain": "",
+   "id": "u6-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "twenty-eighth, twenty-ninth, ___",
+   "answer": [
+    "thirtieth"
+   ],
+   "explain": "",
+   "id": "u6-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "ordinal series",
+   "q": "twenty-eighth, twenty-ninth, thirtieth, ___",
+   "answer": [
+    "thirty-first"
+   ],
+   "explain": "",
+   "id": "u6-e089"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "Halloween is on 31/10. You say: the ___ of October.",
+   "answer": [
+    "thirty-first"
+   ],
+   "explain": "",
+   "id": "u6-e090"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "New Year's Day is on 1/1. You say: the ___ of January.",
+   "answer": [
+    "first"
+   ],
+   "explain": "",
+   "id": "u6-e091"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "US Independence Day is on 4/7. You say: the ___ of July.",
+   "answer": [
+    "fourth"
+   ],
+   "explain": "",
+   "id": "u6-e092"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "Valentine's Day is on 14/2. You say: the ___ of February.",
+   "answer": [
+    "fourteenth"
+   ],
+   "explain": "",
+   "id": "u6-e093"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "Halloween (date, day/month): ___",
+   "answer": [
+    "31/10"
+   ],
+   "explain": "",
+   "id": "u6-e094"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "New Year's Day (date, day/month): ___",
+   "answer": [
+    "1/1"
+   ],
+   "explain": "",
+   "id": "u6-e095"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "US Independence Day (date, day/month): ___",
+   "answer": [
+    "4/7"
+   ],
+   "explain": "",
+   "id": "u6-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "the date",
+   "q": "Valentine's Day (date, day/month): ___",
+   "answer": [
+    "14/2"
+   ],
+   "explain": "",
+   "id": "u6-e097"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "draw + -ing → ___",
+   "answer": [
+    "drawing"
+   ],
+   "explain": "",
+   "id": "u6-e098"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "paint + -ing → ___",
+   "answer": [
+    "painting"
+   ],
+   "explain": "",
+   "id": "u6-e099"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "dance + -ing → ___",
+   "answer": [
+    "dancing"
+   ],
+   "explain": "",
+   "id": "u6-e100"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "run + -ing → ___",
+   "answer": [
+    "running"
+   ],
+   "explain": "",
+   "id": "u6-e101"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "cook + -ing → ___",
+   "answer": [
+    "cooking"
+   ],
+   "explain": "",
+   "id": "u6-e102"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "swim + -ing → ___",
+   "answer": [
+    "swimming"
+   ],
+   "explain": "",
+   "id": "u6-e103"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "study + -ing → ___",
+   "answer": [
+    "studying"
+   ],
+   "explain": "",
+   "id": "u6-e104"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "write + -ing → ___",
+   "answer": [
+    "writing"
+   ],
+   "explain": "",
+   "id": "u6-e105"
+  },
+  {
+   "type": "fill",
+   "topic": "-ing spelling",
+   "q": "play + -ing → ___",
+   "answer": [
+    "playing"
+   ],
+   "explain": "",
+   "id": "u6-e106"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Max hates ___ at parties. (dance)",
+   "answer": [
+    "dancing"
+   ],
+   "explain": "",
+   "id": "u6-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Max likes ___ at night. (drive)",
+   "answer": [
+    "driving"
+   ],
+   "explain": "",
+   "id": "u6-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Max doesn't mind ___ in cafés. (sit)",
+   "answer": [
+    "sitting"
+   ],
+   "explain": "",
+   "id": "u6-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Max loves ___ in the sea. (swim)",
+   "answer": [
+    "swimming"
+   ],
+   "explain": "",
+   "id": "u6-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Max doesn't like ___ football. (watch)",
+   "answer": [
+    "watching"
+   ],
+   "explain": "",
+   "id": "u6-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Tess loves ___ at parties. (dance)",
+   "answer": [
+    "dancing"
+   ],
+   "explain": "",
+   "id": "u6-e112"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Tess hates ___ at night. (drive)",
+   "answer": [
+    "driving"
+   ],
+   "explain": "",
+   "id": "u6-e113"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Tess likes ___ in cafés. (sit)",
+   "answer": [
+    "sitting"
+   ],
+   "explain": "",
+   "id": "u6-e114"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Tess doesn't like ___ in the sea. (swim)",
+   "answer": [
+    "swimming"
+   ],
+   "explain": "",
+   "id": "u6-e115"
+  },
+  {
+   "type": "fill",
+   "topic": "like + verb + -ing",
+   "q": "Tess doesn't mind ___ football. (watch)",
+   "answer": [
+    "watching"
+   ],
+   "explain": "",
+   "id": "u6-e116"
+  },
+  {
+   "type": "mc",
+   "topic": "reading: My Favourite Day",
+   "q": "Justin's text: When is his favourite day?",
+   "options": [
+    "1st January",
+    "24th December",
+    "25th December"
+   ],
+   "answer": "25th December",
+   "explain": "",
+   "id": "u6-e117"
+  },
+  {
+   "type": "mc",
+   "topic": "reading: My Favourite Day",
+   "q": "Justin's text: When does he get up on Christmas Day?",
+   "options": [
+    "At noon",
+    "Quite early",
+    "Very late"
+   ],
+   "answer": "Quite early",
+   "explain": "",
+   "id": "u6-e118"
+  },
+  {
+   "type": "mc",
+   "topic": "reading: My Favourite Day",
+   "q": "Justin's text: What do they have for breakfast?",
+   "options": [
+    "Cereal",
+    "Eggs",
+    "Pizza"
+   ],
+   "answer": "Eggs",
+   "explain": "",
+   "id": "u6-e119"
+  },
+  {
+   "type": "mc",
+   "topic": "reading: My Favourite Day",
+   "q": "Justin's text: What do they do in the afternoon?",
+   "options": [
+    "They go to bed.",
+    "They play games.",
+    "They watch a film on TV."
+   ],
+   "answer": "They watch a film on TV.",
+   "explain": "",
+   "id": "u6-e120"
+  },
+  {
+   "type": "mc",
+   "topic": "reading: My Favourite Day",
+   "q": "Justin's text: What do they do in the evening?",
+   "options": [
+    "They cook lunch.",
+    "They go for a walk.",
+    "They play games together."
+   ],
+   "answer": "They play games together.",
+   "explain": "",
+   "id": "u6-e121"
+  },
+  {
+   "type": "mc",
+   "topic": "reading: My Favourite Day",
+   "q": "Justin's text: When do they go to bed?",
+   "options": [
+    "At 8 p.m.",
+    "Quite early",
+    "Very late"
+   ],
+   "answer": "Very late",
+   "explain": "",
+   "id": "u6-e122"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "acoustic ___ (gitar)",
+   "answer": [
+    "guitar"
+   ],
+   "explain": "",
+   "id": "u6-e123"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "___ (akordeon)",
+   "answer": [
+    "accordion"
+   ],
+   "explain": "",
+   "id": "u6-e124"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "___ (davul)",
+   "answer": [
+    "drums"
+   ],
+   "explain": "",
+   "id": "u6-e125"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "___ (klavye / org)",
+   "answer": [
+    "keyboard"
+   ],
+   "explain": "",
+   "id": "u6-e126"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "___ (piyano)",
+   "answer": [
+    "piano"
+   ],
+   "explain": "",
+   "id": "u6-e127"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "___ (keman)",
+   "answer": [
+    "violin"
+   ],
+   "explain": "",
+   "id": "u6-e128"
+  },
+  {
+   "type": "fill",
+   "topic": "music: instruments",
+   "q": "___ (saksofon)",
+   "answer": [
+    "saxophone"
+   ],
+   "explain": "",
+   "id": "u6-e129"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the guitar is a ___.",
+   "answer": [
+    "guitarist"
+   ],
+   "explain": "",
+   "id": "u6-e130"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the accordion is an ___.",
+   "answer": [
+    "accordionist",
+    "accordion player"
+   ],
+   "explain": "",
+   "id": "u6-e131"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the drums is a ___.",
+   "answer": [
+    "drummer"
+   ],
+   "explain": "",
+   "id": "u6-e132"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the keyboard is a ___.",
+   "answer": [
+    "keyboard player",
+    "keyboardist"
+   ],
+   "explain": "",
+   "id": "u6-e133"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the bass guitar is a ___.",
+   "answer": [
+    "bass player",
+    "bassist",
+    "bass guitarist"
+   ],
+   "explain": "",
+   "id": "u6-e134"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the piano is a ___.",
+   "answer": [
+    "pianist"
+   ],
+   "explain": "",
+   "id": "u6-e135"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the violin is a ___.",
+   "answer": [
+    "violinist"
+   ],
+   "explain": "",
+   "id": "u6-e136"
+  },
+  {
+   "type": "fill",
+   "topic": "music: musicians",
+   "q": "A person who plays the saxophone is a ___.",
+   "answer": [
+    "saxophonist"
+   ],
+   "explain": "",
+   "id": "u6-e137"
+  },
+  {
+   "type": "mc",
+   "topic": "music quiz",
+   "q": "Which instrument did 60s rock musician Jimi Hendrix play?",
+   "options": [
+    "the guitar",
+    "the saxophone",
+    "the violin"
+   ],
+   "answer": "the guitar",
+   "explain": "",
+   "id": "u6-e138"
+  },
+  {
+   "type": "mc",
+   "topic": "music quiz",
+   "q": "Which instrument does singer Alicia Keys play?",
+   "options": [
+    "the drums",
+    "the guitar",
+    "the piano"
+   ],
+   "answer": "the piano",
+   "explain": "",
+   "id": "u6-e139"
+  },
+  {
+   "type": "mc",
+   "topic": "music quiz",
+   "q": "Which instrument can you often hear when you're listening to folk music?",
+   "options": [
+    "the accordion",
+    "the trumpet",
+    "the keyboard"
+   ],
+   "answer": "the accordion",
+   "explain": "",
+   "id": "u6-e140"
+  },
+  {
+   "type": "mc",
+   "topic": "music quiz",
+   "q": "Which instrument did Meg White of The White Stripes play?",
+   "options": [
+    "the keyboard",
+    "the bass",
+    "the drums"
+   ],
+   "answer": "the drums",
+   "explain": "",
+   "id": "u6-e141"
+  },
+  {
+   "type": "mc",
+   "topic": "music quiz",
+   "q": "Which instrument can you often hear when you're listening to classical music?",
+   "options": [
+    "the accordion",
+    "the violin",
+    "the bass"
+   ],
+   "answer": "the violin",
+   "explain": "",
+   "id": "u6-e142"
+  },
+  {
+   "type": "mc",
+   "topic": "music quiz",
+   "q": "Which instrument did the jazz musician Louis Armstrong play?",
+   "options": [
+    "the piano",
+    "the saxophone",
+    "the trumpet"
+   ],
+   "answer": "the trumpet",
+   "explain": "",
+   "id": "u6-e143"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "___ the tickets expensive?",
+   "options": [
+    "Are",
+    "Do"
+   ],
+   "answer": "Are",
+   "explain": "",
+   "id": "u6-e144"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "My boyfriend ___ like this song.",
+   "options": [
+    "isn't",
+    "doesn't"
+   ],
+   "answer": "doesn't",
+   "explain": "",
+   "id": "u6-e145"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "___ the music very loud?",
+   "options": [
+    "Is",
+    "Does"
+   ],
+   "answer": "Is",
+   "explain": "",
+   "id": "u6-e146"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "We ___ walking. We're on the bus.",
+   "options": [
+    "aren't",
+    "don't"
+   ],
+   "answer": "aren't",
+   "explain": "",
+   "id": "u6-e147"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "___ you play an instrument?",
+   "options": [
+    "Are",
+    "Do"
+   ],
+   "answer": "Do",
+   "explain": "",
+   "id": "u6-e148"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "My friends ___ listen to the radio.",
+   "options": [
+    "aren't",
+    "don't"
+   ],
+   "answer": "don't",
+   "explain": "",
+   "id": "u6-e149"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "Laura ___ dancing at the moment.",
+   "options": [
+    "isn't",
+    "doesn't"
+   ],
+   "answer": "isn't",
+   "explain": "",
+   "id": "u6-e150"
+  },
+  {
+   "type": "mc",
+   "topic": "be or do?",
+   "q": "___ the concert finish late?",
+   "options": [
+    "Is",
+    "Does"
+   ],
+   "answer": "Does",
+   "explain": "",
+   "id": "u6-e151"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "What ___ you listening to?",
+   "answer": [
+    "are"
+   ],
+   "explain": "",
+   "id": "u6-e152"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "Which instrument ___ you play?",
+   "answer": [
+    "do"
+   ],
+   "explain": "",
+   "id": "u6-e153"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "The singer ___ Spanish. She's Argentinian.",
+   "answer": [
+    "isn't",
+    "is not"
+   ],
+   "explain": "",
+   "id": "u6-e154"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "I ___ buy CDs. All my music is on my phone.",
+   "answer": [
+    "don't",
+    "do not"
+   ],
+   "explain": "",
+   "id": "u6-e155"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "We ___ watching a film. We're watching the news.",
+   "answer": [
+    "aren't",
+    "are not"
+   ],
+   "explain": "",
+   "id": "u6-e156"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "___ your boyfriend like reggae?",
+   "answer": [
+    "Does"
+   ],
+   "explain": "",
+   "id": "u6-e157"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "Which song ___ Mark singing now?",
+   "answer": [
+    "is"
+   ],
+   "explain": "",
+   "id": "u6-e158"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "He ___ sing in a group. He's a solo artist.",
+   "answer": [
+    "doesn't",
+    "does not"
+   ],
+   "explain": "",
+   "id": "u6-e159"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "They ___ go to concerts because it's too expensive.",
+   "answer": [
+    "don't",
+    "do not"
+   ],
+   "explain": "",
+   "id": "u6-e160"
+  },
+  {
+   "type": "fill",
+   "topic": "be or do?",
+   "q": "___ you a heavy metal fan?",
+   "answer": [
+    "Are"
+   ],
+   "explain": "",
+   "id": "u6-e161"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "How",
+    "old",
+    "is",
+    "Scott",
+    "?"
+   ],
+   "answer": "How old is Scott?",
+   "id": "u6-e162"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "Where",
+    "does",
+    "Jason",
+    "live",
+    "?"
+   ],
+   "answer": "Where does Jason live?",
+   "id": "u6-e163"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "How",
+    "old",
+    "are",
+    "Pascal",
+    "and",
+    "Patrice",
+    "?"
+   ],
+   "answer": "How old are Pascal and Patrice?",
+   "id": "u6-e164"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "Where",
+    "is",
+    "Scott",
+    "from",
+    "?"
+   ],
+   "answer": "Where is Scott from?",
+   "id": "u6-e165"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "What",
+    "does",
+    "Pascal",
+    "play",
+    "?"
+   ],
+   "answer": "What does Pascal play?",
+   "id": "u6-e166"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "Where",
+    "does",
+    "Scott",
+    "live",
+    "?"
+   ],
+   "answer": "Where does Scott live?",
+   "id": "u6-e167"
+  },
+  {
+   "type": "order",
+   "topic": "band chart questions (Destijl)",
+   "words": [
+    "What",
+    "does",
+    "Jason",
+    "play",
+    "?"
+   ],
+   "answer": "What does Jason play?",
+   "id": "u6-e168"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /j/",
+   "q": "Which word does NOT have a /j/ sound? use / beautiful / umbrella",
+   "options": [
+    "use",
+    "beautiful",
+    "umbrella"
+   ],
+   "answer": "umbrella",
+   "explain": "",
+   "id": "u6-e169"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /j/",
+   "q": "Which word does NOT have a /j/ sound? young / journalist / yellow",
+   "options": [
+    "young",
+    "journalist",
+    "yellow"
+   ],
+   "answer": "journalist",
+   "explain": "",
+   "id": "u6-e170"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /j/",
+   "q": "Which word does NOT have a /j/ sound? yacht / nurse / new / music",
+   "options": [
+    "yacht",
+    "nurse",
+    "new",
+    "music"
+   ],
+   "answer": "nurse",
+   "explain": "",
+   "id": "u6-e171"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /j/",
+   "q": "Which word does NOT have a /j/ sound? musician / lunch / usually",
+   "options": [
+    "musician",
+    "lunch",
+    "usually"
+   ],
+   "answer": "lunch",
+   "explain": "",
+   "id": "u6-e172"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation /j/",
+   "q": "Which word does NOT have a /j/ sound? January / student / summer",
+   "options": [
+    "January",
+    "student",
+    "summer"
+   ],
+   "answer": "summer",
+   "explain": "",
+   "id": "u6-e173"
+  }
+ ],
+ "skipped": [
+  "s.42 3a ve 3c (dinleme: ses dosyası gerekir)",
+  "s.43 2a-2b (tarih dinleme: ses dosyası gerekir)",
+  "s.44 1b 'You' sütunu ve 11-15 numaralı kişisel cümleler, 1c madde 5 ('Where do they have lunch?': metinde evin aunt's house mu kendi evleri mi belirsiz), 1d (kişisel yazma)",
+  "s.45 1a harf tamamlama (resimli; yerine Türkçe ipuçlu enstrüman alıştırması yapıldı), 1b musicians (kurala göre türetildi)",
+  "s.46 2c madde 6-7 ('What does Patrice play?' gitarı Scott da çalıyor, 'Where do Pascal and Patrice live?' tek cevap belirsiz), 3b-3c-3d (dinleme)"
+ ]
+}

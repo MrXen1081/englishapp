@@ -28,5 +28,11 @@
   "title": "Unit 5",
   "file": "data/unit5.json",
   "subtitle": "can / can't · What a noise! · London"
+ },
+ {
+  "id": "unit6",
+  "title": "Unit 6",
+  "file": "data/unit6.json",
+  "subtitle": "Object pronouns · I don't like Mondays · be or do?"
  }
 ]
