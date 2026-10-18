@@ -1,7 +1,7 @@
 {
  "unit": 3,
  "title": "Unit 3",
- "source": "English File 5th ed. Elementary Workbook, Unit 3 (s.19-24)",
+ "source": "English File 5th ed. Elementary Workbook, Unit 3 (s.19-26)",
  "vocab": [
   {
    "en": "need a new passport",
@@ -528,6 +528,132 @@
    ],
    "cat": "Soru kelimeleri",
    "id": "u3-065"
+  },
+  {
+   "en": "espresso",
+   "tr": "espresso",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-066"
+  },
+  {
+   "en": "latte",
+   "tr": "latte",
+   "alt": [
+    "sütlü kahve"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-067"
+  },
+  {
+   "en": "croissant",
+   "tr": "kruvasan",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-068"
+  },
+  {
+   "en": "receipt",
+   "tr": "fiş",
+   "alt": [
+    "makbuz"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-069"
+  },
+  {
+   "en": "single / double",
+   "tr": "tek / çift",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-070"
+  },
+  {
+   "en": "regular / large",
+   "tr": "normal / büyük boy",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-071"
+  },
+  {
+   "en": "To have here or take away?",
+   "tr": "Burada mı yiyeceksiniz, paket mi?",
+   "alt": [
+    "İçeride mi, paket mi?"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-072"
+  },
+  {
+   "en": "take away",
+   "tr": "paket (götürmek)",
+   "alt": [
+    "paket yapmak"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-073"
+  },
+  {
+   "en": "soya milk",
+   "tr": "soya sütü",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-074"
+  },
+  {
+   "en": "Can I help you?",
+   "tr": "Yardımcı olabilir miyim?",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-075"
+  },
+  {
+   "en": "Can I have...?",
+   "tr": "...alabilir miyim?",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-076"
+  },
+  {
+   "en": "Anything else?",
+   "tr": "Başka bir şey?",
+   "alt": [
+    "başka bir isteğiniz var mı?"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-077"
+  },
+  {
+   "en": "How much is that?",
+   "tr": "Bu ne kadar?",
+   "alt": [
+    "Tutarı ne kadar?"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-078"
+  },
+  {
+   "en": "Your usual?",
+   "tr": "Her zamankinden mi?",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-079"
+  },
+  {
+   "en": "Do you want to go out sometime?",
+   "tr": "Bir ara dışarı çıkmak ister misin?",
+   "alt": [],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-080"
+  },
+  {
+   "en": "How's the job?",
+   "tr": "İş nasıl?",
+   "alt": [
+    "iş nasıl gidiyor?"
+   ],
+   "cat": "Kafe & sosyal İngilizce",
+   "id": "u3-081"
   }
  ],
  "grammar": [
@@ -2304,6 +2430,381 @@
    "answer": "there",
    "explain": "",
    "id": "u3-e121"
+  },
+  {
+   "type": "fill",
+   "topic": "buying a coffee",
+   "q": "A ___ an espresso, please?",
+   "answer": [
+    "Can I have"
+   ],
+   "explain": "",
+   "id": "u3-e122"
+  },
+  {
+   "type": "fill",
+   "topic": "buying a coffee",
+   "q": "A Single ___?",
+   "answer": [
+    "or double"
+   ],
+   "explain": "",
+   "id": "u3-e123"
+  },
+  {
+   "type": "fill",
+   "topic": "buying a coffee",
+   "q": "A To have here or ___?",
+   "answer": [
+    "take away"
+   ],
+   "explain": "",
+   "id": "u3-e124"
+  },
+  {
+   "type": "fill",
+   "topic": "buying a coffee",
+   "q": "A That's £2.80, please. Do you need a ___?",
+   "answer": [
+    "receipt"
+   ],
+   "explain": "",
+   "id": "u3-e125"
+  },
+  {
+   "type": "fill",
+   "topic": "buying a coffee",
+   "q": "To take away. How much ___?",
+   "answer": [
+    "is that"
+   ],
+   "explain": "",
+   "id": "u3-e126"
+  },
+  {
+   "type": "order",
+   "topic": "social English: word order",
+   "words": [
+    "I",
+    "live",
+    "very",
+    "near",
+    "here",
+    "."
+   ],
+   "answer": "I live very near here.",
+   "id": "u3-e127"
+  },
+  {
+   "type": "order",
+   "topic": "social English: word order",
+   "words": [
+    "How's",
+    "the",
+    "job",
+    "?"
+   ],
+   "answer": "How's the job?",
+   "id": "u3-e128"
+  },
+  {
+   "type": "order",
+   "topic": "social English: word order",
+   "words": [
+    "Are",
+    "you",
+    "two",
+    "friends",
+    "?"
+   ],
+   "answer": "Are you two friends?",
+   "id": "u3-e129"
+  },
+  {
+   "type": "order",
+   "topic": "social English: word order",
+   "words": [
+    "What",
+    "would",
+    "you",
+    "like",
+    "?"
+   ],
+   "answer": "What would you like?",
+   "id": "u3-e130"
+  },
+  {
+   "type": "order",
+   "topic": "social English: word order",
+   "words": [
+    "Do",
+    "you",
+    "want",
+    "to",
+    "go",
+    "out",
+    "sometime",
+    "?"
+   ],
+   "answer": "Do you want to go out sometime?",
+   "id": "u3-e131"
+  },
+  {
+   "type": "fill",
+   "topic": "review: present simple and be",
+   "q": "Nurses ___ very long hours. (work)",
+   "answer": [
+    "work"
+   ],
+   "explain": "",
+   "id": "u3-e132"
+  },
+  {
+   "type": "fill",
+   "topic": "review: present simple and be",
+   "q": "___ the TV. I want to watch this programme. (not turn off)",
+   "answer": [
+    "Don't turn off",
+    "Do not turn off"
+   ],
+   "explain": "",
+   "id": "u3-e133"
+  },
+  {
+   "type": "fill",
+   "topic": "review: present simple and be",
+   "q": "___ you hungry? It's lunch time. (be)",
+   "answer": [
+    "Are"
+   ],
+   "explain": "",
+   "id": "u3-e134"
+  },
+  {
+   "type": "order",
+   "topic": "review: present simple and be",
+   "words": [
+    "Does",
+    "your",
+    "teacher",
+    "wear",
+    "glasses",
+    "?"
+   ],
+   "answer": "Does your teacher wear glasses?",
+   "id": "u3-e135"
+  },
+  {
+   "type": "mc",
+   "topic": "review: odd one out",
+   "q": "Farklı olan kelime hangisi?",
+   "options": [
+    "window",
+    "coin purse",
+    "wallet"
+   ],
+   "answer": "window",
+   "explain": "",
+   "id": "u3-e136"
+  },
+  {
+   "type": "mc",
+   "topic": "review: odd one out",
+   "q": "Farklı olan kelime hangisi?",
+   "options": [
+    "strong",
+    "bag",
+    "expensive",
+    "young"
+   ],
+   "answer": "bag",
+   "explain": "",
+   "id": "u3-e137"
+  },
+  {
+   "type": "mc",
+   "topic": "review: odd one out",
+   "q": "Farklı olan kelime hangisi?",
+   "options": [
+    "wrong",
+    "wear",
+    "tall",
+    "clean"
+   ],
+   "answer": "wear",
+   "explain": "",
+   "id": "u3-e138"
+  },
+  {
+   "type": "mc",
+   "topic": "review: odd one out",
+   "q": "Farklı olan kelime hangisi?",
+   "options": [
+    "cheap",
+    "worried",
+    "bored",
+    "angry"
+   ],
+   "answer": "cheap",
+   "explain": "",
+   "id": "u3-e139"
+  },
+  {
+   "type": "mc",
+   "topic": "review: odd one out",
+   "q": "Farklı olan kelime hangisi?",
+   "options": [
+    "cook",
+    "drink",
+    "eat",
+    "late"
+   ],
+   "answer": "late",
+   "explain": "",
+   "id": "u3-e140"
+  },
+  {
+   "type": "mc",
+   "topic": "review: odd one out",
+   "q": "Farklı olan kelime hangisi?",
+   "options": [
+    "tissue",
+    "doctor",
+    "lawyer",
+    "vet"
+   ],
+   "answer": "tissue",
+   "explain": "",
+   "id": "u3-e141"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "This is Evie Granger. She ___ 32, and she lives in Cornwall.",
+   "options": [
+    "has",
+    "is",
+    "have"
+   ],
+   "answer": "is",
+   "explain": "",
+   "id": "u3-e142"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "Evie ___ with dogs.",
+   "options": [
+    "a job",
+    "work",
+    "works"
+   ],
+   "answer": "works",
+   "explain": "",
+   "id": "u3-e143"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "She isn't ___.",
+   "options": [
+    "a doctor",
+    "vet",
+    "a vet"
+   ],
+   "answer": "a vet",
+   "explain": "",
+   "id": "u3-e144"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "She ___ at weekends.",
+   "options": [
+    "doesn't work",
+    "not work",
+    "don't work"
+   ],
+   "answer": "doesn't work",
+   "explain": "",
+   "id": "u3-e145"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "In the morning, she has a group of two or three ___.",
+   "options": [
+    "big dogs",
+    "dogs big",
+    "bigs dogs"
+   ],
+   "answer": "big dogs",
+   "explain": "",
+   "id": "u3-e146"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "She takes them for ___ on the beach.",
+   "options": [
+    "along walk",
+    "long walk",
+    "a long walk"
+   ],
+   "answer": "a long walk",
+   "explain": "",
+   "id": "u3-e147"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "The dogs are very ___ after their walk, but they're happy.",
+   "options": [
+    "bored",
+    "tired",
+    "stressed"
+   ],
+   "answer": "tired",
+   "explain": "",
+   "id": "u3-e148"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "The dogs love the park and they ___ to go home.",
+   "options": [
+    "want",
+    "don't want"
+   ],
+   "answer": "don't want",
+   "explain": "",
+   "id": "u3-e149"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "Does Evie like ___ job? Yes, she does.",
+   "options": [
+    "her",
+    "his",
+    "your"
+   ],
+   "answer": "her",
+   "explain": "",
+   "id": "u3-e150"
+  },
+  {
+   "type": "mc",
+   "topic": "review: Evie the dog walker",
+   "q": "Does Evie like her job? Yes, she ___.",
+   "options": [
+    "do",
+    "does",
+    "is"
+   ],
+   "answer": "does",
+   "explain": "",
+   "id": "u3-e151"
   }
  ],
  "skipped": [
@@ -2315,6 +2816,8 @@
   "s.22 2b (eksik ünlüleri tamamlama: boşluk deseni OCR'da kayıp; meslekler sözlüğe eklendi), 2c-2d (iş tanımları: OCR bozuk), 2f-2g (kişisel cevaplar ve paragraf)",
   "s.22 3b (dinleme, ses dosyası gerekir)",
   "s.23 1b madde 2-4 ve 1c madde 3'teki bazı boşluklar OCR'da okunamadı; okunabilen soru cümleleri kelime sırası alıştırması olarak eklendi",
-  "s.24 2d (kişisel cevaplar), 3b ve 3d (dinleme, ses dosyası gerekir), 3c (vurgulu kelimelerin altını çizme: cevap anahtarı olmadan belirsiz)"
+  "s.24 2d (kişisel cevaplar), 3b ve 3d (dinleme, ses dosyası gerekir), 3c (vurgulu kelimelerin altını çizme: cevap anahtarı olmadan belirsiz)",
+  "s.25 1a (saat resimleri: resim gerekir), 2a (konuşmayı sıraya koyma: satırlar OCR'da karışık), 3b (cümleleri diyaloglara yerleştirme: boşlukların eşleşmesi OCR'da belirsiz; cümleler 3a'dan kelime sırası alıştırması olarak eklendi), 1b madde 'Single ___' dışındaki boşluk sırası",
+  "s.26 1 madde 4 (eksik fiil OCR'da kayıp), 2 madde 1 (ilk satırdaki kelime kayıp), 3 (telaffuz: sesli resimler ve kelime sıraları OCR'da bozuk), 4 madde 8 (şıkların bir kısmı OCR'da kayıp, iki şıkla eklendi)"
  ]
 }
