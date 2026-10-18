@@ -1,0 +1,2792 @@
+{
+ "unit": 1,
+ "title": "Unit 1",
+ "source": "English File 5th ed. Elementary Workbook, Unit 1 (s.5-12)",
+ "vocab": [
+  {
+   "en": "Monday",
+   "tr": "Pazartesi",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-001"
+  },
+  {
+   "en": "Tuesday",
+   "tr": "Salı",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-002"
+  },
+  {
+   "en": "Wednesday",
+   "tr": "Çarşamba",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-003"
+  },
+  {
+   "en": "Thursday",
+   "tr": "Perşembe",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-004"
+  },
+  {
+   "en": "Friday",
+   "tr": "Cuma",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-005"
+  },
+  {
+   "en": "Saturday",
+   "tr": "Cumartesi",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-006"
+  },
+  {
+   "en": "Sunday",
+   "tr": "Pazar",
+   "alt": [],
+   "cat": "Günler",
+   "id": "u1-007"
+  },
+  {
+   "en": "zero",
+   "tr": "sıfır",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-008"
+  },
+  {
+   "en": "one",
+   "tr": "bir",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-009"
+  },
+  {
+   "en": "two",
+   "tr": "iki",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-010"
+  },
+  {
+   "en": "three",
+   "tr": "üç",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-011"
+  },
+  {
+   "en": "four",
+   "tr": "dört",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-012"
+  },
+  {
+   "en": "five",
+   "tr": "beş",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-013"
+  },
+  {
+   "en": "six",
+   "tr": "altı",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-014"
+  },
+  {
+   "en": "seven",
+   "tr": "yedi",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-015"
+  },
+  {
+   "en": "eight",
+   "tr": "sekiz",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-016"
+  },
+  {
+   "en": "nine",
+   "tr": "dokuz",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-017"
+  },
+  {
+   "en": "ten",
+   "tr": "on",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-018"
+  },
+  {
+   "en": "eleven",
+   "tr": "on bir",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-019"
+  },
+  {
+   "en": "twelve",
+   "tr": "on iki",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-020"
+  },
+  {
+   "en": "thirteen",
+   "tr": "on üç",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-021"
+  },
+  {
+   "en": "fourteen",
+   "tr": "on dört",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-022"
+  },
+  {
+   "en": "fifteen",
+   "tr": "on beş",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-023"
+  },
+  {
+   "en": "sixteen",
+   "tr": "on altı",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-024"
+  },
+  {
+   "en": "seventeen",
+   "tr": "on yedi",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-025"
+  },
+  {
+   "en": "eighteen",
+   "tr": "on sekiz",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-026"
+  },
+  {
+   "en": "nineteen",
+   "tr": "on dokuz",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-027"
+  },
+  {
+   "en": "twenty",
+   "tr": "yirmi",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-028"
+  },
+  {
+   "en": "thirty",
+   "tr": "otuz",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-029"
+  },
+  {
+   "en": "forty",
+   "tr": "kırk",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-030"
+  },
+  {
+   "en": "fifty",
+   "tr": "elli",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-031"
+  },
+  {
+   "en": "sixty",
+   "tr": "altmış",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-032"
+  },
+  {
+   "en": "seventy",
+   "tr": "yetmiş",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-033"
+  },
+  {
+   "en": "eighty",
+   "tr": "seksen",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-034"
+  },
+  {
+   "en": "ninety",
+   "tr": "doksan",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u1-035"
+  },
+  {
+   "en": "a hundred",
+   "tr": "yüz",
+   "alt": [
+    "yuz"
+   ],
+   "cat": "Sayılar",
+   "id": "u1-036"
+  },
+  {
+   "en": "Argentina",
+   "tr": "Arjantin",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-037"
+  },
+  {
+   "en": "Australia",
+   "tr": "Avustralya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-038"
+  },
+  {
+   "en": "Brazil",
+   "tr": "Brezilya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-039"
+  },
+  {
+   "en": "China",
+   "tr": "Çin",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-040"
+  },
+  {
+   "en": "England",
+   "tr": "İngiltere",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-041"
+  },
+  {
+   "en": "France",
+   "tr": "Fransa",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-042"
+  },
+  {
+   "en": "Germany",
+   "tr": "Almanya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-043"
+  },
+  {
+   "en": "Hungary",
+   "tr": "Macaristan",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-044"
+  },
+  {
+   "en": "Ireland",
+   "tr": "İrlanda",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-045"
+  },
+  {
+   "en": "Italy",
+   "tr": "İtalya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-046"
+  },
+  {
+   "en": "Japan",
+   "tr": "Japonya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-047"
+  },
+  {
+   "en": "Mexico",
+   "tr": "Meksika",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-048"
+  },
+  {
+   "en": "Poland",
+   "tr": "Polonya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-049"
+  },
+  {
+   "en": "Russia",
+   "tr": "Rusya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-050"
+  },
+  {
+   "en": "Scotland",
+   "tr": "İskoçya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-051"
+  },
+  {
+   "en": "Spain",
+   "tr": "İspanya",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-052"
+  },
+  {
+   "en": "Switzerland",
+   "tr": "İsviçre",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-053"
+  },
+  {
+   "en": "Türkiye",
+   "tr": "Türkiye",
+   "alt": [
+    "Turkiye",
+    "Türkiye"
+   ],
+   "cat": "Ülkeler",
+   "id": "u1-054"
+  },
+  {
+   "en": "Vietnam",
+   "tr": "Vietnam",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-055"
+  },
+  {
+   "en": "Egypt",
+   "tr": "Mısır",
+   "alt": [],
+   "cat": "Ülkeler",
+   "id": "u1-056"
+  },
+  {
+   "en": "the Czech Republic",
+   "tr": "Çek Cumhuriyeti",
+   "alt": [
+    "Çekya"
+   ],
+   "cat": "Ülkeler",
+   "id": "u1-057"
+  },
+  {
+   "en": "the USA",
+   "tr": "ABD",
+   "alt": [
+    "Amerika Birleşik Devletleri",
+    "Amerika"
+   ],
+   "cat": "Ülkeler",
+   "id": "u1-058"
+  },
+  {
+   "en": "Argentinian",
+   "tr": "Arjantinli",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-059"
+  },
+  {
+   "en": "Australian",
+   "tr": "Avustralyalı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-060"
+  },
+  {
+   "en": "Brazilian",
+   "tr": "Brezilyalı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-061"
+  },
+  {
+   "en": "Chinese",
+   "tr": "Çinli",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-062"
+  },
+  {
+   "en": "English",
+   "tr": "İngiliz",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-063"
+  },
+  {
+   "en": "French",
+   "tr": "Fransız",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-064"
+  },
+  {
+   "en": "German",
+   "tr": "Alman",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-065"
+  },
+  {
+   "en": "Hungarian",
+   "tr": "Macar",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-066"
+  },
+  {
+   "en": "Irish",
+   "tr": "İrlandalı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-067"
+  },
+  {
+   "en": "Italian",
+   "tr": "İtalyan",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-068"
+  },
+  {
+   "en": "Japanese",
+   "tr": "Japon",
+   "alt": [
+    "Japonyalı"
+   ],
+   "cat": "Uyruklar",
+   "id": "u1-069"
+  },
+  {
+   "en": "Mexican",
+   "tr": "Meksikalı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-070"
+  },
+  {
+   "en": "Polish",
+   "tr": "Polonyalı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-071"
+  },
+  {
+   "en": "Russian",
+   "tr": "Rus",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-072"
+  },
+  {
+   "en": "Scottish",
+   "tr": "İskoç",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-073"
+  },
+  {
+   "en": "Spanish",
+   "tr": "İspanyol",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-074"
+  },
+  {
+   "en": "Swiss",
+   "tr": "İsviçreli",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-075"
+  },
+  {
+   "en": "Turkish",
+   "tr": "Türk",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-076"
+  },
+  {
+   "en": "Vietnamese",
+   "tr": "Vietnamlı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-077"
+  },
+  {
+   "en": "Egyptian",
+   "tr": "Mısırlı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-078"
+  },
+  {
+   "en": "Czech",
+   "tr": "Çek",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-079"
+  },
+  {
+   "en": "American",
+   "tr": "Amerikalı",
+   "alt": [],
+   "cat": "Uyruklar",
+   "id": "u1-080"
+  },
+  {
+   "en": "Asia",
+   "tr": "Asya",
+   "alt": [],
+   "cat": "Kıtalar",
+   "id": "u1-081"
+  },
+  {
+   "en": "Africa",
+   "tr": "Afrika",
+   "alt": [],
+   "cat": "Kıtalar",
+   "id": "u1-082"
+  },
+  {
+   "en": "Europe",
+   "tr": "Avrupa",
+   "alt": [],
+   "cat": "Kıtalar",
+   "id": "u1-083"
+  },
+  {
+   "en": "North America",
+   "tr": "Kuzey Amerika",
+   "alt": [],
+   "cat": "Kıtalar",
+   "id": "u1-084"
+  },
+  {
+   "en": "South America",
+   "tr": "Güney Amerika",
+   "alt": [],
+   "cat": "Kıtalar",
+   "id": "u1-085"
+  },
+  {
+   "en": "Antarctica",
+   "tr": "Antarktika",
+   "alt": [],
+   "cat": "Kıtalar",
+   "id": "u1-086"
+  },
+  {
+   "en": "chair",
+   "tr": "sandalye",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-087"
+  },
+  {
+   "en": "desk",
+   "tr": "sıra",
+   "alt": [
+    "masa",
+    "çalışma masası"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-088"
+  },
+  {
+   "en": "table",
+   "tr": "masa",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-089"
+  },
+  {
+   "en": "door",
+   "tr": "kapı",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-090"
+  },
+  {
+   "en": "board",
+   "tr": "tahta",
+   "alt": [
+    "yazı tahtası"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-091"
+  },
+  {
+   "en": "page",
+   "tr": "sayfa",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-092"
+  },
+  {
+   "en": "question",
+   "tr": "soru",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-093"
+  },
+  {
+   "en": "text",
+   "tr": "metin",
+   "alt": [
+    "yazı"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-094"
+  },
+  {
+   "en": "class",
+   "tr": "sınıf",
+   "alt": [
+    "ders"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-095"
+  },
+  {
+   "en": "student",
+   "tr": "öğrenci",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-096"
+  },
+  {
+   "en": "teacher",
+   "tr": "öğretmen",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-097"
+  },
+  {
+   "en": "answer",
+   "tr": "cevap vermek",
+   "alt": [
+    "cevaplamak",
+    "yanıtlamak",
+    "cevap",
+    "yanıt"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-098"
+  },
+  {
+   "en": "close",
+   "tr": "kapatmak",
+   "alt": [
+    "kapat"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-099"
+  },
+  {
+   "en": "open",
+   "tr": "açmak",
+   "alt": [
+    "aç"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-100"
+  },
+  {
+   "en": "listen",
+   "tr": "dinlemek",
+   "alt": [
+    "dinle"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-101"
+  },
+  {
+   "en": "read",
+   "tr": "okumak",
+   "alt": [
+    "oku"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-102"
+  },
+  {
+   "en": "repeat",
+   "tr": "tekrar etmek",
+   "alt": [
+    "tekrarlamak",
+    "tekrar"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-103"
+  },
+  {
+   "en": "understand",
+   "tr": "anlamak",
+   "alt": [],
+   "cat": "Sınıf",
+   "id": "u1-104"
+  },
+  {
+   "en": "spell",
+   "tr": "hecelemek",
+   "alt": [
+    "harf harf söylemek"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-105"
+  },
+  {
+   "en": "help",
+   "tr": "yardım etmek",
+   "alt": [
+    "yardım"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-106"
+  },
+  {
+   "en": "copy",
+   "tr": "fotokopi",
+   "alt": [
+    "kopya"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-107"
+  },
+  {
+   "en": "sit down",
+   "tr": "oturmak",
+   "alt": [
+    "otur"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-108"
+  },
+  {
+   "en": "stand up",
+   "tr": "ayağa kalkmak",
+   "alt": [
+    "kalkmak",
+    "ayağa kalk"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-109"
+  },
+  {
+   "en": "turn off",
+   "tr": "kapatmak",
+   "alt": [
+    "kapat"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-110"
+  },
+  {
+   "en": "work in pairs",
+   "tr": "ikili çalışmak",
+   "alt": [
+    "çiftler halinde çalışmak"
+   ],
+   "cat": "Sınıf",
+   "id": "u1-111"
+  },
+  {
+   "en": "I don't understand.",
+   "tr": "Anlamıyorum.",
+   "alt": [],
+   "cat": "Kalıplar",
+   "id": "u1-112"
+  },
+  {
+   "en": "Sorry, I'm late.",
+   "tr": "Üzgünüm, geç kaldım.",
+   "alt": [
+    "Pardon, geç kaldım."
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-113"
+  },
+  {
+   "en": "Can I have a copy, please?",
+   "tr": "Bir fotokopi alabilir miyim lütfen?",
+   "alt": [],
+   "cat": "Kalıplar",
+   "id": "u1-114"
+  },
+  {
+   "en": "How do you spell it?",
+   "tr": "Nasıl hecelenir?",
+   "alt": [
+    "Nasıl yazılır?"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-115"
+  },
+  {
+   "en": "I don't know.",
+   "tr": "Bilmiyorum.",
+   "alt": [],
+   "cat": "Kalıplar",
+   "id": "u1-116"
+  },
+  {
+   "en": "Sorry, can you repeat that, please?",
+   "tr": "Pardon, tekrar eder misiniz lütfen?",
+   "alt": [],
+   "cat": "Kalıplar",
+   "id": "u1-117"
+  },
+  {
+   "en": "Can you help me, please?",
+   "tr": "Bana yardım eder misiniz lütfen?",
+   "alt": [],
+   "cat": "Kalıplar",
+   "id": "u1-118"
+  },
+  {
+   "en": "What's your name?",
+   "tr": "Adınız ne?",
+   "alt": [
+    "Adın ne?",
+    "Adınız nedir?",
+    "İsminiz ne?"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-119"
+  },
+  {
+   "en": "Where are you from?",
+   "tr": "Nerelisiniz?",
+   "alt": [
+    "Nerelisin?"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-120"
+  },
+  {
+   "en": "Nice to meet you.",
+   "tr": "Tanıştığımıza memnun oldum.",
+   "alt": [
+    "Memnun oldum."
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-121"
+  },
+  {
+   "en": "How are you?",
+   "tr": "Nasılsınız?",
+   "alt": [
+    "Nasılsın?"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-122"
+  },
+  {
+   "en": "I'm fine, thanks.",
+   "tr": "İyiyim, teşekkürler.",
+   "alt": [
+    "İyiyim, sağ ol."
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-123"
+  },
+  {
+   "en": "Hello",
+   "tr": "Merhaba",
+   "alt": [
+    "Selam"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-124"
+  },
+  {
+   "en": "Goodbye",
+   "tr": "Hoşça kal",
+   "alt": [
+    "Güle güle",
+    "Hoşça kalın",
+    "Görüşürüz"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-125"
+  },
+  {
+   "en": "Please",
+   "tr": "Lütfen",
+   "alt": [],
+   "cat": "Kalıplar",
+   "id": "u1-126"
+  },
+  {
+   "en": "Thank you",
+   "tr": "Teşekkür ederim",
+   "alt": [
+    "Teşekkürler",
+    "Sağ ol"
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-127"
+  },
+  {
+   "en": "You're welcome.",
+   "tr": "Rica ederim.",
+   "alt": [
+    "Bir şey değil."
+   ],
+   "cat": "Kalıplar",
+   "id": "u1-128"
+  },
+  {
+   "en": "first name",
+   "tr": "ad",
+   "alt": [
+    "isim",
+    "ilk ad"
+   ],
+   "cat": "Kişisel",
+   "id": "u1-129"
+  },
+  {
+   "en": "surname",
+   "tr": "soyadı",
+   "alt": [
+    "soyad"
+   ],
+   "cat": "Kişisel",
+   "id": "u1-130"
+  },
+  {
+   "en": "address",
+   "tr": "adres",
+   "alt": [],
+   "cat": "Kişisel",
+   "id": "u1-131"
+  },
+  {
+   "en": "postcode",
+   "tr": "posta kodu",
+   "alt": [],
+   "cat": "Kişisel",
+   "id": "u1-132"
+  },
+  {
+   "en": "phone number",
+   "tr": "telefon numarası",
+   "alt": [],
+   "cat": "Kişisel",
+   "id": "u1-133"
+  },
+  {
+   "en": "mobile",
+   "tr": "cep telefonu",
+   "alt": [
+    "cep"
+   ],
+   "cat": "Kişisel",
+   "id": "u1-134"
+  },
+  {
+   "en": "email address",
+   "tr": "e-posta adresi",
+   "alt": [
+    "email adresi",
+    "eposta adresi"
+   ],
+   "cat": "Kişisel",
+   "id": "u1-135"
+  },
+  {
+   "en": "family",
+   "tr": "aile",
+   "alt": [],
+   "cat": "Kişisel",
+   "id": "u1-136"
+  },
+  {
+   "en": "partner",
+   "tr": "eş",
+   "alt": [
+    "partner",
+    "hayat arkadaşı"
+   ],
+   "cat": "Kişisel",
+   "id": "u1-137"
+  },
+  {
+   "en": "old",
+   "tr": "yaşında",
+   "alt": [
+    "yaşlı",
+    "eski"
+   ],
+   "cat": "Kişisel",
+   "id": "u1-138"
+  },
+  {
+   "en": "lift",
+   "tr": "asansör",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-139"
+  },
+  {
+   "en": "reception",
+   "tr": "resepsiyon",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-140"
+  },
+  {
+   "en": "ground floor",
+   "tr": "zemin kat",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-141"
+  },
+  {
+   "en": "floor",
+   "tr": "kat",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-142"
+  },
+  {
+   "en": "room",
+   "tr": "oda",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-143"
+  },
+  {
+   "en": "key",
+   "tr": "anahtar",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-144"
+  },
+  {
+   "en": "reservation",
+   "tr": "rezervasyon",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-145"
+  },
+  {
+   "en": "passport",
+   "tr": "pasaport",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-146"
+  },
+  {
+   "en": "map",
+   "tr": "harita",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-147"
+  },
+  {
+   "en": "moment",
+   "tr": "an",
+   "alt": [
+    "anlık",
+    "saniye",
+    "dakika"
+   ],
+   "cat": "Otel",
+   "id": "u1-148"
+  },
+  {
+   "en": "sign",
+   "tr": "imzalamak",
+   "alt": [
+    "imza atmak",
+    "imzala"
+   ],
+   "cat": "Otel",
+   "id": "u1-149"
+  },
+  {
+   "en": "night",
+   "tr": "gece",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-150"
+  },
+  {
+   "en": "stay",
+   "tr": "konaklama",
+   "alt": [
+    "kalış"
+   ],
+   "cat": "Otel",
+   "id": "u1-151"
+  },
+  {
+   "en": "hotel",
+   "tr": "otel",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-152"
+  },
+  {
+   "en": "restaurant",
+   "tr": "restoran",
+   "alt": [],
+   "cat": "Otel",
+   "id": "u1-153"
+  },
+  {
+   "en": "Just a moment.",
+   "tr": "Bir saniye.",
+   "alt": [
+    "Bir dakika.",
+    "Bir an lütfen."
+   ],
+   "cat": "Otel",
+   "id": "u1-154"
+  },
+  {
+   "en": "Here you are.",
+   "tr": "Buyurun.",
+   "alt": [
+    "Buyurunuz."
+   ],
+   "cat": "Otel",
+   "id": "u1-155"
+  },
+  {
+   "en": "Would you like...?",
+   "tr": "... ister misiniz?",
+   "alt": [
+    "Ister misiniz"
+   ],
+   "cat": "Otel",
+   "id": "u1-156"
+  },
+  {
+   "en": "coffee",
+   "tr": "kahve",
+   "alt": [],
+   "cat": "İçecek",
+   "id": "u1-157"
+  },
+  {
+   "en": "tea",
+   "tr": "çay",
+   "alt": [],
+   "cat": "İçecek",
+   "id": "u1-158"
+  },
+  {
+   "en": "orange juice",
+   "tr": "portakal suyu",
+   "alt": [],
+   "cat": "İçecek",
+   "id": "u1-159"
+  },
+  {
+   "en": "hot chocolate",
+   "tr": "sıcak çikolata",
+   "alt": [],
+   "cat": "İçecek",
+   "id": "u1-160"
+  },
+  {
+   "en": "coke",
+   "tr": "kola",
+   "alt": [],
+   "cat": "İçecek",
+   "id": "u1-161"
+  },
+  {
+   "en": "on holiday",
+   "tr": "tatilde",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-162"
+  },
+  {
+   "en": "photo",
+   "tr": "fotoğraf",
+   "alt": [
+    "foto"
+   ],
+   "cat": "Sosyal",
+   "id": "u1-163"
+  },
+  {
+   "en": "computer",
+   "tr": "bilgisayar",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-164"
+  },
+  {
+   "en": "internet",
+   "tr": "internet",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-165"
+  },
+  {
+   "en": "sandwich",
+   "tr": "sandviç",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-166"
+  },
+  {
+   "en": "tennis",
+   "tr": "tenis",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-167"
+  },
+  {
+   "en": "basketball",
+   "tr": "basketbol",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-168"
+  },
+  {
+   "en": "phone",
+   "tr": "telefon",
+   "alt": [],
+   "cat": "Sosyal",
+   "id": "u1-169"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Verb be: olumlu (+) — I am / you are…",
+   "tr": "<b>be</b> fiili Türkçedeki “-im, -sin, -dir” ekleri gibidir: biri/bir şey kim, ne, nereli olduğunu söyler. Konuşmada genelde kısaltma kullanılır.",
+   "table": {
+    "head": [
+     "Özne",
+     "Tam biçim",
+     "Kısaltma"
+    ],
+    "rows": [
+     [
+      "I",
+      "I am",
+      "I'm"
+     ],
+     [
+      "you",
+      "you are",
+      "you're"
+     ],
+     [
+      "he",
+      "he is",
+      "he's"
+     ],
+     [
+      "she",
+      "she is",
+      "she's"
+     ],
+     [
+      "it",
+      "it is",
+      "it's"
+     ],
+     [
+      "we",
+      "we are",
+      "we're"
+     ],
+     [
+      "they",
+      "they are",
+      "they're"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I'm Lola.",
+     "Ben Lola'yım."
+    ],
+    [
+     "She's from Italy.",
+     "O İtalya'lı."
+    ],
+    [
+     "We're in my English class.",
+     "Biz İngilizce sınıfımızdayız."
+    ],
+    [
+     "It's Thursday.",
+     "Bugün Perşembe."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Subject pronouns (özne zamirleri)",
+   "tr": "Cümlenin öznesi olan kelimelerdir. <b>I</b> daima büyük yazılır. <b>he</b> erkek, <b>she</b> kadın, <b>it</b> nesne/hayvan içindir; İngilizcede “o” için üç farklı zamir vardır. Özne cümlede yazılmak zorundadır.",
+   "table": {
+    "head": [
+     "Tekil",
+     "Çoğul"
+    ],
+    "rows": [
+     [
+      "I (ben)",
+      "we (biz)"
+     ],
+     [
+      "you (sen)",
+      "you (siz)"
+     ],
+     [
+      "he / she / it (o)",
+      "they (onlar)"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "This is Mark. He's your teacher.",
+     "Bu Mark. O senin öğretmenin."
+    ],
+    [
+     "Alex and Beth are students. They're at university.",
+     "Alex ve Beth öğrenci. Onlar üniversitede."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Verb be: olumsuz (–) ve soru (?)",
+   "tr": "<b>Olumsuz:</b> be fiilinden sonra <b>not</b> gelir (I'm not, he isn't, we aren't). <b>Soru:</b> be fiili özneden önce gelir. <b>Kısa cevap:</b> Yes, I am. / No, I'm not. (Yes, I'm yazılmaz!) Soru kelimeleri: What? Where? How old?",
+   "table": {
+    "head": [
+     "Olumsuz",
+     "Soru",
+     "Kısa cevap"
+    ],
+    "rows": [
+     [
+      "I'm not",
+      "Am I…?",
+      "Yes, I am. / No, I'm not."
+     ],
+     [
+      "you aren't",
+      "Are you…?",
+      "Yes, you are. / No, you aren't."
+     ],
+     [
+      "he/she/it isn't",
+      "Is he…?",
+      "Yes, he is. / No, he isn't."
+     ],
+     [
+      "we aren't",
+      "Are we…?",
+      "Yes, we are. / No, we aren't."
+     ],
+     [
+      "they aren't",
+      "Are they…?",
+      "Yes, they are. / No, they aren't."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Are you from Spain?",
+     "İspanya'lı mısın?"
+    ],
+    [
+     "She isn't English. She's Scottish.",
+     "O İngiliz değil. İskoç."
+    ],
+    [
+     "What's your name?",
+     "Adın ne?"
+    ],
+    [
+     "Where's she from?",
+     "O nereli?"
+    ],
+    [
+     "No, I'm not American.",
+     "Hayır, Amerikalı değilim."
+    ]
+   ]
+  },
+  {
+   "id": "g4",
+   "title": "Possessive adjectives (iyelik sıfatları)",
+   "tr": "İyelik sıfatları Türkçedeki “-im, -in, -i” iyelik eklerinin karşılığıdır, ismin <b>önüne</b> gelir: my phone = telefonum. <b>Dikkat:</b> you (sen) ≠ your (senin). <b>its</b> (kesme işaretsiz) = “onun” (nesne için); it's = it is.",
+   "table": {
+    "head": [
+     "Özne",
+     "İyelik sıfatı"
+    ],
+    "rows": [
+     [
+      "I",
+      "my"
+     ],
+     [
+      "you",
+      "your"
+     ],
+     [
+      "he",
+      "his"
+     ],
+     [
+      "she",
+      "her"
+     ],
+     [
+      "it",
+      "its"
+     ],
+     [
+      "we",
+      "our"
+     ],
+     [
+      "they",
+      "their"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "What's your surname?",
+     "Soyadın ne?"
+    ],
+    [
+     "It's my phone.",
+     "Bu benim telefonum."
+    ],
+    [
+     "Her name's Daria.",
+     "Onun (kadın) adı Daria."
+    ],
+    [
+     "It's an Italian restaurant. Its name is La Dolce Vita.",
+     "Bu bir İtalyan restoranı. Adı La Dolce Vita."
+    ]
+   ]
+  },
+  {
+   "id": "g5",
+   "title": "Numbers & days (sayılar ve günler)",
+   "tr": "0–20 ayrı kelimelerdir; 13–19 arası <b>-teen</b> ile biter (vurgu -teen'dedir: thirTEEN). 20–90 arası ise <b>-ty</b> ile biter (vurgu başta: THIRty). 21–99 arasında tire kullanılır: ninety-four. Günler ve ülke/uyruk adları <b>büyük harfle</b> yazılır.",
+   "table": {
+    "head": [
+     "13–19",
+     "20–90"
+    ],
+    "rows": [
+     [
+      "thirteen, fourteen, fifteen",
+      "thirty, forty, fifty"
+     ],
+     [
+      "sixteen, seventeen",
+      "sixty, seventy"
+     ],
+     [
+      "eighteen, nineteen",
+      "eighty, ninety"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I have three classes on Monday.",
+     "Pazartesi günü üç dersim var."
+    ],
+    [
+     "ninety-four",
+     "doksan dört"
+    ]
+   ]
+  },
+  {
+   "id": "g6",
+   "title": "Countries & nationalities",
+   "tr": "Ülke adı: “I'm from <b>Japan</b>.” Uyruk: “I'm <b>Japanese</b>.” Her ikisi de büyük harfle yazılır. Bazı ülkelerde “the” kullanılır: the USA, the Czech Republic.",
+   "table": {
+    "head": [
+     "Ülke",
+     "Uyruk"
+    ],
+    "rows": [
+     [
+      "Spain",
+      "Spanish"
+     ],
+     [
+      "Poland",
+      "Polish"
+     ],
+     [
+      "Italy",
+      "Italian"
+     ],
+     [
+      "Türkiye",
+      "Turkish"
+     ],
+     [
+      "Switzerland",
+      "Swiss"
+     ],
+     [
+      "the USA",
+      "American"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Aki is from Japan. He's Japanese.",
+     "Aki Japonya'lı. O Japon."
+    ],
+    [
+     "Fiat cars are Italian. They're from Italy.",
+     "Fiat arabalar İtalyan. İtalya'dan."
+    ]
+   ]
+  },
+  {
+   "id": "g7",
+   "title": "Classroom language & Practical English",
+   "tr": "Sınıfta sık duyacağın emirler fiille başlar: <b>Open</b> your books. <b>Listen</b> and repeat. Yardım isterken kibar kalıplar: <b>Can you…, please?</b> Otelde: <b>Would you like…?</b> (… ister misiniz?) — kabul: Yes, please. Ret: No, thank you.",
+   "table": {
+    "head": [
+     "İngilizce",
+     "Türkçe"
+    ],
+    "rows": [
+     [
+      "How do you spell it?",
+      "Nasıl hecelenir?"
+     ],
+     [
+      "Can you repeat that, please?",
+      "Tekrar eder misiniz lütfen?"
+     ],
+     [
+      "I have a reservation.",
+      "Rezervasyonum var."
+     ],
+     [
+      "Would you like a coffee?",
+      "Kahve ister misiniz?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Can you spell your surname, please?",
+     "Soyadınızı hecelerken söyler misiniz?"
+    ],
+    [
+     "Here's your key.",
+     "İşte anahtarınız."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "verb be",
+   "q": "Is Anna in your salsa class?  No, ___ in my English class!",
+   "answer": [
+    "she's",
+    "she’s"
+   ],
+   "explain": "",
+   "id": "u1-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be",
+   "q": "Alex and Beth are students. ___ at university in London.",
+   "answer": [
+    "They're",
+    "They’re"
+   ],
+   "explain": "",
+   "id": "u1-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be",
+   "q": "Are you and Oliver in Class 2?  No, ___ in Class 3.",
+   "answer": [
+    "we're",
+    "we’re"
+   ],
+   "explain": "",
+   "id": "u1-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be",
+   "q": "This is Mark. ___ your teacher.",
+   "answer": [
+    "He's",
+    "He’s"
+   ],
+   "explain": "",
+   "id": "u1-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be",
+   "q": "How are you?  ___ fine, thanks.",
+   "answer": [
+    "I'm",
+    "I’m"
+   ],
+   "explain": "",
+   "id": "u1-e005"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? sandwich",
+   "options": [
+    "sand",
+    "wich"
+   ],
+   "answer": "sand",
+   "explain": "sand-wich",
+   "id": "u1-e006"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? tennis",
+   "options": [
+    "ten",
+    "nis"
+   ],
+   "answer": "ten",
+   "explain": "ten-nis",
+   "id": "u1-e007"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? eighteen",
+   "options": [
+    "eigh",
+    "teen"
+   ],
+   "answer": "teen",
+   "explain": "eigh-teen",
+   "id": "u1-e008"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? thirteen",
+   "options": [
+    "thir",
+    "teen"
+   ],
+   "answer": "teen",
+   "explain": "thir-teen",
+   "id": "u1-e009"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? basketball",
+   "options": [
+    "bas",
+    "ket",
+    "ball"
+   ],
+   "answer": "bas",
+   "explain": "bas-ket-ball",
+   "id": "u1-e010"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? goodbye",
+   "options": [
+    "good",
+    "bye"
+   ],
+   "answer": "bye",
+   "explain": "good-bye",
+   "id": "u1-e011"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? email",
+   "options": [
+    "e",
+    "mail"
+   ],
+   "answer": "e",
+   "explain": "e-mail",
+   "id": "u1-e012"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? internet",
+   "options": [
+    "in",
+    "ter",
+    "net"
+   ],
+   "answer": "in",
+   "explain": "in-ter-net",
+   "id": "u1-e013"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? computer",
+   "options": [
+    "com",
+    "pu",
+    "ter"
+   ],
+   "answer": "pu",
+   "explain": "com-pu-ter",
+   "id": "u1-e014"
+  },
+  {
+   "type": "mc",
+   "topic": "word stress",
+   "q": "Hangi hece vurgulu? hotel",
+   "options": [
+    "ho",
+    "tel"
+   ],
+   "answer": "tel",
+   "explain": "ho-tel",
+   "id": "u1-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "numbers",
+   "q": "five, seven, nine, ___",
+   "answer": [
+    "eleven"
+   ],
+   "explain": "",
+   "id": "u1-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "numbers",
+   "q": "six, eight, ten, ___",
+   "answer": [
+    "twelve"
+   ],
+   "explain": "",
+   "id": "u1-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "numbers",
+   "q": "sixteen, seventeen, ___",
+   "answer": [
+    "eighteen"
+   ],
+   "explain": "",
+   "id": "u1-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Bratwurst is German. It's from ___.",
+   "answer": [
+    "Germany"
+   ],
+   "explain": "",
+   "id": "u1-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Aki is from Japan. He's ___.",
+   "answer": [
+    "Japanese"
+   ],
+   "explain": "",
+   "id": "u1-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "My friends are Hungarian. They're from ___.",
+   "answer": [
+    "Hungary"
+   ],
+   "explain": "",
+   "id": "u1-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Chloe is from the USA. She's ___.",
+   "answer": [
+    "American"
+   ],
+   "explain": "",
+   "id": "u1-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Fiat cars are Italian. They're from ___.",
+   "answer": [
+    "Italy"
+   ],
+   "explain": "",
+   "id": "u1-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Gazpacho is from Spain. It's ___.",
+   "answer": [
+    "Spanish"
+   ],
+   "explain": "",
+   "id": "u1-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "We're Scottish. We're from ___.",
+   "answer": [
+    "Scotland"
+   ],
+   "explain": "",
+   "id": "u1-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Ivana is from Russia. She's ___.",
+   "answer": [
+    "Russian"
+   ],
+   "explain": "",
+   "id": "u1-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Omar and Laila are from Egypt. They're ___.",
+   "answer": [
+    "Egyptian"
+   ],
+   "explain": "",
+   "id": "u1-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "I'm Czech. I'm from the ___.",
+   "answer": [
+    "Czech Republic"
+   ],
+   "explain": "",
+   "id": "u1-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "India is in ___.",
+   "answer": [
+    "Asia"
+   ],
+   "explain": "",
+   "id": "u1-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Argentina is in ___.",
+   "answer": [
+    "South America"
+   ],
+   "explain": "",
+   "id": "u1-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Poland is in ___.",
+   "answer": [
+    "Europe"
+   ],
+   "explain": "",
+   "id": "u1-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Nigeria is in ___.",
+   "answer": [
+    "Africa"
+   ],
+   "explain": "",
+   "id": "u1-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "The USA is in ___.",
+   "answer": [
+    "North America"
+   ],
+   "explain": "",
+   "id": "u1-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "Sydney is in ___.",
+   "answer": [
+    "Australia"
+   ],
+   "explain": "",
+   "id": "u1-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "countries and nationalities",
+   "q": "The South Pole is in ___.",
+   "answer": [
+    "Antarctica"
+   ],
+   "explain": "",
+   "id": "u1-e035"
+  },
+  {
+   "type": "order",
+   "topic": "verb be",
+   "words": [
+    "your",
+    "What's",
+    "name",
+    "?"
+   ],
+   "answer": "What's your name?",
+   "id": "u1-e036"
+  },
+  {
+   "type": "order",
+   "topic": "verb be",
+   "words": [
+    "she's",
+    "Where",
+    "from",
+    "?"
+   ],
+   "answer": "Where's she from?",
+   "id": "u1-e037"
+  },
+  {
+   "type": "order",
+   "topic": "verb be",
+   "words": [
+    "America",
+    "from",
+    "they",
+    "South",
+    "Are",
+    "?"
+   ],
+   "answer": "Are they from South America?",
+   "id": "u1-e038"
+  },
+  {
+   "type": "order",
+   "topic": "verb be",
+   "words": [
+    "Spain",
+    "you",
+    "Are",
+    "from",
+    "?"
+   ],
+   "answer": "Are you from Spain?",
+   "id": "u1-e039"
+  },
+  {
+   "type": "order",
+   "topic": "verb be",
+   "words": [
+    "from",
+    "he",
+    "Egypt",
+    "Is",
+    "?"
+   ],
+   "answer": "Is he from Egypt?",
+   "id": "u1-e040"
+  },
+  {
+   "type": "order",
+   "topic": "verb be",
+   "words": [
+    "five",
+    "room",
+    "we",
+    "Are",
+    "in",
+    "?"
+   ],
+   "answer": "Are we in room five?",
+   "id": "u1-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [–]",
+   "q": "We're in room 219.  →  We aren't in room 219, ___ in room 309.",
+   "answer": [
+    "we're",
+    "we’re"
+   ],
+   "explain": "",
+   "id": "u1-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [–]",
+   "q": "Sophie is British.  →  She ___ British. She's American.",
+   "answer": [
+    "isn't",
+    "isn’t"
+   ],
+   "explain": "",
+   "id": "u1-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [–]",
+   "q": "Parmesan is from France.  →  It ___ from France. It's from Italy.",
+   "answer": [
+    "isn't",
+    "isn’t"
+   ],
+   "explain": "",
+   "id": "u1-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [–]",
+   "q": "You're Scottish.  →  I ___ Scottish. I'm Irish.",
+   "answer": [
+    "'m not",
+    "’m not",
+    "am not"
+   ],
+   "explain": "",
+   "id": "u1-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [–]",
+   "q": "The tango is Brazilian.  →  It isn't Brazilian. It's ___.",
+   "answer": [
+    "Argentinian",
+    "Argentinean"
+   ],
+   "explain": "",
+   "id": "u1-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [?]",
+   "q": "A: ___ you a student?  B: Yes, I am. I'm a student at a language school.",
+   "answer": [
+    "Are"
+   ],
+   "explain": "",
+   "id": "u1-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [?]",
+   "q": "A: ___ your teacher from?  B: My teacher is from the UK.",
+   "answer": [
+    "Where's",
+    "Where is"
+   ],
+   "explain": "",
+   "id": "u1-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [?]",
+   "q": "A: ___ she English?  B: No, she isn't English. She's Scottish.",
+   "answer": [
+    "Is"
+   ],
+   "explain": "",
+   "id": "u1-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [?]",
+   "q": "A: ___ are you from?  B: I'm from Guadalajara in Mexico.",
+   "answer": [
+    "Where"
+   ],
+   "explain": "",
+   "id": "u1-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "verb be [?]",
+   "q": "A: ___ your name?  B: My name's Dani.",
+   "answer": [
+    "What's",
+    "What is"
+   ],
+   "explain": "",
+   "id": "u1-e051"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Answer ...” cümlesini tamamla",
+   "options": [
+    "the questions",
+    "at the board",
+    "to page 25",
+    "exercise c"
+   ],
+   "answer": "the questions",
+   "explain": "",
+   "id": "u1-e052"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Close ...” cümlesini tamamla",
+   "options": [
+    "down",
+    "the door",
+    "up",
+    "in pairs"
+   ],
+   "answer": "the door",
+   "explain": "",
+   "id": "u1-e053"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Complete ...” cümlesini tamamla",
+   "options": [
+    "exercise c",
+    "down",
+    "at the board",
+    "the questions"
+   ],
+   "answer": "exercise c",
+   "explain": "",
+   "id": "u1-e054"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Go ...” cümlesini tamamla",
+   "options": [
+    "and repeat",
+    "to page 25",
+    "your books",
+    "the door"
+   ],
+   "answer": "to page 25",
+   "explain": "",
+   "id": "u1-e055"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Listen ...” cümlesini tamamla",
+   "options": [
+    "your phone",
+    "the questions",
+    "in pairs",
+    "and repeat"
+   ],
+   "answer": "and repeat",
+   "explain": "",
+   "id": "u1-e056"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Open ...” cümlesini tamamla",
+   "options": [
+    "down",
+    "your phone",
+    "your books",
+    "the questions"
+   ],
+   "answer": "your books",
+   "explain": "",
+   "id": "u1-e057"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Read ...” cümlesini tamamla",
+   "options": [
+    "the text",
+    "your phone",
+    "your books",
+    "to page 25"
+   ],
+   "answer": "the text",
+   "explain": "",
+   "id": "u1-e058"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Sit ...” cümlesini tamamla",
+   "options": [
+    "and repeat",
+    "up",
+    "the questions",
+    "down"
+   ],
+   "answer": "down",
+   "explain": "",
+   "id": "u1-e059"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Stand ...” cümlesini tamamla",
+   "options": [
+    "exercise c",
+    "and repeat",
+    "up",
+    "the door"
+   ],
+   "answer": "up",
+   "explain": "",
+   "id": "u1-e060"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Turn off ...” cümlesini tamamla",
+   "options": [
+    "up",
+    "to page 25",
+    "your phone",
+    "and repeat"
+   ],
+   "answer": "your phone",
+   "explain": "",
+   "id": "u1-e061"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Look ...” cümlesini tamamla",
+   "options": [
+    "the questions",
+    "the text",
+    "up",
+    "at the board"
+   ],
+   "answer": "at the board",
+   "explain": "",
+   "id": "u1-e062"
+  },
+  {
+   "type": "mc",
+   "topic": "classroom language",
+   "q": "“Work ...” cümlesini tamamla",
+   "options": [
+    "in pairs",
+    "exercise c",
+    "the text",
+    "your books"
+   ],
+   "answer": "in pairs",
+   "explain": "",
+   "id": "u1-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "I don't ___ . Can you repeat that, please?",
+   "answer": [
+    "understand"
+   ],
+   "explain": "",
+   "id": "u1-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "Sorry, I'm ___ .",
+   "answer": [
+    "late"
+   ],
+   "explain": "",
+   "id": "u1-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "Can I have a ___ , please?",
+   "answer": [
+    "copy"
+   ],
+   "explain": "",
+   "id": "u1-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "How do you ___ it?",
+   "answer": [
+    "spell"
+   ],
+   "explain": "",
+   "id": "u1-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "What ___ is it?",
+   "answer": [
+    "page"
+   ],
+   "explain": "",
+   "id": "u1-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "How do you ___ ‘holnap’ in English?",
+   "answer": [
+    "say"
+   ],
+   "explain": "",
+   "id": "u1-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "Can you ___ me, please?",
+   "answer": [
+    "help"
+   ],
+   "explain": "",
+   "id": "u1-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "Sorry, can you ___ that, please?",
+   "answer": [
+    "repeat"
+   ],
+   "explain": "",
+   "id": "u1-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "classroom language",
+   "q": "I don't ___ .",
+   "answer": [
+    "know"
+   ],
+   "explain": "",
+   "id": "u1-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive adjectives",
+   "q": "___ name's Edward. He's from Australia.",
+   "answer": [
+    "His"
+   ],
+   "explain": "",
+   "id": "u1-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive adjectives",
+   "q": "It's an Italian restaurant. ___ name is La Dolce Vita.",
+   "answer": [
+    "Its"
+   ],
+   "explain": "",
+   "id": "u1-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "possessive adjectives",
+   "q": "A: What's ___ phone number?  B: My mobile number? It's 07700 900671.",
+   "answer": [
+    "your"
+   ],
+   "explain": "",
+   "id": "u1-e075"
+  },
+  {
+   "type": "mc",
+   "topic": "possessive adjectives",
+   "q": "What's ___ first name?",
+   "options": [
+    "you",
+    "your"
+   ],
+   "answer": "your",
+   "explain": "",
+   "id": "u1-e076"
+  },
+  {
+   "type": "mc",
+   "topic": "possessive adjectives",
+   "q": "What's ___ email address?",
+   "options": [
+    "you",
+    "your"
+   ],
+   "answer": "your",
+   "explain": "",
+   "id": "u1-e077"
+  },
+  {
+   "type": "mc",
+   "topic": "possessive adjectives",
+   "q": "Where are ___ from?",
+   "options": [
+    "you",
+    "your"
+   ],
+   "answer": "you",
+   "explain": "",
+   "id": "u1-e078"
+  },
+  {
+   "type": "mc",
+   "topic": "possessive adjectives",
+   "q": "How old are ___ ?",
+   "options": [
+    "you",
+    "your"
+   ],
+   "answer": "you",
+   "explain": "",
+   "id": "u1-e079"
+  },
+  {
+   "type": "mc",
+   "topic": "possessive adjectives",
+   "q": "Her name's Daria. ___ name's Edward. (he)",
+   "options": [
+    "His",
+    "Her",
+    "Its"
+   ],
+   "answer": "His",
+   "explain": "",
+   "id": "u1-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "I have a ___ for three nights.",
+   "answer": [
+    "reservation"
+   ],
+   "explain": "",
+   "id": "u1-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "Can you ___ here, please?",
+   "answer": [
+    "sign"
+   ],
+   "explain": "",
+   "id": "u1-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "The ___ is over there.",
+   "answer": [
+    "lift"
+   ],
+   "explain": "",
+   "id": "u1-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "Can you ___ your surname, please?",
+   "answer": [
+    "spell"
+   ],
+   "explain": "",
+   "id": "u1-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "Here's your ___ .",
+   "answer": [
+    "key"
+   ],
+   "explain": "",
+   "id": "u1-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "Just a ___ .",
+   "answer": [
+    "moment"
+   ],
+   "explain": "",
+   "id": "u1-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel",
+   "q": "Thank ___ .",
+   "answer": [
+    "you"
+   ],
+   "explain": "",
+   "id": "u1-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "social English",
+   "q": "A: Would you like a coffee?  B: Yes, ___ .",
+   "answer": [
+    "please"
+   ],
+   "explain": "",
+   "id": "u1-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "social English",
+   "q": "A: Would you ___ a coffee?",
+   "answer": [
+    "like"
+   ],
+   "explain": "",
+   "id": "u1-e089"
+  },
+  {
+   "type": "fill",
+   "topic": "social English",
+   "q": "A: Thank you.  B: You're ___ .",
+   "answer": [
+    "welcome"
+   ],
+   "explain": "",
+   "id": "u1-e090"
+  },
+  {
+   "type": "fill",
+   "topic": "social English",
+   "q": "What do you ___ of Glasgow?  It's nice. I like it.",
+   "answer": [
+    "think"
+   ],
+   "explain": "",
+   "id": "u1-e091"
+  },
+  {
+   "type": "fill",
+   "topic": "social English",
+   "q": "You're Spanish, ___ ?  Yes, I am.",
+   "answer": [
+    "right"
+   ],
+   "explain": "",
+   "id": "u1-e092"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "four",
+    "nineteen",
+    "eleven",
+    "today"
+   ],
+   "answer": "today",
+   "explain": "Diğerleri sayı",
+   "id": "u1-e093"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "thirteen",
+    "forty",
+    "seventy",
+    "ninety"
+   ],
+   "answer": "thirteen",
+   "explain": "Diğerleri -ty ile biter",
+   "id": "u1-e094"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "Polish",
+    "Mexico",
+    "Italy",
+    "Russia"
+   ],
+   "answer": "Polish",
+   "explain": "Diğerleri ülke",
+   "id": "u1-e095"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "China",
+    "Europe",
+    "Spain",
+    "Türkiye"
+   ],
+   "answer": "Europe",
+   "explain": "Diğerleri ülke; Europe kıta",
+   "id": "u1-e096"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "Japanese",
+    "Irish",
+    "Swiss",
+    "Germany"
+   ],
+   "answer": "Germany",
+   "explain": "Diğerleri uyruk",
+   "id": "u1-e097"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "listen",
+    "understand",
+    "answer",
+    "door"
+   ],
+   "answer": "door",
+   "explain": "Diğerleri fiil",
+   "id": "u1-e098"
+  },
+  {
+   "type": "mc",
+   "topic": "odd one out",
+   "q": "Farklı olan hangisi?",
+   "options": [
+    "desk",
+    "repeat",
+    "table",
+    "chair"
+   ],
+   "answer": "repeat",
+   "explain": "Diğerleri eşya",
+   "id": "u1-e099"
+  }
+ ],
+ "skipped": [
+  "s.5 Alıştırma 1b (resimli cümleler) ve 1c madde 1 ve 5 (OCR bozuk)",
+  "s.5 Ünsüz/ünlü sesleri tablosu ve dinleme alıştırmaları (ses dosyası gerekir)",
+  "s.6 Günlerin eksik harflerini tamamlama (resimli/OCR bozuk) ve ders programı tablosu",
+  "s.7 Sayıları yazıyla yazma (21-100) ve telaffuz alıştırmaları (ses gerekir)",
+  "s.8 3a eşleştirme (b), 3c madde 1,3,4 ve 3d'nin ilk soruları (OCR bozuk), 3e (kişisel cevaplar)",
+  "s.9 Sınıf nesneleri resimli alıştırması, alfabe/telaffuz",
+  "s.10 3b madde 3-5, 3c resimli cümleler, 3e (kişisel)",
+  "s.11 Otel kelimeleri 1 (madde 2,4,5 OCR bozuk), Checking in diyalog, Would you like... resimli diyalog ve Social English madde 3-5",
+  "s.12 Can you remember: gramer ve okuma bölümleri (OCR bozuk), telaffuz bölümü ve 'Monday Wednesday Saturday' sorusu"
+ ]
+}
