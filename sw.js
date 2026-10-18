@@ -1,4 +1,4 @@
-const V='ef-v1';
+const V='ef-v2';
 const FILES=['./','index.html','style.css','app.js','manifest.webmanifest','icons/icon.svg','icons/icon-maskable.svg','bg.jpg','data/units.json','data/unit1.json'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});

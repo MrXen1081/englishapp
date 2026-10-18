@@ -143,7 +143,8 @@ function quizHome(){
   bindChips(qcfg);
   $('#go').onclick=()=>{const items=shuffle(U.exercises.filter(e=>qcfg.type==='all'||e.type===qcfg.type)).slice(0,qcfg.size);Q={items,i:0,score:0,wrong:[]};quizStep()};
 }
-const fullText=(e,a)=>e.type==='order'?e.answer:e.q.replace(/___+/,a);
+const ordTok=a=>{const m=a.trim().match(/^(.*?)([?.!]*)$/);return m[1].split(/\s+/).filter(Boolean).concat(m[2]?[m[2]]:[])};
+const fullText=(e,a)=>e.type==='order'?e.answer:/___+/.test(e.q)?e.q.replace(/___+/,a):/\.\.\./.test(e.q)?e.q.replace(/^.*?“(.*?)”.*$/,'$1').replace('...',a):e.topic==='word stress'?e.q.replace(/^.*\?\s*/,''):a;
 function quizStep(){
   if(Q.i>=Q.items.length)return quizEnd();
   const e=Q.items[Q.i];
@@ -162,12 +163,12 @@ function quizStep(){
       const ok=e.answer.some(a=>normEn(a)===normEn(inp.value));inp.disabled=true;$('#chk').remove();done(ok,inp.value,e.answer[0])};
     $('#chk').onclick=go;inp.onkeydown=ev=>{if(ev.key==='Enter')go()};
   }else{
-    let pool=shuffle(e.words.map((w,i)=>({w,i}))),sel=[];
-    const draw=()=>{app.innerHTML=`<div class="card">${head}<p class="muted center">Kelimeleri doğru sıraya diz</p><div class="words" id="sel">${sel.map(x=>`<button class="w" data-i="${x.i}">${esc(x.w)}</button>`).join('')}</div><div class="words" id="pool" style="border-style:solid">${pool.map(x=>`<button class="w" data-i="${x.i}">${esc(x.w)}</button>`).join('')}</div><div id="fb"></div><div id="ctl" style="display:flex;gap:10px"><button class="btn" id="clr">Temizle</button><button class="btn primary" id="chk" style="flex:1" ${pool.length?'disabled':''}>Kontrol et</button></div></div>`;
+    let pool=shuffle(ordTok(e.answer).map((w,i)=>({w,i}))),sel=[];
+    const draw=()=>{app.innerHTML=`<div class="card">${head}<p class="muted center">Kelimeleri doğru sıraya diz</p><div class="words" id="sel">${sel.map(x=>`<button class="w" data-i="${x.i}">${esc(x.w)}</button>`).join('')}</div><div class="words" id="pool" style="border-style:solid">${pool.map(x=>`<button class="w" data-i="${x.i}">${esc(x.w)}</button>`).join('')}</div><div id="fb"></div><div id="ctl" style="display:flex;gap:10px"><button class="btn" id="clr">Temizle</button><button class="btn primary" id="chk" style="flex:1" ${pool.length||!sel.length?'disabled':''}>Kontrol et</button></div></div>`;
       $('#pool').onclick=ev=>{const b=ev.target.closest('.w');if(!b)return;const x=pool.find(p=>p.i==b.dataset.i);pool=pool.filter(p=>p!==x);sel.push(x);draw()};
       $('#sel').onclick=ev=>{const b=ev.target.closest('.w');if(!b)return;const x=sel.find(p=>p.i==b.dataset.i);sel=sel.filter(p=>p!==x);pool.push(x);draw()};
       $('#clr').onclick=()=>{pool=pool.concat(sel);sel=[];draw()};
-      $('#chk').onclick=()=>{const g=sel.map(x=>x.w).join(' ');const ok=normEn(g)===normEn(e.answer);app.querySelectorAll('.w').forEach(x=>x.disabled=true);$('#ctl').remove();done(ok,g,e.answer)};
+      $('#chk').onclick=()=>{if(!sel.length||pool.length){$('#fb').innerHTML='<div class="fb bad">Önce kelimeleri diz</div>';return}const g=sel.map(x=>x.w).join(' ').replace(/ ([?.!])$/,'$1');const ok=normEn(g)===normEn(e.answer);app.querySelectorAll('.w').forEach(x=>x.disabled=true);$('#ctl').remove();done(ok,g,e.answer)};
     };draw();
   }
 }
