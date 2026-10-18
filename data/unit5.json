@@ -1,0 +1,1792 @@
+{
+ "unit": 5,
+ "title": "Unit 5",
+ "source": "English File 5th ed. Elementary Workbook, Unit 5 (s.33-39)",
+ "vocab": [
+  {
+   "en": "buy a pizza",
+   "tr": "pizza almak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-001"
+  },
+  {
+   "en": "paint a picture",
+   "tr": "resim yapmak",
+   "alt": [
+    "tablo yapmak",
+    "boyamak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-002"
+  },
+  {
+   "en": "draw a picture",
+   "tr": "resim çizmek",
+   "alt": [
+    "çizim yapmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-003"
+  },
+  {
+   "en": "look for your keys",
+   "tr": "anahtarlarını aramak",
+   "alt": [
+    "anahtarına bakmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-004"
+  },
+  {
+   "en": "run a race",
+   "tr": "yarış koşmak",
+   "alt": [
+    "koşu yarışına katılmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-005"
+  },
+  {
+   "en": "send a message",
+   "tr": "mesaj göndermek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-006"
+  },
+  {
+   "en": "swim in the sea",
+   "tr": "denizde yüzmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-007"
+  },
+  {
+   "en": "take a photo",
+   "tr": "fotoğraf çekmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-008"
+  },
+  {
+   "en": "wait for a bus",
+   "tr": "otobüs beklemek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-009"
+  },
+  {
+   "en": "call a taxi",
+   "tr": "taksi çağırmak",
+   "alt": [
+    "taksi aramak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-010"
+  },
+  {
+   "en": "use an app",
+   "tr": "uygulama kullanmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-011"
+  },
+  {
+   "en": "meet a friend",
+   "tr": "bir arkadaşla buluşmak",
+   "alt": [
+    "arkadaşla tanışmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-012"
+  },
+  {
+   "en": "forget somebody's name",
+   "tr": "birinin adını unutmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-013"
+  },
+  {
+   "en": "remember somebody's name",
+   "tr": "birinin adını hatırlamak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-014"
+  },
+  {
+   "en": "give somebody flowers",
+   "tr": "birine çiçek vermek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-015"
+  },
+  {
+   "en": "sing",
+   "tr": "şarkı söylemek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-016"
+  },
+  {
+   "en": "dance",
+   "tr": "dans etmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-017"
+  },
+  {
+   "en": "leave your bag",
+   "tr": "çantanı bırakmak",
+   "alt": [
+    "çantanı unutmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-018"
+  },
+  {
+   "en": "tell a secret",
+   "tr": "sır söylemek",
+   "alt": [
+    "sır vermek"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u5-019"
+  },
+  {
+   "en": "find a parking space",
+   "tr": "park yeri bulmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-020"
+  },
+  {
+   "en": "talk to the teacher",
+   "tr": "öğretmenle konuşmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u5-021"
+  },
+  {
+   "en": "play loud music",
+   "tr": "yüksek sesle müzik çalmak",
+   "alt": [
+    "yüksek sesle müzik dinlemek"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-022"
+  },
+  {
+   "en": "make a lot of noise",
+   "tr": "çok gürültü yapmak",
+   "alt": [
+    "çok ses çıkarmak"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-023"
+  },
+  {
+   "en": "practise with your band",
+   "tr": "grubunla prova yapmak",
+   "alt": [
+    "grubunla çalışmak"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-024"
+  },
+  {
+   "en": "bark",
+   "tr": "havlamak",
+   "alt": [],
+   "cat": "Gürültü",
+   "id": "u5-025"
+  },
+  {
+   "en": "cry",
+   "tr": "ağlamak",
+   "alt": [],
+   "cat": "Gürültü",
+   "id": "u5-026"
+  },
+  {
+   "en": "argue",
+   "tr": "tartışmak",
+   "alt": [
+    "kavga etmek"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-027"
+  },
+  {
+   "en": "have a party",
+   "tr": "parti vermek",
+   "alt": [
+    "parti yapmak"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-028"
+  },
+  {
+   "en": "ping",
+   "tr": "bildirim sesi çıkarmak",
+   "alt": [
+    "bip sesi çıkarmak"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-029"
+  },
+  {
+   "en": "have the TV on",
+   "tr": "televizyon açık olmak",
+   "alt": [
+    "televizyonu açık tutmak"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-030"
+  },
+  {
+   "en": "at the moment",
+   "tr": "şu anda",
+   "alt": [
+    "şu sıralar"
+   ],
+   "cat": "Gürültü",
+   "id": "u5-031"
+  },
+  {
+   "en": "this week",
+   "tr": "bu hafta",
+   "alt": [],
+   "cat": "Gürültü",
+   "id": "u5-032"
+  },
+  {
+   "en": "today",
+   "tr": "bugün",
+   "alt": [],
+   "cat": "Gürültü",
+   "id": "u5-033"
+  },
+  {
+   "en": "sunny",
+   "tr": "güneşli",
+   "alt": [],
+   "cat": "Hava & mevsim",
+   "id": "u5-034"
+  },
+  {
+   "en": "cloudy",
+   "tr": "bulutlu",
+   "alt": [],
+   "cat": "Hava & mevsim",
+   "id": "u5-035"
+  },
+  {
+   "en": "raining",
+   "tr": "yağmur yağıyor",
+   "alt": [
+    "yağmurlu"
+   ],
+   "cat": "Hava & mevsim",
+   "id": "u5-036"
+  },
+  {
+   "en": "snowing",
+   "tr": "kar yağıyor",
+   "alt": [
+    "karlı"
+   ],
+   "cat": "Hava & mevsim",
+   "id": "u5-037"
+  },
+  {
+   "en": "wet",
+   "tr": "ıslak",
+   "alt": [
+    "yağışlı"
+   ],
+   "cat": "Hava & mevsim",
+   "id": "u5-038"
+  },
+  {
+   "en": "hot",
+   "tr": "sıcak",
+   "alt": [],
+   "cat": "Hava & mevsim",
+   "id": "u5-039"
+  },
+  {
+   "en": "summer",
+   "tr": "yaz",
+   "alt": [],
+   "cat": "Hava & mevsim",
+   "id": "u5-040"
+  },
+  {
+   "en": "winter",
+   "tr": "kış",
+   "alt": [],
+   "cat": "Hava & mevsim",
+   "id": "u5-041"
+  },
+  {
+   "en": "jacket",
+   "tr": "ceket",
+   "alt": [],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-042"
+  },
+  {
+   "en": "sweater",
+   "tr": "kazak",
+   "alt": [
+    "süveter"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-043"
+  },
+  {
+   "en": "shoes",
+   "tr": "ayakkabılar",
+   "alt": [
+    "ayakkabı"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-044"
+  },
+  {
+   "en": "skirt",
+   "tr": "etek",
+   "alt": [],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-045"
+  },
+  {
+   "en": "jeans",
+   "tr": "kot pantolon",
+   "alt": [
+    "kot",
+    "jean"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-046"
+  },
+  {
+   "en": "trousers",
+   "tr": "pantolon",
+   "alt": [],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-047"
+  },
+  {
+   "en": "shirt",
+   "tr": "gömlek",
+   "alt": [],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-048"
+  },
+  {
+   "en": "medium",
+   "tr": "orta beden",
+   "alt": [
+    "M beden"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-049"
+  },
+  {
+   "en": "large",
+   "tr": "büyük beden",
+   "alt": [
+    "L beden"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-050"
+  },
+  {
+   "en": "extra large",
+   "tr": "ekstra büyük beden",
+   "alt": [
+    "XL beden"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-051"
+  },
+  {
+   "en": "changing rooms",
+   "tr": "soyunma kabinleri",
+   "alt": [
+    "deneme kabinleri"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-052"
+  },
+  {
+   "en": "try it on",
+   "tr": "denemek",
+   "alt": [
+    "üzerinde denemek"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-053"
+  },
+  {
+   "en": "What size is this shirt?",
+   "tr": "Bu gömleğin bedeni ne?",
+   "alt": [
+    "bu gömlek kaç beden?"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-054"
+  },
+  {
+   "en": "How much is it?",
+   "tr": "Ne kadar?",
+   "alt": [
+    "fiyatı ne kadar?"
+   ],
+   "cat": "Giysi & alışveriş",
+   "id": "u5-055"
+  },
+  {
+   "en": "Buckingham Palace",
+   "tr": "Buckingham Sarayı",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-056"
+  },
+  {
+   "en": "Westminster Abbey",
+   "tr": "Westminster Manastırı",
+   "alt": [
+    "Westminster Abbey"
+   ],
+   "cat": "Londra",
+   "id": "u5-057"
+  },
+  {
+   "en": "Covent Garden",
+   "tr": "Covent Garden",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-058"
+  },
+  {
+   "en": "Piccadilly Circus",
+   "tr": "Piccadilly Circus",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-059"
+  },
+  {
+   "en": "Leicester Square",
+   "tr": "Leicester Meydanı",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-060"
+  },
+  {
+   "en": "the Houses of Parliament",
+   "tr": "Parlamento Binası",
+   "alt": [
+    "Parlamento"
+   ],
+   "cat": "Londra",
+   "id": "u5-061"
+  },
+  {
+   "en": "Trafalgar Square",
+   "tr": "Trafalgar Meydanı",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-062"
+  },
+  {
+   "en": "Wembley Stadium",
+   "tr": "Wembley Stadyumu",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-063"
+  },
+  {
+   "en": "museum",
+   "tr": "müze",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-064"
+  },
+  {
+   "en": "dinosaur",
+   "tr": "dinozor",
+   "alt": [],
+   "cat": "Londra",
+   "id": "u5-065"
+  },
+  {
+   "en": "Follow me.",
+   "tr": "Beni takip et.",
+   "alt": [
+    "Arkamdan gel."
+   ],
+   "cat": "Sosyal İngilizce",
+   "id": "u5-066"
+  },
+  {
+   "en": "I'm in your hands.",
+   "tr": "Kendimi sana teslim ediyorum.",
+   "alt": [
+    "Sana güveniyorum."
+   ],
+   "cat": "Sosyal İngilizce",
+   "id": "u5-067"
+  },
+  {
+   "en": "Say 'hi' to...",
+   "tr": "...'e selam söyle.",
+   "alt": [
+    "selamımı ilet"
+   ],
+   "cat": "Sosyal İngilizce",
+   "id": "u5-068"
+  },
+  {
+   "en": "You look great.",
+   "tr": "Harika görünüyorsun.",
+   "alt": [
+    "çok güzel görünüyorsun"
+   ],
+   "cat": "Sosyal İngilizce",
+   "id": "u5-069"
+  },
+  {
+   "en": "Do you want to go in?",
+   "tr": "İçeri girmek ister misin?",
+   "alt": [],
+   "cat": "Sosyal İngilizce",
+   "id": "u5-070"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "can / can't",
+   "tr": "<b>can + fiil (yalın)</b> tüm özneler için aynıdır (he can, <b>can't</b> = cannot). can'den sonra to kullanılmaz. Anlamları: <b>1</b> yetenek (I can sing = nasıl yapılacağını bilirim), <b>2</b> olasılık (I can come on Tuesday), <b>3</b> izin (You can park here), <b>4</b> rica (Can you help me?).",
+   "table": {
+    "head": [
+     "Özne",
+     "Olumlu",
+     "Olumsuz"
+    ],
+    "rows": [
+     [
+      "I / You / He / She / It / We / They",
+      "can help",
+      "can't help"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I can sing, but I can't dance.",
+     "Şarkı söyleyebilirim ama dans edemem."
+    ],
+    [
+     "You can park here. You can't park there.",
+     "Buraya park edebilirsin. Oraya edemezsin."
+    ],
+    [
+     "Can you help me?",
+     "Bana yardım edebilir misin?"
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "can ? (soru) ve kısa cevaplar",
+   "tr": "Soruda <b>can</b> öznenin önüne gelir: Can + özne + fiil. Kısa cevap: Yes, I can. / No, I can't.",
+   "table": {
+    "head": [
+     "Soru",
+     "Kısa cevap"
+    ],
+    "rows": [
+     [
+      "Can you speak German?",
+      "Yes, I can. / No, I can't."
+     ],
+     [
+      "Can he help?",
+      "Yes, he can. / No, he can't."
+     ],
+     [
+      "Can they come?",
+      "Yes, they can. / No, they can't."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Can I open the window?",
+     "Pencereyi açabilir miyim?"
+    ],
+    [
+     "Where can I buy a newspaper?",
+     "Nereden gazete alabilirim?"
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Present continuous: kullanım",
+   "tr": "<b>Şu anda / şu sıralarda</b> olan şeyler için kullanılır (now, at the moment). today, this week, this month gibi daha uzun ama <b>geçici</b> dönemlerle de kullanılır: bir alışkanlık değil, geçici bir durum vurgulanır.",
+   "table": {
+    "head": [
+     "Kullanım",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "şu anda",
+      "The baby's crying."
+     ],
+     [
+      "şu sıralarda",
+      "I'm reading a good book at the moment."
+     ],
+     [
+      "geçici dönem",
+      "I'm working at home this week."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "They're having a party next door.",
+     "Yan evde parti veriyorlar."
+    ],
+    [
+     "What are you doing? — I'm waiting for my brother.",
+     "Ne yapıyorsun? — Kardeşimi bekliyorum."
+    ]
+   ]
+  },
+  {
+   "id": "g4",
+   "title": "Present continuous: biçim ve yazım",
+   "tr": "<b>be (am / is / are) + fiil + -ing</b>. Olumsuz: be + not + -ing. Soru: be + özne + -ing. Yazım: çoğu fiile <b>-ing</b> (cook → cooking); <b>-y</b> ile bitenlerde y kalır (study → studying); <b>-e</b> ile bitenlerde e düşer (dance → dancing); <b>tek ünlü + tek ünsüz</b> ile bitenlerde ünsüz ikilenir (shop → shopping).",
+   "table": {
+    "head": [
+     "+",
+     "−",
+     "?"
+    ],
+    "rows": [
+     [
+      "I'm working",
+      "I'm not working",
+      "Am I working?"
+     ],
+     [
+      "You're working",
+      "You aren't working",
+      "Are you working?"
+     ],
+     [
+      "He's working",
+      "He isn't working",
+      "Is he working?"
+     ],
+     [
+      "We're working",
+      "We aren't working",
+      "Are we working?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "It's raining.",
+     "Yağmur yağıyor."
+    ],
+    [
+     "We aren't dancing.",
+     "Dans etmiyoruz."
+    ],
+    [
+     "Is the waiter coming?",
+     "Garson geliyor mu?"
+    ]
+   ]
+  },
+  {
+   "id": "g5",
+   "title": "Present simple mı, present continuous mı?",
+   "tr": "<b>Present simple</b>: genellikle yaptığımız ya da normalde doğru olan şeyler (often, always, once a week gibi sıklık ifadeleriyle). <b>Present continuous</b>: şu anda ya da şu sıralarda olan şeyler (now, at the moment, today, this week). <b>What do you do?</b> = Mesleğin ne? <b>What are you doing?</b> = Şu anda ne yapıyorsun?",
+   "table": {
+    "head": [
+     "Present simple",
+     "Present continuous"
+    ],
+    "rows": [
+     [
+      "It often snows here in winter.",
+      "Look! It's snowing."
+     ],
+     [
+      "What do you usually do at work?",
+      "What are you doing now?"
+     ],
+     [
+      "My sister works in a bank.",
+      "Today she's working at home."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "What do you do? — I'm a teacher.",
+     "Ne iş yapıyorsun? — Öğretmenim."
+    ],
+    [
+     "What are you doing? — I'm waiting for a friend.",
+     "Ne yapıyorsun? — Bir arkadaşımı bekliyorum."
+    ]
+   ]
+  },
+  {
+   "id": "g6",
+   "title": "this / these",
+   "tr": "Yakındaki tek bir şey için <b>this</b>, yakındaki birden çok şey için <b>these</b> kullanılır: This jacket is a medium. These jeans are an extra large.",
+   "table": {
+    "head": [
+     "Tekil",
+     "Çoğul"
+    ],
+    "rows": [
+     [
+      "this jacket",
+      "these shoes"
+     ],
+     [
+      "this skirt",
+      "these trousers"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "What size is this sweater?",
+     "Bu kazak kaç beden?"
+    ],
+    [
+     "Do you like these shoes?",
+     "Bu ayakkabıları beğendin mi?"
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ a pizza",
+   "answer": [
+    "buy"
+   ],
+   "explain": "",
+   "id": "u5-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ a picture (p…)",
+   "answer": [
+    "paint"
+   ],
+   "explain": "",
+   "id": "u5-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ for your keys",
+   "answer": [
+    "look"
+   ],
+   "explain": "",
+   "id": "u5-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ a race",
+   "answer": [
+    "run"
+   ],
+   "explain": "",
+   "id": "u5-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ a message",
+   "answer": [
+    "send"
+   ],
+   "explain": "",
+   "id": "u5-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ in the sea",
+   "answer": [
+    "swim"
+   ],
+   "explain": "",
+   "id": "u5-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ a photo",
+   "answer": [
+    "take"
+   ],
+   "explain": "",
+   "id": "u5-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "___ for a bus",
+   "answer": [
+    "wait"
+   ],
+   "explain": "",
+   "id": "u5-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "Please ___ me. I can't open the door.",
+   "answer": [
+    "help"
+   ],
+   "explain": "",
+   "id": "u5-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "Don't ___ your bag in the car. Take it with you.",
+   "answer": [
+    "leave"
+   ],
+   "explain": "",
+   "id": "u5-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "Who do you usually ___ your secrets to?",
+   "answer": [
+    "tell"
+   ],
+   "explain": "",
+   "id": "u5-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "How often do you ___ to do something difficult?",
+   "answer": [
+    "try"
+   ],
+   "explain": "",
+   "id": "u5-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "Hi, this is Paul. Can you ___ me?",
+   "answer": [
+    "hear"
+   ],
+   "explain": "",
+   "id": "u5-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "I don't understand this. I need to ___ to the teacher.",
+   "answer": [
+    "talk"
+   ],
+   "explain": "",
+   "id": "u5-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "verb phrases",
+   "q": "We can't ___ a parking space. There are a lot of cars.",
+   "answer": [
+    "find"
+   ],
+   "explain": "",
+   "id": "u5-e015"
+  },
+  {
+   "type": "mc",
+   "topic": "can / can't",
+   "q": "Can you give me my glasses?",
+   "options": [
+    "I can't come before then.",
+    "I can't see.",
+    "I can't find my phone."
+   ],
+   "answer": "I can't see.",
+   "explain": "",
+   "id": "u5-e016"
+  },
+  {
+   "type": "mc",
+   "topic": "can / can't",
+   "q": "Can you call my mum?",
+   "options": [
+    "I can't see.",
+    "I can't find my phone.",
+    "I can't understand you."
+   ],
+   "answer": "I can't find my phone.",
+   "explain": "",
+   "id": "u5-e017"
+  },
+  {
+   "type": "mc",
+   "topic": "can / can't",
+   "q": "Can you speak more slowly?",
+   "options": [
+    "I can't find my phone.",
+    "I can't understand you.",
+    "I can't remember it."
+   ],
+   "answer": "I can't understand you.",
+   "explain": "",
+   "id": "u5-e018"
+  },
+  {
+   "type": "mc",
+   "topic": "can / can't",
+   "q": "Can you make dinner for 8.30?",
+   "options": [
+    "I can't come before then.",
+    "I can't understand you.",
+    "I can't remember it."
+   ],
+   "answer": "I can't come before then.",
+   "explain": "",
+   "id": "u5-e019"
+  },
+  {
+   "type": "mc",
+   "topic": "can / can't",
+   "q": "Can you tell me your name again?",
+   "options": [
+    "I can't come before then.",
+    "I can't find my phone.",
+    "I can't remember it."
+   ],
+   "answer": "I can't remember it.",
+   "explain": "",
+   "id": "u5-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Do you ___ the TV on when you're having dinner?",
+   "answer": [
+    "have"
+   ],
+   "explain": "",
+   "id": "u5-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Does your dog ___ when you get home?",
+   "answer": [
+    "bark"
+   ],
+   "explain": "",
+   "id": "u5-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Do you ___ when you're watching a sad film?",
+   "answer": [
+    "cry"
+   ],
+   "explain": "",
+   "id": "u5-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Does your phone ___ when you get a message?",
+   "answer": [
+    "ping"
+   ],
+   "explain": "",
+   "id": "u5-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Does your husband ___ a lot of noise when he gets up?",
+   "answer": [
+    "make"
+   ],
+   "explain": "",
+   "id": "u5-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Do you often ___ with your brothers and sisters?",
+   "answer": [
+    "argue"
+   ],
+   "explain": "",
+   "id": "u5-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Do you ___ music when you want to relax?",
+   "answer": [
+    "play"
+   ],
+   "explain": "",
+   "id": "u5-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "noise: verbs and verb phrases",
+   "q": "Do you always ___ a birthday party?",
+   "answer": [
+    "have"
+   ],
+   "explain": "",
+   "id": "u5-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "present continuous",
+   "q": "My brother-in-law ___ a new house. (buy)",
+   "answer": [
+    "is buying",
+    "'s buying"
+   ],
+   "explain": "",
+   "id": "u5-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "present continuous",
+   "q": "We ___ because we don't like the music. (not dance)",
+   "answer": [
+    "aren't dancing",
+    "are not dancing",
+    "'re not dancing"
+   ],
+   "explain": "",
+   "id": "u5-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "present continuous",
+   "q": "She can't read the menu. She ___ her glasses. (not wear)",
+   "answer": [
+    "isn't wearing",
+    "is not wearing",
+    "'s not wearing"
+   ],
+   "explain": "",
+   "id": "u5-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "present continuous",
+   "q": "I ___ this week. I'm on holiday! (not work)",
+   "answer": [
+    "'m not working",
+    "am not working"
+   ],
+   "explain": "",
+   "id": "u5-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "present continuous",
+   "q": "My niece and nephew ___ in the sea. (swim)",
+   "answer": [
+    "are swimming",
+    "'re swimming"
+   ],
+   "explain": "",
+   "id": "u5-e033"
+  },
+  {
+   "type": "order",
+   "topic": "present continuous",
+   "words": [
+    "Is",
+    "the",
+    "waiter",
+    "coming",
+    "with",
+    "our",
+    "dinner",
+    "?"
+   ],
+   "answer": "Is the waiter coming with our dinner?",
+   "id": "u5-e034"
+  },
+  {
+   "type": "order",
+   "topic": "present continuous",
+   "words": [
+    "Are",
+    "you",
+    "watching",
+    "the",
+    "TV",
+    "or",
+    "can",
+    "I",
+    "turn",
+    "it",
+    "off",
+    "?"
+   ],
+   "answer": "Are you watching the TV or can I turn it off?",
+   "id": "u5-e035"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "sing",
+    "dance"
+   ],
+   "answer": "sing",
+   "explain": "",
+   "id": "u5-e036"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "pink",
+    "brown"
+   ],
+   "answer": "pink",
+   "explain": "",
+   "id": "u5-e037"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "long",
+    "lunch"
+   ],
+   "answer": "long",
+   "explain": "",
+   "id": "u5-e038"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "aunt",
+    "uncle"
+   ],
+   "answer": "uncle",
+   "explain": "",
+   "id": "u5-e039"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "drink",
+    "find"
+   ],
+   "answer": "drink",
+   "explain": "",
+   "id": "u5-e040"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "France",
+    "Hungary"
+   ],
+   "answer": "Hungary",
+   "explain": "",
+   "id": "u5-e041"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "young",
+    "engineer"
+   ],
+   "answer": "young",
+   "explain": "",
+   "id": "u5-e042"
+  },
+  {
+   "type": "mc",
+   "topic": "/ŋ/",
+   "q": "Hangi kelimede /ŋ/ sesi var?",
+   "options": [
+    "think",
+    "want"
+   ],
+   "answer": "think",
+   "explain": "",
+   "id": "u5-e043"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A What time does the museum close? B It ___ at 6 p.m., I think.",
+   "options": [
+    "closes",
+    "is closing"
+   ],
+   "answer": "closes",
+   "explain": "",
+   "id": "u5-e044"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A What are you doing here? B I ___.",
+   "options": [
+    "sightsee",
+    "'m sightseeing"
+   ],
+   "answer": "'m sightseeing",
+   "explain": "",
+   "id": "u5-e045"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A Can you talk? B No. I ___.",
+   "options": [
+    "have dinner",
+    "'m having dinner"
+   ],
+   "answer": "'m having dinner",
+   "explain": "",
+   "id": "u5-e046"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A Where do they usually ___ on holiday? B To Ibiza.",
+   "options": [
+    "go",
+    "are they usually going"
+   ],
+   "answer": "go",
+   "explain": "",
+   "id": "u5-e047"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A How often does your wife go abroad? B She ___ to Asia four times a year.",
+   "options": [
+    "travels",
+    "'s travelling"
+   ],
+   "answer": "travels",
+   "explain": "",
+   "id": "u5-e048"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A ___ where you are? B Yes, it's really wet here.",
+   "options": [
+    "Does it rain",
+    "Is it raining"
+   ],
+   "answer": "Is it raining",
+   "explain": "",
+   "id": "u5-e049"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A What ___ your girlfriend ___? B She's a travel guide.",
+   "options": [
+    "does … do",
+    "is … doing"
+   ],
+   "answer": "does … do",
+   "explain": "",
+   "id": "u5-e050"
+  },
+  {
+   "type": "mc",
+   "topic": "present simple or continuous",
+   "q": "A ___ this week? B No. I'm on holiday.",
+   "options": [
+    "Do you work",
+    "Are you working"
+   ],
+   "answer": "Are you working",
+   "explain": "",
+   "id": "u5-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Helen usually ___ (drive) to work, but today it's sunny, so she's walking.",
+   "answer": [
+    "drives"
+   ],
+   "explain": "",
+   "id": "u5-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Today it's sunny, so Helen ___ (walk).",
+   "answer": [
+    "is walking",
+    "'s walking"
+   ],
+   "explain": "",
+   "id": "u5-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Tom usually ___ (make) dinner for his wife.",
+   "answer": [
+    "makes"
+   ],
+   "explain": "",
+   "id": "u5-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Today it's Tom's birthday, so he ___ (not cook).",
+   "answer": [
+    "isn't cooking",
+    "is not cooking",
+    "'s not cooking"
+   ],
+   "explain": "",
+   "id": "u5-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "I ___ (work) this evening.",
+   "answer": [
+    "'m working",
+    "am working"
+   ],
+   "explain": "",
+   "id": "u5-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "I usually ___ (finish) work at 5.00.",
+   "answer": [
+    "finish"
+   ],
+   "explain": "",
+   "id": "u5-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Scott and Chris often ___ (practise) their guitars in the evening.",
+   "answer": [
+    "practise"
+   ],
+   "explain": "",
+   "id": "u5-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Tonight, Scott and Chris ___ (play) in a concert.",
+   "answer": [
+    "are playing",
+    "'re playing"
+   ],
+   "explain": "",
+   "id": "u5-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "Ada usually ___ (go) on holiday in August.",
+   "answer": [
+    "goes"
+   ],
+   "explain": "",
+   "id": "u5-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "This year Ada ___ (work) in a cafe.",
+   "answer": [
+    "is working",
+    "'s working"
+   ],
+   "explain": "",
+   "id": "u5-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "I ___ (read) a book in English at the moment.",
+   "answer": [
+    "'m reading",
+    "am reading"
+   ],
+   "explain": "",
+   "id": "u5-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple or continuous",
+   "q": "I usually ___ (buy) books in Polish.",
+   "answer": [
+    "buy"
+   ],
+   "explain": "",
+   "id": "u5-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "London ___ (have) a lot of interesting museums.",
+   "answer": [
+    "has"
+   ],
+   "explain": "",
+   "id": "u5-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "Most of the museums are free, so visitors ___ (not need) a ticket.",
+   "answer": [
+    "don't need",
+    "do not need"
+   ],
+   "explain": "",
+   "id": "u5-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "Today it ___ (rain), so a lot of people are visiting the museum.",
+   "answer": [
+    "is raining",
+    "'s raining"
+   ],
+   "explain": "",
+   "id": "u5-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "A lot of people ___ (visit) the museum today.",
+   "answer": [
+    "are visiting",
+    "'re visiting"
+   ],
+   "explain": "",
+   "id": "u5-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "Children love it, because they ___ (love) the dinosaurs.",
+   "answer": [
+    "love"
+   ],
+   "explain": "",
+   "id": "u5-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "A woman ___ (stand) near a big dinosaur.",
+   "answer": [
+    "is standing",
+    "'s standing"
+   ],
+   "explain": "",
+   "id": "u5-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "She ___ (not look) at it, because her boyfriend is taking a photo.",
+   "answer": [
+    "isn't looking",
+    "is not looking",
+    "'s not looking"
+   ],
+   "explain": "",
+   "id": "u5-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "Her boyfriend ___ (take) a photo.",
+   "answer": [
+    "is taking",
+    "'s taking"
+   ],
+   "explain": "",
+   "id": "u5-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "London article",
+   "q": "Every year, more than five million people ___ (go) to the Natural History Museum.",
+   "answer": [
+    "go"
+   ],
+   "explain": "",
+   "id": "u5-e072"
+  },
+  {
+   "type": "mc",
+   "topic": "this / these",
+   "q": "… jacket here is a medium.",
+   "options": [
+    "This",
+    "These"
+   ],
+   "answer": "This",
+   "explain": "",
+   "id": "u5-e073"
+  },
+  {
+   "type": "mc",
+   "topic": "this / these",
+   "q": "What size is … sweater?",
+   "options": [
+    "this",
+    "these"
+   ],
+   "answer": "this",
+   "explain": "",
+   "id": "u5-e074"
+  },
+  {
+   "type": "mc",
+   "topic": "this / these",
+   "q": "Do you like … shoes?",
+   "options": [
+    "this",
+    "these"
+   ],
+   "answer": "these",
+   "explain": "",
+   "id": "u5-e075"
+  },
+  {
+   "type": "mc",
+   "topic": "this / these",
+   "q": "How much is … skirt?",
+   "options": [
+    "this",
+    "these"
+   ],
+   "answer": "this",
+   "explain": "",
+   "id": "u5-e076"
+  },
+  {
+   "type": "mc",
+   "topic": "this / these",
+   "q": "… jeans are an extra large.",
+   "options": [
+    "This",
+    "These"
+   ],
+   "answer": "These",
+   "explain": "",
+   "id": "u5-e077"
+  },
+  {
+   "type": "mc",
+   "topic": "this / these",
+   "q": "We have … trousers in blue or black.",
+   "options": [
+    "this",
+    "these"
+   ],
+   "answer": "these",
+   "explain": "",
+   "id": "u5-e078"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A Wow! B Thanks. You too.",
+   "options": [
+    "Do you want to go in",
+    "I'm in your hands",
+    "You look great."
+   ],
+   "answer": "You look great.",
+   "explain": "",
+   "id": "u5-e079"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A Have a great time! B OK, thanks. ___ to your husband and the kids.",
+   "options": [
+    "Do you want to go in",
+    "I'm in your hands",
+    "Say 'hi'"
+   ],
+   "answer": "Say 'hi'",
+   "explain": "",
+   "id": "u5-e080"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A ___? B Sure.",
+   "options": [
+    "Do you want to go in",
+    "Follow me",
+    "Say 'hi'",
+    "You look great."
+   ],
+   "answer": "Do you want to go in",
+   "explain": "",
+   "id": "u5-e081"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A Where are we going? B ___.",
+   "options": [
+    "Do you want to go in",
+    "Follow me",
+    "I'm in your hands"
+   ],
+   "answer": "Follow me",
+   "explain": "",
+   "id": "u5-e082"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A So, where do you want to go? B It's your city. ___.",
+   "options": [
+    "Follow me",
+    "I'm in your hands",
+    "Say 'hi'",
+    "You look great."
+   ],
+   "answer": "I'm in your hands",
+   "explain": "",
+   "id": "u5-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "buying clothes",
+   "q": "What ___ is this shirt?",
+   "answer": [
+    "size"
+   ],
+   "explain": "",
+   "id": "u5-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "buying clothes",
+   "q": "It's a ___. (m…)",
+   "answer": [
+    "medium"
+   ],
+   "explain": "",
+   "id": "u5-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "buying clothes",
+   "q": "I need a ___. (l…)",
+   "answer": [
+    "large"
+   ],
+   "explain": "",
+   "id": "u5-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "buying clothes",
+   "q": "Can I ___ it on?",
+   "answer": [
+    "try"
+   ],
+   "explain": "",
+   "id": "u5-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "buying clothes",
+   "q": "How ___ is it?",
+   "answer": [
+    "much"
+   ],
+   "explain": "",
+   "id": "u5-e088"
+  }
+ ],
+ "skipped": [
+  "s.33 1a (fiil kalıplarını resimlerle eşleştirme: resim gerekir, OCR bozuk), 1b madde 'p___ a picture' için harf sayısı belirsiz (paint olarak alındı) ve 1c madde 1 (örnek cümle)",
+  "s.34 2a madde 1 (cevap 'c' ama c şıkkı OCR'da silik), 2b-2c-2d (resimli alıştırmalar ve kişisel cevaplar), 3 (dinleme: vurgulu 'can / can't' cümleleri, ses dosyası gerekir)",
+  "s.35 1a (eksik harflerle gürültü fiilleri: yalnızca iki madde okunabiliyor), 1c (kişisel cevaplar)",
+  "s.36 2a (be formunu tamamlama: olumlu/olumsuz işaretleri ve özneler OCR'da karışık), 2c (resme bakarak cümle yazma), 3a ve 3c (dinleme, ses dosyası gerekir)",
+  "s.37 1a-1b-1c (hava durumu harf tamamlama ve dünya şehirleri: harfler OCR'da kayıp; hava kelimelerinden okunabilenler sözlüğe eklendi)",
+  "s.38 3 (vurgulu heceyi işaretleme: işaretler OCR'da belirsiz, 3b dinleme)",
+  "s.39 1a (giysi resimleri: resim gerekir), 2 'Buying clothes' diyaloğunun bazı boşlukları (OCR'da okunamıyor)"
+ ]
+}
