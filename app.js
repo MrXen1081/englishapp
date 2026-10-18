@@ -7,14 +7,20 @@ const today=(d=new Date())=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(
 /* ---------- storage ---------- */
 const KEY='englishfile:v1';
 let S=load();
-function load(){try{const s=JSON.parse(localStorage.getItem(KEY));if(s)return s}catch(e){}return{box:{},days:{},auto:true,rate:0.9,unit:'unit1',total:0,correct:0}}
+const newProg=()=>({box:{},days:{},total:0,correct:0});
+function load(){try{const s=JSON.parse(localStorage.getItem(KEY));if(s){
+  if(!s.units){   // migrate: progress saved before units were separated belongs to Unit 1
+    s.units={unit1:{box:s.box||{},days:s.days||{},total:s.total||0,correct:s.correct||0}};
+    delete s.box;delete s.days;delete s.total;delete s.correct}
+  return s}}catch(e){}return{units:{},auto:true,rate:0.9,unit:'unit1'}}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+const P=()=>S.units[S.unit]||(S.units[S.unit]=newProg());   // progress of the selected unit
 function record(ok){
-  S.total++;if(ok)S.correct++;
-  const d=S.days[today()]||(S.days[today()]={n:0,c:0});d.n++;if(ok)d.c++;save();
+  const p=P();p.total++;if(ok)p.correct++;
+  const d=p.days[today()]||(p.days[today()]={n:0,c:0});d.n++;if(ok)d.c++;save();
 }
-function streak(){let n=0,d=new Date();if(!S.days[today()])d.setDate(d.getDate()-1);
-  while(S.days[today(d)]){n++;d.setDate(d.getDate()-1)}return n}
+function streak(){const days=P().days;let n=0,d=new Date();if(!days[today()])d.setDate(d.getDate()-1);
+  while(days[today(d)]){n++;d.setDate(d.getDate()-1)}return n}
 
 /* ---------- text normalisation ---------- */
 const FOLD={'ı':'i','İ':'i','ş':'s','ç':'c','ğ':'g','ö':'o','ü':'u','â':'a','î':'i','û':'u'};
@@ -48,15 +54,17 @@ async function init(){
   UNITS=await (await fetch('data/units.json')).json();
   const sel=$('#unitSel');sel.innerHTML=UNITS.map(u=>`<option value="${u.id}">${esc(u.title)}</option>`).join('');
   if(!UNITS.find(u=>u.id===S.unit))S.unit=UNITS[0].id;sel.value=S.unit;
-  sel.onchange=()=>{S.unit=sel.value;save();loadUnit().then(render)};
-  await loadUnit();render();
+  sel.onchange=async()=>{
+    try{await loadUnit(sel.value)}catch(e){sel.value=S.unit;return}   // keep the current unit if the new one can't be loaded
+    C=null;Q=null;save();render();scrollTo(0,0)};
+  await loadUnit(S.unit);render();
 }
-async function loadUnit(){const u=UNITS.find(x=>x.id===S.unit);U=await (await fetch(u.file)).json()}
+async function loadUnit(id){const u=UNITS.find(x=>x.id===id);const d=await (await fetch(u.file)).json();U=d;S.unit=id}
 const app=$('#app');
 function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,progress:progressView}[tab])()}
 $('#tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;tab=b.dataset.tab;
   document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));window.speechSynthesis?.cancel();render();scrollTo(0,0)};
-const boxOf=id=>S.box[id]||0;
+const boxOf=id=>P().box[id]||0;
 
 /* ---------- flashcards ---------- */
 let cfg={mode:'write',scope:'all',size:10};
@@ -114,7 +122,7 @@ function cardStep(){
 function grade(v,ok){
   C.lastOk=ok;
   if(C.first[v.id]!==undefined)return;
-  C.first[v.id]=ok;const old=boxOf(v.id),nb=ok?Math.min(5,old+1):1;S.box[v.id]=nb;C.moves.push({v,old,nb,ok});record(ok);
+  C.first[v.id]=ok;const old=boxOf(v.id),nb=ok?Math.min(5,old+1):1;P().box[v.id]=nb;C.moves.push({v,old,nb,ok});record(ok);
   if(!ok)C.wrong[v.id]=v;
 }
 function cardNext(){
@@ -144,7 +152,7 @@ function quizHome(){
   $('#go').onclick=()=>{const items=shuffle(U.exercises.filter(e=>qcfg.type==='all'||e.type===qcfg.type)).slice(0,qcfg.size);Q={items,i:0,score:0,wrong:[]};quizStep()};
 }
 const ordTok=a=>{const m=a.trim().match(/^(.*?)([?.!]*)$/);return m[1].split(/\s+/).filter(Boolean).concat(m[2]?[m[2]]:[])};
-const fullText=(e,a)=>e.type==='order'?e.answer:/___+/.test(e.q)?e.q.replace(/___+/,a):/\.\.\./.test(e.q)?e.q.replace(/^.*?“(.*?)”.*$/,'$1').replace('...',a):e.topic==='word stress'?e.q.replace(/^.*\?\s*/,''):a;
+const fullText=(e,a)=>e.type==='order'?e.answer:/___+/.test(e.q)?e.q.replace(/\s*\(resim[^)]*\)/,'').replace(/___+/,a):/\.\.\./.test(e.q)?e.q.replace(/^.*?“(.*?)”.*$/,'$1').replace('...',a):e.topic==='word stress'?e.q.replace(/^.*\?\s*/,''):a;
 function quizStep(){
   if(Q.i>=Q.items.length)return quizEnd();
   const e=Q.items[Q.i];
@@ -189,9 +197,9 @@ function grammarView(){
 
 /* ---------- progress ---------- */
 function progressView(){
-  const seen=U.vocab.filter(v=>boxOf(v.id)>0).length,acc=S.total?Math.round(S.correct/S.total*100):0;
+  const p=P(),seen=U.vocab.filter(v=>boxOf(v.id)>0).length,acc=p.total?Math.round(p.correct/p.total*100):0;
   const dist=[0,1,2,3,4,5].map(b=>U.vocab.filter(v=>boxOf(v.id)===b).length),mx=Math.max(1,...dist);
-  const days=[...Array(7)].map((_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);const r=S.days[today(d)]||{n:0,c:0};return{l:['Pz','Pt','Sa','Ça','Pe','Cu','Ct'][d.getDay()],...r}}),dm=Math.max(1,...days.map(d=>d.n));
+  const days=[...Array(7)].map((_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);const r=p.days[today(d)]||{n:0,c:0};return{l:['Pz','Pt','Sa','Ça','Pe','Cu','Ct'][d.getDay()],...r}}),dm=Math.max(1,...days.map(d=>d.n));
   app.innerHTML=`<div class="stats"><div class="card stat"><b>${seen}/${U.vocab.length}</b>çalışılan kelime</div><div class="card stat"><b>%${acc}</b>doğruluk</div><div class="card stat"><b>${streak()} 🔥</b>gün serisi</div><div class="card stat"><b>${dist[5]}</b>öğrenilen (kutu 5)</div></div>
   <div class="card"><h3>Leitner kutuları</h3><div class="cols">${dist.map((n,b)=>`<div class="col">${n}<div class="b" style="height:${n/mx*100}px"></div>${b?'Kutu '+b:'Yeni'}</div>`).join('')}</div></div>
   <div class="card"><h3>Son 7 gün</h3><div class="cols">${days.map(d=>`<div class="col" title="${d.c}/${d.n} doğru">${d.n}<div class="b" style="height:${d.n/dm*100}px"></div>${d.l}</div>`).join('')}</div></div>`;
@@ -203,7 +211,7 @@ $('#setBtn').onclick=()=>{$('#autoSpeak').checked=S.auto;$('#rate').value=S.rate
 $('#closeSet').onclick=()=>dlg.close();
 $('#autoSpeak').onchange=e=>{S.auto=e.target.checked;save()};
 $('#rate').oninput=e=>{S.rate=+e.target.value;save()};
-$('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit}=S;S={box:{},days:{},auto,rate,unit,total:0,correct:0};save();dlg.close();render()}};
+$('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit}=S;S={units:{},auto,rate,unit};save();dlg.close();render()}};
 
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 init();

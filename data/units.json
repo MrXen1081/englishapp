@@ -4,5 +4,11 @@
   "title": "Unit 1",
   "file": "data/unit1.json",
   "subtitle": "Hello, everybody · A world of sport · Open your books"
+ },
+ {
+  "id": "unit2",
+  "title": "Unit 2",
+  "file": "data/unit2.json",
+  "subtitle": "Your desk and you · Made in the USA · Don't worry. Be happy!"
  }
 ]

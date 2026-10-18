@@ -1,0 +1,2492 @@
+{
+ "unit": 2,
+ "title": "Unit 2",
+ "source": "English File 5th ed. Elementary Workbook, Unit 2 (s.13-18)",
+ "vocab": [
+  {
+   "en": "file",
+   "tr": "dosya",
+   "alt": [
+    "klasör"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-001"
+  },
+  {
+   "en": "tissue",
+   "tr": "kâğıt mendil",
+   "alt": [
+    "mendil"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-002"
+  },
+  {
+   "en": "earphones",
+   "tr": "kulak içi kulaklık",
+   "alt": [
+    "kulaklık"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-003"
+  },
+  {
+   "en": "headphones",
+   "tr": "kulaklık",
+   "alt": [
+    "kafa bantlı kulaklık"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-004"
+  },
+  {
+   "en": "mask",
+   "tr": "maske",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-005"
+  },
+  {
+   "en": "calendar",
+   "tr": "takvim",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-006"
+  },
+  {
+   "en": "scissors",
+   "tr": "makas",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-007"
+  },
+  {
+   "en": "tablet",
+   "tr": "tablet",
+   "alt": [
+    "tablet bilgisayar"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-008"
+  },
+  {
+   "en": "coin",
+   "tr": "madeni para",
+   "alt": [
+    "bozuk para",
+    "para"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-009"
+  },
+  {
+   "en": "magazine",
+   "tr": "dergi",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-010"
+  },
+  {
+   "en": "glasses",
+   "tr": "gözlük",
+   "alt": [
+    "gözlükler"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-011"
+  },
+  {
+   "en": "sunglasses",
+   "tr": "güneş gözlüğü",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-012"
+  },
+  {
+   "en": "newspaper",
+   "tr": "gazete",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-013"
+  },
+  {
+   "en": "laptop",
+   "tr": "dizüstü bilgisayar",
+   "alt": [
+    "laptop",
+    "diz üstü bilgisayar"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-014"
+  },
+  {
+   "en": "bag",
+   "tr": "çanta",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-015"
+  },
+  {
+   "en": "table",
+   "tr": "masa",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-016"
+  },
+  {
+   "en": "pencil",
+   "tr": "kurşun kalem",
+   "alt": [
+    "kalem"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-017"
+  },
+  {
+   "en": "pen",
+   "tr": "kalem",
+   "alt": [
+    "tükenmez kalem",
+    "tükenmez"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-018"
+  },
+  {
+   "en": "notebook",
+   "tr": "defter",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-019"
+  },
+  {
+   "en": "desk",
+   "tr": "çalışma masası",
+   "alt": [
+    "masa",
+    "sıra"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-020"
+  },
+  {
+   "en": "wallet",
+   "tr": "cüzdan",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-021"
+  },
+  {
+   "en": "purse",
+   "tr": "kadın cüzdanı",
+   "alt": [
+    "cüzdan",
+    "para çantası"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-022"
+  },
+  {
+   "en": "identity card",
+   "tr": "kimlik kartı",
+   "alt": [
+    "kimlik",
+    "nüfus cüzdanı"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-023"
+  },
+  {
+   "en": "charger",
+   "tr": "şarj aleti",
+   "alt": [
+    "şarj cihazı",
+    "şarj"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-024"
+  },
+  {
+   "en": "umbrella",
+   "tr": "şemsiye",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-025"
+  },
+  {
+   "en": "piece of paper",
+   "tr": "kâğıt parçası",
+   "alt": [
+    "kâğıt"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-026"
+  },
+  {
+   "en": "email",
+   "tr": "e-posta",
+   "alt": [
+    "e-mail",
+    "eposta",
+    "mail"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-027"
+  },
+  {
+   "en": "lamp",
+   "tr": "lamba",
+   "alt": [
+    "masa lambası"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-028"
+  },
+  {
+   "en": "debit card",
+   "tr": "banka kartı",
+   "alt": [
+    "debit kart"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-029"
+  },
+  {
+   "en": "key",
+   "tr": "anahtar",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-030"
+  },
+  {
+   "en": "phone",
+   "tr": "telefon",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-031"
+  },
+  {
+   "en": "book",
+   "tr": "kitap",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-032"
+  },
+  {
+   "en": "dictionary",
+   "tr": "sözlük",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-033"
+  },
+  {
+   "en": "address",
+   "tr": "adres",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-034"
+  },
+  {
+   "en": "ticket",
+   "tr": "bilet",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-035"
+  },
+  {
+   "en": "watch",
+   "tr": "kol saati",
+   "alt": [
+    "saat"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-036"
+  },
+  {
+   "en": "window",
+   "tr": "pencere",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-037"
+  },
+  {
+   "en": "photo",
+   "tr": "fotoğraf",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-038"
+  },
+  {
+   "en": "sandwich",
+   "tr": "sandviç",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-039"
+  },
+  {
+   "en": "diary",
+   "tr": "günlük",
+   "alt": [
+    "ajanda"
+   ],
+   "cat": "Eşyalar",
+   "id": "u2-040"
+  },
+  {
+   "en": "lift",
+   "tr": "asansör",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u2-041"
+  },
+  {
+   "en": "in",
+   "tr": "içinde",
+   "alt": [
+    "içine"
+   ],
+   "cat": "Yer",
+   "id": "u2-042"
+  },
+  {
+   "en": "on",
+   "tr": "üzerinde",
+   "alt": [
+    "üstünde",
+    "üstüne"
+   ],
+   "cat": "Yer",
+   "id": "u2-043"
+  },
+  {
+   "en": "under",
+   "tr": "altında",
+   "alt": [
+    "altına"
+   ],
+   "cat": "Yer",
+   "id": "u2-044"
+  },
+  {
+   "en": "man",
+   "tr": "erkek",
+   "alt": [
+    "adam"
+   ],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-045"
+  },
+  {
+   "en": "woman",
+   "tr": "kadın",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-046"
+  },
+  {
+   "en": "person",
+   "tr": "kişi",
+   "alt": [
+    "insan"
+   ],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-047"
+  },
+  {
+   "en": "child",
+   "tr": "çocuk",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-048"
+  },
+  {
+   "en": "people",
+   "tr": "insanlar",
+   "alt": [
+    "insan",
+    "halk"
+   ],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-049"
+  },
+  {
+   "en": "children",
+   "tr": "çocuklar",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-050"
+  },
+  {
+   "en": "class",
+   "tr": "sınıf",
+   "alt": [
+    "ders"
+   ],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-051"
+  },
+  {
+   "en": "country",
+   "tr": "ülke",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-052"
+  },
+  {
+   "en": "city",
+   "tr": "şehir",
+   "alt": [
+    "kent"
+   ],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-053"
+  },
+  {
+   "en": "house",
+   "tr": "ev",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-054"
+  },
+  {
+   "en": "town",
+   "tr": "kasaba",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-055"
+  },
+  {
+   "en": "building",
+   "tr": "bina",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-056"
+  },
+  {
+   "en": "animals",
+   "tr": "hayvanlar",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-057"
+  },
+  {
+   "en": "cars",
+   "tr": "arabalar",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-058"
+  },
+  {
+   "en": "car",
+   "tr": "araba",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-059"
+  },
+  {
+   "en": "cat",
+   "tr": "kedi",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-060"
+  },
+  {
+   "en": "dog",
+   "tr": "köpek",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-061"
+  },
+  {
+   "en": "bike",
+   "tr": "bisiklet",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-062"
+  },
+  {
+   "en": "computer",
+   "tr": "bilgisayar",
+   "alt": [],
+   "cat": "İnsanlar & isimler",
+   "id": "u2-063"
+  },
+  {
+   "en": "orange",
+   "tr": "turuncu",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-064"
+  },
+  {
+   "en": "pink",
+   "tr": "pembe",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-065"
+  },
+  {
+   "en": "brown",
+   "tr": "kahverengi",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-066"
+  },
+  {
+   "en": "purple",
+   "tr": "mor",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-067"
+  },
+  {
+   "en": "silver",
+   "tr": "gümüş rengi",
+   "alt": [
+    "gümüş"
+   ],
+   "cat": "Renkler",
+   "id": "u2-068"
+  },
+  {
+   "en": "grey",
+   "tr": "gri",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-069"
+  },
+  {
+   "en": "blue",
+   "tr": "mavi",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-070"
+  },
+  {
+   "en": "gold",
+   "tr": "altın rengi",
+   "alt": [
+    "altın",
+    "altın sarısı"
+   ],
+   "cat": "Renkler",
+   "id": "u2-071"
+  },
+  {
+   "en": "white",
+   "tr": "beyaz",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-072"
+  },
+  {
+   "en": "yellow",
+   "tr": "sarı",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-073"
+  },
+  {
+   "en": "black",
+   "tr": "siyah",
+   "alt": [
+    "kara"
+   ],
+   "cat": "Renkler",
+   "id": "u2-074"
+  },
+  {
+   "en": "green",
+   "tr": "yeşil",
+   "alt": [],
+   "cat": "Renkler",
+   "id": "u2-075"
+  },
+  {
+   "en": "beautiful",
+   "tr": "güzel",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-076"
+  },
+  {
+   "en": "ugly",
+   "tr": "çirkin",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-077"
+  },
+  {
+   "en": "safe",
+   "tr": "güvenli",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-078"
+  },
+  {
+   "en": "dangerous",
+   "tr": "tehlikeli",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-079"
+  },
+  {
+   "en": "dark",
+   "tr": "karanlık",
+   "alt": [
+    "koyu"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-080"
+  },
+  {
+   "en": "light",
+   "tr": "aydınlık",
+   "alt": [
+    "açık"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-081"
+  },
+  {
+   "en": "low",
+   "tr": "alçak",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-082"
+  },
+  {
+   "en": "high",
+   "tr": "yüksek",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-083"
+  },
+  {
+   "en": "tall",
+   "tr": "uzun boylu",
+   "alt": [
+    "boylu",
+    "uzun"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-084"
+  },
+  {
+   "en": "short",
+   "tr": "kısa",
+   "alt": [
+    "kısa boylu"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-085"
+  },
+  {
+   "en": "full",
+   "tr": "dolu",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-086"
+  },
+  {
+   "en": "empty",
+   "tr": "boş",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-087"
+  },
+  {
+   "en": "small",
+   "tr": "küçük",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-088"
+  },
+  {
+   "en": "big",
+   "tr": "büyük",
+   "alt": [
+    "iri"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-089"
+  },
+  {
+   "en": "rich",
+   "tr": "zengin",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-090"
+  },
+  {
+   "en": "poor",
+   "tr": "fakir",
+   "alt": [
+    "yoksul"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-091"
+  },
+  {
+   "en": "new",
+   "tr": "yeni",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-092"
+  },
+  {
+   "en": "old",
+   "tr": "eski",
+   "alt": [
+    "yaşlı"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-093"
+  },
+  {
+   "en": "young",
+   "tr": "genç",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-094"
+  },
+  {
+   "en": "wrong",
+   "tr": "yanlış",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-095"
+  },
+  {
+   "en": "right",
+   "tr": "doğru",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-096"
+  },
+  {
+   "en": "bad",
+   "tr": "kötü",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-097"
+  },
+  {
+   "en": "good",
+   "tr": "iyi",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-098"
+  },
+  {
+   "en": "slow",
+   "tr": "yavaş",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-099"
+  },
+  {
+   "en": "fast",
+   "tr": "hızlı",
+   "alt": [
+    "çabuk"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-100"
+  },
+  {
+   "en": "weak",
+   "tr": "zayıf",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-101"
+  },
+  {
+   "en": "strong",
+   "tr": "güçlü",
+   "alt": [
+    "kuvvetli"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-102"
+  },
+  {
+   "en": "the same",
+   "tr": "aynı",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-103"
+  },
+  {
+   "en": "different",
+   "tr": "farklı",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-104"
+  },
+  {
+   "en": "easy",
+   "tr": "kolay",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-105"
+  },
+  {
+   "en": "difficult",
+   "tr": "zor",
+   "alt": [
+    "güç",
+    "zorlu"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u2-106"
+  },
+  {
+   "en": "cheap",
+   "tr": "ucuz",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-107"
+  },
+  {
+   "en": "expensive",
+   "tr": "pahalı",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-108"
+  },
+  {
+   "en": "clean",
+   "tr": "temiz",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-109"
+  },
+  {
+   "en": "dirty",
+   "tr": "kirli",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-110"
+  },
+  {
+   "en": "long",
+   "tr": "uzun",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-111"
+  },
+  {
+   "en": "near",
+   "tr": "yakın",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u2-112"
+  },
+  {
+   "en": "very",
+   "tr": "çok",
+   "alt": [],
+   "cat": "Zarflar",
+   "id": "u2-113"
+  },
+  {
+   "en": "really",
+   "tr": "gerçekten",
+   "alt": [
+    "çok"
+   ],
+   "cat": "Zarflar",
+   "id": "u2-114"
+  },
+  {
+   "en": "quite",
+   "tr": "oldukça",
+   "alt": [
+    "epey",
+    "hayli"
+   ],
+   "cat": "Zarflar",
+   "id": "u2-115"
+  },
+  {
+   "en": "angry",
+   "tr": "kızgın",
+   "alt": [
+    "öfkeli",
+    "sinirli"
+   ],
+   "cat": "Duygular",
+   "id": "u2-116"
+  },
+  {
+   "en": "thirsty",
+   "tr": "susamış",
+   "alt": [
+    "susuz"
+   ],
+   "cat": "Duygular",
+   "id": "u2-117"
+  },
+  {
+   "en": "happy",
+   "tr": "mutlu",
+   "alt": [
+    "sevinçli"
+   ],
+   "cat": "Duygular",
+   "id": "u2-118"
+  },
+  {
+   "en": "cold",
+   "tr": "soğuk",
+   "alt": [
+    "üşümüş"
+   ],
+   "cat": "Duygular",
+   "id": "u2-119"
+  },
+  {
+   "en": "hot",
+   "tr": "sıcak",
+   "alt": [
+    "bunalmış"
+   ],
+   "cat": "Duygular",
+   "id": "u2-120"
+  },
+  {
+   "en": "sad",
+   "tr": "üzgün",
+   "alt": [],
+   "cat": "Duygular",
+   "id": "u2-121"
+  },
+  {
+   "en": "stressed",
+   "tr": "stresli",
+   "alt": [
+    "gergin"
+   ],
+   "cat": "Duygular",
+   "id": "u2-122"
+  },
+  {
+   "en": "bored",
+   "tr": "sıkılmış",
+   "alt": [
+    "canı sıkkın"
+   ],
+   "cat": "Duygular",
+   "id": "u2-123"
+  },
+  {
+   "en": "hungry",
+   "tr": "aç",
+   "alt": [],
+   "cat": "Duygular",
+   "id": "u2-124"
+  },
+  {
+   "en": "tired",
+   "tr": "yorgun",
+   "alt": [],
+   "cat": "Duygular",
+   "id": "u2-125"
+  },
+  {
+   "en": "worried",
+   "tr": "endişeli",
+   "alt": [
+    "kaygılı"
+   ],
+   "cat": "Duygular",
+   "id": "u2-126"
+  },
+  {
+   "en": "frightened",
+   "tr": "korkmuş",
+   "alt": [
+    "ürkmüş"
+   ],
+   "cat": "Duygular",
+   "id": "u2-127"
+  },
+  {
+   "en": "answer",
+   "tr": "cevaplamak",
+   "alt": [
+    "cevap vermek",
+    "yanıtlamak",
+    "cevapla"
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-128"
+  },
+  {
+   "en": "cross",
+   "tr": "karşıdan karşıya geçmek",
+   "alt": [
+    "geçmek",
+    "karşıya geçmek"
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-129"
+  },
+  {
+   "en": "stop",
+   "tr": "durmak",
+   "alt": [
+    "dur",
+    "bırakmak"
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-130"
+  },
+  {
+   "en": "turn off",
+   "tr": "kapatmak",
+   "alt": [
+    "kapat"
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-131"
+  },
+  {
+   "en": "talk",
+   "tr": "konuşmak",
+   "alt": [],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-132"
+  },
+  {
+   "en": "worry",
+   "tr": "endişelenmek",
+   "alt": [
+    "endişe etmek",
+    "merak etmek"
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-133"
+  },
+  {
+   "en": "go home",
+   "tr": "eve gitmek",
+   "alt": [],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-134"
+  },
+  {
+   "en": "go on holiday",
+   "tr": "tatile gitmek",
+   "alt": [],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-135"
+  },
+  {
+   "en": "go to a restaurant",
+   "tr": "restorana gitmek",
+   "alt": [],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-136"
+  },
+  {
+   "en": "have a drink",
+   "tr": "bir şeyler içmek",
+   "alt": [
+    "içki içmek"
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-137"
+  },
+  {
+   "en": "Don't worry.",
+   "tr": "Endişelenme.",
+   "alt": [
+    "Merak etme.",
+    "Üzülme."
+   ],
+   "cat": "Fiiller & kalıplar",
+   "id": "u2-138"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "a / an / the (tekil isimler)",
+   "tr": "Tekil sayılabilir isimlerin önünde <b>a</b> ya da <b>an</b> kullanılır: ünlü (a, e, i, o, u) sesiyle başlayan kelimelerden önce <b>an</b>, diğerlerinden önce <b>a</b>. <b>university</b>, <b>euro</b> gibi /ju:/ sesiyle başlayanlarda <b>a</b> kullanılır. Çoğul isimlerin önünde a / an kullanılmaz. Hangisi olduğunu bildiğimizde <b>the</b> kullanırız: Look at <b>the</b> board.",
+   "table": {
+    "head": [
+     "Tekil",
+     "Çoğul"
+    ],
+    "rows": [
+     [
+      "It's a book.",
+      "They're books."
+     ],
+     [
+      "It's a watch.",
+      "They're watches."
+     ],
+     [
+      "It's an umbrella.",
+      "They're umbrellas."
+     ],
+     [
+      "It's an identity card.",
+      "They're identity cards."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "It's a charger.",
+     "Bu bir şarj aleti."
+    ],
+    [
+     "It's an email.",
+     "Bu bir e-posta."
+    ],
+    [
+     "It's a university.",
+     "Bu bir üniversite."
+    ],
+    [
+     "Look at the board.",
+     "Tahtaya bak."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Plural nouns (çoğul isimler)",
+   "tr": "Çoğul için çoğu isme <b>-s</b> eklenir. <b>ch, sh, s, x</b> ile bitenlere <b>-es</b>, <b>ünsüz + y</b> ile bitenlerde y düşer ve <b>-ies</b> gelir (key gibi ünlü + y: keys). İki kelimeli isimlerde -s ikinci kelimeye eklenir (credit cards). <b>-es</b> eki /ɪz/ olarak okunur: watches, classes, sandwiches. Düzensiz çoğullar ezberlenir.",
+   "table": {
+    "head": [
+     "Kural",
+     "Tekil",
+     "Çoğul"
+    ],
+    "rows": [
+     [
+      "-s",
+      "book",
+      "books"
+     ],
+     [
+      "-es",
+      "watch / box / class",
+      "watches / boxes / classes"
+     ],
+     [
+      "ünsüz + y → -ies",
+      "country / diary",
+      "countries / diaries"
+     ],
+     [
+      "düzensiz",
+      "man / woman",
+      "men / women"
+     ],
+     [
+      "düzensiz",
+      "child / person",
+      "children / people"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "They're photos.",
+     "Bunlar fotoğraflar."
+    ],
+    [
+     "There are eight men and six women.",
+     "Sekiz erkek ve altı kadın var."
+    ],
+    [
+     "I have two children.",
+     "İki çocuğum var."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Adjectives (sıfatlar)",
+   "tr": "Sıfat isimden <b>önce</b> gelir ve çoğul isimden önce değişmez: a beautiful picture, blue jeans (NOT blues jeans). Sıfat ünlüyle başlıyorsa <b>an</b> kullanırız: an old book. Sıfatı <b>be</b> fiilinden sonra da kullanırız: My car is new. Soruda sıra: Is your car new?",
+   "table": {
+    "head": [
+     "Yanlış",
+     "Doğru"
+    ],
+    "rows": [
+     [
+      "It's a house big.",
+      "It's a big house."
+     ],
+     [
+      "They're magazines old.",
+      "They're old magazines."
+     ],
+     [
+      "They're youngs women.",
+      "They're young women."
+     ],
+     [
+      "It's a watch expensive.",
+      "It's an expensive watch."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "It's a very big city.",
+     "Çok büyük bir şehir."
+    ],
+    [
+     "Is your car new?",
+     "Araban yeni mi?"
+    ],
+    [
+     "They're dirty windows.",
+     "Bunlar kirli pencereler."
+    ]
+   ]
+  },
+  {
+   "id": "g4",
+   "title": "very / really / quite",
+   "tr": "Sıfatın önünde derece belirtmek için kullanılır. <b>very</b> ve <b>really</b> “çok”, <b>quite</b> “oldukça” demektir (very'den daha zayıf). Olumsuzda <b>isn't very</b> “pek … değil” anlamına gelir.",
+   "table": {
+    "head": [
+     "Cümle",
+     "Anlam"
+    ],
+    "rows": [
+     [
+      "He's very (really) tall.",
+      "Çok uzun."
+     ],
+     [
+      "He's quite tall.",
+      "Oldukça uzun."
+     ],
+     [
+      "He isn't very tall.",
+      "Pek uzun değil."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "We're really tired.",
+     "Gerçekten yorgunuz."
+    ],
+    [
+     "It's a very big city.",
+     "Çok büyük bir şehir."
+    ],
+    [
+     "My watch is quite expensive.",
+     "Saatim oldukça pahalı."
+    ]
+   ]
+  },
+  {
+   "id": "g5",
+   "title": "Imperatives (emir cümleleri)",
+   "tr": "Emir cümlesi <b>fiilin yalın hâli</b> ile kurulur; özne (you) kullanılmaz. Olumsuz: <b>Don't + fiil</b>. Nazik olmak için <b>please</b> eklenir. <b>be + sıfat</b> da sık kullanılır: Be quiet. Daha kibar bir alternatif: <b>Can you + fiil …?</b>",
+   "table": {
+    "head": [
+     "Olumlu (+)",
+     "Olumsuz (–)"
+    ],
+    "rows": [
+     [
+      "Open the door.",
+      "Don't close the door."
+     ],
+     [
+      "Look at the board.",
+      "Don't read the text."
+     ],
+     [
+      "Be quiet, please.",
+      "Don't be late."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Turn right.",
+     "Sağa dön."
+    ],
+    [
+     "Open the door, please.",
+     "Lütfen kapıyı aç."
+    ],
+    [
+     "Can you open the window, please?",
+     "Pencereyi açar mısın lütfen?"
+    ]
+   ]
+  },
+  {
+   "id": "g6",
+   "title": "Let's (öneri)",
+   "tr": "Birlikte bir şey yapmayı önermek için <b>Let's + fiil</b> kullanılır (“-elim / -alım”). Olumsuz öneri: <b>Let's not + fiil</b>.",
+   "table": {
+    "head": [
+     "Olumlu",
+     "Olumsuz"
+    ],
+    "rows": [
+     [
+      "Let's go home.",
+      "Let's not stop."
+     ],
+     [
+      "Let's sit here.",
+      "Let's not eat here."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I'm hungry. Let's go to a restaurant.",
+     "Acıktım. Restorana gidelim."
+    ],
+    [
+     "Let's not eat here.",
+     "Burada yemeyelim."
+    ]
+   ]
+  },
+  {
+   "id": "g7",
+   "title": "in, on, under (yer edatları)",
+   "tr": "Bir şeyin yerini söylerken: <b>in</b> (içinde), <b>on</b> (üzerinde), <b>under</b> (altında).",
+   "table": {
+    "head": [
+     "Edat",
+     "Anlam",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "in",
+      "içinde",
+      "My laptop is in my bag."
+     ],
+     [
+      "on",
+      "üzerinde",
+      "Your glasses are on the newspaper."
+     ],
+     [
+      "under",
+      "altında",
+      "Her headphones are under the table."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "The phone is on the book.",
+     "Telefon kitabın üstünde."
+    ],
+    [
+     "My identity card is in my wallet.",
+     "Kimliğim cüzdanımda."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "in, on, under",
+   "q": "My laptop is ___ my bag. (resimde: dizüstü bilgisayar çantanın içinde)",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u2-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "in, on, under",
+   "q": "Her headphones are ___ the table. (resimde: kulaklık masanın altında)",
+   "answer": [
+    "under"
+   ],
+   "explain": "",
+   "id": "u2-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "in, on, under",
+   "q": "Your pencil is ___ your notebook. (resimde: kalem defterin içinde)",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u2-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "in, on, under",
+   "q": "His watch is ___ the desk. (resimde: saat masanın üzerinde)",
+   "answer": [
+    "on"
+   ],
+   "explain": "",
+   "id": "u2-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "in, on, under",
+   "q": "My identity card is ___ my wallet. (resimde: kimlik cüzdanın içinde)",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u2-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an",
+   "q": "It's ___ piece of paper.",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u2-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an",
+   "q": "It's ___ identity card.",
+   "answer": [
+    "an"
+   ],
+   "explain": "",
+   "id": "u2-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an",
+   "q": "It's ___ tablet.",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u2-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an",
+   "q": "It's ___ email.",
+   "answer": [
+    "an"
+   ],
+   "explain": "",
+   "id": "u2-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an",
+   "q": "It's ___ lamp.",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u2-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an",
+   "q": "It's ___ debit card.",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u2-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one class, two ___",
+   "answer": [
+    "classes"
+   ],
+   "explain": "",
+   "id": "u2-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one country, two ___",
+   "answer": [
+    "countries"
+   ],
+   "explain": "",
+   "id": "u2-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one diary, two ___",
+   "answer": [
+    "diaries"
+   ],
+   "explain": "",
+   "id": "u2-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one dictionary, two ___",
+   "answer": [
+    "dictionaries"
+   ],
+   "explain": "",
+   "id": "u2-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one key, two ___",
+   "answer": [
+    "keys"
+   ],
+   "explain": "",
+   "id": "u2-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one pencil, two ___",
+   "answer": [
+    "pencils"
+   ],
+   "explain": "",
+   "id": "u2-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one photo, two ___",
+   "answer": [
+    "photos"
+   ],
+   "explain": "",
+   "id": "u2-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one sandwich, two ___",
+   "answer": [
+    "sandwiches"
+   ],
+   "explain": "",
+   "id": "u2-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one ticket, two ___",
+   "answer": [
+    "tickets"
+   ],
+   "explain": "",
+   "id": "u2-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one watch, two ___",
+   "answer": [
+    "watches"
+   ],
+   "explain": "",
+   "id": "u2-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one window, two ___",
+   "answer": [
+    "windows"
+   ],
+   "explain": "",
+   "id": "u2-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one man, two ___",
+   "answer": [
+    "men"
+   ],
+   "explain": "",
+   "id": "u2-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one ___, two women",
+   "answer": [
+    "woman"
+   ],
+   "explain": "",
+   "id": "u2-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one person, two ___",
+   "answer": [
+    "people"
+   ],
+   "explain": "",
+   "id": "u2-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "one ___, two children",
+   "answer": [
+    "child"
+   ],
+   "explain": "",
+   "id": "u2-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "My English teacher is a ___. His name's William.",
+   "answer": [
+    "man"
+   ],
+   "explain": "",
+   "id": "u2-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "I have two ___. They're three and six years old.",
+   "answer": [
+    "children"
+   ],
+   "explain": "",
+   "id": "u2-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "The lift is for six ___, not seven.",
+   "answer": [
+    "people"
+   ],
+   "explain": "",
+   "id": "u2-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "plural nouns",
+   "q": "There are eight men and six ___ in my salsa class.",
+   "answer": [
+    "women"
+   ],
+   "explain": "",
+   "id": "u2-e030"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s and -es",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "coins",
+    "wallets",
+    "purses"
+   ],
+   "answer": "purses",
+   "explain": "",
+   "id": "u2-e031"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s and -es",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "classes",
+    "files",
+    "scissors"
+   ],
+   "answer": "classes",
+   "explain": "",
+   "id": "u2-e032"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s and -es",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "photos",
+    "watches",
+    "headphones"
+   ],
+   "answer": "watches",
+   "explain": "",
+   "id": "u2-e033"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s and -es",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "tissues",
+    "pens",
+    "sandwiches"
+   ],
+   "answer": "sandwiches",
+   "explain": "",
+   "id": "u2-e034"
+  },
+  {
+   "type": "mc",
+   "topic": "final -s and -es",
+   "q": "Hangi kelime /ɪz/ ile biter?",
+   "options": [
+    "magazines",
+    "glasses",
+    "newspapers"
+   ],
+   "answer": "glasses",
+   "explain": "",
+   "id": "u2-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “dark” is ___.",
+   "answer": [
+    "light"
+   ],
+   "explain": "",
+   "id": "u2-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “low” is ___.",
+   "answer": [
+    "high"
+   ],
+   "explain": "",
+   "id": "u2-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “tall” is ___.",
+   "answer": [
+    "short"
+   ],
+   "explain": "",
+   "id": "u2-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “full” is ___.",
+   "answer": [
+    "empty"
+   ],
+   "explain": "",
+   "id": "u2-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “small” is ___.",
+   "answer": [
+    "big",
+    "large"
+   ],
+   "explain": "",
+   "id": "u2-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “rich” is ___.",
+   "answer": [
+    "poor"
+   ],
+   "explain": "",
+   "id": "u2-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “new” is ___.",
+   "answer": [
+    "old"
+   ],
+   "explain": "",
+   "id": "u2-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “wrong” is ___.",
+   "answer": [
+    "right"
+   ],
+   "explain": "",
+   "id": "u2-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “bad” is ___.",
+   "answer": [
+    "good"
+   ],
+   "explain": "",
+   "id": "u2-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “slow” is ___.",
+   "answer": [
+    "fast"
+   ],
+   "explain": "",
+   "id": "u2-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “weak” is ___.",
+   "answer": [
+    "strong"
+   ],
+   "explain": "",
+   "id": "u2-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “the same” is ___.",
+   "answer": [
+    "different"
+   ],
+   "explain": "",
+   "id": "u2-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "opposites",
+   "q": "The opposite of “easy” is ___.",
+   "answer": [
+    "difficult",
+    "hard"
+   ],
+   "explain": "",
+   "id": "u2-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "This pizza isn't very hot. (really) It's ___.",
+   "answer": [
+    "really cold"
+   ],
+   "explain": "",
+   "id": "u2-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "The windows are quite dirty. (very) They aren't ___.",
+   "answer": [
+    "very clean"
+   ],
+   "explain": "",
+   "id": "u2-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "Your children aren't very old. (quite) They're ___.",
+   "answer": [
+    "quite young"
+   ],
+   "explain": "",
+   "id": "u2-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "That film isn't very good. (really) It's ___.",
+   "answer": [
+    "really bad"
+   ],
+   "explain": "",
+   "id": "u2-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "This book is quite short. (very) It isn't ___.",
+   "answer": [
+    "very long"
+   ],
+   "explain": "",
+   "id": "u2-e053"
+  },
+  {
+   "type": "mc",
+   "topic": "adjectives",
+   "q": "Hangi cümle doğru?",
+   "options": [
+    "It's a day long.",
+    "It's a long day."
+   ],
+   "answer": "It's a long day.",
+   "explain": "",
+   "id": "u2-e054"
+  },
+  {
+   "type": "mc",
+   "topic": "adjectives",
+   "q": "Hangi cümle doğru?",
+   "options": [
+    "It's a house big.",
+    "It's a big house."
+   ],
+   "answer": "It's a big house.",
+   "explain": "",
+   "id": "u2-e055"
+  },
+  {
+   "type": "mc",
+   "topic": "adjectives",
+   "q": "Hangi cümle doğru?",
+   "options": [
+    "They're magazines old.",
+    "They're old magazines."
+   ],
+   "answer": "They're old magazines.",
+   "explain": "",
+   "id": "u2-e056"
+  },
+  {
+   "type": "mc",
+   "topic": "adjectives",
+   "q": "Hangi cümle doğru?",
+   "options": [
+    "They're watches expensive.",
+    "They're expensive watches."
+   ],
+   "answer": "They're expensive watches.",
+   "explain": "",
+   "id": "u2-e057"
+  },
+  {
+   "type": "mc",
+   "topic": "adjectives",
+   "q": "Hangi cümle doğru?",
+   "options": [
+    "They're youngs women.",
+    "They're young women."
+   ],
+   "answer": "They're young women.",
+   "explain": "",
+   "id": "u2-e058"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "That's",
+    "an",
+    "expensive",
+    "phone",
+    "."
+   ],
+   "answer": "That's an expensive phone.",
+   "id": "u2-e059"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "My",
+    "hair",
+    "is",
+    "quite",
+    "long",
+    "."
+   ],
+   "answer": "My hair is quite long.",
+   "id": "u2-e060"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "Are",
+    "they",
+    "new",
+    "students",
+    "?"
+   ],
+   "answer": "Are they new students?",
+   "id": "u2-e061"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "Your",
+    "boots",
+    "are",
+    "really",
+    "dirty",
+    "."
+   ],
+   "answer": "Your boots are really dirty.",
+   "id": "u2-e062"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "It",
+    "is",
+    "a",
+    "new",
+    "city",
+    "."
+   ],
+   "answer": "It is a new city.",
+   "id": "u2-e063"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "That",
+    "isn't",
+    "a",
+    "very",
+    "good",
+    "book",
+    "."
+   ],
+   "answer": "That isn't a very good book.",
+   "id": "u2-e064"
+  },
+  {
+   "type": "order",
+   "topic": "adjectives",
+   "words": [
+    "His",
+    "house",
+    "is",
+    "quite",
+    "near",
+    "."
+   ],
+   "answer": "His house is quite near.",
+   "id": "u2-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "tree → ___",
+   "answer": [
+    "green jeans"
+   ],
+   "explain": "",
+   "id": "u2-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "cat → ___",
+   "answer": [
+    "a black cat",
+    "black cat"
+   ],
+   "explain": "",
+   "id": "u2-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "car → ___",
+   "answer": [
+    "a fast charger",
+    "fast charger"
+   ],
+   "explain": "",
+   "id": "u2-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "clock → ___",
+   "answer": [
+    "hot dogs"
+   ],
+   "explain": "",
+   "id": "u2-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "horse → ___",
+   "answer": [
+    "a short story",
+    "short story"
+   ],
+   "explain": "",
+   "id": "u2-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "bull → ___",
+   "answer": [
+    "a good book",
+    "good book"
+   ],
+   "explain": "",
+   "id": "u2-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "vowel sounds",
+   "q": "boot → ___",
+   "answer": [
+    "new shoes"
+   ],
+   "explain": "",
+   "id": "u2-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "adjectives",
+   "q": "Venice is ___.",
+   "answer": [
+    "a beautiful city"
+   ],
+   "explain": "",
+   "id": "u2-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "adjectives",
+   "q": "Lamborghinis are ___.",
+   "answer": [
+    "fast cars"
+   ],
+   "explain": "",
+   "id": "u2-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "adjectives",
+   "q": "Crocodiles are ___.",
+   "answer": [
+    "dangerous animals"
+   ],
+   "explain": "",
+   "id": "u2-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "adjectives",
+   "q": "Beverly Hills is a place for ___.",
+   "answer": [
+    "rich people"
+   ],
+   "explain": "",
+   "id": "u2-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "adjectives",
+   "q": "Merdeka 118, in Kuala Lumpur, Malaysia, is ___.",
+   "answer": [
+    "a tall building"
+   ],
+   "explain": "",
+   "id": "u2-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "Rita is 75. She is quite ___.",
+   "answer": [
+    "old"
+   ],
+   "explain": "",
+   "id": "u2-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "very / really / quite",
+   "q": "Oscar is 95. He is ___.",
+   "answer": [
+    "very old"
+   ],
+   "explain": "",
+   "id": "u2-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "She's drinking water. (resim) She's ___.",
+   "answer": [
+    "thirsty"
+   ],
+   "explain": "",
+   "id": "u2-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "The girls are crying. (resim) They're ___.",
+   "answer": [
+    "sad"
+   ],
+   "explain": "",
+   "id": "u2-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "He's shouting at his laptop. (resim) He's ___.",
+   "answer": [
+    "angry"
+   ],
+   "explain": "",
+   "id": "u2-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "The fans are cheering. (resim) They're ___.",
+   "answer": [
+    "happy"
+   ],
+   "explain": "",
+   "id": "u2-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "She's wrapped in a scarf. (resim) She's ___.",
+   "answer": [
+    "cold"
+   ],
+   "explain": "",
+   "id": "u2-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "Let's go home. It's very late and ___.",
+   "answer": [
+    "I'm tired",
+    "I’m tired",
+    "I am tired"
+   ],
+   "explain": "",
+   "id": "u2-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "That's a very big dog. ___.",
+   "answer": [
+    "I'm frightened",
+    "I’m frightened",
+    "I am frightened"
+   ],
+   "explain": "",
+   "id": "u2-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "It's 40°C. ___.",
+   "answer": [
+    "He's hot",
+    "He’s hot",
+    "He is hot"
+   ],
+   "explain": "",
+   "id": "u2-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "The class is very long. ___.",
+   "answer": [
+    "They're bored",
+    "They’re bored",
+    "They are bored"
+   ],
+   "explain": "",
+   "id": "u2-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "feelings",
+   "q": "It's time for lunch. ___.",
+   "answer": [
+    "She's hungry",
+    "She’s hungry",
+    "She is hungry"
+   ],
+   "explain": "",
+   "id": "u2-e089"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives",
+   "q": "___ the questions. (+)",
+   "answer": [
+    "Answer"
+   ],
+   "explain": "",
+   "id": "u2-e090"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives",
+   "q": "___ talking! (+)",
+   "answer": [
+    "Stop"
+   ],
+   "explain": "",
+   "id": "u2-e091"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives",
+   "q": "___ exercise b. (–)",
+   "answer": [
+    "Don't do",
+    "Don’t do"
+   ],
+   "explain": "",
+   "id": "u2-e092"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives",
+   "q": "___ off your phone. (+)",
+   "answer": [
+    "Turn"
+   ],
+   "explain": "",
+   "id": "u2-e093"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives",
+   "q": "___ the text. (–)",
+   "answer": [
+    "Don't read",
+    "Don’t read"
+   ],
+   "explain": "",
+   "id": "u2-e094"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives",
+   "q": "___ the road there. (–)",
+   "answer": [
+    "Don't cross",
+    "Don’t cross"
+   ],
+   "explain": "",
+   "id": "u2-e095"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives, let's",
+   "q": "A: I'm hungry! (suggestion) B: ___",
+   "answer": [
+    "Let's go to a restaurant",
+    "Let’s go to a restaurant"
+   ],
+   "explain": "",
+   "id": "u2-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives, let's",
+   "q": "A: I'm cold. (imperative) B: ___",
+   "answer": [
+    "Close the door"
+   ],
+   "explain": "",
+   "id": "u2-e097"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives, let's",
+   "q": "A: I'm stressed. (suggestion) B: ___",
+   "answer": [
+    "Let's go on holiday",
+    "Let’s go on holiday"
+   ],
+   "explain": "",
+   "id": "u2-e098"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives, let's",
+   "q": "A: I'm thirsty. (imperative) B: ___",
+   "answer": [
+    "Have a drink"
+   ],
+   "explain": "",
+   "id": "u2-e099"
+  },
+  {
+   "type": "fill",
+   "topic": "imperatives, let's",
+   "q": "A: I'm tired. (suggestion) B: ___",
+   "answer": [
+    "Let's go home",
+    "Let’s go home"
+   ],
+   "explain": "",
+   "id": "u2-e100"
+  }
+ ],
+ "skipped": [
+  "s.13 Alıştırma 1a (resimli eşya adlarını tamamlama: resim gerekir; kelimeler sözlüğe eklendi)",
+  "s.14 2e (resme bakarak “What are / Where are the things?”) ve 2f (kişisel cevaplar)",
+  "s.14 3b, s.16 3b ve s.17 3a-b (dinleme/telaffuz, ses dosyası gerekir)",
+  "s.15 2B 1a (renklerin eksik harfleri: boşluk deseni OCR/resimde belirsiz; renkler sözlüğe eklendi)",
+  "s.15 2B 2a ✓ (doğru) olan maddeler (2, 3, 6, 7, 9) ve 2b madde 1 (örnek cevap)",
+  "s.16 2B 3d boy (tall / short) cümleleri: very / quite seçimi cevap anahtarı olmadan belirsiz",
+  "s.16 2B 3e (kişisel cevaplar)",
+  "s.17 2C 1b madde 1 ve 1c madde 1 (örnek), s.18 2a (resimle cümle eşleştirme: 2 ve 6 numaralı resimler belirsiz), 2b-2c örnekleri"
+ ]
+}
