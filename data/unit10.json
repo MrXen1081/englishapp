@@ -1,0 +1,1555 @@
+{
+ "unit": 10,
+ "title": "Unit 10",
+ "source": "English File 5th ed. Elementary Workbook, Unit 10 (s.69-74)",
+ "vocab": [
+  {
+   "en": "museum",
+   "tr": "müze",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-001"
+  },
+  {
+   "en": "street",
+   "tr": "cadde",
+   "alt": [
+    "sokak"
+   ],
+   "cat": "Yerler & binalar",
+   "id": "u10-002"
+  },
+  {
+   "en": "hospital",
+   "tr": "hastane",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-003"
+  },
+  {
+   "en": "park",
+   "tr": "park",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-004"
+  },
+  {
+   "en": "church",
+   "tr": "kilise",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-005"
+  },
+  {
+   "en": "bridge",
+   "tr": "köprü",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-006"
+  },
+  {
+   "en": "shopping centre",
+   "tr": "alışveriş merkezi",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-007"
+  },
+  {
+   "en": "railway station",
+   "tr": "tren istasyonu",
+   "alt": [
+    "gar"
+   ],
+   "cat": "Yerler & binalar",
+   "id": "u10-008"
+  },
+  {
+   "en": "post office",
+   "tr": "postane",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-009"
+  },
+  {
+   "en": "police station",
+   "tr": "polis karakolu",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-010"
+  },
+  {
+   "en": "department store",
+   "tr": "büyük mağaza",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-011"
+  },
+  {
+   "en": "car park",
+   "tr": "otopark",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-012"
+  },
+  {
+   "en": "town hall",
+   "tr": "belediye binası",
+   "alt": [],
+   "cat": "Yerler & binalar",
+   "id": "u10-013"
+  },
+  {
+   "en": "stay in a hostel",
+   "tr": "hostelde kalmak",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-014"
+  },
+  {
+   "en": "visit museums",
+   "tr": "müzeleri gezmek",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-015"
+  },
+  {
+   "en": "eat in local restaurants",
+   "tr": "yerel restoranlarda yemek yemek",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-016"
+  },
+  {
+   "en": "rent a flat",
+   "tr": "daire kiralamak",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-017"
+  },
+  {
+   "en": "buy souvenirs",
+   "tr": "hediyelik eşya almak",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-018"
+  },
+  {
+   "en": "have a good time",
+   "tr": "iyi vakit geçirmek",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-019"
+  },
+  {
+   "en": "go by train",
+   "tr": "trenle gitmek",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-020"
+  },
+  {
+   "en": "book accommodation",
+   "tr": "konaklama rezervasyonu yapmak",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-021"
+  },
+  {
+   "en": "meet new people",
+   "tr": "yeni insanlarla tanışmak",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-022"
+  },
+  {
+   "en": "go on holiday",
+   "tr": "tatile çıkmak",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-023"
+  },
+  {
+   "en": "sights",
+   "tr": "gezilecek yerler",
+   "alt": [],
+   "cat": "Şehir tatili",
+   "id": "u10-024"
+  },
+  {
+   "en": "hearts",
+   "tr": "kupa",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-025"
+  },
+  {
+   "en": "spades",
+   "tr": "maça",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-026"
+  },
+  {
+   "en": "diamonds",
+   "tr": "karo",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-027"
+  },
+  {
+   "en": "clubs",
+   "tr": "sinek",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-028"
+  },
+  {
+   "en": "king",
+   "tr": "papaz",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-029"
+  },
+  {
+   "en": "queen",
+   "tr": "kız",
+   "alt": [
+    "vezir"
+   ],
+   "cat": "İskambil kartları",
+   "id": "u10-030"
+  },
+  {
+   "en": "jack",
+   "tr": "vale",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-031"
+  },
+  {
+   "en": "ace",
+   "tr": "as",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-032"
+  },
+  {
+   "en": "joker",
+   "tr": "joker",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-033"
+  },
+  {
+   "en": "pack of cards",
+   "tr": "deste iskambil kağıdı",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-034"
+  },
+  {
+   "en": "shuffle",
+   "tr": "karıştırmak",
+   "alt": [],
+   "cat": "İskambil kartları",
+   "id": "u10-035"
+  },
+  {
+   "en": "tall",
+   "tr": "uzun boylu",
+   "alt": [
+    "yüksek"
+   ],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-036"
+  },
+  {
+   "en": "old",
+   "tr": "eski",
+   "alt": [
+    "yaşlı"
+   ],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-037"
+  },
+  {
+   "en": "famous",
+   "tr": "ünlü",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-038"
+  },
+  {
+   "en": "beautiful",
+   "tr": "güzel",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-039"
+  },
+  {
+   "en": "sunny",
+   "tr": "güneşli",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-040"
+  },
+  {
+   "en": "dangerous",
+   "tr": "tehlikeli",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-041"
+  },
+  {
+   "en": "tired",
+   "tr": "yorgun",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-042"
+  },
+  {
+   "en": "hot",
+   "tr": "sıcak",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-043"
+  },
+  {
+   "en": "cold",
+   "tr": "soğuk",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-044"
+  },
+  {
+   "en": "wet",
+   "tr": "yağışlı",
+   "alt": [
+    "ıslak"
+   ],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-045"
+  },
+  {
+   "en": "dry",
+   "tr": "kuru",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-046"
+  },
+  {
+   "en": "desert",
+   "tr": "çöl",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-047"
+  },
+  {
+   "en": "ocean",
+   "tr": "okyanus",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-048"
+  },
+  {
+   "en": "tonight",
+   "tr": "bu gece",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-049"
+  },
+  {
+   "en": "tomorrow",
+   "tr": "yarın",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-050"
+  },
+  {
+   "en": "next week",
+   "tr": "gelecek hafta",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-051"
+  },
+  {
+   "en": "next month",
+   "tr": "gelecek ay",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-052"
+  },
+  {
+   "en": "next year",
+   "tr": "gelecek yıl",
+   "alt": [],
+   "cat": "Sıfatlar & dünya",
+   "id": "u10-053"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Superlative adjectives (10A)",
+   "tr": "Bir grup içinde <b>en</b>… olanı söylemek için <b>the + sıfat + -est / the most + sıfat</b> kullanılır. Tek heceli sıfatlara <b>-est</b> (cold → the coldest; <i>-e</i> ile bitiyorsa <b>-st</b>: nice → the nicest). Tek ünlü + tek ünsüzle bitenlerde ünsüz ikilenir (big → the biggest). Ünsüz + <b>-y</b> ile bitenlerde y → <b>-iest</b> (sunny → the sunniest). <b>-ed</b> ile bitenler ve iki veya daha çok heceli sıfatlar <b>the most</b> alır. Düzensizler: good → the best, bad → the worst, far → the furthest. Üstünlük derecesinden sonra yer için <b>in</b> kullanılır (<b>of</b> değil): <i>the longest road in the world.</i>",
+   "table": {
+    "head": [
+     "Sıfat",
+     "Üstünlük"
+    ],
+    "rows": [
+     [
+      "cold, big, hot",
+      "the coldest, the biggest, the hottest"
+     ],
+     [
+      "dry, sunny",
+      "the driest, the sunniest"
+     ],
+     [
+      "bored, stressed",
+      "the most bored, the most stressed"
+     ],
+     [
+      "dangerous, expensive",
+      "the most dangerous, the most expensive"
+     ],
+     [
+      "good, bad, far",
+      "the best, the worst, the furthest"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "It's the oldest bridge in the world.",
+     "Dünyadaki en eski köprü."
+    ],
+    [
+     "She's the best student in the class.",
+     "Sınıftaki en iyi öğrenci o."
+    ],
+    [
+     "Monday is the worst day of the week.",
+     "Pazartesi haftanın en kötü günüdür."
+    ],
+    [
+     "The tallest building in New York.",
+     "New York'taki en yüksek bina."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "be going to (plans), future time expressions (10B)",
+   "tr": "Gelecek planlarını anlatmak için <b>be (am / is / are) + going to + yalın fiil</b> kullanılır. Genelde <b>tomorrow, next week, next month, next year</b> gibi gelecek zaman ifadeleriyle birlikte gelir. Olumsuz: <b>be + not + going to</b> (I'm not going to…, He isn't going to…). Soru: <b>Am I / Are you / Is he going to…?</b>; kısa cevap: <i>Yes, I am. / No, he isn't.</i> Özne ve be kısaltılır: I'm, you're, he's, we're, they're.",
+   "table": {
+    "head": [
+     "Olumlu / olumsuz",
+     "Soru"
+    ],
+    "rows": [
+     [
+      "I'm going to have a holiday next summer.",
+      "Am I going to have a holiday?"
+     ],
+     [
+      "You're going to study English tonight.",
+      "Are you going to study English tonight?"
+     ],
+     [
+      "He's not (isn't) going to study English.",
+      "Is he going to study English? Yes, he is. / No, he isn't."
+     ],
+     [
+      "We aren't going to fly to Paris.",
+      "Are they going to fly to Paris? Yes, they are."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I'm going to have a holiday next month.",
+     "Gelecek ay tatile çıkacağım."
+    ],
+    [
+     "I'm not going to study English.",
+     "İngilizce çalışmayacağım."
+    ],
+    [
+     "Are you going to fly to Paris?",
+     "Paris'e uçakla mı gideceksin?"
+    ],
+    [
+     "What are you going to do tonight?",
+     "Bu gece ne yapacaksın?"
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "be going to (predictions) (10C)",
+   "tr": "<b>be going to + yalın fiil</b> ile <b>tahmin</b> de yapılır: şu an gördüğümüz veya düşündüğümüz bir şeyin gelecekte olacağını söyleriz. <i>I think it's going to rain.</i> <i>You're going to be rich.</i> <i>I'm sure they're going to win.</i> Olumsuz ve soru yapısı plan anlamındakiyle aynıdır: <i>It isn't going to rain. Is it going to rain?</i> <b>be</b> ve <b>to</b>'yu unutma: <i>You're going fall</i> ✗ → <i>You're going to fall</i> ✓.",
+   "table": {
+    "head": [
+     "Olumlu",
+     "Olumsuz / soru"
+    ],
+    "rows": [
+     [
+      "It's going to rain.",
+      "It isn't going to rain. / Is it going to rain?"
+     ],
+     [
+      "You're going to be rich.",
+      "You aren't going to be rich."
+     ],
+     [
+      "They're going to win.",
+      "Are they going to win?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I think it's going to rain.",
+     "Sanırım yağmur yağacak."
+    ],
+    [
+     "Be careful! You're going to fall.",
+     "Dikkat et! Düşeceksin."
+    ],
+    [
+     "I'm sure they're going to win.",
+     "Eminim kazanacaklar."
+    ],
+    [
+     "She's going to have a baby next month.",
+     "Gelecek ay bebeği olacak."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "places and buildings",
+   "q": "Where can you get a train? At a ___.",
+   "answer": [
+    "railway station"
+   ],
+   "explain": "iki listeden birer sözcük (A + B)",
+   "id": "u10-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "places and buildings",
+   "q": "Where can you buy a stamp? At a ___.",
+   "answer": [
+    "post office"
+   ],
+   "explain": "iki listeden birer sözcük (A + B)",
+   "id": "u10-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "places and buildings",
+   "q": "Where can you talk to a police officer? At a ___.",
+   "answer": [
+    "police station"
+   ],
+   "explain": "iki listeden birer sözcük (A + B)",
+   "id": "u10-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "places and buildings",
+   "q": "Where can you buy clothes, food, furniture, and other things? In a ___.",
+   "answer": [
+    "department store"
+   ],
+   "explain": "iki listeden birer sözcük (A + B)",
+   "id": "u10-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "places and buildings",
+   "q": "Where can you leave your car? In a ___.",
+   "answer": [
+    "car park"
+   ],
+   "explain": "iki listeden birer sözcük (A + B)",
+   "id": "u10-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "places and buildings",
+   "q": "Where do local politicians have meetings? In the ___.",
+   "answer": [
+    "town hall"
+   ],
+   "explain": "iki listeden birer sözcük (A + B)",
+   "id": "u10-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'expensive': ___",
+   "answer": [
+    "the most expensive"
+   ],
+   "explain": "2+ hece → the most",
+   "id": "u10-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'sunny': ___",
+   "answer": [
+    "the sunniest"
+   ],
+   "explain": "-y → -iest",
+   "id": "u10-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'dangerous': ___",
+   "answer": [
+    "the most dangerous"
+   ],
+   "explain": "2+ hece → the most",
+   "id": "u10-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'beautiful': ___",
+   "answer": [
+    "the most beautiful"
+   ],
+   "explain": "2+ hece → the most",
+   "id": "u10-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'tired': ___",
+   "answer": [
+    "the most tired"
+   ],
+   "explain": "-ed → the most",
+   "id": "u10-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'good': ___",
+   "answer": [
+    "the best"
+   ],
+   "explain": "düzensiz",
+   "id": "u10-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "superlative adjectives: forms",
+   "q": "Superlative of 'bad': ___",
+   "answer": [
+    "the worst"
+   ],
+   "explain": "düzensiz",
+   "id": "u10-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: world records",
+   "q": "___ ocean in the world is the Pacific. (big)",
+   "answer": [
+    "the biggest"
+   ],
+   "explain": "tek hece / ünlü+ünsüz → ünsüz ikilenir + -est",
+   "id": "u10-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: world records",
+   "q": "___ desert in the world is the Atacama. (dry)",
+   "answer": [
+    "the driest"
+   ],
+   "explain": "tek hece / ünlü+ünsüz → ünsüz ikilenir + -est",
+   "id": "u10-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: world records",
+   "q": "___ country in the world is Mali. (hot)",
+   "answer": [
+    "the hottest"
+   ],
+   "explain": "tek hece / ünlü+ünsüz → ünsüz ikilenir + -est",
+   "id": "u10-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: world records",
+   "q": "___ place in the world is India. (wet)",
+   "answer": [
+    "the wettest"
+   ],
+   "explain": "tek hece / ünlü+ünsüz → ünsüz ikilenir + -est",
+   "id": "u10-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: world records",
+   "q": "The coldest place in the world is the ___. (Antarctic / Pacific)",
+   "answer": [
+    "Antarctic"
+   ],
+   "explain": "",
+   "id": "u10-e018"
+  },
+  {
+   "type": "mc",
+   "topic": "Bristol text: headings",
+   "q": "The largest shopping centre is The Mall. The most expensive department store is Harvey Nichols.",
+   "options": [
+    "Where to shop",
+    "What to see",
+    "What to do"
+   ],
+   "answer": "Where to shop",
+   "explain": "",
+   "id": "u10-e019"
+  },
+  {
+   "type": "mc",
+   "topic": "Bristol text: headings",
+   "q": "The most famous place is the Clifton Suspension Bridge. The tallest building is St Mary Redcliffe Church.",
+   "options": [
+    "What to see",
+    "Where to shop",
+    "What to do"
+   ],
+   "answer": "What to see",
+   "explain": "",
+   "id": "u10-e020"
+  },
+  {
+   "type": "mc",
+   "topic": "Bristol text: headings",
+   "q": "The oldest theatre is the Old Vic. The best place for children is the Bristol Zoo Project.",
+   "options": [
+    "What to do",
+    "Where to shop",
+    "What to see"
+   ],
+   "answer": "What to do",
+   "explain": "",
+   "id": "u10-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ place is the Clifton Suspension Bridge. (famous)",
+   "answer": [
+    "most famous"
+   ],
+   "explain": "",
+   "id": "u10-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ building is Bristol Museum. (beautiful)",
+   "answer": [
+    "most beautiful"
+   ],
+   "explain": "",
+   "id": "u10-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ building is St Mary Redcliffe Church. (tall)",
+   "answer": [
+    "tallest"
+   ],
+   "explain": "",
+   "id": "u10-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ theatre is the Old Vic. (old)",
+   "answer": [
+    "oldest"
+   ],
+   "explain": "",
+   "id": "u10-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ park is Ashton Court. (big)",
+   "answer": [
+    "biggest"
+   ],
+   "explain": "",
+   "id": "u10-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ shopping centre is The Mall. (large)",
+   "answer": [
+    "largest"
+   ],
+   "explain": "",
+   "id": "u10-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "superlatives: Bristol",
+   "q": "The ___ department store is Harvey Nichols. (expensive)",
+   "answer": [
+    "most expensive"
+   ],
+   "explain": "",
+   "id": "u10-e028"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (plans)",
+   "words": [
+    "I'm",
+    "going",
+    "to",
+    "see",
+    "a",
+    "film",
+    "."
+   ],
+   "answer": "I'm going to see a film.",
+   "explain": "",
+   "id": "u10-e029"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (plans)",
+   "words": [
+    "She's",
+    "going",
+    "to",
+    "study",
+    "languages",
+    "."
+   ],
+   "answer": "She's going to study languages.",
+   "explain": "",
+   "id": "u10-e030"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (plans)",
+   "words": [
+    "We're",
+    "going",
+    "to",
+    "drive",
+    "there",
+    "."
+   ],
+   "answer": "We're going to drive there.",
+   "explain": "",
+   "id": "u10-e031"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (plans)",
+   "words": [
+    "I'm",
+    "going",
+    "to",
+    "give",
+    "her",
+    "some",
+    "flowers",
+    "."
+   ],
+   "answer": "I'm going to give her some flowers.",
+   "explain": "",
+   "id": "u10-e032"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (plans)",
+   "words": [
+    "They're",
+    "going",
+    "to",
+    "order",
+    "takeaway",
+    "pizza",
+    "."
+   ],
+   "answer": "They're going to order takeaway pizza.",
+   "explain": "",
+   "id": "u10-e033"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (plans)",
+   "words": [
+    "He's",
+    "going",
+    "to",
+    "rent",
+    "a",
+    "flat",
+    "."
+   ],
+   "answer": "He's going to rent a flat.",
+   "explain": "",
+   "id": "u10-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "We ___ our friends the city. (we / show)",
+   "answer": [
+    "'re going to show",
+    "are going to show"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "They ___ nice meals in local restaurants. (they / have)",
+   "answer": [
+    "'re going to have",
+    "are going to have"
+   ],
+   "explain": "",
+   "id": "u10-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "They ___ the museum. (they / not visit)",
+   "answer": [
+    "aren't going to visit",
+    "are not going to visit",
+    "'re not going to visit"
+   ],
+   "explain": "olumsuz: be + not + going to",
+   "id": "u10-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "She ___ on holiday this year. (she / not go)",
+   "answer": [
+    "isn't going to go",
+    "is not going to go",
+    "'s not going to go"
+   ],
+   "explain": "",
+   "id": "u10-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "___ alone? (David / go)",
+   "answer": [
+    "Is David going to go"
+   ],
+   "explain": "soru: be + özne + going to",
+   "id": "u10-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "I ___ there. (I / not fly)",
+   "answer": [
+    "'m not going to fly",
+    "am not going to fly"
+   ],
+   "explain": "",
+   "id": "u10-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "Sara ___ four days with us. (Sara / spend)",
+   "answer": [
+    "is going to spend",
+    "'s going to spend"
+   ],
+   "explain": "",
+   "id": "u10-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "___ with a friend? (you / stay)",
+   "answer": [
+    "Are you going to stay"
+   ],
+   "explain": "",
+   "id": "u10-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "___ the sights? (they / see)",
+   "answer": [
+    "Are they going to see"
+   ],
+   "explain": "",
+   "id": "u10-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "He ___ a lot of people. (he / meet)",
+   "answer": [
+    "'s going to meet",
+    "is going to meet"
+   ],
+   "explain": "",
+   "id": "u10-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: plans",
+   "q": "___ on the sofa? (I / sleep)",
+   "answer": [
+    "Am I going to sleep"
+   ],
+   "explain": "",
+   "id": "u10-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "A So, what are you going to do this summer? B I ___ to Denmark. (go)",
+   "answer": [
+    "'m going to go",
+    "am going to go",
+    "I'm going to go",
+    "I am going to go"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "A Really? Where ___ ? (you / stay)",
+   "answer": [
+    "are you going to stay"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "B This year, I ___ in hotels. (not / stay)",
+   "answer": [
+    "'m not going to stay",
+    "am not going to stay",
+    "I'm not going to stay",
+    "I am not going to stay"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "Instead, I ___ on an organic farm for three weeks. (live)",
+   "answer": [
+    "'m going to live",
+    "am going to live",
+    "I'm going to live",
+    "I am going to live"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "B Yeah, I ___ on the farm. (help)",
+   "answer": [
+    "'m going to help",
+    "am going to help",
+    "I'm going to help",
+    "I am going to help"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "A ___ with you? (your girlfriend / go)",
+   "answer": [
+    "Is your girlfriend going to go"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "B No. She ___ to south Wales with some friends. (drive)",
+   "answer": [
+    "'s going to drive",
+    "is going to drive",
+    "She's going to drive",
+    "She is going to drive"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "They ___ all day on the beach. (spend)",
+   "answer": [
+    "'re going to spend",
+    "are going to spend",
+    "They're going to spend",
+    "They are going to spend"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "and they ___ all night. (dance)",
+   "answer": [
+    "'re going to dance",
+    "are going to dance",
+    "They're going to dance",
+    "They are going to dance"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "My holiday ___ different. (be)",
+   "answer": [
+    "'s going to be",
+    "is going to be",
+    "My holiday's going to be"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: conversation (summer holiday)",
+   "q": "I ___ lots of new people and see a new place. (meet)",
+   "answer": [
+    "'m going to meet",
+    "am going to meet",
+    "I'm going to meet",
+    "I am going to meet"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "I really don't like flying, so I'm going to ___.",
+   "answer": [
+    "go by train"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "My friends aren't going to cook this holiday; they're going to ___.",
+   "answer": [
+    "eat in local restaurants"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "This year she's going to ___ before she leaves. (a hotel)",
+   "answer": [
+    "book accommodation"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "There are a lot of activities in the hotel, so they're going to ___.",
+   "answer": [
+    "have a good time"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "It's cheaper to ___ at the market than at the airport.",
+   "answer": [
+    "buy souvenirs"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "There are lots of different nationalities in my group, so I'm going to ___.",
+   "answer": [
+    "meet new people"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "We're going to go to the beach when it's sunny and ___ when it rains.",
+   "answer": [
+    "visit museums"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "city holidays: phrases",
+   "q": "There are six of us, so we're going to ___ together.",
+   "answer": [
+    "rent a flat"
+   ],
+   "explain": "a–i eşleştirmesindeki fiil + isim ifadesi",
+   "id": "u10-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "playing cards",
+   "q": "I have the seven of hearts, spades and clubs. I only need the ___ to complete the set.",
+   "answer": [
+    "seven of diamonds"
+   ],
+   "explain": "",
+   "id": "u10-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "playing cards",
+   "q": "I have the nine, ten and queen of hearts; I only need the ___ to win.",
+   "answer": [
+    "jack",
+    "jack of hearts",
+    "the jack"
+   ],
+   "explain": "9-10-vale-kız sırası; eksik olan vale",
+   "id": "u10-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "playing cards",
+   "q": "Some games use a ___ as an extra playing card.",
+   "answer": [
+    "joker"
+   ],
+   "explain": "",
+   "id": "u10-e067"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'appear'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "ear",
+   "explain": "",
+   "id": "u10-e068"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'dear'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "ear",
+   "explain": "",
+   "id": "u10-e069"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'hear'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "ear",
+   "explain": "",
+   "id": "u10-e070"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'year'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "ear",
+   "explain": "",
+   "id": "u10-e071"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'earn'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "bird",
+   "explain": "",
+   "id": "u10-e072"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'learn'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "bird",
+   "explain": "",
+   "id": "u10-e073"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the letters ear",
+   "q": "Which sound does 'ear' have in 'heart'? (as in ear / bird / car)",
+   "options": [
+    "ear",
+    "bird",
+    "car"
+   ],
+   "answer": "car",
+   "explain": "",
+   "id": "u10-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to (predictions): corrections",
+   "q": "___ going to be sunny tomorrow?",
+   "answer": [
+    "Is it"
+   ],
+   "explain": "özne it unutulmuş",
+   "id": "u10-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to (predictions): corrections",
+   "q": "I'm sure Paul ___ going to have a great time.",
+   "answer": [
+    "is",
+    "'s"
+   ],
+   "explain": "be eksik",
+   "id": "u10-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to (predictions): corrections",
+   "q": "Be careful! You're going ___ fall.",
+   "answer": [
+    "to"
+   ],
+   "explain": "going to",
+   "id": "u10-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to (predictions): corrections",
+   "q": "You ___ going to remember my birthday.",
+   "answer": [
+    "aren't",
+    "are not",
+    "'re not"
+   ],
+   "explain": "olumsuzda be gerekli",
+   "id": "u10-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to (predictions): corrections",
+   "q": "I think they're ___ be famous one day.",
+   "answer": [
+    "going to"
+   ],
+   "explain": "be going to",
+   "id": "u10-e079"
+  },
+  {
+   "type": "order",
+   "topic": "be going to (predictions): corrections",
+   "words": [
+    "What",
+    "is",
+    "he",
+    "going",
+    "to",
+    "do",
+    "?"
+   ],
+   "answer": "What is he going to do?",
+   "explain": "soruda be özneden önce",
+   "id": "u10-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "Anton moved to the USA last month, but I don't think ___ happy there. (he / be)",
+   "answer": [
+    "he's going to be",
+    "he is going to be"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "I slept all afternoon. ___ tonight. (I / not sleep)",
+   "answer": [
+    "I'm not going to sleep",
+    "I am not going to sleep"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "How was the exam? ___ ? (you / pass)",
+   "answer": [
+    "Are you going to pass",
+    "Do you think you're going to pass"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "That restaurant is always empty. I think ___ . (it / close)",
+   "answer": [
+    "it's going to close",
+    "it is going to close"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "Our team are terrible! ___ today. (we / not win)",
+   "answer": [
+    "We aren't going to win",
+    "We're not going to win",
+    "We are not going to win"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "The film was amazing. ___ it. (you / enjoy)",
+   "answer": [
+    "You're going to enjoy",
+    "You are going to enjoy"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "Do you have an umbrella? I think ___ . (it / rain)",
+   "answer": [
+    "it's going to rain",
+    "it is going to rain"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "He didn't eat any lunch. I think ___ hungry. (he / be)",
+   "answer": [
+    "he's going to be",
+    "he is going to be"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "be going to: predictions",
+   "q": "They got engaged last month, and I think ___ married soon. (they / get)",
+   "answer": [
+    "they're going to get",
+    "they are going to get"
+   ],
+   "explain": "be + going to + yalın fiil",
+   "id": "u10-e089"
+  }
+ ],
+ "skipped": [
+  "s.69 1a (eksik ünlüleri tamamlama, resimli), s.69 1c (resimli etiketleme)",
+  "s.70 2a madde 2 ve 6 (OCR'da sıfatlar kayıp), s.70 2b madde 4, 5 ve 7 (OCR bozuk; cevap şıkları belirsiz), s.70 2d (kişisel yazma), s.70 3 (dinleme)",
+  "s.71 2 (cümle vurgusu, dinleme)",
+  "s.72 3a (eşleştirme yerine 3b cümleleri üzerinden yapıldı), s.72 3c (kişisel tablo / yazma)",
+  "s.73 1a (resimli iskambil), s.73 1b madde 1, 2, 3, 5, 6, 9 (OCR bozuk veya birden fazla olası cevap)",
+  "s.74 3a madde 1, 3, 6, 8 (zaten doğru cümleler), s.74 3c (resimli yazma)",
+  "Cevap anahtarı olmadığından tüm cevaplar gramer kuralından / bağlamdan türetildi"
+ ]
+}
