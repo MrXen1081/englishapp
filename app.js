@@ -204,7 +204,7 @@ function grammarView(){
 const irrBox=id=>IR().box[id]||0;
 const GROUPS=[['AAA','Aynı biçimli (V1 = V2 = V3)','cut – cut – cut'],['ABB','V2 = V3','buy – bought – bought'],['ABC','Üç biçim farklı','go – went – gone'],['ABA','V1 = V3','come – came – come']];
 let icfg={view:'az',q:'',mode:'list',given:'v1',scope:'all',size:10},IS=null;
-const forms=(v,k)=>v[k]===undefined?[v.v1]:v[k];
+const forms=(v,k)=>[].concat(v[k]);   // always an array (v1 is a plain string)
 const showForm=a=>a.join(' / ');
 const irrRow=v=>`<div class="ex"><div><b>${esc(v.v1)}</b> – ${esc(showForm(v.v2))} – ${esc(showForm(v.v3))}<small>${esc(v.tr)}${v.v1==='read'?' · read /riːd/, read /red/, read /red/':''}</small></div><span class="muted">${irrBox(v.id)?'K'+irrBox(v.id):''}</span>${spk([v.v1,showForm(v.v2).split(' / ')[0],showForm(v.v3).split(' / ')[0]].join(', '))}</div>`;
 async function verbsView(){

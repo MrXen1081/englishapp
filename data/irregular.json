@@ -11,7 +11,7 @@
 "v3": [
 "been"
 ],
-"tr": "olmak",
+"tr": "olmak, bulunmak",
 "type": "ABC"
 },
 {
@@ -69,7 +69,8 @@
 "bit"
 ],
 "v3": [
-"bitten"
+"bitten",
+"bit"
 ],
 "tr": "ısırmak",
 "type": "ABC"
@@ -241,7 +242,7 @@
 "v3": [
 "done"
 ],
-"tr": "yapmak",
+"tr": "yapmak, etmek",
 "type": "ABC"
 },
 {
@@ -303,7 +304,7 @@
 "v3": [
 "eaten"
 ],
-"tr": "yemek yemek",
+"tr": "yemek (yiyecek tüketmek)",
 "type": "ABC"
 },
 {
@@ -421,7 +422,8 @@
 "got"
 ],
 "v3": [
-"got"
+"got",
+"gotten"
 ],
 "tr": "almak, olmak, ulaşmak",
 "type": "ABB"
@@ -531,7 +533,7 @@
 "v3": [
 "held"
 ],
-"tr": "tutmak",
+"tr": "tutmak, elinde tutmak",
 "type": "ABB"
 },
 {
@@ -555,7 +557,7 @@
 "v3": [
 "kept"
 ],
-"tr": "tutmak, saklamak",
+"tr": "saklamak, sürdürmek",
 "type": "ABB"
 },
 {
@@ -579,7 +581,7 @@
 "v3": [
 "laid"
 ],
-"tr": "koymak, sermek",
+"tr": "yatırmak, sermek",
 "type": "ABB"
 },
 {
@@ -811,7 +813,7 @@
 "v3": [
 "said"
 ],
-"tr": "söylemek",
+"tr": "demek, söylemek",
 "type": "ABB"
 },
 {
@@ -878,10 +880,12 @@
 "id": "irr-073",
 "v1": "shine",
 "v2": [
-"shone"
+"shone",
+"shined"
 ],
 "v3": [
-"shone"
+"shone",
+"shined"
 ],
 "tr": "parlamak",
 "type": "ABB"
