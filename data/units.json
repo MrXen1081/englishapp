@@ -40,5 +40,11 @@
   "title": "Unit 7",
   "file": "data/unit7.json",
   "subtitle": "was / were · Small mistake, big problem · Happy New Year"
+ },
+ {
+  "id": "unit8",
+  "title": "Unit 8",
+  "file": "data/unit8.json",
+  "subtitle": "Past simple · there is / there are · there was / there were"
  }
 ]

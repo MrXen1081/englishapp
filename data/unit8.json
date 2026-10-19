@@ -1,0 +1,2171 @@
+{
+ "unit": 8,
+ "title": "Unit 8",
+ "source": "English File 5th ed. Elementary Workbook, Unit 8 (s.55-60)",
+ "vocab": [
+  {
+   "en": "hall",
+   "tr": "giriş holü",
+   "alt": [
+    "hol"
+   ],
+   "cat": "Evin bölümleri",
+   "id": "u8-001"
+  },
+  {
+   "en": "bathroom",
+   "tr": "banyo",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-002"
+  },
+  {
+   "en": "dining room",
+   "tr": "yemek odası",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-003"
+  },
+  {
+   "en": "study",
+   "tr": "çalışma odası",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-004"
+  },
+  {
+   "en": "garage",
+   "tr": "garaj",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-005"
+  },
+  {
+   "en": "kitchen",
+   "tr": "mutfak",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-006"
+  },
+  {
+   "en": "living room",
+   "tr": "oturma odası",
+   "alt": [
+    "salon"
+   ],
+   "cat": "Evin bölümleri",
+   "id": "u8-007"
+  },
+  {
+   "en": "bedroom",
+   "tr": "yatak odası",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-008"
+  },
+  {
+   "en": "garden",
+   "tr": "bahçe",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-009"
+  },
+  {
+   "en": "balcony",
+   "tr": "balkon",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-010"
+  },
+  {
+   "en": "floor",
+   "tr": "zemin",
+   "alt": [
+    "yer",
+    "kat"
+   ],
+   "cat": "Evin bölümleri",
+   "id": "u8-011"
+  },
+  {
+   "en": "wall",
+   "tr": "duvar",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-012"
+  },
+  {
+   "en": "ceiling",
+   "tr": "tavan",
+   "alt": [],
+   "cat": "Evin bölümleri",
+   "id": "u8-013"
+  },
+  {
+   "en": "washing machine",
+   "tr": "çamaşır makinesi",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-014"
+  },
+  {
+   "en": "dishwasher",
+   "tr": "bulaşık makinesi",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-015"
+  },
+  {
+   "en": "microwave",
+   "tr": "mikrodalga fırın",
+   "alt": [
+    "mikrodalga"
+   ],
+   "cat": "Eşyalar",
+   "id": "u8-016"
+  },
+  {
+   "en": "wardrobe",
+   "tr": "gardırop",
+   "alt": [
+    "elbise dolabı"
+   ],
+   "cat": "Eşyalar",
+   "id": "u8-017"
+  },
+  {
+   "en": "bath",
+   "tr": "küvet",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-018"
+  },
+  {
+   "en": "sink",
+   "tr": "lavabo",
+   "alt": [
+    "evye"
+   ],
+   "cat": "Eşyalar",
+   "id": "u8-019"
+  },
+  {
+   "en": "plant",
+   "tr": "bitki",
+   "alt": [
+    "saksı çiçeği"
+   ],
+   "cat": "Eşyalar",
+   "id": "u8-020"
+  },
+  {
+   "en": "light",
+   "tr": "lamba",
+   "alt": [
+    "ışık"
+   ],
+   "cat": "Eşyalar",
+   "id": "u8-021"
+  },
+  {
+   "en": "carpet",
+   "tr": "halı",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-022"
+  },
+  {
+   "en": "mirror",
+   "tr": "ayna",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-023"
+  },
+  {
+   "en": "cooker",
+   "tr": "ocak",
+   "alt": [
+    "fırın"
+   ],
+   "cat": "Eşyalar",
+   "id": "u8-024"
+  },
+  {
+   "en": "fridge",
+   "tr": "buzdolabı",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-025"
+  },
+  {
+   "en": "stairs",
+   "tr": "merdiven",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-026"
+  },
+  {
+   "en": "lamp",
+   "tr": "lamba",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-027"
+  },
+  {
+   "en": "armchair",
+   "tr": "koltuk",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-028"
+  },
+  {
+   "en": "shower",
+   "tr": "duş",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-029"
+  },
+  {
+   "en": "fireplace",
+   "tr": "şömine",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-030"
+  },
+  {
+   "en": "bed",
+   "tr": "yatak",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-031"
+  },
+  {
+   "en": "shelf",
+   "tr": "raf",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-032"
+  },
+  {
+   "en": "cupboard",
+   "tr": "dolap",
+   "alt": [],
+   "cat": "Eşyalar",
+   "id": "u8-033"
+  },
+  {
+   "en": "behind",
+   "tr": "arkasında",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-034"
+  },
+  {
+   "en": "between",
+   "tr": "arasında",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-035"
+  },
+  {
+   "en": "in front of",
+   "tr": "önünde",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-036"
+  },
+  {
+   "en": "next to",
+   "tr": "yanında",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-037"
+  },
+  {
+   "en": "opposite",
+   "tr": "karşısında",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-038"
+  },
+  {
+   "en": "over",
+   "tr": "üstünde",
+   "alt": [
+    "üzerinde"
+   ],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-039"
+  },
+  {
+   "en": "under",
+   "tr": "altında",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-040"
+  },
+  {
+   "en": "down",
+   "tr": "aşağı",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-041"
+  },
+  {
+   "en": "from … to",
+   "tr": "…den … e",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-042"
+  },
+  {
+   "en": "into",
+   "tr": "içine",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-043"
+  },
+  {
+   "en": "out of",
+   "tr": "dışına",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-044"
+  },
+  {
+   "en": "through",
+   "tr": "içinden",
+   "alt": [
+    "boyunca"
+   ],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-045"
+  },
+  {
+   "en": "up",
+   "tr": "yukarı",
+   "alt": [],
+   "cat": "Yer ve hareket edatları",
+   "id": "u8-046"
+  },
+  {
+   "en": "ghost",
+   "tr": "hayalet",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-047"
+  },
+  {
+   "en": "tourist",
+   "tr": "turist",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-048"
+  },
+  {
+   "en": "jacuzzi",
+   "tr": "jakuzi",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-049"
+  },
+  {
+   "en": "view",
+   "tr": "manzara",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-050"
+  },
+  {
+   "en": "minibar",
+   "tr": "minibar",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-051"
+  },
+  {
+   "en": "swimming pool",
+   "tr": "yüzme havuzu",
+   "alt": [
+    "havuz"
+   ],
+   "cat": "Hayalet & otel",
+   "id": "u8-052"
+  },
+  {
+   "en": "turtle",
+   "tr": "kaplumbağa",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-053"
+  },
+  {
+   "en": "murderer",
+   "tr": "katil",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-054"
+  },
+  {
+   "en": "robber",
+   "tr": "soyguncu",
+   "alt": [
+    "hırsız"
+   ],
+   "cat": "Hayalet & otel",
+   "id": "u8-055"
+  },
+  {
+   "en": "police report",
+   "tr": "polis raporu",
+   "alt": [],
+   "cat": "Hayalet & otel",
+   "id": "u8-056"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Past simple: regular and irregular (8A)",
+   "tr": "<b>be</b>'nin geçmişi <b>was / were</b>, <b>can</b>'in geçmişi <b>could</b>'dur; olumsuz için <b>not</b> eklenir, soruda fiil özneden önce gelir: <i>Were you ill? She wasn't at home. I couldn't sleep.</i> <b>Düzenli</b> fiiller <b>-ed / -d</b> alır (want → wanted, like → liked); <b>düzensiz</b> fiillerin biçimi değişir (go → went, see → saw). Be ve can dışındaki tüm fiillerde olumsuz <b>didn't + yalın fiil</b>, soru <b>did + özne + yalın fiil</b>'dir: <i>She didn't see him. Did you watch the match? Where did she go?</i>",
+   "table": {
+    "head": [
+     "Olumlu",
+     "Olumsuz / soru"
+    ],
+    "rows": [
+     [
+      "I wanted / I went",
+      "I didn't want / I didn't go"
+     ],
+     [
+      "She liked it",
+      "Did she like it?"
+     ],
+     [
+      "He saw a man",
+      "Did he see a man? / Where did he go?"
+     ],
+     [
+      "They were early",
+      "They weren't early. / Were they early?"
+     ],
+     [
+      "I could hear it",
+      "I couldn't hear it. / Could you hear it?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "We parked the police car outside.",
+     "Polis arabasını dışarı park ettik."
+    ],
+    [
+     "He didn't run to his car.",
+     "Arabasına koşmadı."
+    ],
+    [
+     "Did you go home after that?",
+     "Ondan sonra eve gittin mi?"
+    ],
+    [
+     "What time did you leave the restaurant?",
+     "Restorandan saat kaçta ayrıldınız?"
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "there is / there are, some / any + plural nouns (8B)",
+   "tr": "Bir şeyin var olduğunu ya da olmadığını söylemek için <b>there is</b> (tekil: <i>There's a garage.</i>) ve <b>there are</b> (çoğul: <i>There are some pictures.</i>) kullanılır. <b>There is</b> genelde <b>There's</b> olarak kısaltılır, <b>there are</b> kısaltılmaz. Çoğul isimlerle <b>some</b> (olumlu) ve <b>any</b> (olumsuz ve soru) kullanılır; <i>some</i> kesin olmayan sayıdır. Bir listeden bahsederken ilk kelime tekilse <i>there is</i>, çoğulsa <i>there are</i> kullanılır. <b>There is / are</b> ile <b>it is / they are</b> farklıdır: <i>There's a key on the table. It's the key to the kitchen.</i>",
+   "table": {
+    "head": [
+     "Tekil",
+     "Çoğul"
+    ],
+    "rows": [
+     [
+      "There's a bathroom.",
+      "There are some chairs."
+     ],
+     [
+      "There isn't a swimming pool.",
+      "There aren't any plants."
+     ],
+     [
+      "Is there a bathroom? Yes, there is. / No, there isn't.",
+      "Are there any windows? Yes, there are. / No, there aren't."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "There's a bathroom upstairs.",
+     "Üst katta bir banyo var."
+    ],
+    [
+     "There aren't any plants in the room.",
+     "Odada hiç bitki yok."
+    ],
+    [
+     "Are there any neighbours with children?",
+     "Çocuklu komşu var mı?"
+    ],
+    [
+     "In the living room there are two armchairs and a sofa.",
+     "Oturma odasında iki koltuk ve bir kanepe var."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "there was / there were (8C)",
+   "tr": "<b>There was / there were</b>, <i>there is / there are</i>'in geçmişidir; bir şeyin geçmişte var olduğunu ya da olmadığını söylemek için kullanılır. Tekil isimle <b>was</b>, çoğul isimle <b>were</b>. Olumsuz: <b>wasn't / weren't</b>. Soru: <i>Was there…? Were there any…?</i> Çoğulda yine <b>some</b> (olumlu) ve <b>any</b> (olumsuz, soru) kullanılır.",
+   "table": {
+    "head": [
+     "Tekil",
+     "Çoğul"
+    ],
+    "rows": [
+     [
+      "There was a big mirror.",
+      "There were four lamps."
+     ],
+     [
+      "There wasn't a bathroom.",
+      "There weren't any windows."
+     ],
+     [
+      "Was there a bathroom? Yes, there was. / No, there wasn't.",
+      "Were there any windows? Yes, there were. / No, there weren't."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "There were two computers in the office.",
+     "Ofiste iki bilgisayar vardı."
+    ],
+    [
+     "Was there a bar? No, there wasn't.",
+     "Bar var mıydı? Hayır, yoktu."
+    ],
+    [
+     "There weren't any chairs in the room.",
+     "Odada hiç sandalye yoktu."
+    ],
+    [
+     "Were there any restaurants near the hotel?",
+     "Otelin yakınında restoran var mıydı?"
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "past simple: was / were / could",
+   "q": "They're early. → They ___ early.",
+   "answer": [
+    "were"
+   ],
+   "explain": "be → was / were",
+   "id": "u8-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: was / were / could",
+   "q": "I'm not thirsty. → I ___ thirsty.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "am not → wasn't",
+   "id": "u8-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: was / were / could",
+   "q": "Is he ill? → ___ he ill?",
+   "answer": [
+    "Was"
+   ],
+   "explain": "is → was",
+   "id": "u8-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: was / were / could",
+   "q": "I can hear it. → I ___ hear it.",
+   "answer": [
+    "could"
+   ],
+   "explain": "can → could",
+   "id": "u8-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: was / were / could",
+   "q": "He can't find it. → He ___ find it.",
+   "answer": [
+    "couldn't"
+   ],
+   "explain": "can't → couldn't",
+   "id": "u8-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: was / were / could",
+   "q": "Can you see them? → ___ you see them?",
+   "answer": [
+    "Could"
+   ],
+   "explain": "can → could",
+   "id": "u8-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: present → past",
+   "q": "She studies a lot. → She ___ a lot. (study)",
+   "answer": [
+    "studied"
+   ],
+   "explain": "ünsüz + y → -ied",
+   "id": "u8-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: present → past",
+   "q": "We don't like it. → We ___ like it.",
+   "answer": [
+    "didn't"
+   ],
+   "explain": "don't → didn't + yalın fiil",
+   "id": "u8-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: present → past",
+   "q": "Does it finish late? → ___ it finish late?",
+   "answer": [
+    "Did"
+   ],
+   "explain": "does → did + yalın fiil",
+   "id": "u8-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: present → past",
+   "q": "He speaks French. → He ___ French. (speak)",
+   "answer": [
+    "spoke"
+   ],
+   "explain": "speak → spoke (düzensiz)",
+   "id": "u8-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: present → past",
+   "q": "She doesn't have a car. → She ___ have a car.",
+   "answer": [
+    "didn't"
+   ],
+   "explain": "doesn't → didn't + yalın fiil",
+   "id": "u8-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple: present → past",
+   "q": "Do you feel tired? → ___ you feel tired?",
+   "answer": [
+    "Did"
+   ],
+   "explain": "do → did + yalın fiil",
+   "id": "u8-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "police report: correct the mistakes",
+   "q": "We ___ the police car outside. (park)",
+   "answer": [
+    "parked"
+   ],
+   "explain": "düzenli fiil: park + ed",
+   "id": "u8-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "police report: correct the mistakes",
+   "q": "The bank was closed and all the lights ___ off.",
+   "answer": [
+    "were"
+   ],
+   "explain": "lights çoğul → were",
+   "id": "u8-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "police report: correct the mistakes",
+   "q": "At first we ___ see who it was.",
+   "answer": [
+    "couldn't"
+   ],
+   "explain": "can'in geçmişi: couldn't (didn't can ✗)",
+   "id": "u8-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "police report: correct the mistakes",
+   "q": "___ Steven Potter. (It is → past)",
+   "answer": [
+    "It was"
+   ],
+   "explain": "is → was",
+   "id": "u8-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "police report: correct the mistakes",
+   "q": "The next day, we ___ to his house at 6.00 a.m. (go)",
+   "answer": [
+    "went"
+   ],
+   "explain": "go → went",
+   "id": "u8-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "police report: correct the mistakes",
+   "q": "He didn't ___ to speak to us. (want)",
+   "answer": [
+    "want"
+   ],
+   "explain": "didn't + yalın fiil",
+   "id": "u8-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "What film ___ ? (you / see)",
+   "answer": [
+    "did you see"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "Who ___ to the cinema with? (you / go)",
+   "answer": [
+    "did you go"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "___ the film? (you / like)",
+   "answer": [
+    "Did you like"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "What time ___ ? (the film / finish)",
+   "answer": [
+    "did the film finish"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "And what ___ after you left the cinema? (you / do)",
+   "answer": [
+    "did you do"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "What time ___ the restaurant? (you / leave)",
+   "answer": [
+    "did you leave"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "___ a taxi? (you / get)",
+   "answer": [
+    "Did you get"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple questions (police interview)",
+   "q": "And what time ___ to bed? (you / go)",
+   "answer": [
+    "did you go"
+   ],
+   "explain": "did + özne + yalın fiil",
+   "id": "u8-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of begin: ___",
+   "answer": [
+    "began"
+   ],
+   "explain": "",
+   "id": "u8-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of come: ___",
+   "answer": [
+    "came"
+   ],
+   "explain": "",
+   "id": "u8-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of drink: ___",
+   "answer": [
+    "drank"
+   ],
+   "explain": "",
+   "id": "u8-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of drive: ___",
+   "answer": [
+    "drove"
+   ],
+   "explain": "",
+   "id": "u8-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of give: ___",
+   "answer": [
+    "gave"
+   ],
+   "explain": "",
+   "id": "u8-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of know: ___",
+   "answer": [
+    "knew"
+   ],
+   "explain": "",
+   "id": "u8-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of put: ___",
+   "answer": [
+    "put"
+   ],
+   "explain": "",
+   "id": "u8-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of sit: ___",
+   "answer": [
+    "sat"
+   ],
+   "explain": "",
+   "id": "u8-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of swim: ___",
+   "answer": [
+    "swam"
+   ],
+   "explain": "",
+   "id": "u8-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of wake up: ___",
+   "answer": [
+    "woke up"
+   ],
+   "explain": "",
+   "id": "u8-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of win: ___",
+   "answer": [
+    "won"
+   ],
+   "explain": "",
+   "id": "u8-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "Past simple of write: ___",
+   "answer": [
+    "wrote"
+   ],
+   "explain": "",
+   "id": "u8-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "They ___ their friends outside the restaurant. (meet)",
+   "answer": [
+    "met"
+   ],
+   "explain": "",
+   "id": "u8-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "The police ___ the man's daughter was the murderer. (think)",
+   "answer": [
+    "thought"
+   ],
+   "explain": "",
+   "id": "u8-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "The police officer ___ the money in an old bag. (find)",
+   "answer": [
+    "found"
+   ],
+   "explain": "",
+   "id": "u8-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "I ___ a detective story in the bookshop. (buy)",
+   "answer": [
+    "bought"
+   ],
+   "explain": "",
+   "id": "u8-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "My girlfriend ___ her phone last night. (lose)",
+   "answer": [
+    "lost"
+   ],
+   "explain": "",
+   "id": "u8-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "The man ___ a window and went into the house. (break)",
+   "answer": [
+    "broke"
+   ],
+   "explain": "",
+   "id": "u8-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "Somebody ___ my laptop when I was out of the room. (take)",
+   "answer": [
+    "took"
+   ],
+   "explain": "",
+   "id": "u8-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "I was thirsty so I ___ a cup of tea. (make)",
+   "answer": [
+    "made"
+   ],
+   "explain": "",
+   "id": "u8-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "We were worried because we ___ see a police car outside our house. (can)",
+   "answer": [
+    "couldn't"
+   ],
+   "explain": "",
+   "id": "u8-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular) in sentences",
+   "q": "Last night we ___ a noise downstairs. (hear)",
+   "answer": [
+    "heard"
+   ],
+   "explain": "",
+   "id": "u8-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "Every day he ___ from the post office to the bank with a bag full of money. (drive)",
+   "answer": [
+    "drove"
+   ],
+   "explain": "",
+   "id": "u8-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "Two men on motorbikes ___ about Rob. (know)",
+   "answer": [
+    "knew"
+   ],
+   "explain": "",
+   "id": "u8-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "They ___ the money from the post office. (want)",
+   "answer": [
+    "wanted"
+   ],
+   "explain": "",
+   "id": "u8-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "The two men ___ Rob for a week. (watch)",
+   "answer": [
+    "watched"
+   ],
+   "explain": "",
+   "id": "u8-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "On Friday morning, they ___ for him on their motorbikes. (wait)",
+   "answer": [
+    "waited"
+   ],
+   "explain": "",
+   "id": "u8-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "When they ___ Rob's car, they followed him. (see)",
+   "answer": [
+    "saw"
+   ],
+   "explain": "",
+   "id": "u8-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "When they saw Rob's car, they ___ him. (follow)",
+   "answer": [
+    "followed"
+   ],
+   "explain": "",
+   "id": "u8-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "Rob ___ frightened, so he stopped the car. (be)",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "Rob was frightened, so he ___ the car. (stop)",
+   "answer": [
+    "stopped"
+   ],
+   "explain": "",
+   "id": "u8-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "The men ___ the door and they took the bag. (open)",
+   "answer": [
+    "opened"
+   ],
+   "explain": "",
+   "id": "u8-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "The men opened the door and they ___ the bag next to Rob. (take)",
+   "answer": [
+    "took"
+   ],
+   "explain": "",
+   "id": "u8-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "Then they ___ on their motorbikes. (leave)",
+   "answer": [
+    "left"
+   ],
+   "explain": "",
+   "id": "u8-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "The two men ___ a big surprise when they looked inside the bag. (have)",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u8-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "The two men had a big surprise when they ___ inside the bag at home. (look)",
+   "answer": [
+    "looked"
+   ],
+   "explain": "",
+   "id": "u8-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "It ___ full of money. (not be)",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u8-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "story: Rob Jones",
+   "q": "It wasn't full of money; it ___ a first-aid kit! (be)",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You take off your coat in the ___.",
+   "answer": [
+    "hall"
+   ],
+   "explain": "",
+   "id": "u8-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You have a shower in the ___.",
+   "answer": [
+    "bathroom"
+   ],
+   "explain": "",
+   "id": "u8-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You have dinner in the ___ room.",
+   "answer": [
+    "dining"
+   ],
+   "explain": "",
+   "id": "u8-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You use a computer in the ___.",
+   "answer": [
+    "study"
+   ],
+   "explain": "",
+   "id": "u8-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You park your car in the ___.",
+   "answer": [
+    "garage"
+   ],
+   "explain": "",
+   "id": "u8-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You make lunch in the ___.",
+   "answer": [
+    "kitchen"
+   ],
+   "explain": "",
+   "id": "u8-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You watch TV in the ___ room.",
+   "answer": [
+    "living"
+   ],
+   "explain": "",
+   "id": "u8-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You sleep in the ___.",
+   "answer": [
+    "bedroom"
+   ],
+   "explain": "",
+   "id": "u8-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "rooms of the house",
+   "q": "You sit outside in the ___.",
+   "answer": [
+    "garden"
+   ],
+   "explain": "",
+   "id": "u8-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "Those clothes are dirty. Put them in the ___ machine.",
+   "answer": [
+    "washing"
+   ],
+   "explain": "",
+   "id": "u8-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "It's a beautiful morning. Let's have lunch on the hotel ___.",
+   "answer": [
+    "balcony"
+   ],
+   "explain": "",
+   "id": "u8-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "Don't leave your jacket on the bed. Put it in the ___.",
+   "answer": [
+    "wardrobe"
+   ],
+   "explain": "",
+   "id": "u8-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "You're late. Your dinner is in the ___.",
+   "answer": [
+    "microwave"
+   ],
+   "explain": "",
+   "id": "u8-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "This room looks empty. There aren't any pictures on the ___.",
+   "answer": [
+    "wall"
+   ],
+   "explain": "",
+   "id": "u8-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "Does the room have a ___ or only a shower?",
+   "answer": [
+    "bath"
+   ],
+   "explain": "",
+   "id": "u8-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "Let's have a coffee. There are some clean cups in the ___.",
+   "answer": [
+    "dishwasher"
+   ],
+   "explain": "",
+   "id": "u8-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "That ___ is dying. It needs some water.",
+   "answer": [
+    "plant"
+   ],
+   "explain": "",
+   "id": "u8-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "This room is always cold because it has a high ___.",
+   "answer": [
+    "ceiling"
+   ],
+   "explain": "",
+   "id": "u8-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "Don't leave your dirty plates in the ___ — please wash them!",
+   "answer": [
+    "sink"
+   ],
+   "explain": "",
+   "id": "u8-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "It's dark. Let's turn on a ___.",
+   "answer": [
+    "light"
+   ],
+   "explain": "",
+   "id": "u8-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "house vocabulary",
+   "q": "This is the only room with a carpet on the ___.",
+   "answer": [
+    "floor"
+   ],
+   "explain": "",
+   "id": "u8-e085"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "It has a large living room and ___ a nice kitchen.",
+   "options": [
+    "there's",
+    "there are"
+   ],
+   "answer": "there's",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e086"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "___ a table in the kitchen?",
+   "options": [
+    "Is there",
+    "Are there"
+   ],
+   "answer": "Is there",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e087"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "No, ___.",
+   "options": [
+    "there isn't",
+    "there aren't"
+   ],
+   "answer": "there isn't",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e088"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "But ___ a dining room with a table and some chairs.",
+   "options": [
+    "there's",
+    "there are"
+   ],
+   "answer": "there's",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e089"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "How many bedrooms ___?",
+   "options": [
+    "is there",
+    "are there"
+   ],
+   "answer": "are there",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e090"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "___ three bedrooms and a bathroom.",
+   "options": [
+    "There is",
+    "There are"
+   ],
+   "answer": "There are",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e091"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "Is there ___ shower in the bathroom?",
+   "options": [
+    "a",
+    "any"
+   ],
+   "answer": "a",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e092"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "Yes, ___.",
+   "options": [
+    "there is",
+    "there are"
+   ],
+   "answer": "there is",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e093"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "Are there ___ wardrobes in the bedroom?",
+   "options": [
+    "any",
+    "some"
+   ],
+   "answer": "any",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e094"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "No, there aren't ___ wardrobes.",
+   "options": [
+    "any",
+    "some"
+   ],
+   "answer": "any",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e095"
+  },
+  {
+   "type": "mc",
+   "topic": "there is / there are",
+   "q": "But there are ___ shelves, and there's a cupboard.",
+   "options": [
+    "any",
+    "some"
+   ],
+   "answer": "some",
+   "explain": "some → olumlu; any → olumsuz ve soru; tekil → a",
+   "id": "u8-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "some / any + plural nouns",
+   "q": "There's an armchair in the living room. → There ___ armchairs in the living room.",
+   "answer": [
+    "are some"
+   ],
+   "explain": "çoğulda some (olumlu) / any (olumsuz, soru)",
+   "id": "u8-e097"
+  },
+  {
+   "type": "fill",
+   "topic": "some / any + plural nouns",
+   "q": "Is there a carpet downstairs? → Are there ___ carpets downstairs?",
+   "answer": [
+    "any"
+   ],
+   "explain": "çoğulda some (olumlu) / any (olumsuz, soru)",
+   "id": "u8-e098"
+  },
+  {
+   "type": "fill",
+   "topic": "some / any + plural nouns",
+   "q": "There isn't a plant on the balcony. → There aren't ___ plants on the balcony.",
+   "answer": [
+    "any"
+   ],
+   "explain": "çoğulda some (olumlu) / any (olumsuz, soru)",
+   "id": "u8-e099"
+  },
+  {
+   "type": "fill",
+   "topic": "some / any + plural nouns",
+   "q": "There's a book on the shelf. → There ___ books on the shelf.",
+   "answer": [
+    "are some"
+   ],
+   "explain": "çoğulda some (olumlu) / any (olumsuz, soru)",
+   "id": "u8-e100"
+  },
+  {
+   "type": "fill",
+   "topic": "some / any + plural nouns",
+   "q": "Is there a glass in the cupboard? → Are there ___ glasses in the cupboard?",
+   "answer": [
+    "any"
+   ],
+   "explain": "çoğulda some (olumlu) / any (olumsuz, soru)",
+   "id": "u8-e101"
+  },
+  {
+   "type": "fill",
+   "topic": "some / any + plural nouns",
+   "q": "There isn't a file in the study. → There aren't ___ files in the study.",
+   "answer": [
+    "any"
+   ],
+   "explain": "çoğulda some (olumlu) / any (olumsuz, soru)",
+   "id": "u8-e102"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "My sister is renting a flat. ___ ’s a nice flat. (it / they / there)",
+   "answer": [
+    "It"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e103"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "It's a nice flat and ___ isn't very expensive.",
+   "answer": [
+    "it"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e104"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "___ are two rooms but they aren't very big.",
+   "answer": [
+    "There"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e105"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "There are two rooms but ___ aren't very big.",
+   "answer": [
+    "they"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e106"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "___ 's a small kitchen and a bathroom.",
+   "answer": [
+    "There"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "___ isn't a bath in the bathroom, but there's a new shower.",
+   "answer": [
+    "There"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "There isn't a bath, but ___ 's a new shower.",
+   "answer": [
+    "there"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "The flat is on the 10th floor, so ___ 's a fantastic view of the city.",
+   "answer": [
+    "there"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "And ___ 's a very large balcony with a lot of flowers.",
+   "answer": [
+    "there"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "it / they / there",
+   "q": "___ are beautiful in the summer! (the flowers)",
+   "answer": [
+    "They"
+   ],
+   "explain": "there is = var; it/they = o / onlar",
+   "id": "u8-e112"
+  },
+  {
+   "type": "mc",
+   "topic": "/eə/ and /ɪə/",
+   "q": "Which word has a different sound? beer – stairs – near",
+   "options": [
+    "beer",
+    "stairs",
+    "near"
+   ],
+   "answer": "stairs",
+   "explain": "/eə/ chair, stairs, hair, where, wear; /ɪə/ ear, beer, near, here, hear, we're",
+   "id": "u8-e113"
+  },
+  {
+   "type": "mc",
+   "topic": "/eə/ and /ɪə/",
+   "q": "Which word has a different sound? where – wear – we're",
+   "options": [
+    "where",
+    "wear",
+    "we're"
+   ],
+   "answer": "we're",
+   "explain": "/eə/ chair, stairs, hair, where, wear; /ɪə/ ear, beer, near, here, hear, we're",
+   "id": "u8-e114"
+  },
+  {
+   "type": "mc",
+   "topic": "/eə/ and /ɪə/",
+   "q": "Which word has a different sound? here – hair – hear",
+   "options": [
+    "here",
+    "hair",
+    "hear"
+   ],
+   "answer": "hair",
+   "explain": "/eə/ chair, stairs, hair, where, wear; /ɪə/ ear, beer, near, here, hear, we're",
+   "id": "u8-e115"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were",
+   "q": "There's a microwave. → There ___ a microwave.",
+   "answer": [
+    "was"
+   ],
+   "explain": "there is/are → there was/were",
+   "id": "u8-e116"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were",
+   "q": "There aren't any chairs. → There ___ any chairs.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "there is/are → there was/were",
+   "id": "u8-e117"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were",
+   "q": "Is there a dishwasher? → ___ there a dishwasher?",
+   "answer": [
+    "Was"
+   ],
+   "explain": "there is/are → there was/were",
+   "id": "u8-e118"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were",
+   "q": "There are some cupboards. → There ___ some cupboards.",
+   "answer": [
+    "were"
+   ],
+   "explain": "there is/are → there was/were",
+   "id": "u8-e119"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were",
+   "q": "Are there any glasses? → ___ there any glasses?",
+   "answer": [
+    "Were"
+   ],
+   "explain": "there is/are → there was/were",
+   "id": "u8-e120"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ a large bed.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e121"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ some big cupboards to put my clothes in.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u8-e122"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ a really good shower in the bathroom.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e123"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ a bath. (not)",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u8-e124"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ three different restaurants to choose from.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u8-e125"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ a beautiful swimming pool in the hotel.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e126"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ also an amazing beach.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e127"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ any tourists on the beach. (not)",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u8-e128"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: holiday in Brazil",
+   "q": "There ___ some baby turtles.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u8-e129"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "There ___ a problem with my hotel.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e130"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "And there ___ any restaurants near the hotel.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u8-e131"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "___ there a minibar in your room?",
+   "answer": [
+    "Was"
+   ],
+   "explain": "",
+   "id": "u8-e132"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "No, there ___ a minibar and there wasn't a television.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u8-e133"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "___ there a bathroom?",
+   "answer": [
+    "Was"
+   ],
+   "explain": "",
+   "id": "u8-e134"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "Yes, but there ___ any clean towels.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u8-e135"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "___ there any nice people in the hotel?",
+   "answer": [
+    "Were"
+   ],
+   "explain": "",
+   "id": "u8-e136"
+  },
+  {
+   "type": "fill",
+   "topic": "there was / there were: bad hotel",
+   "q": "Yes, there ___ some great people.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u8-e137"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel review",
+   "q": "There ___ some cupboards and shelves for our clothes and bags.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u8-e138"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel review",
+   "q": "There ___ an armchair and a sofa to sit on.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u8-e139"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel review",
+   "q": "There ___ a bath in the bathroom, but there was a jacuzzi!",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u8-e140"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel review",
+   "q": "There was a large window and a balcony, and there ___ some chairs and a table on the balcony.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u8-e141"
+  },
+  {
+   "type": "fill",
+   "topic": "hotel review",
+   "q": "We had a beautiful view of the sea because there ___ any buildings in front of the hotel.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u8-e142"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: movement",
+   "q": "The ghost is going ___ the stairs. (↓)",
+   "answer": [
+    "down"
+   ],
+   "explain": "",
+   "id": "u8-e143"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: movement",
+   "q": "The ghost is going ___ the bedroom to the bathroom.",
+   "answer": [
+    "from"
+   ],
+   "explain": "",
+   "id": "u8-e144"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: movement",
+   "q": "The ghost is going ___ a wardrobe.",
+   "answer": [
+    "into"
+   ],
+   "explain": "",
+   "id": "u8-e145"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: movement",
+   "q": "The ghost is coming ___ a wardrobe.",
+   "answer": [
+    "out of"
+   ],
+   "explain": "",
+   "id": "u8-e146"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: movement",
+   "q": "The ghost is going ___ a window.",
+   "answer": [
+    "through"
+   ],
+   "explain": "",
+   "id": "u8-e147"
+  },
+  {
+   "type": "fill",
+   "topic": "prepositions: movement",
+   "q": "The ghost is going ___ the stairs. (↑)",
+   "answer": [
+    "up"
+   ],
+   "explain": "",
+   "id": "u8-e148"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'ghost': ___",
+   "answer": [
+    "h"
+   ],
+   "explain": "",
+   "id": "u8-e149"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'cupboard': ___",
+   "answer": [
+    "p"
+   ],
+   "explain": "",
+   "id": "u8-e150"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'white': ___",
+   "answer": [
+    "h"
+   ],
+   "explain": "",
+   "id": "u8-e151"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'know': ___",
+   "answer": [
+    "k"
+   ],
+   "explain": "",
+   "id": "u8-e152"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'autumn': ___",
+   "answer": [
+    "n"
+   ],
+   "explain": "",
+   "id": "u8-e153"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'walk': ___",
+   "answer": [
+    "l"
+   ],
+   "explain": "",
+   "id": "u8-e154"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'builder': ___",
+   "answer": [
+    "u"
+   ],
+   "explain": "",
+   "id": "u8-e155"
+  },
+  {
+   "type": "fill",
+   "topic": "silent letters",
+   "q": "Silent letter in 'wrong': ___",
+   "answer": [
+    "w"
+   ],
+   "explain": "",
+   "id": "u8-e156"
+  }
+ ],
+ "skipped": [
+  "s.55 1a-1b (telaffuz/dinleme: ses dosyası ve örnek sesler OCR'da okunamadı)",
+  "s.55 1b: 'Are the bold phrases right?' — doğru olan ifadeler (arrived, saw, didn't run…) atlandı, yalnızca yanlış olanların düzeltmesi yapıldı; maddeler numarasız kuruldu",
+  "s.55 2a: satırların bir kısmı OCR'da bozuk; yalnızca okunabilen satırlar yapıldı, eksik hücreler gramer kuralından türetildi",
+  "s.56 2c: 'How did you go home?' ile ilgili soru OCR'da net okunamadığı için atlandı; cevaplar did + özne + fiil kuralından türetildi",
+  "s.56 2d: harf tamamlama yerine geçmiş biçimini doğrudan sorma olarak yapıldı (cevaplar bilinen düzensiz fiillerden türetildi)",
+  "s.57 1a (resimli ev eşyaları çemberleme, resim gerekir)",
+  "s.58 2d (resimden oda betimleme), 2e-2f (kişisel sorular / yazma)",
+  "s.58 3a madde 1 (üçüncü sözcük OCR'da kayıp), 3b (dinleme)",
+  "s.59 1a madde 6 (OCR bozuk), s.59 2a (resim eşleştirme)",
+  "s.60 2b (resim gerekli), 2d (cevaplar resimsiz belirsiz; boşluklu biçimde yapıldı), 3b (dinleme)",
+  "Cevap anahtarı olmadığından tüm cevaplar gramer kuralından / bilinen fiil biçimlerinden türetildi"
+ ]
+}
