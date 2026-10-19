@@ -114,8 +114,10 @@
   },
   {
    "en": "eat in local restaurants",
-   "tr": "yerel restoranlarda yemek yemek",
-   "alt": [],
+   "tr": "yerel restoranlarda yemek",
+   "alt": [
+    "yerel restoranlarda yemek yemek"
+   ],
    "cat": "Şehir tatili",
    "id": "u10-016"
   },
