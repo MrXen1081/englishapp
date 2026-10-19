@@ -1,7 +1,7 @@
 {
  "unit": 12,
  "title": "Unit 12",
- "source": "English File 5th ed. Elementary Workbook, Unit 12 (s.83-88)",
+ "source": "English File 5th ed. Elementary Workbook, Unit 12 (s.83-88); gramer kartları Student's Book Grammar Bank 12A/12B (s.155) esas alınarak yazıldı",
  "vocab": [
   {
    "en": "buy – bought – bought",
@@ -358,7 +358,7 @@
   {
    "id": "g1",
    "title": "Present perfect (12A)",
-   "tr": "<b>Present perfect</b> = <b>have / has + past participle</b>. Geçmişte olmuş ama şu anla bağlantılı olan olayları, zamanı belirtmeden anlatır. Düzenli fiillerde participle = <b>-ed</b> (finish → finished); düzensiz fiillerin üçüncü sütununu ezberlemek gerekir (see → <b>seen</b>, buy → <b>bought</b>, read → <b>read</b>). Olumsuz: <b>haven't / hasn't + participle</b>. Soru: <b>Have / Has + özne + participle?</b> <b>I, you, we, they</b> ile <b>have</b>, <b>he, she, it</b> ile <b>has</b>. Kısaltmalar: I've, she's, they've. Deneyim sorusu: <b>Have you ever…?</b>",
+   "tr": "<b>Yapı:</b> <b>have / has + past participle</b>. I, you, we, they ile <b>have</b>; he, she, it ile <b>has</b>. Kısaltma: I've, you've, he's, they've (<b>'s</b> burada <b>has</b> demektir). Olumsuz: <b>haven't / hasn't + participle</b>. Soru: <b>Have / Has + özne + participle?</b> Kısa cevap: Yes, I have. / No, she hasn't.<br><b>Üç kullanım:</b> (1) Geçmişte olmuş bir olayı <i>ne zaman</i> olduğunu söylemeden veya sormadan anlatırız. (2) <b>ever</b> (hayatın boyunca herhangi bir zamanda) ve <b>never</b> (hayatında hiç) ile deneyimden söz ederiz. (3) Yeni olmuş, yakın zamanlı olayları anlatırız: <i>I've finished my homework.</i><br><b>Participle:</b> Düzenli fiillerde past simple ile aynıdır (like → liked → liked). Düzensiz fiillerde bazen past simple ile aynıdır (read /red/ → read /red/), bazen farklıdır (see → saw → <b>seen</b>). Düzensiz fiillerin listesi kitapta s.173'te.",
    "table": {
     "head": [
      "Olumlu / olumsuz",
@@ -366,42 +366,54 @@
     ],
     "rows": [
      [
-      "I've seen the film. / She's read it.",
-      "Have you seen the film? Yes, I have. / No, I haven't."
+      "I've seen that film. / She's seen that film.",
+      "Have you seen that film? Yes, I have. / No, I haven't."
      ],
      [
-      "I haven't studied. / She hasn't answered.",
-      "Has she answered? Yes, she has. / No, she hasn't."
+      "She hasn't read any books in English.",
+      "Has he seen that film? Yes, he has. / No, he hasn't."
      ],
      [
-      "They've arrived.",
-      "Have they arrived? Yes, they have."
+      "I've never worked in an office.",
+      "Have you ever read a French novel?"
+     ],
+     [
+      "Your parents have arrived.",
+      "Have you finished the exercise?"
      ]
     ]
    },
    "examples": [
     [
-     "Has the match started?",
-     "Maç başladı mı?"
+     "Have you seen the new Ryan Gosling film?",
+     "Yeni Ryan Gosling filmini izledin mi?"
     ],
     [
-     "I haven't read this book.",
-     "Bu kitabı okumadım."
+     "She hasn't read any books in English.",
+     "İngilizce hiç kitap okumadı."
     ],
     [
-     "Anna has seen all the Mission Impossible films.",
-     "Anna bütün Mission Impossible filmlerini izledi."
+     "Have you ever read a French novel?",
+     "Hiç Fransızca bir roman okudun mu?"
     ],
     [
-     "Have you heard of Rosamund Lupton?",
-     "Rosamund Lupton'ı duydun mu?"
+     "I've never worked in an office.",
+     "Hiç ofiste çalışmadım."
+    ],
+    [
+     "Have you finished the exercise?",
+     "Alıştırmayı bitirdin mi?"
+    ],
+    [
+     "Your parents have arrived. They're in the living room.",
+     "Anne babanız geldi. Oturma odasındalar."
     ]
    ]
   },
   {
    "id": "g2",
    "title": "Present perfect or past simple? (12B)",
-   "tr": "<b>Present perfect</b> zamanı belirtilmeyen veya hayat boyu deneyimleri anlatır (<i>Have you ever been to Australia?</i>). Olayın <b>ne zaman</b> olduğunu söylediğimizde veya ayrıntı sorduğumuzda <b>past simple</b> kullanılır (<i>I went to Sydney a few years ago. When did you go there?</i>). Genel kalıp: deneyim sorusu present perfect ile sorulur, ayrıntılar (when, where, what, who) past simple ile devam eder. <b>been</b> ve <b>gone</b> farkı: <i>She's gone to the shop</i> = gitti, hâlâ orada; <i>She's been to the shop</i> = gitti ve geri döndü; deneyim: <i>I've never been abroad.</i>",
+   "tr": "<b>Present perfect</b> ile bir geçmiş eylemi birine ilk kez sorarız / anlatırız; ne zaman olduğunu söylemeyiz: <i>Have you been to that new Italian restaurant?</i> Sonra ayrıntıları (ne zaman, kiminle…) <b>past simple</b> ile sorarız / anlatırız: <i>When did you go there? — I went last weekend.</i> <b>when</b> ve <b>yesterday, last week</b> gibi geçmiş zaman ifadeleriyle her zaman past simple kullanılır, present perfect kullanılmaz: <i>When did you see the film?</i> (✗ When have you seen…?), <i>I saw it last week.</i> (✗ I've seen it last week.)<br><b>been mi gone mı?</b> İkisi de go/be fiillerinin participle'ıdır ama anlamları farklıdır. <b>been to</b> = bir yere gidip geri geldi, yani orayı ziyaret etti (<i>I've been to Rome three times.</i>). <b>gone to</b> = bir yere gitti ve hâlâ orada. Ziyaret anlamında <b>been to</b> kullanırız (✗ gone to / been in).",
    "table": {
     "head": [
      "Present perfect",
@@ -409,46 +421,50 @@
     ],
     "rows": [
      [
-      "Have you ever been to Australia?",
-      "When did you go there?"
+      "Have you been to that new Mexican restaurant? Yes, I have.",
+      "When did you go there? I went last weekend."
      ],
      [
-      "Has she gone out?",
-      "Where did she go? What time did she go?"
+      "Have you seen the film?",
+      "I saw it last week."
      ],
      [
-      "I've seen a Fellini film.",
-      "I saw La Dolce Vita."
+      "Nick has been to Istanbul. (gitti, geri döndü)",
+      "Who did you go with? I went with some people from work."
      ],
      [
-      "She's gone to a friend's house.",
-      "She went about an hour ago."
+      "Nick has gone to Istanbul. (şimdi orada)",
+      "—"
      ]
     ]
    },
    "examples": [
     [
-     "Have you been on holiday recently? Yes, last month.",
-     "Yakın zamanda tatile gittin mi? Evet, geçen ay."
+     "A: Have you been to that new Mexican restaurant? B: Yes, I have.",
+     "A: Şu yeni Meksika restoranına gittin mi? B: Evet, gittim."
     ],
     [
-     "We went to Ibiza for a week.",
-     "Bir hafta Ibiza'ya gittik."
+     "When did you go there? — I went last weekend.",
+     "Oraya ne zaman gittin? — Geçen hafta sonu gittim."
     ],
     [
-     "Kerry isn't here. She's gone for a walk.",
-     "Kerry burada değil. Yürüyüşe gitti."
+     "I've been to Rome three times.",
+     "Roma'ya üç kez gittim (ziyaret ettim)."
     ],
     [
-     "I've been to Spain, but not Portugal.",
-     "İspanya'ya gittim ama Portekiz'e gitmedim."
+     "My parents have gone to the USA for their holidays. They're having a fantastic time.",
+     "Annemle babam tatil için ABD'ye gitti. Harika vakit geçiriyorlar."
+    ],
+    [
+     "Nick has been to Istanbul. / Nick has gone to Istanbul.",
+     "Nick İstanbul'a gitmişti (döndü). / Nick İstanbul'a gitti (şimdi orada)."
     ]
    ]
   },
   {
    "id": "g3",
    "title": "Revision: question formation, tenses (12C)",
-   "tr": "Bu bölüm tekrardır; grammarbank.txt'de 12C kuralı yoktur. Özet: <b>Present simple</b> (always, never, twice a day) → <i>I never have pizza.</i> <b>Present continuous</b> (now, at the moment, tomorrow plan) → <i>My friend is playing football at the moment.</i> <b>Past simple</b> (yesterday, last night, last weekend) → <i>We didn't walk to work yesterday.</i> <b>Present perfect</b> (ever, never, already) → <i>Have you ever been to South America?</i> <b>be going to</b> (next year, next Saturday) → <i>We're going to see a film next Saturday.</i> Soru: soru sözcüğü + yardımcı fiil (do / does / did / is / are / have / can) + özne + fiil.",
+   "tr": "Bu bölüm tekrardır; kitabın Grammar Bank'inde 12C için ayrı bir kural bölümü yoktur (yalnızca 12A ve 12B vardır), bu nedenle özet 12A/12B ve önceki ünitelerdeki konulardan derlenmiştir. Özet: <b>Present simple</b> (always, never, twice a day) → <i>I never have pizza.</i> <b>Present continuous</b> (now, at the moment, tomorrow plan) → <i>My friend is playing football at the moment.</i> <b>Past simple</b> (yesterday, last night, last weekend) → <i>We didn't walk to work yesterday.</i> <b>Present perfect</b> (ever, never, already) → <i>Have you ever been to South America?</i> <b>be going to</b> (next year, next Saturday) → <i>We're going to see a film next Saturday.</i> Soru: soru sözcüğü + yardımcı fiil (do / does / did / is / are / have / can) + özne + fiil.",
    "table": {
     "head": [
      "Zaman ifadesi",
@@ -2435,7 +2451,7 @@
   }
  ],
  "skipped": [
-  "Grammar Bank'te (grammarbank.txt) 12A / 12B / 12C bölümleri yok; üç gramer kartı workbook başlıklarına ve standart kurallara göre yazıldı",
+  "Grammar Bank'te 12C bölümü yok: 12C kartı tekrar özeti olarak kaldı; 12A ve 12B kartları kitaptan (SB s.155) yazıldı",
   "s.83 2a-2c (cümle vurgusu, dinleme)",
   "s.84 3a madde 5 ve 6 (OCR'da fiiller okunamadı), s.84 3b madde 3 (olası fiil belirsiz), s.84 3c (kişisel tablo / soru yazma)",
   "s.85 1a (altını çizme / daire içine alma), s.85 1c ikinci diyalog tek tek boşluklar halinde yapıldı",
