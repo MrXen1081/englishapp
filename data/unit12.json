@@ -1,0 +1,2448 @@
+{
+ "unit": 12,
+ "title": "Unit 12",
+ "source": "English File 5th ed. Elementary Workbook, Unit 12 (s.83-88)",
+ "vocab": [
+  {
+   "en": "buy – bought – bought",
+   "tr": "almak, satın almak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-001"
+  },
+  {
+   "en": "fall – fell – fallen",
+   "tr": "düşmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-002"
+  },
+  {
+   "en": "give – gave – given",
+   "tr": "vermek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-003"
+  },
+  {
+   "en": "hear – heard – heard",
+   "tr": "duymak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-004"
+  },
+  {
+   "en": "see – saw – seen",
+   "tr": "görmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-005"
+  },
+  {
+   "en": "tell – told – told",
+   "tr": "söylemek, anlatmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-006"
+  },
+  {
+   "en": "be – was/were – been",
+   "tr": "olmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-007"
+  },
+  {
+   "en": "do – did – done",
+   "tr": "yapmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-008"
+  },
+  {
+   "en": "eat – ate – eaten",
+   "tr": "yemek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-009"
+  },
+  {
+   "en": "get – got – got",
+   "tr": "almak, olmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-010"
+  },
+  {
+   "en": "have – had – had",
+   "tr": "sahip olmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-011"
+  },
+  {
+   "en": "meet – met – met",
+   "tr": "tanışmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-012"
+  },
+  {
+   "en": "speak – spoke – spoken",
+   "tr": "konuşmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-013"
+  },
+  {
+   "en": "sing – sang – sung",
+   "tr": "şarkı söylemek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-014"
+  },
+  {
+   "en": "win – won – won",
+   "tr": "kazanmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-015"
+  },
+  {
+   "en": "lose – lost – lost",
+   "tr": "kaybetmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-016"
+  },
+  {
+   "en": "leave – left – left",
+   "tr": "bırakmak, ayrılmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-017"
+  },
+  {
+   "en": "read – read – read",
+   "tr": "okumak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-018"
+  },
+  {
+   "en": "go – went – gone/been",
+   "tr": "gitmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-019"
+  },
+  {
+   "en": "make – made – made",
+   "tr": "yapmak, üretmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-020"
+  },
+  {
+   "en": "take – took – taken",
+   "tr": "almak, götürmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-021"
+  },
+  {
+   "en": "write – wrote – written",
+   "tr": "yazmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-022"
+  },
+  {
+   "en": "drink – drank – drunk",
+   "tr": "içmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller (V2 – V3)",
+   "id": "u12-023"
+  },
+  {
+   "en": "once",
+   "tr": "bir kez",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-024"
+  },
+  {
+   "en": "twice",
+   "tr": "iki kez",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-025"
+  },
+  {
+   "en": "three times",
+   "tr": "üç kez",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-026"
+  },
+  {
+   "en": "morning",
+   "tr": "sabah",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-027"
+  },
+  {
+   "en": "afternoon",
+   "tr": "öğleden sonra",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-028"
+  },
+  {
+   "en": "evening",
+   "tr": "akşam",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-029"
+  },
+  {
+   "en": "spring",
+   "tr": "ilkbahar",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-030"
+  },
+  {
+   "en": "summer",
+   "tr": "yaz",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-031"
+  },
+  {
+   "en": "autumn",
+   "tr": "sonbahar",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-032"
+  },
+  {
+   "en": "winter",
+   "tr": "kış",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-033"
+  },
+  {
+   "en": "minute",
+   "tr": "dakika",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-034"
+  },
+  {
+   "en": "hour",
+   "tr": "saat",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-035"
+  },
+  {
+   "en": "month",
+   "tr": "ay",
+   "alt": [],
+   "cat": "Seri & zaman",
+   "id": "u12-036"
+  },
+  {
+   "en": "listen to music",
+   "tr": "müzik dinlemek",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-037"
+  },
+  {
+   "en": "do exercise",
+   "tr": "egzersiz yapmak",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-038"
+  },
+  {
+   "en": "say sorry",
+   "tr": "özür dilemek",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-039"
+  },
+  {
+   "en": "have a shower",
+   "tr": "duş almak",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-040"
+  },
+  {
+   "en": "go shopping",
+   "tr": "alışverişe gitmek",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-041"
+  },
+  {
+   "en": "take a photo",
+   "tr": "fotoğraf çekmek",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-042"
+  },
+  {
+   "en": "make a lot of noise",
+   "tr": "çok gürültü yapmak",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-043"
+  },
+  {
+   "en": "get dressed",
+   "tr": "giyinmek",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-044"
+  },
+  {
+   "en": "wear glasses",
+   "tr": "gözlük takmak",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-045"
+  },
+  {
+   "en": "use an app",
+   "tr": "uygulama kullanmak",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-046"
+  },
+  {
+   "en": "series",
+   "tr": "dizi",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-047"
+  },
+  {
+   "en": "social media",
+   "tr": "sosyal medya",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-048"
+  },
+  {
+   "en": "detective",
+   "tr": "dedektif",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-049"
+  },
+  {
+   "en": "retire",
+   "tr": "emekli olmak",
+   "alt": [],
+   "cat": "Günlük fiil kalıpları",
+   "id": "u12-050"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Present perfect (12A)",
+   "tr": "<b>Present perfect</b> = <b>have / has + past participle</b>. Geçmişte olmuş ama şu anla bağlantılı olan olayları, zamanı belirtmeden anlatır. Düzenli fiillerde participle = <b>-ed</b> (finish → finished); düzensiz fiillerin üçüncü sütununu ezberlemek gerekir (see → <b>seen</b>, buy → <b>bought</b>, read → <b>read</b>). Olumsuz: <b>haven't / hasn't + participle</b>. Soru: <b>Have / Has + özne + participle?</b> <b>I, you, we, they</b> ile <b>have</b>, <b>he, she, it</b> ile <b>has</b>. Kısaltmalar: I've, she's, they've. Deneyim sorusu: <b>Have you ever…?</b>",
+   "table": {
+    "head": [
+     "Olumlu / olumsuz",
+     "Soru"
+    ],
+    "rows": [
+     [
+      "I've seen the film. / She's read it.",
+      "Have you seen the film? Yes, I have. / No, I haven't."
+     ],
+     [
+      "I haven't studied. / She hasn't answered.",
+      "Has she answered? Yes, she has. / No, she hasn't."
+     ],
+     [
+      "They've arrived.",
+      "Have they arrived? Yes, they have."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Has the match started?",
+     "Maç başladı mı?"
+    ],
+    [
+     "I haven't read this book.",
+     "Bu kitabı okumadım."
+    ],
+    [
+     "Anna has seen all the Mission Impossible films.",
+     "Anna bütün Mission Impossible filmlerini izledi."
+    ],
+    [
+     "Have you heard of Rosamund Lupton?",
+     "Rosamund Lupton'ı duydun mu?"
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Present perfect or past simple? (12B)",
+   "tr": "<b>Present perfect</b> zamanı belirtilmeyen veya hayat boyu deneyimleri anlatır (<i>Have you ever been to Australia?</i>). Olayın <b>ne zaman</b> olduğunu söylediğimizde veya ayrıntı sorduğumuzda <b>past simple</b> kullanılır (<i>I went to Sydney a few years ago. When did you go there?</i>). Genel kalıp: deneyim sorusu present perfect ile sorulur, ayrıntılar (when, where, what, who) past simple ile devam eder. <b>been</b> ve <b>gone</b> farkı: <i>She's gone to the shop</i> = gitti, hâlâ orada; <i>She's been to the shop</i> = gitti ve geri döndü; deneyim: <i>I've never been abroad.</i>",
+   "table": {
+    "head": [
+     "Present perfect",
+     "Past simple"
+    ],
+    "rows": [
+     [
+      "Have you ever been to Australia?",
+      "When did you go there?"
+     ],
+     [
+      "Has she gone out?",
+      "Where did she go? What time did she go?"
+     ],
+     [
+      "I've seen a Fellini film.",
+      "I saw La Dolce Vita."
+     ],
+     [
+      "She's gone to a friend's house.",
+      "She went about an hour ago."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Have you been on holiday recently? Yes, last month.",
+     "Yakın zamanda tatile gittin mi? Evet, geçen ay."
+    ],
+    [
+     "We went to Ibiza for a week.",
+     "Bir hafta Ibiza'ya gittik."
+    ],
+    [
+     "Kerry isn't here. She's gone for a walk.",
+     "Kerry burada değil. Yürüyüşe gitti."
+    ],
+    [
+     "I've been to Spain, but not Portugal.",
+     "İspanya'ya gittim ama Portekiz'e gitmedim."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Revision: question formation, tenses (12C)",
+   "tr": "Bu bölüm tekrardır; grammarbank.txt'de 12C kuralı yoktur. Özet: <b>Present simple</b> (always, never, twice a day) → <i>I never have pizza.</i> <b>Present continuous</b> (now, at the moment, tomorrow plan) → <i>My friend is playing football at the moment.</i> <b>Past simple</b> (yesterday, last night, last weekend) → <i>We didn't walk to work yesterday.</i> <b>Present perfect</b> (ever, never, already) → <i>Have you ever been to South America?</i> <b>be going to</b> (next year, next Saturday) → <i>We're going to see a film next Saturday.</i> Soru: soru sözcüğü + yardımcı fiil (do / does / did / is / are / have / can) + özne + fiil.",
+   "table": {
+    "head": [
+     "Zaman ifadesi",
+     "Zaman"
+    ],
+    "rows": [
+     [
+      "always, never, every day, twice a day",
+      "present simple"
+     ],
+     [
+      "now, at the moment",
+      "present continuous"
+     ],
+     [
+      "yesterday, last night, last weekend",
+      "past simple"
+     ],
+     [
+      "ever, never, already",
+      "present perfect"
+     ],
+     [
+      "tomorrow, next year, next Saturday",
+      "be going to / present continuous"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Nicole takes the dog for a walk twice a day.",
+     "Nicole köpeği günde iki kez yürüyüşe çıkarır."
+    ],
+    [
+     "Did you see your friends last weekend?",
+     "Geçen hafta sonu arkadaşlarını gördün mü?"
+    ],
+    [
+     "Is your son going to learn to drive next year?",
+     "Oğlun gelecek yıl araba kullanmayı öğrenecek mi?"
+    ],
+    [
+     "What time do you usually go to bed?",
+     "Genelde kaçta yatarsın?"
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "Sorry, I'm late. ___ the match started?",
+   "options": [
+    "Has",
+    "Have"
+   ],
+   "answer": "Has",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e001"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "She ___ seen this film before.",
+   "options": [
+    "hasn't",
+    "haven't"
+   ],
+   "answer": "hasn't",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e002"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "___ you checked your emails this morning?",
+   "options": [
+    "Has",
+    "Have"
+   ],
+   "answer": "Have",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e003"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "Anna ___ seen all the Mission Impossible films.",
+   "options": [
+    "has",
+    "have"
+   ],
+   "answer": "has",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e004"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "I ___ read this book.",
+   "options": [
+    "hasn't",
+    "haven't"
+   ],
+   "answer": "haven't",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e005"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "___ Deepak booked the tickets for tonight?",
+   "options": [
+    "Has",
+    "Have"
+   ],
+   "answer": "Has",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e006"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "We ___ used Netflix before.",
+   "options": [
+    "hasn't",
+    "haven't"
+   ],
+   "answer": "haven't",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e007"
+  },
+  {
+   "type": "mc",
+   "topic": "present perfect: has / have",
+   "q": "Can you open the door? Phil and Ellie ___ arrived.",
+   "options": [
+    "has",
+    "have"
+   ],
+   "answer": "have",
+   "explain": "I / you / we / they / çoğul → have; he / she / it / tekil → has",
+   "id": "u12-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "my brother / decide → My brother ___ to get a new job.",
+   "answer": [
+    "has decided",
+    "'s decided"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "I / not study → I ___ for the exam.",
+   "answer": [
+    "haven't studied",
+    "have not studied"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "they / see → They ___ the film, but they didn't like it.",
+   "answer": [
+    "have seen",
+    "'ve seen"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "he / not answer → He ___ my email.",
+   "answer": [
+    "hasn't answered",
+    "has not answered"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "you / call → ___ your brother?",
+   "answer": [
+    "Have you called"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "I / finish → I ___ the first series.",
+   "answer": [
+    "have finished",
+    "'ve finished"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: sentences",
+   "q": "they / share → ___ their holiday photos on social media?",
+   "answer": [
+    "Have they shared"
+   ],
+   "explain": "have / has + past participle",
+   "id": "u12-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: conversation (Rosamund Lupton)",
+   "q": "A Have you heard of Rosamund Lupton? B Yes, I ___ one of her books. (read)",
+   "answer": [
+    "have read",
+    "'ve read"
+   ],
+   "explain": "",
+   "id": "u12-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: conversation (Rosamund Lupton)",
+   "q": "A Really? Which book ___ ? (you / read)",
+   "answer": [
+    "have you read"
+   ],
+   "explain": "",
+   "id": "u12-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: conversation (Rosamund Lupton)",
+   "q": "A ___ the film? (you / see)",
+   "answer": [
+    "Have you seen"
+   ],
+   "explain": "",
+   "id": "u12-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: conversation (Rosamund Lupton)",
+   "q": "B No, but my friend Lara ___ it. She loved it! (see)",
+   "answer": [
+    "has seen",
+    "'s seen"
+   ],
+   "explain": "",
+   "id": "u12-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: conversation (Rosamund Lupton)",
+   "q": "A Was it Lupton's first book? B No, I think it was Sister, but I ___ it. (not read)",
+   "answer": [
+    "haven't read",
+    "have not read"
+   ],
+   "explain": "",
+   "id": "u12-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect: conversation (Rosamund Lupton)",
+   "q": "B Oh yes! I ___ of it. (hear)",
+   "answer": [
+    "have heard",
+    "'ve heard"
+   ],
+   "explain": "",
+   "id": "u12-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple",
+   "q": "Past simple of 'fall': ___",
+   "answer": [
+    "fell"
+   ],
+   "explain": "",
+   "id": "u12-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past participle",
+   "q": "Past participle of 'fall': ___",
+   "answer": [
+    "fallen"
+   ],
+   "explain": "",
+   "id": "u12-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple",
+   "q": "Past simple of 'give': ___",
+   "answer": [
+    "gave"
+   ],
+   "explain": "",
+   "id": "u12-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past participle",
+   "q": "Past participle of 'give': ___",
+   "answer": [
+    "given"
+   ],
+   "explain": "",
+   "id": "u12-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple",
+   "q": "Past simple of 'hear': ___",
+   "answer": [
+    "heard"
+   ],
+   "explain": "",
+   "id": "u12-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past participle",
+   "q": "Past participle of 'hear': ___",
+   "answer": [
+    "heard"
+   ],
+   "explain": "",
+   "id": "u12-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple",
+   "q": "Past simple of 'see': ___",
+   "answer": [
+    "saw"
+   ],
+   "explain": "",
+   "id": "u12-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past participle",
+   "q": "Past participle of 'see': ___",
+   "answer": [
+    "seen"
+   ],
+   "explain": "",
+   "id": "u12-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple",
+   "q": "Past simple of 'tell': ___",
+   "answer": [
+    "told"
+   ],
+   "explain": "",
+   "id": "u12-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past participle",
+   "q": "Past participle of 'tell': ___",
+   "answer": [
+    "told"
+   ],
+   "explain": "",
+   "id": "u12-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "My sister's very happy. She's ___ in love. (fall)",
+   "answer": [
+    "fallen"
+   ],
+   "explain": "",
+   "id": "u12-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "Oh no! I've ___ my jacket in the restaurant. (leave)",
+   "answer": [
+    "left"
+   ],
+   "explain": "",
+   "id": "u12-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "A This is a great book. B I know. I've already ___ it. (read)",
+   "answer": [
+    "read"
+   ],
+   "explain": "",
+   "id": "u12-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "I remember this film now. I've ___ it before. (see)",
+   "answer": [
+    "seen"
+   ],
+   "explain": "",
+   "id": "u12-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "My girlfriend has ___ us tickets to see The Lion King. (give)",
+   "answer": [
+    "given"
+   ],
+   "explain": "",
+   "id": "u12-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "A Have you ___ Jason's good news? B Yes, he's going to get married. (hear)",
+   "answer": [
+    "heard"
+   ],
+   "explain": "",
+   "id": "u12-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "A Has Isabel ___ you about her party? B Yes, it's on Saturday. (tell)",
+   "answer": [
+    "told"
+   ],
+   "explain": "",
+   "id": "u12-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "It's late so the children have ___ to bed.",
+   "answer": [
+    "gone"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "Kerry isn't here. She's ___ for a walk.",
+   "answer": [
+    "gone"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "Your hair's shorter. Have you ___ to the hairdresser's?",
+   "answer": [
+    "been"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "We've ___ shopping, so the fridge is full.",
+   "answer": [
+    "been"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "I've ___ to the gym, so I need to have a shower.",
+   "answer": [
+    "been"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "My parents are out. They've ___ to the supermarket.",
+   "answer": [
+    "gone"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "My friends are away. They've ___ on holiday.",
+   "answer": [
+    "gone"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "been or gone",
+   "q": "My girlfriend has never ___ abroad.",
+   "answer": [
+    "been"
+   ],
+   "explain": "gone = gitti, hâlâ orada; been = gitti ve döndü / deneyim",
+   "id": "u12-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "A Have you ever been to Australia? B Yes, I ___ .",
+   "answer": [
+    "have",
+    "I have"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "A When ___ there? (you / go)",
+   "answer": [
+    "did you go"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "B I ___ to Sydney a few years ago. (go)",
+   "answer": [
+    "went"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "A Where's Megan? ___ out? (she / go)",
+   "answer": [
+    "Has she gone"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "B I think so. She ___ about five minutes ago. (go)",
+   "answer": [
+    "went"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "A Where ___ ? (go)",
+   "answer": [
+    "did she go"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "B I don't know. She ___ . (not say)",
+   "answer": [
+    "didn't say",
+    "did not say"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "A ___ to the new Italian restaurant? (you / be)",
+   "answer": [
+    "Have you been"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "B Yes, we ___ .",
+   "answer": [
+    "have",
+    "we have"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "A ___ it? (you / like)",
+   "answer": [
+    "Did you like"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect or past simple: conversations",
+   "q": "B Yes, we ___ . The food was great!",
+   "answer": [
+    "did",
+    "we did"
+   ],
+   "explain": "deneyim → present perfect; ne zaman / nerede / ayrıntı → past simple",
+   "id": "u12-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'do': past simple / past participle → ___ / ___",
+   "answer": [
+    "did done",
+    "did / done",
+    "did, done"
+   ],
+   "explain": "",
+   "id": "u12-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'eat': past simple / past participle → ___ / ___",
+   "answer": [
+    "ate eaten",
+    "ate / eaten",
+    "ate, eaten"
+   ],
+   "explain": "",
+   "id": "u12-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'have': past simple / past participle → ___ / ___",
+   "answer": [
+    "had had",
+    "had / had",
+    "had, had"
+   ],
+   "explain": "",
+   "id": "u12-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'meet': past simple / past participle → ___ / ___",
+   "answer": [
+    "met met",
+    "met / met",
+    "met, met"
+   ],
+   "explain": "",
+   "id": "u12-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'speak': past simple / past participle → ___ / ___",
+   "answer": [
+    "spoke spoken",
+    "spoke / spoken",
+    "spoke, spoken"
+   ],
+   "explain": "",
+   "id": "u12-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'sing': past simple / past participle → ___ / ___",
+   "answer": [
+    "sang sung",
+    "sang / sung",
+    "sang, sung"
+   ],
+   "explain": "",
+   "id": "u12-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs: past simple and participle",
+   "q": "'win': past simple / past participle → ___ / ___",
+   "answer": [
+    "won won",
+    "won / won",
+    "won, won"
+   ],
+   "explain": "",
+   "id": "u12-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "She needs to sit down because she's ___ a shock! (have)",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u12-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "I'm going to be late. I've ___ the car keys. (lose)",
+   "answer": [
+    "lost"
+   ],
+   "explain": "",
+   "id": "u12-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "I've ___ my boyfriend's mother, but not his father. (meet)",
+   "answer": [
+    "met"
+   ],
+   "explain": "",
+   "id": "u12-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "I've never ___ a song in public before. (sing)",
+   "answer": [
+    "sung"
+   ],
+   "explain": "",
+   "id": "u12-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "Marco's ___ his homework, so he's going out. (do)",
+   "answer": [
+    "done"
+   ],
+   "explain": "",
+   "id": "u12-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "I haven't ___ to Charlotte recently. Is she OK? (speak)",
+   "answer": [
+    "spoken"
+   ],
+   "explain": "",
+   "id": "u12-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "I can't believe it! I've ___ £10,000! (win)",
+   "answer": [
+    "won"
+   ],
+   "explain": "",
+   "id": "u12-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "Sofia and Daniel? They've ___ married! (get)",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u12-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular past participles: sentences",
+   "q": "Sorry, I've ___ all the biscuits. (eat)",
+   "answer": [
+    "eaten"
+   ],
+   "explain": "",
+   "id": "u12-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "do a bungee jump → Have you ever ___ ?",
+   "answer": [
+    "done a bungee jump"
+   ],
+   "explain": "",
+   "id": "u12-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "eat Indian food → Have you ever ___ ?",
+   "answer": [
+    "eaten Indian food"
+   ],
+   "explain": "",
+   "id": "u12-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "eat Indian food → What did ___ ?",
+   "answer": [
+    "you eat"
+   ],
+   "explain": "",
+   "id": "u12-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "win any money → Have you ever ___ ?",
+   "answer": [
+    "won any money"
+   ],
+   "explain": "",
+   "id": "u12-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "win any money → How much did ___ ?",
+   "answer": [
+    "you win"
+   ],
+   "explain": "",
+   "id": "u12-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "get lost → Have you ever ___ ?",
+   "answer": [
+    "got lost",
+    "gotten lost"
+   ],
+   "explain": "",
+   "id": "u12-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "meet a famous person → Have you ever ___ ?",
+   "answer": [
+    "met a famous person"
+   ],
+   "explain": "",
+   "id": "u12-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "present perfect and past simple questions",
+   "q": "meet a famous person → Who did ___ ?",
+   "answer": [
+    "you meet"
+   ],
+   "explain": "",
+   "id": "u12-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ a doctor? Yes, I am.",
+   "answer": [
+    "Are you"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ your brother do? He's a builder.",
+   "answer": [
+    "What does"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ of music do you like? Soul.",
+   "answer": [
+    "What kind"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ hear a noise? No, I can't.",
+   "answer": [
+    "Can you"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ Samira crying? Because she's sad.",
+   "answer": [
+    "Why is"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ raining? Yes, it is.",
+   "answer": [
+    "Is it"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ beds are there? Six.",
+   "answer": [
+    "How many"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ did your friends see? Star Wars.",
+   "answer": [
+    "What did"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e089"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ go out last night? No, I didn't.",
+   "answer": [
+    "Did you"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e090"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ phone is that? It's Amy's phone. (two words: ___ phone)",
+   "answer": [
+    "Whose"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e091"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ you yesterday? At university.",
+   "answer": [
+    "Where were"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e092"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ a microwave? Yes, there is.",
+   "answer": [
+    "Is there"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e093"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ a TV in the room? Yes, there was.",
+   "answer": [
+    "Was there"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e094"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ you going to move? Next week.",
+   "answer": [
+    "When are"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e095"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: question formation",
+   "q": "___ ever fallen in love? Yes, I have.",
+   "answer": [
+    "Have you"
+   ],
+   "explain": "soru sözcüğü / yardımcı fiil + özne",
+   "id": "u12-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "Oscar lives in the city. ___ flat is very big.",
+   "answer": [
+    "His"
+   ],
+   "explain": "",
+   "id": "u12-e097"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "Be quiet! ___ say a word!",
+   "answer": [
+    "Don't"
+   ],
+   "explain": "",
+   "id": "u12-e098"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "We always go on holiday ___ August.",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u12-e099"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "Who's ___ woman over there? I've never seen her before.",
+   "answer": [
+    "that"
+   ],
+   "explain": "",
+   "id": "u12-e100"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "I'm sorry. I ___ hear you. It's very noisy here.",
+   "answer": [
+    "can't"
+   ],
+   "explain": "",
+   "id": "u12-e101"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "My uncle is late. I'm waiting for ___ .",
+   "answer": [
+    "him"
+   ],
+   "explain": "",
+   "id": "u12-e102"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "I don't like ___ , so I never go by plane.",
+   "answer": [
+    "flying"
+   ],
+   "explain": "",
+   "id": "u12-e103"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "We can't make chips. There aren't ___ potatoes.",
+   "answer": [
+    "any"
+   ],
+   "explain": "",
+   "id": "u12-e104"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "The hotel was full. There ___ a lot of tourists.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u12-e105"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "I don't have ___ free time — only a few hours a week.",
+   "answer": [
+    "much"
+   ],
+   "explain": "",
+   "id": "u12-e106"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "I'm 25 and you're 23. I'm ___ than you.",
+   "answer": [
+    "older"
+   ],
+   "explain": "",
+   "id": "u12-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "He chose the ___ expensive shoes in the shop.",
+   "answer": [
+    "most"
+   ],
+   "explain": "",
+   "id": "u12-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "They played really ___ and won the match 4-1.",
+   "answer": [
+    "well"
+   ],
+   "explain": "",
+   "id": "u12-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: one word",
+   "q": "My sister has a good job. She's ___ actor.",
+   "answer": [
+    "an"
+   ],
+   "explain": "",
+   "id": "u12-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "Nicole loves walking. She ___ the dog for a walk twice a day. (take)",
+   "answer": [
+    "takes"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "___ your friends last weekend? (you / see)",
+   "answer": [
+    "Did you see"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e112"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "They ___ tomorrow because Jack is ill. (not come)",
+   "answer": [
+    "aren't coming",
+    "are not coming",
+    "aren't going to come",
+    "are not going to come",
+    "'re not coming",
+    "'re not going to come"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e113"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "___ ever ___ to South America? (you / be)",
+   "answer": [
+    "Have you ever been"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e114"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "___ to drive next year? (your son / learn)",
+   "answer": [
+    "Is your son going to learn"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e115"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "We ___ meat every day. (not eat)",
+   "answer": [
+    "don't eat",
+    "do not eat"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e116"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "We ___ a film next Saturday. (see)",
+   "answer": [
+    "'re going to see",
+    "are going to see",
+    "'re seeing",
+    "are seeing"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e117"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "___ ever ___ a famous person? (you / meet)",
+   "answer": [
+    "Have you ever met"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e118"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "Last night my husband ___ dinner. (cook)",
+   "answer": [
+    "cooked"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e119"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "What time ___ usually ___ to bed at the weekend? (you / go)",
+   "answer": [
+    "do you go"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e120"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "My friend ___ football at the moment. (play)",
+   "answer": [
+    "is playing",
+    "'s playing"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e121"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: tenses",
+   "q": "We ___ to work yesterday. (not walk)",
+   "answer": [
+    "didn't walk",
+    "did not walk"
+   ],
+   "explain": "zaman ifadesine bak: never/twice a day → present simple; yesterday/last → past simple; ever → present perfect; next → be going to",
+   "id": "u12-e122"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? Hungary / Turkiye / China / Egypt / Switzerland / Asia / Mexico",
+   "options": [
+    "Hungary",
+    "Turkiye",
+    "China",
+    "Egypt",
+    "Switzerland",
+    "Asia",
+    "Mexico"
+   ],
+   "answer": "Asia",
+   "explain": "",
+   "id": "u12-e123"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? awful / fantastic / great / nice",
+   "options": [
+    "awful",
+    "fantastic",
+    "great",
+    "nice"
+   ],
+   "answer": "awful",
+   "explain": "",
+   "id": "u12-e124"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? builder / hairdresser / cooker / waiter",
+   "options": [
+    "builder",
+    "hairdresser",
+    "cooker",
+    "waiter"
+   ],
+   "answer": "cooker",
+   "explain": "",
+   "id": "u12-e125"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? aunt / daughter / niece / brother",
+   "options": [
+    "aunt",
+    "daughter",
+    "niece",
+    "brother"
+   ],
+   "answer": "brother",
+   "explain": "",
+   "id": "u12-e126"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? spring / cloudy / snowy / windy",
+   "options": [
+    "spring",
+    "cloudy",
+    "snowy",
+    "windy"
+   ],
+   "answer": "spring",
+   "explain": "",
+   "id": "u12-e127"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? fireplace / cupboard / sofa / kitchen",
+   "options": [
+    "fireplace",
+    "cupboard",
+    "sofa",
+    "kitchen"
+   ],
+   "answer": "kitchen",
+   "explain": "",
+   "id": "u12-e128"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? mushrooms / strawberries / onions / peas",
+   "options": [
+    "mushrooms",
+    "strawberries",
+    "onions",
+    "peas"
+   ],
+   "answer": "strawberries",
+   "explain": "",
+   "id": "u12-e129"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word groups",
+   "q": "Which word is different? chemist's / department store / bridge / shopping centre",
+   "options": [
+    "chemist's",
+    "department store",
+    "bridge",
+    "shopping centre"
+   ],
+   "answer": "bridge",
+   "explain": "",
+   "id": "u12-e130"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "ten, twenty, ___",
+   "answer": [
+    "thirty"
+   ],
+   "explain": "",
+   "id": "u12-e131"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "Monday, Tuesday, ___",
+   "answer": [
+    "Wednesday"
+   ],
+   "explain": "",
+   "id": "u12-e132"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "first, second, ___",
+   "answer": [
+    "third"
+   ],
+   "explain": "",
+   "id": "u12-e133"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "morning, afternoon, ___",
+   "answer": [
+    "evening"
+   ],
+   "explain": "",
+   "id": "u12-e134"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "once, twice, ___",
+   "answer": [
+    "three times",
+    "thrice"
+   ],
+   "explain": "",
+   "id": "u12-e135"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "summer, autumn, ___",
+   "answer": [
+    "winter"
+   ],
+   "explain": "",
+   "id": "u12-e136"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "June, July, ___",
+   "answer": [
+    "August"
+   ],
+   "explain": "",
+   "id": "u12-e137"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "second, minute, ___",
+   "answer": [
+    "hour"
+   ],
+   "explain": "",
+   "id": "u12-e138"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: continue the series",
+   "q": "day, week, ___",
+   "answer": [
+    "month"
+   ],
+   "explain": "",
+   "id": "u12-e139"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "d___ exercise",
+   "answer": [
+    "do"
+   ],
+   "explain": "",
+   "id": "u12-e140"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "s___ sorry",
+   "answer": [
+    "say"
+   ],
+   "explain": "",
+   "id": "u12-e141"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "h___ a shower",
+   "answer": [
+    "have"
+   ],
+   "explain": "",
+   "id": "u12-e142"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "g___ shopping",
+   "answer": [
+    "go"
+   ],
+   "explain": "",
+   "id": "u12-e143"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "t___ a photo",
+   "answer": [
+    "take"
+   ],
+   "explain": "",
+   "id": "u12-e144"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "m___ a lot of noise",
+   "answer": [
+    "make"
+   ],
+   "explain": "",
+   "id": "u12-e145"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "g___ dressed",
+   "answer": [
+    "get"
+   ],
+   "explain": "",
+   "id": "u12-e146"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "w___ glasses",
+   "answer": [
+    "wear"
+   ],
+   "explain": "",
+   "id": "u12-e147"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: verb phrases",
+   "q": "u___ an app",
+   "answer": [
+    "use"
+   ],
+   "explain": "",
+   "id": "u12-e148"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "He ___ live at 221B Baker Street, but on a farm in the country. (doesn't / don't)",
+   "answer": [
+    "doesn't",
+    "does not"
+   ],
+   "explain": "",
+   "id": "u12-e149"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "...on a farm ___ the country.",
+   "answer": [
+    "in"
+   ],
+   "explain": "",
+   "id": "u12-e150"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "He has retired from his work as ___ detective.",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u12-e151"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "He knows he ___ losing his memory.",
+   "answer": [
+    "is",
+    "'s"
+   ],
+   "explain": "",
+   "id": "u12-e152"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "He can't remember why he decided ___ retire.",
+   "answer": [
+    "to"
+   ],
+   "explain": "",
+   "id": "u12-e153"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "In the past, he and ___ friend Dr Watson received a call.",
+   "answer": [
+    "his"
+   ],
+   "explain": "",
+   "id": "u12-e154"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "Thomas was worried because she was never at home and he ___ know where she went.",
+   "answer": [
+    "didn't",
+    "did not"
+   ],
+   "explain": "",
+   "id": "u12-e155"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "After the class, she ___ shopping.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u12-e156"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "Mr Holmes is a good film, but it's a lot slower ___ normal detective films.",
+   "answer": [
+    "than"
+   ],
+   "explain": "",
+   "id": "u12-e157"
+  },
+  {
+   "type": "fill",
+   "topic": "revision: Mr Holmes text",
+   "q": "The ___ thing about it is Ian McKellen's fantastic performance.",
+   "answer": [
+    "best",
+    "great"
+   ],
+   "explain": "",
+   "id": "u12-e158"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? bread / peas / tea",
+   "options": [
+    "bread",
+    "peas",
+    "tea"
+   ],
+   "answer": "bread",
+   "explain": "",
+   "id": "u12-e159"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? money / watch / doctor",
+   "options": [
+    "money",
+    "watch",
+    "doctor"
+   ],
+   "answer": "money",
+   "explain": "",
+   "id": "u12-e160"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? found / short / bought",
+   "options": [
+    "found",
+    "short",
+    "bought"
+   ],
+   "answer": "found",
+   "explain": "",
+   "id": "u12-e161"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? cook / food / good",
+   "options": [
+    "cook",
+    "food",
+    "good"
+   ],
+   "answer": "food",
+   "explain": "",
+   "id": "u12-e162"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? who / do / go",
+   "options": [
+    "who",
+    "do",
+    "go"
+   ],
+   "answer": "go",
+   "explain": "",
+   "id": "u12-e163"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? tired / thirsty / nurse",
+   "options": [
+    "tired",
+    "thirsty",
+    "nurse"
+   ],
+   "answer": "tired",
+   "explain": "",
+   "id": "u12-e164"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? eat / healthy / breakfast",
+   "options": [
+    "eat",
+    "healthy",
+    "breakfast"
+   ],
+   "answer": "eat",
+   "explain": "",
+   "id": "u12-e165"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? paid / steak / said",
+   "options": [
+    "paid",
+    "steak",
+    "said"
+   ],
+   "answer": "said",
+   "explain": "",
+   "id": "u12-e166"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: sounds",
+   "q": "Which word has a different sound? buy / nice / ring",
+   "options": [
+    "buy",
+    "nice",
+    "ring"
+   ],
+   "answer": "ring",
+   "explain": "",
+   "id": "u12-e167"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'hospital'? (hos / pi / tal)",
+   "options": [
+    "hos",
+    "pi",
+    "tal"
+   ],
+   "answer": "hos",
+   "explain": "",
+   "id": "u12-e168"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'expensive'? (ex / pen / sive)",
+   "options": [
+    "ex",
+    "pen",
+    "sive"
+   ],
+   "answer": "pen",
+   "explain": "",
+   "id": "u12-e169"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'magazine'? (ma / ga / zine)",
+   "options": [
+    "ma",
+    "ga",
+    "zine"
+   ],
+   "answer": "zine",
+   "explain": "",
+   "id": "u12-e170"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'headphones'? (head / phones)",
+   "options": [
+    "head",
+    "phones"
+   ],
+   "answer": "head",
+   "explain": "",
+   "id": "u12-e171"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'administrator'? (ad / min / is / tra / tor)",
+   "options": [
+    "ad",
+    "min",
+    "is",
+    "tra",
+    "tor"
+   ],
+   "answer": "min",
+   "explain": "",
+   "id": "u12-e172"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'engineer'? (en / gi / neer)",
+   "options": [
+    "en",
+    "gi",
+    "neer"
+   ],
+   "answer": "neer",
+   "explain": "",
+   "id": "u12-e173"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'Italian'? (I / ta / lian)",
+   "options": [
+    "I",
+    "ta",
+    "lian"
+   ],
+   "answer": "ta",
+   "explain": "",
+   "id": "u12-e174"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'August'? (Au / gust)",
+   "options": [
+    "Au",
+    "gust"
+   ],
+   "answer": "Au",
+   "explain": "",
+   "id": "u12-e175"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'difficult'? (dif / fi / cult)",
+   "options": [
+    "dif",
+    "fi",
+    "cult"
+   ],
+   "answer": "dif",
+   "explain": "",
+   "id": "u12-e176"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'musician'? (mu / si / cian)",
+   "options": [
+    "mu",
+    "si",
+    "cian"
+   ],
+   "answer": "si",
+   "explain": "",
+   "id": "u12-e177"
+  },
+  {
+   "type": "mc",
+   "topic": "revision: word stress",
+   "q": "Which syllable is stressed in 'bananas'? (ba / na / nas)",
+   "options": [
+    "ba",
+    "na",
+    "nas"
+   ],
+   "answer": "na",
+   "explain": "",
+   "id": "u12-e178"
+  }
+ ],
+ "skipped": [
+  "Grammar Bank'te (grammarbank.txt) 12A / 12B / 12C bölümleri yok; üç gramer kartı workbook başlıklarına ve standart kurallara göre yazıldı",
+  "s.83 2a-2c (cümle vurgusu, dinleme)",
+  "s.84 3a madde 5 ve 6 (OCR'da fiiller okunamadı), s.84 3b madde 3 (olası fiil belirsiz), s.84 3c (kişisel tablo / soru yazma)",
+  "s.85 1a (altını çizme / daire içine alma), s.85 1c ikinci diyalog tek tek boşluklar halinde yapıldı",
+  "s.86 2a madde 6 (fiil OCR'da okunamadı), s.86 2c madde 2 ve 5 (ikinci soru birden fazla biçimde yazılabilir), s.86 2d (kişisel cevap), s.86 3 (ses grubu çizelgesi OCR'da dağınık, dinleme)",
+  "s.87 1b madde 1, s.87 1c madde 14 (OCR belirsiz)",
+  "s.88 3a madde 1 (örnek), 3, 4 (kelime listesi OCR'da eksik), 3b (dinleme), 3c madde 11 (garage vurgusu İngiliz/Amerikan farkı), 3d (dinleme)",
+  "s.89 (kapak/telif sayfası)",
+  "Cevap anahtarı olmadığından tüm cevaplar gramer kuralından / bağlamdan türetildi; s.88 3a ses grupları bazı kelimeler OCR'da eksik olabileceğinden ses bilgisine göre türetildi"
+ ]
+}
