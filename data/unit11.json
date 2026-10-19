@@ -1,0 +1,2699 @@
+{
+ "unit": 11,
+ "title": "Unit 11",
+ "source": "English File 5th ed. Elementary Workbook, Unit 11 (s.75-82)",
+ "vocab": [
+  {
+   "en": "badly",
+   "tr": "kötü bir şekilde",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-001"
+  },
+  {
+   "en": "carefully",
+   "tr": "dikkatlice",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-002"
+  },
+  {
+   "en": "easily",
+   "tr": "kolayca",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-003"
+  },
+  {
+   "en": "fast",
+   "tr": "hızlı",
+   "alt": [
+    "hızlıca"
+   ],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-004"
+  },
+  {
+   "en": "well",
+   "tr": "iyi",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-005"
+  },
+  {
+   "en": "healthily",
+   "tr": "sağlıklı biçimde",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-006"
+  },
+  {
+   "en": "incredibly",
+   "tr": "inanılmaz derecede",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-007"
+  },
+  {
+   "en": "possibly",
+   "tr": "muhtemelen",
+   "alt": [
+    "belki"
+   ],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-008"
+  },
+  {
+   "en": "quietly",
+   "tr": "sessizce",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-009"
+  },
+  {
+   "en": "really",
+   "tr": "gerçekten",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-010"
+  },
+  {
+   "en": "calmly",
+   "tr": "sakince",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-011"
+  },
+  {
+   "en": "beautifully",
+   "tr": "güzel bir şekilde",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-012"
+  },
+  {
+   "en": "fluently",
+   "tr": "akıcı biçimde",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-013"
+  },
+  {
+   "en": "hard",
+   "tr": "sıkı",
+   "alt": [
+    "çok çalışarak"
+   ],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-014"
+  },
+  {
+   "en": "loudly",
+   "tr": "yüksek sesle",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-015"
+  },
+  {
+   "en": "patiently",
+   "tr": "sabırla",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-016"
+  },
+  {
+   "en": "politely",
+   "tr": "kibarca",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-017"
+  },
+  {
+   "en": "seriously",
+   "tr": "ciddi biçimde",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-018"
+  },
+  {
+   "en": "slowly",
+   "tr": "yavaşça",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-019"
+  },
+  {
+   "en": "quickly",
+   "tr": "çabucak",
+   "alt": [],
+   "cat": "Zarflar (tarz)",
+   "id": "u11-020"
+  },
+  {
+   "en": "ride a horse",
+   "tr": "ata binmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-021"
+  },
+  {
+   "en": "get a tattoo",
+   "tr": "dövme yaptırmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-022"
+  },
+  {
+   "en": "learn to play an instrument",
+   "tr": "bir enstrüman çalmayı öğrenmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-023"
+  },
+  {
+   "en": "see the sunrise",
+   "tr": "gün doğumunu izlemek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-024"
+  },
+  {
+   "en": "do a bungee jump",
+   "tr": "bungee jumping yapmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-025"
+  },
+  {
+   "en": "travel to all seven continents",
+   "tr": "yedi kıtayı da gezmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-026"
+  },
+  {
+   "en": "read a classic novel",
+   "tr": "klasik bir roman okumak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-027"
+  },
+  {
+   "en": "swim with dolphins",
+   "tr": "yunuslarla yüzmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-028"
+  },
+  {
+   "en": "be an extra",
+   "tr": "figüran olmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-029"
+  },
+  {
+   "en": "go on a blind date",
+   "tr": "tanımadığı biriyle randevuya çıkmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-030"
+  },
+  {
+   "en": "scuba dive",
+   "tr": "tüplü dalış yapmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-031"
+  },
+  {
+   "en": "forget",
+   "tr": "unutmak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-032"
+  },
+  {
+   "en": "promise",
+   "tr": "söz vermek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-033"
+  },
+  {
+   "en": "decide",
+   "tr": "karar vermek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-034"
+  },
+  {
+   "en": "choose",
+   "tr": "seçmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-035"
+  },
+  {
+   "en": "try",
+   "tr": "denemek",
+   "alt": [
+    "çalışmak"
+   ],
+   "cat": "Fiil kalıpları",
+   "id": "u11-036"
+  },
+  {
+   "en": "hope",
+   "tr": "ummak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-037"
+  },
+  {
+   "en": "plan",
+   "tr": "planlamak",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-038"
+  },
+  {
+   "en": "need",
+   "tr": "gereksinmek",
+   "alt": [],
+   "cat": "Fiil kalıpları",
+   "id": "u11-039"
+  },
+  {
+   "en": "download an app",
+   "tr": "uygulama indirmek",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-040"
+  },
+  {
+   "en": "listen to a playlist",
+   "tr": "çalma listesi dinlemek",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-041"
+  },
+  {
+   "en": "book a flight",
+   "tr": "uçak bileti ayırtmak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-042"
+  },
+  {
+   "en": "read the news headlines",
+   "tr": "haber başlıklarını okumak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-043"
+  },
+  {
+   "en": "play a game",
+   "tr": "oyun oynamak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-044"
+  },
+  {
+   "en": "count your steps",
+   "tr": "adımlarını saymak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-045"
+  },
+  {
+   "en": "get directions",
+   "tr": "yol tarifi almak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-046"
+  },
+  {
+   "en": "make a video",
+   "tr": "video çekmek",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-047"
+  },
+  {
+   "en": "videocall",
+   "tr": "görüntülü aramak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-048"
+  },
+  {
+   "en": "message",
+   "tr": "mesaj atmak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-049"
+  },
+  {
+   "en": "share",
+   "tr": "paylaşmak",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-050"
+  },
+  {
+   "en": "stream",
+   "tr": "akış yapmak",
+   "alt": [
+    "canlı izlemek"
+   ],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-051"
+  },
+  {
+   "en": "send",
+   "tr": "göndermek",
+   "alt": [],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-052"
+  },
+  {
+   "en": "receive",
+   "tr": "almak",
+   "alt": [
+    "almak (mesaj)"
+   ],
+   "cat": "Telefon & uygulamalar",
+   "id": "u11-053"
+  },
+  {
+   "en": "bike",
+   "tr": "bisiklet",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-054"
+  },
+  {
+   "en": "car",
+   "tr": "araba",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-055"
+  },
+  {
+   "en": "motorbike",
+   "tr": "motosiklet",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-056"
+  },
+  {
+   "en": "train",
+   "tr": "tren",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-057"
+  },
+  {
+   "en": "van",
+   "tr": "kamyonet",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-058"
+  },
+  {
+   "en": "taxi",
+   "tr": "taksi",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-059"
+  },
+  {
+   "en": "single",
+   "tr": "tek yön (bilet)",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-060"
+  },
+  {
+   "en": "return",
+   "tr": "gidiş-dönüş (bilet)",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-061"
+  },
+  {
+   "en": "platform",
+   "tr": "peron",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-062"
+  },
+  {
+   "en": "receipt",
+   "tr": "makbuz",
+   "alt": [
+    "fiş"
+   ],
+   "cat": "Ulaşım",
+   "id": "u11-063"
+  },
+  {
+   "en": "ticket",
+   "tr": "bilet",
+   "alt": [],
+   "cat": "Ulaşım",
+   "id": "u11-064"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Adverbs (manner and modifiers) (11A)",
+   "tr": "<b>Tarz zarfları</b> bir işin nasıl yapıldığını anlatır ve genelde fiilden sonra gelir: <i>I speak English well.</i> Çoğu sıfata <b>-ly</b> eklenerek yapılır (slow → slowly). Ünsüz + <b>-y</b> → <b>-ily</b> (easy → easily, healthy → healthily); <b>-le</b> → <b>-ly</b> (possible → possibly). Düzensizler: <b>good → well</b>, <b>fast → fast</b>, <b>hard → hard</b>. <b>Sıfat</b> ismi niteler (<i>a careful driver</i>), <b>zarf</b> fiili niteler (<i>drives carefully</i>). <b>very, quite, really, incredibly</b> sıfat ve zarfın önüne gelip anlamını güçlendirir/azaltır: <i>quite difficult, really slowly.</i> Dikkat: <i>friendly</i> gibi -ly ile biten bazı sözcükler zarf değil sıfattır.",
+   "table": {
+    "head": [
+     "Sıfat",
+     "Zarf"
+    ],
+    "rows": [
+     [
+      "slow, quick, bad, careful",
+      "slowly, quickly, badly, carefully"
+     ],
+     [
+      "easy, healthy",
+      "easily, healthily"
+     ],
+     [
+      "possible",
+      "possibly"
+     ],
+     [
+      "good",
+      "well"
+     ],
+     [
+      "fast, hard",
+      "fast, hard"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Her children always speak politely.",
+     "Çocukları her zaman kibarca konuşur."
+    ],
+    [
+     "I work hard.",
+     "Çok çalışırım."
+    ],
+    [
+     "The exams are quite difficult.",
+     "Sınavlar oldukça zor."
+    ],
+    [
+     "She drives incredibly fast.",
+     "İnanılmaz hızlı araba kullanır."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "verb + to + infinitive (11B)",
+   "tr": "<b>want, need, learn, promise, decide, plan, choose, try, remember, forget, hope</b> gibi pek çok fiilden sonra <b>to + yalın fiil</b> gelir: <i>I want to travel. She decided to go to Australia.</i> <b>would like to</b> = <i>want to</i> (şimdi veya gelecekte) ve bütün kişilerle aynıdır: <i>I'd like to dance. I wouldn't like to be famous.</i> <b>Would you like…?</b> bir şey teklif etmek için de kullanılır. Fark: <i>I'd like to dance</i> = dans etmek istiyorum; <i>I like dancing</i> = genel olarak dans etmekten hoşlanırım (like / love / hate / enjoy / don't mind + <b>-ing</b>).",
+   "table": {
+    "head": [
+     "to + yalın fiil",
+     "-ing"
+    ],
+    "rows": [
+     [
+      "want, need, learn, decide, plan, hope to…",
+      "like, love, hate, enjoy, don't mind …-ing"
+     ],
+     [
+      "I'd like to go to Africa.",
+      "I like going to Africa."
+     ],
+     [
+      "I wouldn't like to be famous.",
+      "I don't mind cooking."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I want to travel for six months.",
+     "Altı ay seyahat etmek istiyorum."
+    ],
+    [
+     "You need to practise every day.",
+     "Her gün pratik yapmalısın."
+    ],
+    [
+     "When did you learn to play the guitar?",
+     "Gitar çalmayı ne zaman öğrendin?"
+    ],
+    [
+     "Would you like to go to Africa?",
+     "Afrika'ya gitmek ister misin?"
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Definite article: the or no the (11C)",
+   "tr": "<b>the</b> kullanılır: konuşulan şey belli olduğunda (<i>Close the window</i>), dünyada tek olan şeylerde (<i>the internet, the sun, the moon</i>), üstünlük derecesinde (<i>the best</i>) ve bir şeyden ikinci kez bahsederken (<i>a pizza… the pizzas</i>). <b>Artikel kullanılmaz</b>: genel olarak insanlar/şeyler için (<i>Doctors earn more than nurses</i>), iyelik <i>'s</i> öncesinde, öğünlerde (<i>have breakfast</i>), <b>by + taşıt</b> (<i>by bus</i>) ve genel yerlerde (<i>work, school, university, bed, home</i>). Özel durumda yine <b>the</b>: <i>The doctors in this hospital work long hours.</i>",
+   "table": {
+    "head": [
+     "the",
+     "artikel yok"
+    ],
+    "rows": [
+     [
+      "the window, the internet, the sun",
+      "doctors, music, football"
+     ],
+     [
+      "the best, the nicest",
+      "breakfast, lunch, dinner"
+     ],
+     [
+      "the doctors in this hospital",
+      "by bus, by car, by train"
+     ],
+     [
+      "a pizza → the pizzas",
+      "work, school, university, bed, home"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Can you close the window, please?",
+     "Pencereyi kapatır mısın?"
+    ],
+    [
+     "It's the best restaurant I know.",
+     "Bildiğim en iyi restoran."
+    ],
+    [
+     "Alex goes to school by bus.",
+     "Alex okula otobüsle gider."
+    ],
+    [
+     "What time did you have breakfast?",
+     "Kahvaltıyı kaçta yaptın?"
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'careful': ___",
+   "answer": [
+    "carefully"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e001"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'easy': ___",
+   "answer": [
+    "easily"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e002"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'fast': ___",
+   "answer": [
+    "fast"
+   ],
+   "explain": "düzensiz",
+   "id": "u11-e003"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'good': ___",
+   "answer": [
+    "well"
+   ],
+   "explain": "düzensiz",
+   "id": "u11-e004"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'healthy': ___",
+   "answer": [
+    "healthily"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e005"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'incredible': ___",
+   "answer": [
+    "incredibly"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e006"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'possible': ___",
+   "answer": [
+    "possibly"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e007"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'quiet': ___",
+   "answer": [
+    "quietly"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "adverbs: forms",
+   "q": "Adverb of 'real': ___",
+   "answer": [
+    "really"
+   ],
+   "explain": "sıfat + -ly (y → ily)",
+   "id": "u11-e009"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? hard (Her daughter works hard.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adv",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e010"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? well (Calvin plays the piano quite well.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adv",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e011"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? dangerous (This road is very dangerous.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adj",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e012"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? fast (He's a fast learner.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adj",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e013"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? beautiful (You speak beautiful English.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adj",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e014"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? fast (Dave speaks fast.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adv",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e015"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? hard (That's a hard question.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adj",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e016"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb?",
+   "q": "Adjective or adverb? incredible (Eleni's pizzas are incredible.)",
+   "options": [
+    "adj",
+    "adv"
+   ],
+   "answer": "adj",
+   "explain": "sıfat ismi / be'den sonrasını niteler, zarf fiili niteler",
+   "id": "u11-e017"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "I love my phone. It's ___ to use.",
+   "options": [
+    "easy",
+    "easily"
+   ],
+   "answer": "easy",
+   "explain": "",
+   "id": "u11-e018"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "We walked ___ to the station.",
+   "options": [
+    "quick",
+    "quickly"
+   ],
+   "answer": "quickly",
+   "explain": "",
+   "id": "u11-e019"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "He's very ___. He never says anything!",
+   "options": [
+    "quiet",
+    "quietly"
+   ],
+   "answer": "quiet",
+   "explain": "",
+   "id": "u11-e020"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "My French is ___.",
+   "options": [
+    "bad",
+    "badly"
+   ],
+   "answer": "bad",
+   "explain": "",
+   "id": "u11-e021"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "Come here! The view is ___.",
+   "options": [
+    "incredible",
+    "incredibly"
+   ],
+   "answer": "incredible",
+   "explain": "",
+   "id": "u11-e022"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "Can you speak more ___, please?",
+   "options": [
+    "slow",
+    "slowly"
+   ],
+   "answer": "slowly",
+   "explain": "",
+   "id": "u11-e023"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "Diego speaks ___ English.",
+   "options": [
+    "good",
+    "well"
+   ],
+   "answer": "good",
+   "explain": "",
+   "id": "u11-e024"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "She's a ___ footballer.",
+   "options": [
+    "good",
+    "well"
+   ],
+   "answer": "good",
+   "explain": "",
+   "id": "u11-e025"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "I eat a lot of ___ food.",
+   "options": [
+    "healthy",
+    "healthily"
+   ],
+   "answer": "healthy",
+   "explain": "",
+   "id": "u11-e026"
+  },
+  {
+   "type": "mc",
+   "topic": "adjective or adverb: circle the correct word",
+   "q": "Kiko cooks ___ well.",
+   "options": [
+    "real",
+    "really"
+   ],
+   "answer": "really",
+   "explain": "",
+   "id": "u11-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "She wears ___ clothes. (expensive)",
+   "answer": [
+    "expensive"
+   ],
+   "explain": "",
+   "id": "u11-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "I can't swim very ___. (good)",
+   "answer": [
+    "well"
+   ],
+   "explain": "",
+   "id": "u11-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "My wife and I have quite ___ jobs. (stressful)",
+   "answer": [
+    "stressful"
+   ],
+   "explain": "",
+   "id": "u11-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "Natasha plays the guitar ___. (beautiful)",
+   "answer": [
+    "beautifully"
+   ],
+   "explain": "",
+   "id": "u11-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "She never speaks to me ___. (polite)",
+   "answer": [
+    "politely"
+   ],
+   "explain": "",
+   "id": "u11-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "Did you have a ___ party? (good)",
+   "answer": [
+    "good"
+   ],
+   "explain": "",
+   "id": "u11-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "Martina opened the door ___. (quiet)",
+   "answer": [
+    "quietly"
+   ],
+   "explain": "",
+   "id": "u11-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "adjective or adverb: complete",
+   "q": "I think this exercise is very ___. (easy)",
+   "answer": [
+    "easy"
+   ],
+   "explain": "",
+   "id": "u11-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'beautiful': ___",
+   "answer": [
+    "beautifully"
+   ],
+   "explain": "",
+   "id": "u11-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'fluent': ___",
+   "answer": [
+    "fluently"
+   ],
+   "explain": "",
+   "id": "u11-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'good': ___",
+   "answer": [
+    "well"
+   ],
+   "explain": "",
+   "id": "u11-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'hard': ___",
+   "answer": [
+    "hard"
+   ],
+   "explain": "",
+   "id": "u11-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'loud': ___",
+   "answer": [
+    "loudly"
+   ],
+   "explain": "",
+   "id": "u11-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'patient': ___",
+   "answer": [
+    "patiently"
+   ],
+   "explain": "",
+   "id": "u11-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'polite': ___",
+   "answer": [
+    "politely"
+   ],
+   "explain": "",
+   "id": "u11-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: forms",
+   "q": "Adverb of 'serious': ___",
+   "answer": [
+    "seriously"
+   ],
+   "explain": "",
+   "id": "u11-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "Emma sings ___. She wants to be an opera singer. (beautiful)",
+   "answer": [
+    "beautifully"
+   ],
+   "explain": "",
+   "id": "u11-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "My father never gets stressed and he always behaves ___ in a crisis. (calm)",
+   "answer": [
+    "calmly"
+   ],
+   "explain": "",
+   "id": "u11-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "Colette's mother is from Paris, so she speaks French ___. (fluent)",
+   "answer": [
+    "fluently"
+   ],
+   "explain": "",
+   "id": "u11-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "I find it hard to wait ___ in a queue. (patient)",
+   "answer": [
+    "patiently"
+   ],
+   "explain": "",
+   "id": "u11-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "My grandmother talks ___ when she wants my grandfather to hear her. (loud)",
+   "answer": [
+    "loudly"
+   ],
+   "explain": "",
+   "id": "u11-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "I work ___ during the week, so I like to relax at the weekend. (hard)",
+   "answer": [
+    "hard"
+   ],
+   "explain": "",
+   "id": "u11-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "My sister dresses ___, but her husband always wears old clothes. (good / beautiful)",
+   "answer": [
+    "well",
+    "beautifully"
+   ],
+   "explain": "",
+   "id": "u11-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "common adverbs: sentences",
+   "q": "They don't laugh a lot because they take life ___. (serious)",
+   "answer": [
+    "seriously"
+   ],
+   "explain": "",
+   "id": "u11-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "I hope to ___ a classic novel next year.",
+   "answer": [
+    "read"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "Jada is going to Tromsø in Norway to ___ the Northern Lights.",
+   "answer": [
+    "see"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "My dream is to ___ a horse on the beach.",
+   "answer": [
+    "ride"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "We hope to ___ to all seven continents in the future.",
+   "answer": [
+    "travel"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e055"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "Would you like to ___ on a blind date?",
+   "answer": [
+    "go"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "Calvin's excited because he's going to ___ an extra in a film.",
+   "answer": [
+    "be"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "more verb phrases",
+   "q": "Where in the world can you ___ with dolphins?",
+   "answer": [
+    "swim"
+   ],
+   "explain": "1a'daki fiil kalıbı",
+   "id": "u11-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "They decided ___ their car because they didn't use it. (sell)",
+   "answer": [
+    "to sell"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "I tried ___ my sister, but she didn't answer. (call)",
+   "answer": [
+    "to call"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "You forgot ___ sugar in my tea. (put)",
+   "answer": [
+    "to put"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "He promised ___ early, but then he was late. (arrive)",
+   "answer": [
+    "to arrive"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "She chose ___ a job and not to go to university. (get)",
+   "answer": [
+    "to get"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "He wanted ___ some new clothes, so he went to the shopping centre. (buy)",
+   "answer": [
+    "to buy"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "verb + to + infinitive",
+   "q": "She learned ___ Spanish when she lived in Argentina. (speak)",
+   "answer": [
+    "to speak"
+   ],
+   "explain": "decide / try / forget / promise / choose / want / learn + to + yalın fiil",
+   "id": "u11-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "to + infinitive or verb + -ing",
+   "q": "She needs ___ a new phone. (buy)",
+   "answer": [
+    "to buy"
+   ],
+   "explain": "need / plan / would like / learn + to; mind / love + -ing",
+   "id": "u11-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "to + infinitive or verb + -ing",
+   "q": "They're planning ___ to Italy. (go)",
+   "answer": [
+    "to go"
+   ],
+   "explain": "need / plan / would like / learn + to; mind / love + -ing",
+   "id": "u11-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "to + infinitive or verb + -ing",
+   "q": "She doesn't mind ___. (cook)",
+   "answer": [
+    "cooking"
+   ],
+   "explain": "need / plan / would like / learn + to; mind / love + -ing",
+   "id": "u11-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "to + infinitive or verb + -ing",
+   "q": "He'd like ___ a coffee. (have)",
+   "answer": [
+    "to have"
+   ],
+   "explain": "need / plan / would like / learn + to; mind / love + -ing",
+   "id": "u11-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "to + infinitive or verb + -ing",
+   "q": "She's learning ___. (read)",
+   "answer": [
+    "to read"
+   ],
+   "explain": "need / plan / would like / learn + to; mind / love + -ing",
+   "id": "u11-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "to + infinitive or verb + -ing",
+   "q": "He loves ___ tennis. (play)",
+   "answer": [
+    "playing"
+   ],
+   "explain": "need / plan / would like / learn + to; mind / love + -ing",
+   "id": "u11-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + to + infinitive / -ing: conversations",
+   "q": "A Why are you calling a taxi? B Because I ___ home. (want + go)",
+   "answer": [
+    "want to go"
+   ],
+   "explain": "",
+   "id": "u11-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + to + infinitive / -ing: conversations",
+   "q": "A Does Scott like shopping? B Yes, he ___ clothes. (love + buy)",
+   "answer": [
+    "loves buying",
+    "loves to buy"
+   ],
+   "explain": "",
+   "id": "u11-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + to + infinitive / -ing: conversations",
+   "q": "A Is your sister in a band? B Yes, she is. She ___ famous. (hope + become)",
+   "answer": [
+    "hopes to become"
+   ],
+   "explain": "",
+   "id": "u11-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + to + infinitive / -ing: conversations",
+   "q": "A Why are you going to bed now? B Because I ___ early. (need + get up)",
+   "answer": [
+    "need to get up"
+   ],
+   "explain": "",
+   "id": "u11-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + to + infinitive / -ing: conversations",
+   "q": "A Why are you turning on the TV? B Because I ___ the news. (would like + watch)",
+   "answer": [
+    "would like to watch",
+    "'d like to watch"
+   ],
+   "explain": "",
+   "id": "u11-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "present simple + to + infinitive / -ing: conversations",
+   "q": "A Why does your wife get the train to work? B Because she ___ in the city centre. (hate + drive)",
+   "answer": [
+    "hates driving",
+    "hates to drive"
+   ],
+   "explain": "",
+   "id": "u11-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "would like",
+   "q": "you / see a tennis match at Wimbledon [?] → ___ at Wimbledon?",
+   "answer": [
+    "Would you like to see a tennis match"
+   ],
+   "explain": "soru: Would + özne + like to…",
+   "id": "u11-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "would like",
+   "q": "she / do a bungee jump [-] → She ___ a bungee jump.",
+   "answer": [
+    "wouldn't like to do",
+    "would not like to do"
+   ],
+   "explain": "olumsuz: wouldn't like to + yalın fiil",
+   "id": "u11-e079"
+  },
+  {
+   "type": "order",
+   "topic": "questions with verb + to + infinitive",
+   "words": [
+    "Where",
+    "do",
+    "you",
+    "want",
+    "to",
+    "go",
+    "next",
+    "summer",
+    "?"
+   ],
+   "answer": "Where do you want to go next summer?",
+   "explain": "",
+   "id": "u11-e080"
+  },
+  {
+   "type": "order",
+   "topic": "questions with verb + to + infinitive",
+   "words": [
+    "Which",
+    "places",
+    "do",
+    "you",
+    "want",
+    "to",
+    "visit",
+    "?"
+   ],
+   "answer": "Which places do you want to visit?",
+   "explain": "",
+   "id": "u11-e081"
+  },
+  {
+   "type": "order",
+   "topic": "questions with verb + to + infinitive",
+   "words": [
+    "When",
+    "do",
+    "you",
+    "hope",
+    "to",
+    "retire",
+    "?"
+   ],
+   "answer": "When do you hope to retire?",
+   "explain": "",
+   "id": "u11-e082"
+  },
+  {
+   "type": "order",
+   "topic": "questions with verb + to + infinitive",
+   "words": [
+    "What",
+    "do",
+    "you",
+    "sometimes",
+    "forget",
+    "to",
+    "take",
+    "on",
+    "holiday",
+    "?"
+   ],
+   "answer": "What do you sometimes forget to take on holiday?",
+   "explain": "",
+   "id": "u11-e083"
+  },
+  {
+   "type": "order",
+   "topic": "questions with verb + to + infinitive",
+   "words": [
+    "What",
+    "do",
+    "you",
+    "need",
+    "to",
+    "buy",
+    "this",
+    "week",
+    "?"
+   ],
+   "answer": "What do you need to buy this week?",
+   "explain": "",
+   "id": "u11-e084"
+  },
+  {
+   "type": "order",
+   "topic": "questions with verb + to + infinitive",
+   "words": [
+    "When",
+    "do",
+    "you",
+    "try",
+    "to",
+    "do",
+    "English",
+    "homework",
+    "?"
+   ],
+   "answer": "When do you try to do English homework?",
+   "explain": "",
+   "id": "u11-e085"
+  },
+  {
+   "type": "mc",
+   "topic": "phones and apps: odd verb",
+   "q": "Which verb can't you use with 'a photo'?",
+   "options": [
+    "take",
+    "share",
+    "make"
+   ],
+   "answer": "make",
+   "explain": "",
+   "id": "u11-e086"
+  },
+  {
+   "type": "mc",
+   "topic": "phones and apps: odd verb",
+   "q": "Which verb can't you use with 'a video'?",
+   "options": [
+    "count",
+    "share",
+    "stream"
+   ],
+   "answer": "count",
+   "explain": "",
+   "id": "u11-e087"
+  },
+  {
+   "type": "mc",
+   "topic": "phones and apps: odd verb",
+   "q": "Which verb can't you use with 'an email'?",
+   "options": [
+    "book",
+    "send",
+    "receive"
+   ],
+   "answer": "book",
+   "explain": "",
+   "id": "u11-e088"
+  },
+  {
+   "type": "mc",
+   "topic": "phones and apps: odd verb",
+   "q": "Which verb can't you use with 'information about your health'?",
+   "options": [
+    "get",
+    "read",
+    "count"
+   ],
+   "answer": "count",
+   "explain": "",
+   "id": "u11-e089"
+  },
+  {
+   "type": "mc",
+   "topic": "phones and apps: odd verb",
+   "q": "Which verb can't you use with 'a friend'?",
+   "options": [
+    "message",
+    "send",
+    "videocall"
+   ],
+   "answer": "send",
+   "explain": "",
+   "id": "u11-e090"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "When I made dinner last night, I ___ to my son's playlist. (listen)",
+   "answer": [
+    "listened"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e091"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "When my niece got married, she ___ the video of her wedding with all her friends. (share)",
+   "answer": [
+    "shared"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e092"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "When Ivan decided to get fit, he ___ a new app to count his steps. (download)",
+   "answer": [
+    "downloaded"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e093"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "When we couldn't find our hotel, we ___ directions from a friendly taxi driver. (get)",
+   "answer": [
+    "got"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e094"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "Caprice was late for work so she ___ me. (message)",
+   "answer": [
+    "messaged"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e095"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "When we couldn't go to the concert, we ___ a video of it instead. (stream)",
+   "answer": [
+    "streamed"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "phones and apps: past simple",
+   "q": "When my friends invited me to Istanbul, I ___ a flight immediately. (book)",
+   "answer": [
+    "booked"
+   ],
+   "explain": "düzenli fiiller -ed; get → got",
+   "id": "u11-e097"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "Can you open ___ for me, please?",
+   "options": [
+    "fridge",
+    "the fridge"
+   ],
+   "answer": "the fridge",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e098"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "Did you go to ___ early last night?",
+   "options": [
+    "bed",
+    "the bed"
+   ],
+   "answer": "bed",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e099"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "I usually have ___ at half past six.",
+   "options": [
+    "dinner",
+    "the dinner"
+   ],
+   "answer": "dinner",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e100"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "I don't like ___. They're boring.",
+   "options": [
+    "romantic films",
+    "the romantic films"
+   ],
+   "answer": "romantic films",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e101"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "Excuse me, how much are ___ in the window?",
+   "options": [
+    "shoes",
+    "the shoes"
+   ],
+   "answer": "the shoes",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e102"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "___ in this restaurant are amazing.",
+   "options": [
+    "Burgers",
+    "The burgers"
+   ],
+   "answer": "The burgers",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e103"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "Did you see ___ last night? It was really beautiful.",
+   "options": [
+    "moon",
+    "the moon"
+   ],
+   "answer": "the moon",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e104"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "She's ___ person I know.",
+   "options": [
+    "nicest",
+    "the nicest"
+   ],
+   "answer": "the nicest",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e105"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "___ don't eat meat.",
+   "options": [
+    "Vegetarians",
+    "The vegetarians"
+   ],
+   "answer": "Vegetarians",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e106"
+  },
+  {
+   "type": "mc",
+   "topic": "definite article: the or no article",
+   "q": "I never go to work ___.",
+   "options": [
+    "by bus",
+    "by the bus"
+   ],
+   "answer": "by bus",
+   "explain": "genel → artikel yok; belli / tek / üstünlük → the",
+   "id": "u11-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: corrections",
+   "q": "A Where were you yesterday? B At the work. → B: ___",
+   "answer": [
+    "At work",
+    "At work."
+   ],
+   "explain": "",
+   "id": "u11-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: corrections",
+   "q": "A What's that? B A identity card. → B: ___",
+   "answer": [
+    "An identity card",
+    "An identity card."
+   ],
+   "explain": "",
+   "id": "u11-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: corrections",
+   "q": "A How often do you go? B Twice the week. → B: ___",
+   "answer": [
+    "Twice a week"
+   ],
+   "explain": "",
+   "id": "u11-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: corrections",
+   "q": "A What music do you like? B The rock music. → B: ___",
+   "answer": [
+    "Rock music"
+   ],
+   "explain": "",
+   "id": "u11-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: corrections",
+   "q": "A How did you get there? B By a car. → B: ___",
+   "answer": [
+    "By car"
+   ],
+   "explain": "",
+   "id": "u11-e112"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: corrections",
+   "q": "A Where did you find it? B On internet. → B: ___",
+   "answer": [
+    "On the internet"
+   ],
+   "explain": "",
+   "id": "u11-e113"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "I learned to swim in ___ sea. (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "",
+   "id": "u11-e114"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "It's ___ newest model on the market. (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "",
+   "id": "u11-e115"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "I don't think ___ young children need smartphones. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "",
+   "id": "u11-e116"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "Did you see ___ match? Manchester City won. (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "",
+   "id": "u11-e117"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "Did you read ___ my boyfriend's message? (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "",
+   "id": "u11-e118"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "Can you open ___ door for me, please? (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "",
+   "id": "u11-e119"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: the or no article",
+   "q": "We travelled by ___ train when we were in Italy. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "",
+   "id": "u11-e120"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "Probably ___ internet. And messaging. (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e121"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "So you don't use it much to talk to ___ people? (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e122"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "No, not very often. I prefer to send ___ messages. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e123"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "I have a sports news app because I love ___ football and Formula 1. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e124"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "I sometimes videocall my brother because he's living in Germany at ___ moment. (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e125"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "I don't like reading ___ books on my phone. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e126"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "I read the news headlines on ___ BBC website. (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e127"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "...on my way to ___ work. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e128"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "What does ___ app do? (the / –)",
+   "answer": [
+    "the"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e129"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "It tells me when to go to ___ bed. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e130"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "I also have an app that counts ___ calories. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e131"
+  },
+  {
+   "type": "fill",
+   "topic": "definite article: phone conversation",
+   "q": "It helps me plan what to have for ___ breakfast, lunch and dinner. (the / –)",
+   "answer": [
+    "-",
+    "–",
+    "—",
+    "no article",
+    "x"
+   ],
+   "explain": "genel / öğün / by+taşıt / bed, work → artikel yok; belli olan → the",
+   "id": "u11-e132"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the song / the video — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "S",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e133"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the letter / the email — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "D",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e134"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the art gallery / the museum — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "D",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e135"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the app / the internet — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "S",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e136"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the milk / the orange juice — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "D",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e137"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the architect / the engineer — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "S",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e138"
+  },
+  {
+   "type": "mc",
+   "topic": "pronunciation: the",
+   "q": "the keys / the umbrella — is 'the' pronounced the same (S) or different (D)?",
+   "options": [
+    "S",
+    "D"
+   ],
+   "answer": "D",
+   "explain": "ünsüzden önce /ðə/, ünlüden önce /ði/",
+   "id": "u11-e139"
+  },
+  {
+   "type": "fill",
+   "topic": "public transport: vehicles",
+   "q": "It's useful to have a ___ when you want to travel with a lot of things.",
+   "answer": [
+    "van"
+   ],
+   "explain": "verilen listeden her araç bir kez kullanılır",
+   "id": "u11-e140"
+  },
+  {
+   "type": "fill",
+   "topic": "public transport: vehicles",
+   "q": "A ___ usually travels between cities and stops at towns on the way.",
+   "answer": [
+    "train"
+   ],
+   "explain": "verilen listeden her araç bir kez kullanılır",
+   "id": "u11-e141"
+  },
+  {
+   "type": "fill",
+   "topic": "public transport: vehicles",
+   "q": "You sometimes find a lot of traffic when you travel by ___.",
+   "answer": [
+    "car"
+   ],
+   "explain": "verilen listeden her araç bir kez kullanılır",
+   "id": "u11-e142"
+  },
+  {
+   "type": "fill",
+   "topic": "public transport: vehicles",
+   "q": "It's sometimes faster to travel by ___ in a city.",
+   "answer": [
+    "motorbike"
+   ],
+   "explain": "verilen listeden her araç bir kez kullanılır",
+   "id": "u11-e143"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "A: Hello, AB cabs. How can I help? B: Can I book a taxi from 24 Hill Street, please? A: Of course. ___ B: Liverpool Lime Street station, please.",
+   "options": [
+    "Where to?",
+    "How much is it?",
+    "Can I pay by card?"
+   ],
+   "answer": "Where to?",
+   "explain": "",
+   "id": "u11-e144"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "A: ___ B: As soon as possible.",
+   "options": [
+    "And when would you like it for?",
+    "Where to?",
+    "How much is it?"
+   ],
+   "answer": "And when would you like it for?",
+   "explain": "",
+   "id": "u11-e145"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "A: OK. About ten minutes. B: Thanks. ___ A: That's £9.50.",
+   "options": [
+    "How much is it?",
+    "Where to?",
+    "Can I pay by card?"
+   ],
+   "answer": "How much is it?",
+   "explain": "",
+   "id": "u11-e146"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "B: ___ A: Yes, of course.",
+   "options": [
+    "Can I pay by card?",
+    "Where to?",
+    "And when would you like it for?"
+   ],
+   "answer": "Can I pay by card?",
+   "explain": "",
+   "id": "u11-e147"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "A: ___ B: Single.",
+   "options": [
+    "Single or return?",
+    "Do you need a receipt?",
+    "Which platform is it?"
+   ],
+   "answer": "Single or return?",
+   "explain": "",
+   "id": "u11-e148"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "A: Cash or card? B: Card, please. A: ___ B: No, thank you.",
+   "options": [
+    "Do you need a receipt?",
+    "Single or return?",
+    "Which platform is it?"
+   ],
+   "answer": "Do you need a receipt?",
+   "explain": "",
+   "id": "u11-e149"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "B: No, thank you. ___ A: Platform 13.",
+   "options": [
+    "Which platform is it?",
+    "Single or return?",
+    "Do you need a receipt?"
+   ],
+   "answer": "Which platform is it?",
+   "explain": "",
+   "id": "u11-e150"
+  },
+  {
+   "type": "mc",
+   "topic": "using public transport",
+   "q": "A: Can I help? B: Yes. ___ As soon as possible, please.",
+   "options": [
+    "Can I have a ticket to Manchester Airport?",
+    "Single or return?",
+    "Which platform is it?"
+   ],
+   "answer": "Can I have a ticket to Manchester Airport?",
+   "explain": "",
+   "id": "u11-e151"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: ___ I hope you get the job. B: Thanks.",
+   "options": [
+    "Good luck!",
+    "It depends.",
+    "What a relief!",
+    "How did it go?",
+    "I hope so."
+   ],
+   "answer": "Good luck!",
+   "explain": "her ifade bir kez kullanılır",
+   "id": "u11-e152"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: When are you going to come back? B: ___ I don't know. In a month or two.",
+   "options": [
+    "Good luck!",
+    "It depends.",
+    "What a relief!",
+    "How did it go?",
+    "I hope so."
+   ],
+   "answer": "It depends.",
+   "explain": "her ifade bir kez kullanılır",
+   "id": "u11-e153"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: Your nephew's in hospital, but he's OK. B: ___",
+   "options": [
+    "Good luck!",
+    "It depends.",
+    "What a relief!",
+    "How did it go?",
+    "I hope so."
+   ],
+   "answer": "What a relief!",
+   "explain": "her ifade bir kez kullanılır",
+   "id": "u11-e154"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: ___ Tell me about the exam. B: It went very well.",
+   "options": [
+    "Good luck!",
+    "It depends.",
+    "What a relief!",
+    "How did it go?",
+    "I hope so."
+   ],
+   "answer": "How did it go?",
+   "explain": "her ifade bir kez kullanılır",
+   "id": "u11-e155"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: I'm sure you're going to pass your driving test. B: ___ Driving lessons are very expensive!",
+   "options": [
+    "Good luck!",
+    "It depends.",
+    "What a relief!",
+    "How did it go?",
+    "I hope so."
+   ],
+   "answer": "I hope so.",
+   "explain": "her ifade bir kez kullanılır",
+   "id": "u11-e156"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "I promise ___ you when I arrive at my hotel. (call)",
+   "answer": [
+    "to call"
+   ],
+   "explain": "",
+   "id": "u11-e157"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "She doesn't usually dress casually at work, but today she ___ jeans and a T-shirt. (wear)",
+   "answer": [
+    "'s wearing",
+    "is wearing"
+   ],
+   "explain": "",
+   "id": "u11-e158"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "Is New York ___ than London? (big)",
+   "answer": [
+    "bigger"
+   ],
+   "explain": "",
+   "id": "u11-e159"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "Ana's husband ___ football on TV every evening. (watch)",
+   "answer": [
+    "watches"
+   ],
+   "explain": "",
+   "id": "u11-e160"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "I hate ___ shopping on Saturday mornings, because there are always a lot of people. (go)",
+   "answer": [
+    "going"
+   ],
+   "explain": "",
+   "id": "u11-e161"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (vocabulary)",
+   "q": "Which word is different? theatre / museum / balcony / town hall",
+   "options": [
+    "theatre",
+    "museum",
+    "balcony",
+    "town hall"
+   ],
+   "answer": "balcony",
+   "explain": "",
+   "id": "u11-e162"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (vocabulary)",
+   "q": "Which word is different? bridge / street / square / rice",
+   "options": [
+    "bridge",
+    "street",
+    "square",
+    "rice"
+   ],
+   "answer": "rice",
+   "explain": "",
+   "id": "u11-e163"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (vocabulary)",
+   "q": "Which word is different? seriously / ugly / calmly / patiently",
+   "options": [
+    "seriously",
+    "ugly",
+    "calmly",
+    "patiently"
+   ],
+   "answer": "ugly",
+   "explain": "",
+   "id": "u11-e164"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (vocabulary)",
+   "q": "Which word is different? need / playlist / want / like",
+   "options": [
+    "need",
+    "playlist",
+    "want",
+    "like"
+   ],
+   "answer": "playlist",
+   "explain": "",
+   "id": "u11-e165"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (vocabulary)",
+   "q": "Which word is different? chemist's / supermarket / souvenir / department store",
+   "options": [
+    "chemist's",
+    "supermarket",
+    "souvenir",
+    "department store"
+   ],
+   "answer": "souvenir",
+   "explain": "",
+   "id": "u11-e166"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (pronunciation)",
+   "q": "Which word has a different sound? great / behave / neat / stay",
+   "options": [
+    "great",
+    "behave",
+    "neat",
+    "stay"
+   ],
+   "answer": "neat",
+   "explain": "",
+   "id": "u11-e167"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (pronunciation)",
+   "q": "Which word has a different sound? police / surprise / decide / flight",
+   "options": [
+    "police",
+    "surprise",
+    "decide",
+    "flight"
+   ],
+   "answer": "police",
+   "explain": "",
+   "id": "u11-e168"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (pronunciation)",
+   "q": "Which word has a different sound? careful / where / share / were",
+   "options": [
+    "careful",
+    "where",
+    "share",
+    "were"
+   ],
+   "answer": "were",
+   "explain": "",
+   "id": "u11-e169"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (pronunciation)",
+   "q": "Which word has a different sound? here / cereal / theatre / there",
+   "options": [
+    "here",
+    "cereal",
+    "theatre",
+    "there"
+   ],
+   "answer": "there",
+   "explain": "",
+   "id": "u11-e170"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (pronunciation)",
+   "q": "Which word has a different sound? post / coach / come / hope",
+   "options": [
+    "post",
+    "coach",
+    "come",
+    "hope"
+   ],
+   "answer": "come",
+   "explain": "",
+   "id": "u11-e171"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "This can be dangerous, especially when people need ___ cross a road. (to)",
+   "answer": [
+    "to"
+   ],
+   "explain": "",
+   "id": "u11-e172"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "Trams are worse ___ cars because they are quieter. (than)",
+   "answer": [
+    "than"
+   ],
+   "explain": "",
+   "id": "u11-e173"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "In some cities in Germany, ___ are now special lights in the ground.",
+   "answer": [
+    "there"
+   ],
+   "explain": "",
+   "id": "u11-e174"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "They're green when people cross safely and red when a tram ___ coming.",
+   "answer": [
+    "is"
+   ],
+   "explain": "",
+   "id": "u11-e175"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "Now other cities ___ also trying to help.",
+   "answer": [
+    "are"
+   ],
+   "explain": "",
+   "id": "u11-e176"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "In Munich, some tram crossings send ___ message when a tram is coming. (a / the)",
+   "answer": [
+    "a"
+   ],
+   "explain": "",
+   "id": "u11-e177"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "People with a special app receive ___ message. (a / the)",
+   "answer": [
+    "the",
+    "a"
+   ],
+   "explain": "",
+   "id": "u11-e178"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "People can choose where they ___ to walk on the pavement.",
+   "answer": [
+    "want"
+   ],
+   "explain": "",
+   "id": "u11-e179"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (tram text)",
+   "q": "The important thing is that people ___ safe.",
+   "answer": [
+    "feel",
+    "are"
+   ],
+   "explain": "",
+   "id": "u11-e180"
+  }
+ ],
+ "skipped": [
+  "s.75 1d madde 1 ve 6 (OCR'da cümle kaybı), s.75 2 (connected speech, dinleme)",
+  "s.76 son resimli alıştırma (fiil + zarf ile resim betimleme)",
+  "s.77 1a (resimli circle), s.77 1b madde 1 ve 2 (OCR bozuk; verb list eksik), s.77 2b madde 1-2 (örnek / bozuk)",
+  "s.78 2c madde 6 (OCR bozuk), s.78 2d madde 3, 4, 6 (olumlu/olumsuz işareti OCR'da okunamadı), s.78 2f (kişisel cevap), s.78 3 (dinleme)",
+  "s.79 1a (eşleştirme; 7. fiil OCR'da kayıp, kelimeler 'Telefon & uygulamalar' kelime listesine alındı), s.79 1b madde 4, s.79 2b madde 2-3 (OCR bozuk)",
+  "s.80 2e (kişisel yazma), s.80 3b (dinleme)",
+  "s.81 1a (resimli kelime yazma), s.81 2 diyalogları tek tek replikler halinde çoktan seçmeli yapıldı",
+  "s.82 2 madde 3, 5, 7, 8 ve 3 madde 6 (OCR bozuk veya resim gerekli), 4 madde 1 ('they are' örneği), 4 madde 4, 10 (OCR/belirsiz)",
+  "Cevap anahtarı olmadığından tüm cevaplar gramer kuralından / bağlamdan türetildi"
+ ]
+}
