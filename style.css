@@ -99,3 +99,11 @@ details summary{font-size:1.05rem;font-weight:700}
 .muted{line-height:1.45}
 table{font-size:.95rem;line-height:1.4}
 .sp-txt{font-family:var(--fs);font-weight:400;letter-spacing:0;line-height:1.3;font-size:clamp(2.2rem,10vw,4rem);white-space:nowrap}
+
+/* writing */
+textarea.inp{display:block;color:var(--ink);background:var(--glass);border:1px solid var(--bd);border-radius:12px;text-align:left;font-size:1.05rem;line-height:1.5;resize:vertical;min-height:140px}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.tag{padding:3px 10px;border-radius:99px;background:rgba(129,140,248,.3);border:1px solid var(--bd);font-size:.85rem}
+.sample{margin:10px 0 0;display:flex;align-items:center;gap:10px;flex-wrap:wrap}.sample h3,.sample p{flex-basis:100%;margin:0}.sample p{flex:1}
+details.wh{border-bottom:1px solid rgba(255,255,255,.08)}details.wh summary{padding:10px 0;font-size:1rem;flex-wrap:wrap}details.wh .in{padding:0 0 12px}
+.wtext{white-space:pre-wrap}

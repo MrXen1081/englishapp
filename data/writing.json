@@ -1,0 +1,890 @@
+{
+ "unit1": [
+  {
+   "id": "u1-w1",
+   "title": "Kendini tanıt",
+   "prompt": "Kendini tanıtan kısa bir paragraf yaz: adın, ülken, uyruğun, yaşın ve telefon numaran.",
+   "words": [
+    "name",
+    "from",
+    "years old",
+    "nationality",
+    "phone number"
+   ],
+   "grammar": {
+    "label": "I am / I'm + ...",
+    "re": "\\b(I am|I'm)\\b"
+   },
+   "min": 25,
+   "sample": "Hello! My name is Ayşe. I'm from Turkey and I'm Turkish. I am twenty-five years old. My phone number is oh five three two, one two three, four five six seven. I'm a student."
+  },
+  {
+   "id": "u1-w2",
+   "title": "Arkadaşını tanıt",
+   "prompt": "Bir arkadaşını tanıt: adı, nereli olduğu, kaç yaşında olduğu. his / her kullan.",
+   "words": [
+    "his",
+    "her",
+    "from",
+    "years old",
+    "friend"
+   ],
+   "grammar": {
+    "label": "his / her (iyelik sıfatları)",
+    "re": "\\b(his|her)\\b"
+   },
+   "min": 25,
+   "sample": "This is my friend Tom. His surname is Brown. He is from Australia. He is thirty years old. His wife is Anna. Her family is from Brazil. They are very nice."
+  },
+  {
+   "id": "u1-w3",
+   "title": "Soru ve olumsuz cümleler",
+   "prompt": "Sınıfındaki kişiler hakkında 2 soru ve 2 olumsuz cümle yaz (Are you...? Is he...? I'm not... He isn't...).",
+   "words": [
+    "Are you",
+    "Is he",
+    "not",
+    "isn't",
+    "aren't"
+   ],
+   "grammar": {
+    "label": "olumsuz be (not / isn't / aren't)",
+    "re": "\\b(am not|'m not|is not|isn't|are not|aren't)\\b"
+   },
+   "min": 25,
+   "sample": "Are you from Spain? No, I'm not. I'm from Italy. Is he a teacher? No, he isn't. He is a student. They aren't in the classroom today. Are they at home?"
+  },
+  {
+   "id": "u1-w4",
+   "title": "Haftam ve sayılar",
+   "prompt": "Haftanın günleri ve sayılarla bir hafta planı yaz (ör. On Monday I am at school, room twelve).",
+   "words": [
+    "Monday",
+    "Friday",
+    "Sunday",
+    "twenty",
+    "room"
+   ],
+   "grammar": {
+    "label": "haftanın günleri",
+    "re": "\\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\\b"
+   },
+   "min": 25,
+   "sample": "On Monday I am at school. My classroom is room twelve. On Wednesday I am at the gym with twenty people. On Friday I am at home. On Saturday and Sunday my family is at the park. Our house is number fifteen."
+  }
+ ],
+ "unit2": [
+  {
+   "id": "u2-w1",
+   "title": "Çantamda ne var?",
+   "prompt": "Çantanın içindekileri yaz. a / an kullan ve çoğul isimleri doğru yaz.",
+   "words": [
+    "bag",
+    "phone",
+    "umbrella",
+    "keys",
+    "glasses"
+   ],
+   "grammar": {
+    "label": "a / an + isim",
+    "re": "\\b(a|an)\\s+\\w+"
+   },
+   "min": 25,
+   "sample": "In my bag I have a phone, an umbrella and a small notebook. I also have two pens, my keys and sunglasses. There is a wallet and a charger in the bag. I have an apple too."
+  },
+  {
+   "id": "u2-w2",
+   "title": "Masam",
+   "prompt": "Masanı ve eşyaların nerede olduğunu anlat (in, on, under).",
+   "words": [
+    "desk",
+    "laptop",
+    "lamp",
+    "under",
+    "on"
+   ],
+   "grammar": {
+    "label": "in / on / under",
+    "re": "\\b(in|on|under)\\b"
+   },
+   "min": 25,
+   "sample": "My desk is in my bedroom. The laptop is on the desk and the lamp is next to it. My bag is under the desk. The books are on the shelf. The pens are in a small box on the desk."
+  },
+  {
+   "id": "u2-w3",
+   "title": "Bir eşyayı tarif et",
+   "prompt": "Sevdiğin bir eşyayı (telefon, saat, çanta) sıfatlarla tarif et. very, really veya quite kullan.",
+   "words": [
+    "new",
+    "old",
+    "small",
+    "really",
+    "quite"
+   ],
+   "grammar": {
+    "label": "very / really / quite + sıfat",
+    "re": "\\b(very|really|quite)\\s+\\w+"
+   },
+   "min": 25,
+   "sample": "I have a new watch. It is really small and quite light. The strap is black and the face is very beautiful. It is a present from my sister. It is not expensive, but I really like it."
+  },
+  {
+   "id": "u2-w4",
+   "title": "Arkadaşa talimatlar",
+   "prompt": "Yeni bir arkadaşa sınıf için emirler ve öneriler yaz (Open..., Don't..., Let's...).",
+   "words": [
+    "open",
+    "close",
+    "listen",
+    "don't",
+    "let's"
+   ],
+   "grammar": {
+    "label": "Let's ... / emir cümleleri",
+    "re": "\\b(let's|let us)\\b|(^|[.!?]\\s*)(open|close|listen|read|write|sit|look|don't|please)\\b"
+   },
+   "min": 25,
+   "sample": "Welcome to class! Open your books, please. Listen to the teacher and write the words. Don't worry about mistakes. Be happy and relax. Let's start with page ten. Let's work together."
+  }
+ ],
+ "unit3": [
+  {
+   "id": "u3-w1",
+   "title": "Günlük rutinim",
+   "prompt": "Sıradan bir gününü anlat (I get up, I have breakfast, I go to...).",
+   "words": [
+    "get up",
+    "have breakfast",
+    "go to",
+    "work",
+    "study"
+   ],
+   "grammar": {
+    "label": "I + fiil (present simple)",
+    "re": "\\bI\\s+(get|have|go|work|study|watch|live|drink|cook|drive|start|finish|leave|eat|take|do)\\b"
+   },
+   "min": 30,
+   "sample": "I get up at seven o'clock. I have breakfast and drink tea. I go to work by bus. I work in an office and I finish at five. In the evening I cook dinner and watch TV. I go to bed at eleven."
+  },
+  {
+   "id": "u3-w2",
+   "title": "Biri ne iş yapar?",
+   "prompt": "Ailenden veya bir arkadaşından birinin mesleğini anlat. he / she + fiil-s kullan.",
+   "words": [
+    "works",
+    "teacher",
+    "doctor",
+    "lives",
+    "in"
+   ],
+   "grammar": {
+    "label": "he / she + fiil + s",
+    "re": "\\b(he|she)\\s+\\w+(s|es)\\b"
+   },
+   "min": 30,
+   "sample": "My sister is a nurse. She works in a hospital and she lives in Ankara. She starts work at eight and finishes at four. My father is a bank manager. He works in the city centre. He drives to work every day."
+  },
+  {
+   "id": "u3-w3",
+   "title": "Yapmayan şeyler",
+   "prompt": "Kendin ve bir başkası hakkında don't / doesn't ile olumsuz cümleler yaz.",
+   "words": [
+    "don't",
+    "doesn't",
+    "watch TV",
+    "drink",
+    "drive"
+   ],
+   "grammar": {
+    "label": "don't / doesn't",
+    "re": "\\b(don't|doesn't|do not|does not)\\b"
+   },
+   "min": 30,
+   "sample": "I don't drink coffee and I don't drive a car. I don't work on Sundays. My brother doesn't watch TV and he doesn't like football. My mother doesn't eat meat. We don't live in a flat."
+  },
+  {
+   "id": "u3-w4",
+   "title": "Röportaj soruları",
+   "prompt": "Yeni tanıştığın birine 5 soru yaz (Do you...? Does she...? Where...? What...?).",
+   "words": [
+    "Do you",
+    "Where",
+    "What",
+    "work",
+    "live"
+   ],
+   "grammar": {
+    "label": "Do / Does / soru kelimesi + ... ?",
+    "re": "\\b(do|does|where|what|when|who|how)\\b[^?.!]*\\?"
+   },
+   "min": 30,
+   "sample": "Where do you live? Do you work in an office? What do you do? Does your wife work too? What time do you start work? Do you like your job?"
+  }
+ ],
+ "unit4": [
+  {
+   "id": "u4-w1",
+   "title": "Ailem",
+   "prompt": "Ailenden en az üç kişiyi tanıt. İyelik 's kullan (my mother's name is...).",
+   "words": [
+    "mother",
+    "brother",
+    "grandmother",
+    "uncle",
+    "cousin"
+   ],
+   "grammar": {
+    "label": "iyelik 's (Ali's, mother's)",
+    "re": "\\b\\w+'s\\s+\\w+"
+   },
+   "min": 30,
+   "sample": "My mother's name is Fatma. My father's job is teacher. My brother's wife is Elif and my grandmother's house is in Izmir. My uncle's son is my cousin. My parents' car is old."
+  },
+  {
+   "id": "u4-w2",
+   "title": "Haftalık program",
+   "prompt": "Günlerin ve saatlerin yer aldığı bir program yaz. in / on / at kullan.",
+   "words": [
+    "at",
+    "on",
+    "in the morning",
+    "in the evening",
+    "weekend"
+   ],
+   "grammar": {
+    "label": "in / on / at (zaman edatları)",
+    "re": "\\b(at \\d|at (noon|night|midnight|the weekend)|on (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)s?|in the (morning|afternoon|evening))\\b"
+   },
+   "min": 30,
+   "sample": "I get up at seven. In the morning I go to work and at one o'clock I have lunch. On Tuesdays I go shopping. On Saturday I see my friends. In the evening I relax at home. I go to bed at eleven."
+  },
+  {
+   "id": "u4-w3",
+   "title": "Ne sıklıkla?",
+   "prompt": "Alışkanlıklarını yaz: always, usually, often, sometimes, never ile en az 5 cümle.",
+   "words": [
+    "always",
+    "usually",
+    "often",
+    "sometimes",
+    "never"
+   ],
+   "grammar": {
+    "label": "sıklık zarfları",
+    "re": "\\b(always|usually|often|sometimes|never)\\b"
+   },
+   "min": 30,
+   "sample": "I always get up at seven. I usually have breakfast at home. I often take the dog for a walk. I sometimes go shopping on Saturday. I never go to bed late. My sister is always happy."
+  },
+  {
+   "id": "u4-w4",
+   "title": "Kimin eşyası?",
+   "prompt": "Whose ile 2 soru yaz ve cevapla (Whose bag is this? It's Ali's).",
+   "words": [
+    "whose",
+    "bag",
+    "it's",
+    "phone",
+    "friend's"
+   ],
+   "grammar": {
+    "label": "Whose ...?",
+    "re": "\\bwhose\\b"
+   },
+   "min": 25,
+   "sample": "Whose bag is this? It's Ali's. Whose phone is on the table? It's my sister's. Whose keys are these? They're my father's. Whose dog is that? It's my neighbour's."
+  }
+ ],
+ "unit5": [
+  {
+   "id": "u5-w1",
+   "title": "Neler yapabilirim?",
+   "prompt": "can / can't ile yapabildiğin ve yapamadığın şeyleri yaz.",
+   "words": [
+    "can",
+    "can't",
+    "swim",
+    "sing",
+    "dance"
+   ],
+   "grammar": {
+    "label": "can / can't",
+    "re": "\\b(can|can't|cannot)\\b"
+   },
+   "min": 30,
+   "sample": "I can swim and I can play the guitar. I can't sing and I can't dance. My brother can cook very well. He can't drive a car. Can you speak English? Yes, I can."
+  },
+  {
+   "id": "u5-w2",
+   "title": "Şu an ne yapıyorlar?",
+   "prompt": "Bir fotoğraftaki veya evindeki insanların şu anda ne yaptığını yaz (is/are + -ing).",
+   "words": [
+    "at the moment",
+    "now",
+    "is",
+    "are",
+    "watching"
+   ],
+   "grammar": {
+    "label": "am / is / are + fiil-ing",
+    "re": "\\b(am|'m|is|'s|are|'re)\\s+\\w+ing\\b"
+   },
+   "min": 30,
+   "sample": "At the moment my mother is cooking in the kitchen. My father is watching TV. My brother is talking on the phone and my sister is doing her homework. I'm writing this text. The dog is sleeping."
+  },
+  {
+   "id": "u5-w3",
+   "title": "Bugünkü hava",
+   "prompt": "Bugünkü hava durumunu ve insanların ne yaptığını yaz.",
+   "words": [
+    "sunny",
+    "cloudy",
+    "raining",
+    "snowing",
+    "hot"
+   ],
+   "grammar": {
+    "label": "It's raining / sunny ...",
+    "re": "\\b(it's|it is)\\s+(\\w+\\s+)?(raining|snowing|sunny|cloudy|hot|cold|wet|windy|warm)\\b"
+   },
+   "min": 25,
+   "sample": "It's cloudy today and it's raining. It's cold and wet. People are walking with umbrellas. I'm at home and I'm drinking hot tea. It isn't sunny, but I'm happy."
+  },
+  {
+   "id": "u5-w4",
+   "title": "Alışverişte this / these",
+   "prompt": "Bir mağazada eşyaları göster: this ve these ile cümle kur.",
+   "words": [
+    "this",
+    "these",
+    "how much",
+    "buy",
+    "like"
+   ],
+   "grammar": {
+    "label": "this / these",
+    "re": "\\b(this|these)\\b"
+   },
+   "min": 25,
+   "sample": "This is a nice bag. How much is this? These shoes are very comfortable. I like these glasses. This hat is too big. I want to buy these two books and this notebook."
+  }
+ ],
+ "unit6": [
+  {
+   "id": "u6-w1",
+   "title": "Favori günüm",
+   "prompt": "En sevdiğin günü veya bayramı (Christmas Day, New Year's Day...) tarihiyle yaz.",
+   "words": [
+    "favourite",
+    "day",
+    "twenty",
+    "first",
+    "December"
+   ],
+   "grammar": {
+    "label": "sıra sayıları (first, 25th...)",
+    "re": "\\b(first|second|third|fourth|fifth|twelfth|twentieth|twenty-\\w+|thirty-\\w+|\\d+(st|nd|rd|th))\\b"
+   },
+   "min": 30,
+   "sample": "My favourite day is New Year's Day. It's on the first of January. I also like my birthday. It's on the twenty-third of April. In my family we have a big dinner on the twenty-fifth of December."
+  },
+  {
+   "id": "u6-w2",
+   "title": "Sevdiğim insanlar",
+   "prompt": "Aileni ve arkadaşlarını anlat. Nesne zamirlerini kullan (call me, see him, with them).",
+   "words": [
+    "call",
+    "see",
+    "help",
+    "with",
+    "friend"
+   ],
+   "grammar": {
+    "label": "nesne zamirleri (me, him, her, us, them)",
+    "re": "\\b(to|with|for|about|call|see|love|like|help|meet|visit|ask|tell|give)\\s+(me|him|her|us|them|you|it)\\b"
+   },
+   "min": 30,
+   "sample": "I have a good friend. I see her every week and I call her on Sundays. She helps me with my English. My parents live in Bursa. I visit them in the summer and I love them very much."
+  },
+  {
+   "id": "u6-w3",
+   "title": "Neyi severim?",
+   "prompt": "like / love / hate / enjoy + fiil-ing ile sevdiğin ve sevmediğin şeyleri yaz.",
+   "words": [
+    "like",
+    "love",
+    "hate",
+    "enjoy",
+    "listening"
+   ],
+   "grammar": {
+    "label": "like / love / hate + fiil-ing",
+    "re": "\\b(like|likes|love|loves|hate|hates|enjoy|enjoys|don't like|doesn't like)\\s+\\w+ing\\b"
+   },
+   "min": 30,
+   "sample": "I like reading and I love listening to music. I enjoy cooking with my sister. I don't like getting up early. My brother hates shopping, but he likes playing football."
+  },
+  {
+   "id": "u6-w4",
+   "title": "Müzik ve enstrümanlar",
+   "prompt": "Müzik hakkında 3 soru ve cevap yaz (Do you...? Is he...? Does she...?).",
+   "words": [
+    "piano",
+    "guitar",
+    "drums",
+    "play",
+    "music"
+   ],
+   "grammar": {
+    "label": "be / do soruları",
+    "re": "\\b(do|does|is|are)\\s+(you|he|she|they|it)\\b[^?.!]*\\?"
+   },
+   "min": 30,
+   "sample": "Do you play an instrument? Yes, I play the guitar. Is your brother a musician? Yes, he is. Does he play the drums? No, he plays the piano. Are they in a band?"
+  }
+ ],
+ "unit7": [
+  {
+   "id": "u7-w1",
+   "title": "Ünlü biri",
+   "prompt": "Ünlü ve ölmüş bir sanatçıyı veya yazarı tanıt: was / were ile (born, was a...).",
+   "words": [
+    "was",
+    "were",
+    "born",
+    "writer",
+    "famous"
+   ],
+   "grammar": {
+    "label": "was / were",
+    "re": "\\b(was|were|wasn't|weren't)\\b"
+   },
+   "min": 30,
+   "sample": "Agatha Christie was a famous writer. She was born in England in 1890. Her books were very popular. Her husband was an archaeologist. They were in Iraq in the 1930s. She wasn't a poet."
+  },
+  {
+   "id": "u7-w2",
+   "title": "Dün",
+   "prompt": "Dün yaptıklarını yaz: -ed biten düzenli fiillerle (watched, walked, cooked...).",
+   "words": [
+    "yesterday",
+    "watched",
+    "walked",
+    "cooked",
+    "played"
+   ],
+   "grammar": {
+    "label": "düzenli fiil + -ed",
+    "re": "\\b\\w+ed\\b"
+   },
+   "min": 30,
+   "sample": "Yesterday I woke up late. I cooked breakfast and I watched a film. In the afternoon I walked in the park and I played football with my friends. In the evening I cleaned the kitchen and I called my mother."
+  },
+  {
+   "id": "u7-w3",
+   "title": "Geçen tatil",
+   "prompt": "Geçen tatilini anlat. Düzensiz fiiller kullan (went, had, saw, ate...).",
+   "words": [
+    "last summer",
+    "went",
+    "had",
+    "saw",
+    "ate"
+   ],
+   "grammar": {
+    "label": "düzensiz fiiller",
+    "re": "\\b(went|had|saw|ate|bought|took|made|came|met|drank|wrote|got|ran|swam|gave|spoke)\\b"
+   },
+   "min": 35,
+   "sample": "Last summer I went on holiday to Antalya. We had a small hotel near the sea. I swam every day and I ate fresh fish. We saw old buildings and we bought presents for our family. I took a lot of photos. We had a really good time."
+  },
+  {
+   "id": "u7-w4",
+   "title": "Yapmadığım şeyler",
+   "prompt": "Geçmişte yapmadıkların ve sorular: didn't ve Did you...? kullan.",
+   "words": [
+    "didn't",
+    "did",
+    "ago",
+    "last week",
+    "Did you"
+   ],
+   "grammar": {
+    "label": "didn't / Did ... ?",
+    "re": "\\b(didn't|did not|did)\\b"
+   },
+   "min": 30,
+   "sample": "I didn't go out last night. I didn't watch TV and I didn't cook. Two days ago I didn't go to work. Did you go to the cinema last week? Did you enjoy the film? I didn't see it."
+  }
+ ],
+ "unit8": [
+  {
+   "id": "u8-w1",
+   "title": "Evim",
+   "prompt": "Evini odalarıyla anlat: there is / there are kullan.",
+   "words": [
+    "kitchen",
+    "living room",
+    "bedroom",
+    "bathroom",
+    "between"
+   ],
+   "grammar": {
+    "label": "there is / there are",
+    "re": "\\bthere\\s+(is|are|'s)\\b"
+   },
+   "min": 30,
+   "sample": "There are three rooms in my flat. There is a small kitchen and there is a big living room. There are two bedrooms and there is one bathroom. There is a balcony next to the living room. The kitchen is between the hall and the living room."
+  },
+  {
+   "id": "u8-w2",
+   "title": "Odamda ne var?",
+   "prompt": "Odandaki eşyalar için some / any kullan (There are some... There aren't any...).",
+   "words": [
+    "some",
+    "any",
+    "wardrobe",
+    "mirror",
+    "shelf"
+   ],
+   "grammar": {
+    "label": "some / any",
+    "re": "\\b(some|any)\\b"
+   },
+   "min": 30,
+   "sample": "There are some books on the shelf and there is a mirror next to the wardrobe. There aren't any plants in my room. There are some photos on the wall. Are there any chairs? There aren't any, but there is a bed."
+  },
+  {
+   "id": "u8-w3",
+   "title": "Çocukluk evim",
+   "prompt": "Çocukluğundaki evi anlat: there was / there were.",
+   "words": [
+    "there was",
+    "there were",
+    "garden",
+    "old",
+    "opposite"
+   ],
+   "grammar": {
+    "label": "there was / there were",
+    "re": "\\bthere\\s+(was|were|wasn't|weren't)\\b"
+   },
+   "min": 30,
+   "sample": "When I was a child, there was a big garden behind our house. There were some old trees and there was a small fireplace in the living room. There wasn't a dishwasher in the kitchen. There were two armchairs opposite the TV."
+  },
+  {
+   "id": "u8-w4",
+   "title": "Geçen hafta sonu",
+   "prompt": "Geçen hafta sonunu geçmiş zamanla anlat (düzenli ve düzensiz fiiller).",
+   "words": [
+    "Saturday",
+    "Sunday",
+    "went",
+    "visited",
+    "didn't"
+   ],
+   "grammar": {
+    "label": "geçmiş zaman (-ed / düzensiz / didn't)",
+    "re": "\\b(\\w+ed|went|had|saw|got|ate|did|didn't|bought|met|took)\\b"
+   },
+   "min": 35,
+   "sample": "Last weekend I visited my grandmother. On Saturday I got up early and we cooked lunch. We ate in the garden. On Sunday I went shopping and I bought a lamp for my room. I didn't watch TV and I didn't study."
+  }
+ ],
+ "unit9": [
+  {
+   "id": "u9-w1",
+   "title": "Buzdolabım",
+   "prompt": "Buzdolabında ne var, ne yok? some / any ve a / an kullan.",
+   "words": [
+    "milk",
+    "eggs",
+    "cheese",
+    "some",
+    "any"
+   ],
+   "grammar": {
+    "label": "some / any",
+    "re": "\\b(some|any)\\b"
+   },
+   "min": 30,
+   "sample": "In my fridge there is some milk and there are some eggs. There is a piece of cheese and an apple. There isn't any butter and there aren't any tomatoes. Is there any fish? No, there isn't any."
+  },
+  {
+   "id": "u9-w2",
+   "title": "Market soruları",
+   "prompt": "how much / how many ile 4 soru yaz ve cevapla.",
+   "words": [
+    "how much",
+    "how many",
+    "milk",
+    "eggs",
+    "cheese"
+   ],
+   "grammar": {
+    "label": "How much / How many ... ?",
+    "re": "\\bhow\\s+(much|many)\\b"
+   },
+   "min": 30,
+   "sample": "How much milk do you want? One litre, please. How many eggs do we need? Six, I think. How much is the cheese? It's five pounds. How many apples are there in the bag? There are four."
+  },
+  {
+   "id": "u9-w3",
+   "title": "Yeme alışkanlıklarım",
+   "prompt": "Ne kadar yediğini yaz: a lot of, lots of, a little, a few.",
+   "words": [
+    "a lot of",
+    "a little",
+    "a few",
+    "sugar",
+    "vegetables"
+   ],
+   "grammar": {
+    "label": "a lot of / a little / a few",
+    "re": "\\b(a lot of|lots of|a little|a few|not much|not many)\\b"
+   },
+   "min": 30,
+   "sample": "I eat a lot of vegetables and a lot of fruit. I drink a little coffee. I have a few biscuits in the afternoon. I don't eat much meat and I don't eat many sweets. I put a little sugar in my tea."
+  },
+  {
+   "id": "u9-w4",
+   "title": "Karşılaştır",
+   "prompt": "İki yemeği, şehri veya kişiyi karşılaştır: comparative sıfatlar (bigger than, more expensive than).",
+   "words": [
+    "than",
+    "cheaper",
+    "healthier",
+    "bigger",
+    "more expensive"
+   ],
+   "grammar": {
+    "label": "comparative + than",
+    "re": "\\b(\\w+er|more\\s+\\w+)\\s+than\\b"
+   },
+   "min": 30,
+   "sample": "Fish is healthier than chocolate. Pasta is cheaper than meat. Strawberries are sweeter than lemons. My kitchen is smaller than my mother's kitchen. Organic food is more expensive than normal food."
+  }
+ ],
+ "unit10": [
+  {
+   "id": "u10-w1",
+   "title": "Şehrim",
+   "prompt": "Şehrini anlat ve en iyi / en büyük yerleri belirt: superlative (the biggest, the most beautiful).",
+   "words": [
+    "museum",
+    "park",
+    "bridge",
+    "the biggest",
+    "the most"
+   ],
+   "grammar": {
+    "label": "the + superlative",
+    "re": "\\bthe\\s+(most\\s+\\w+|\\w+est)\\b"
+   },
+   "min": 30,
+   "sample": "My city is the biggest city in my country. The park near the station is the most beautiful place. The old bridge is the oldest building and the museum is the most famous. The shopping centre is the cheapest."
+  },
+  {
+   "id": "u10-w2",
+   "title": "Hafta sonu planlarım",
+   "prompt": "Bu hafta sonu için plan yap: be going to.",
+   "words": [
+    "tomorrow",
+    "this weekend",
+    "going to",
+    "meet",
+    "visit"
+   ],
+   "grammar": {
+    "label": "am / is / are going to",
+    "re": "\\b(am|'m|is|'s|are|'re)\\s+going\\s+to\\b"
+   },
+   "min": 30,
+   "sample": "This weekend I'm going to visit my friends. On Saturday we're going to eat in a local restaurant. My sister is going to stay at home. We aren't going to go shopping. Tomorrow I'm going to meet my teacher."
+  },
+  {
+   "id": "u10-w3",
+   "title": "Tatil planı",
+   "prompt": "Hayalindeki tatili planla: nereye, nasıl, nerede kalacaksın.",
+   "words": [
+    "book",
+    "stay in a hostel",
+    "go by train",
+    "buy souvenirs",
+    "visit museums"
+   ],
+   "grammar": {
+    "label": "going to + tatil planı",
+    "re": "\\b(am|'m|is|'s|are|'re)\\s+going\\s+to\\s+\\w+"
+   },
+   "min": 35,
+   "sample": "Next summer I'm going to go on holiday to Rome. I'm going to go by train and I'm going to book a room in a hostel. I'm going to visit museums and eat in local restaurants. I'm going to buy souvenirs and meet new people."
+  },
+  {
+   "id": "u10-w4",
+   "title": "Tahminler",
+   "prompt": "Gelecekle ilgili 4 tahmin yaz (It's going to rain... The team is going to win...).",
+   "words": [
+    "tomorrow",
+    "rain",
+    "win",
+    "be",
+    "next year"
+   ],
+   "grammar": {
+    "label": "going to + tahmin",
+    "re": "\\bgoing\\s+to\\s+(be|rain|snow|win|get|become|have|happen|lose|change)\\b"
+   },
+   "min": 25,
+   "sample": "Look at the sky! It's going to rain. Tomorrow is going to be cold. Our team is going to win the match. Next year this town is going to be bigger and the shops are going to be busy."
+  }
+ ],
+ "unit11": [
+  {
+   "id": "u11-w1",
+   "title": "Nasıl yaparım?",
+   "prompt": "Bir şeyi nasıl yaptığını anlat: carefully, quietly, slowly, well, fast, hard gibi zarflar.",
+   "words": [
+    "carefully",
+    "quietly",
+    "slowly",
+    "well",
+    "fast"
+   ],
+   "grammar": {
+    "label": "manner adverbs (-ly, well, fast, hard)",
+    "re": "\\b(\\w+ly|well|fast|hard|badly)\\b"
+   },
+   "min": 30,
+   "sample": "I drive carefully and I speak English slowly. My brother runs fast and plays football well. My sister sings beautifully, but she talks quietly. I work hard and I walk quickly to school."
+  },
+  {
+   "id": "u11-w2",
+   "title": "Yapmak istediklerim",
+   "prompt": "Yapılacaklar listen (bucket list): want / hope / plan / decide + to + fiil.",
+   "words": [
+    "want to",
+    "hope to",
+    "plan to",
+    "would like to",
+    "scuba dive"
+   ],
+   "grammar": {
+    "label": "verb + to + infinitive",
+    "re": "\\b(want|wants|hope|hopes|plan|plans|decide|decided|need|needs|would like|promise|learn|try)\\s+to\\s+\\w+"
+   },
+   "min": 35,
+   "sample": "I want to travel to all seven continents. I hope to swim with dolphins one day. I plan to learn to play the piano and I would like to read a classic novel. I decided to try scuba diving next year."
+  },
+  {
+   "id": "u11-w3",
+   "title": "Konser / film yorumu",
+   "prompt": "Gördüğün bir film veya konseri anlat: really, incredibly, very gibi derece zarfları ve sıfatlarla.",
+   "words": [
+    "really",
+    "incredibly",
+    "very",
+    "beautifully",
+    "loudly"
+   ],
+   "grammar": {
+    "label": "really / incredibly / very + sıfat",
+    "re": "\\b(really|incredibly|very|quite|extremely)\\s+\\w+"
+   },
+   "min": 30,
+   "sample": "We watched a really good film last night. The story was incredibly sad and the music was very beautiful. The actors spoke clearly and the director worked incredibly hard. It was quite long, but I enjoyed it."
+  },
+  {
+   "id": "u11-w4",
+   "title": "the mi, the yok mu?",
+   "prompt": "Gittiğin yerleri yaz. the ile (the cinema, the bank) ve the olmadan (go to school, go to work) örnekler ver.",
+   "words": [
+    "the cinema",
+    "the bank",
+    "school",
+    "work",
+    "home"
+   ],
+   "grammar": {
+    "label": "the / no the (go to school, the cinema)",
+    "re": "\\b(the (cinema|bank|beach|park|supermarket|library|station|hospital)|go(es)? to (school|work|bed|university|church|home))\\b"
+   },
+   "min": 30,
+   "sample": "On weekdays I go to work at eight. After work I go to the supermarket and sometimes the bank. My sister goes to school by bus. On Saturday we go to the cinema and then we go home. At night I go to bed early."
+  }
+ ],
+ "unit12": [
+  {
+   "id": "u12-w1",
+   "title": "Hayat tecrübem",
+   "prompt": "Yaşamında yaptığın şeyleri anlat: have / has + past participle (I've been to..., I've never eaten...).",
+   "words": [
+    "have",
+    "never",
+    "ever",
+    "been",
+    "seen"
+   ],
+   "grammar": {
+    "label": "have / has + past participle",
+    "re": "\\b(have|has|'ve|haven't|hasn't)\\s+(never\\s+|ever\\s+|already\\s+|just\\s+)?(\\w+ed|been|seen|eaten|met|won|done|gone|taken|written|spoken|made|had|read|bought|given|heard|lost|left|sung|drunk|told|got|fallen)\\b"
+   },
+   "min": 35,
+   "sample": "I've been to Italy and I've seen the Colosseum. I've never eaten sushi. My sister has won a prize and she has written two books. We've met a famous singer. I haven't done a bungee jump."
+  },
+  {
+   "id": "u12-w2",
+   "title": "Kaç kere?",
+   "prompt": "Bir şeyi kaç kere yaptığını yaz: once, twice, three times.",
+   "words": [
+    "once",
+    "twice",
+    "three times",
+    "ever",
+    "never"
+   ],
+   "grammar": {
+    "label": "once / twice / ... times",
+    "re": "\\b(once|twice|\\w+\\s+times)\\b"
+   },
+   "min": 30,
+   "sample": "I've been to London twice. I've read this book three times. My brother has seen the sea only once. I've never been to Japan. We've had a pizza four times this month. Have you ever won a prize?"
+  },
+  {
+   "id": "u12-w3",
+   "title": "Şimdiki zaman mı, geçmiş mi?",
+   "prompt": "Aynı konuda iki zamanı birleştir: present perfect (I've been...) ve past simple (I went ... last year).",
+   "words": [
+    "have been",
+    "went",
+    "last year",
+    "ago",
+    "yesterday"
+   ],
+   "grammar": {
+    "label": "present perfect + past simple",
+    "re": "(?=[\\s\\S]*\\b(have|has|'ve|haven't|hasn't)\\s+(never\\s+|ever\\s+)?\\w+)(?=[\\s\\S]*\\b(yesterday|last|ago|in\\s+(19|20)\\d\\d|went|was|were|did|saw|met)\\b)"
+   },
+   "min": 35,
+   "sample": "I've been to Spain three times. I went there last summer and I saw Madrid. I've met many nice people there. I met my best friend two years ago. Yesterday I called her and she was very happy."
+  },
+  {
+   "id": "u12-w4",
+   "title": "Röportaj (tekrar)",
+   "prompt": "Karışık zamanlarla bir arkadaşa 5 soru yaz: Have you ever...? Did you...? Do you...? What are you...?",
+   "words": [
+    "Have you ever",
+    "Did you",
+    "Do you",
+    "What",
+    "Where"
+   ],
+   "grammar": {
+    "label": "soru kalıpları (Have you ever / Did you / Do you...?)",
+    "re": "\\b(have you ever|did you|do you|are you|where|what|when|who|how)\\b[^?.!]*\\?"
+   },
+   "min": 30,
+   "sample": "Have you ever been to Paris? Did you go there last year? Do you like French food? What are you doing this weekend? Where do you usually have lunch? Who did you meet yesterday?"
+  }
+ ]
+}

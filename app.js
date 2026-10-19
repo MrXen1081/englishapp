@@ -65,7 +65,7 @@ async function init(){
 }
 async function loadUnit(id){const u=UNITS.find(x=>x.id===id);const d=await (await fetch(u.file)).json();U=d;S.unit=id}
 const app=$('#app');
-function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,verbs:verbsView,progress:progressView}[tab])()}
+function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,verbs:verbsView,write:writeView,progress:progressView}[tab])()}
 $('#tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;tab=b.dataset.tab;
   document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));window.speechSynthesis?.cancel();IS=null;render();scrollTo(0,0)};
 const boxOf=id=>P().box[id]||0;
@@ -294,6 +294,63 @@ function irrProgress(){
   <div class="cols">${dist.map((n,b)=>`<div class="col">${n}<div class="b" style="height:${n/mx*100}px"></div>${b?'Kutu '+b:'Yeni'}</div>`).join('')}</div></div>`;
 }
 
+/* ---------- writing ---------- */
+let WRT=null,wrTask=0,wrRes=null;   // WRT: data/writing.json, wrTask: selected task index, wrRes: last check result
+const WR=()=>S.wr||(S.wr=[]);        // history: [{u,t,text,ts,wc,used,n,g}]
+const WD=()=>S.wd||(S.wd={});        // unsaved drafts by task id
+const wrNorm=t=>t.replace(/[’‘`]/g,"'");
+const wrWords=t=>wrNorm(t).match(/[A-Za-z]+(?:['-][A-Za-z]+)*/g)||[];
+const reEsc=w=>w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/\s+/g,'\\s+');
+function wrCheck(k,text){
+  const t=wrNorm(text),wc=wrWords(t).length;
+  const used=k.words.filter(w=>new RegExp('(^|[^a-z])'+reEsc(w)+'(s|es|ed|d|ing)?(?![a-z])','i').test(t));
+  let m=null;try{m=t.match(new RegExp(k.grammar.re,'i'))}catch(e){}
+  return{wc,used,g:!!m,snip:m&&m[0].trim()||''};
+}
+async function writeView(){
+  if(!WRT){
+    app.innerHTML='<div class="card center muted">Yükleniyor…</div>';
+    try{WRT=await (await fetch('data/writing.json')).json()}catch(e){app.innerHTML='<div class="fb bad">Yazma görevleri yüklenemedi.</div>';return}
+    if(tab!=='write')return;
+  }
+  const tasks=WRT[S.unit]||[];if(!tasks.length){app.innerHTML='<div class="card muted">Bu ünite için görev yok.</div>';return}
+  if(wrTask>=tasks.length)wrTask=0;
+  const k=tasks[wrTask],hist=WR().filter(h=>h.u===S.unit).sort((a,b)=>b.ts-a.ts),doneIds=new Set(hist.map(h=>h.t));
+  const draft=WD()[k.id]||'';
+  app.innerHTML=`<div class="card"><h2>Yazma</h2><p class="muted">${doneIds.size}/${tasks.length} görev yazıldı · ${hist.length} yazı kaydedildi</p>
+  <div class="chips">${tasks.map((t,i)=>`<button class="chip ${i===wrTask?'on':''}" data-wt="${i}">${i+1}. ${esc(t.title)}${doneIds.has(t.id)?' ✓':''}</button>`).join('')}</div>
+  <p>${esc(k.prompt)}</p>
+  <p class="muted">Önerilen kelimeler:</p><div class="tags">${k.words.map(w=>`<span class="tag">${esc(w)}</span>`).join('')}</div>
+  <p class="muted">Hedef kalıp: <b>${esc(k.grammar.label)}</b> · En az <b>${k.min}</b> kelime</p>
+  <textarea id="wtxt" class="inp txt" rows="7" placeholder="İngilizce yaz…" autocomplete="off" autocapitalize="sentences" spellcheck="false">${esc(draft)}</textarea>
+  <p class="muted" id="wcnt"></p>
+  <button class="btn primary" id="wchk" style="width:100%">Kontrol et</button><div id="wres"></div></div>
+  ${hist.length?`<div class="card"><h3>Geçmiş yazılar</h3>${hist.map(h=>{const tk=tasks.find(x=>x.id===h.t);return `<details class="wh"><summary>${esc(tk?tk.title:h.t)} <small class="muted">${new Date(h.ts).toLocaleDateString('tr-TR')} · ${h.wc} kelime</small></summary><div class="in"><p class="wtext">${esc(h.text)}</p><p class="muted">Önerilen kelime: ${h.used}/${h.n} · Kalıp: ${h.g?'✓':'✗'}</p><button class="btn" data-wdel="${h.ts}">Sil</button></div></details>`}).join('')}</div>`:''}`;
+  const ta=$('#wtxt'),cnt=()=>{$('#wcnt').textContent=wrWords(ta.value).length+' kelime'};cnt();
+  ta.oninput=()=>{WD()[k.id]=ta.value;save();cnt()};
+  app.querySelectorAll('[data-wt]').forEach(b=>b.onclick=()=>{wrTask=+b.dataset.wt;wrRes=null;render()});
+  app.querySelectorAll('[data-wdel]').forEach(b=>b.onclick=()=>{if(confirm('Bu yazı silinsin mi?')){S.wr=WR().filter(h=>String(h.ts)!==b.dataset.wdel);save();render()}});
+  const show=r=>{
+    const row=(ok,t)=>`<div class="fb ${ok?'ok':'bad'}">${ok?'✓':'✗'} ${t}</div>`;
+    $('#wres').innerHTML=row(r.wc>=k.min,`Kelime sayısı: <b>${r.wc}</b> / ${k.min}`)
+      +row(r.used.length>0,`Önerilen kelimeler: <b>${r.used.length}/${k.words.length}</b>${r.used.length?' — '+r.used.map(esc).join(', '):''}`)
+      +row(r.g,`Hedef kalıp (${esc(k.grammar.label)}): ${r.g?(r.snip?'bulundu: “'+esc(r.snip)+'”':'bulundu'):'bulunamadı'}`)
+      +`<div class="card sample"><h3>Örnek cevap</h3><p>${esc(k.sample)}</p>${spk(k.sample)}</div>`;
+  };
+  if(wrRes&&wrRes.id===k.id)show(wrRes);
+  $('#wchk').onclick=()=>{
+    const text=ta.value.trim();if(!text){$('#wres').innerHTML='<div class="fb bad">Önce bir şeyler yaz.</div>';return}
+    const r=wrCheck(k,text);wrRes={id:k.id,...r};
+    WR().push({u:S.unit,t:k.id,text,ts:Date.now(),wc:r.wc,used:r.used.length,n:k.words.length,g:r.g});
+    save();
+    render();$('#wres').scrollIntoView({behavior:'smooth',block:'nearest'});
+  };
+}
+function writeProgress(){
+  const all=WR(),n=new Set(all.map(h=>h.u+'/'+h.t)).size,u=new Set(all.filter(h=>h.u===S.unit).map(h=>h.t)).size,tot=WRT&&WRT[S.unit]?WRT[S.unit].length:4;
+  return `<div class="card"><h3>Yazma</h3><p class="muted">${u}/${tot} görev bu ünitede yazıldı · toplam ${n} görev (${all.length} yazı)</p></div>`;
+}
+
 /* ---------- progress ---------- */
 function progressView(){
   const p=P(),seen=U.vocab.filter(v=>boxOf(v.id)>0).length,acc=p.total?Math.round(p.correct/p.total*100):0;
@@ -302,6 +359,7 @@ function progressView(){
   app.innerHTML=`<div class="stats"><div class="card stat"><b>${seen}/${U.vocab.length}</b>çalışılan kelime</div><div class="card stat"><b>%${acc}</b>doğruluk</div><div class="card stat"><b>${streak()} 🔥</b>gün serisi</div><div class="card stat"><b>${dist[5]}</b>öğrenilen (kutu 5)</div></div>
   <div class="card"><h3>Leitner kutuları</h3><div class="cols">${dist.map((n,b)=>`<div class="col">${n}<div class="b" style="height:${n/mx*100}px"></div>${b?'Kutu '+b:'Yeni'}</div>`).join('')}</div></div>
   ${irrProgress()}
+  ${writeProgress()}
   <div class="card"><h3>Son 7 gün</h3><div class="cols">${days.map(d=>`<div class="col" title="${d.c}/${d.n} doğru">${d.n}<div class="b" style="height:${d.n/dm*100}px"></div>${d.l}</div>`).join('')}</div></div>`;
 }
 
@@ -311,7 +369,7 @@ $('#setBtn').onclick=()=>{$('#autoSpeak').checked=S.auto;$('#rate').value=S.rate
 $('#closeSet').onclick=()=>dlg.close();
 $('#autoSpeak').onchange=e=>{S.auto=e.target.checked;save()};
 $('#rate').oninput=e=>{S.rate=+e.target.value;save()};
-$('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit}=S;S={units:{},auto,rate,unit};IS=null;save();dlg.close();render()}};
+$('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit,wr,wd}=S;S={units:{},auto,rate,unit,wr,wd};IS=null;save();dlg.close();render()}};
 
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 init();
