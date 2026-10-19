@@ -1,0 +1,1255 @@
+{
+"title": "Düzensiz fiiller",
+"verbs": [
+{
+"id": "irr-001",
+"v1": "be",
+"v2": [
+"was",
+"were"
+],
+"v3": [
+"been"
+],
+"tr": "olmak",
+"type": "ABC"
+},
+{
+"id": "irr-002",
+"v1": "become",
+"v2": [
+"became"
+],
+"v3": [
+"become"
+],
+"tr": "olmak, haline gelmek",
+"type": "ABA"
+},
+{
+"id": "irr-003",
+"v1": "begin",
+"v2": [
+"began"
+],
+"v3": [
+"begun"
+],
+"tr": "başlamak",
+"type": "ABC"
+},
+{
+"id": "irr-004",
+"v1": "bend",
+"v2": [
+"bent"
+],
+"v3": [
+"bent"
+],
+"tr": "bükmek, eğilmek",
+"type": "ABB"
+},
+{
+"id": "irr-005",
+"v1": "bet",
+"v2": [
+"bet"
+],
+"v3": [
+"bet"
+],
+"tr": "bahse girmek",
+"type": "AAA"
+},
+{
+"id": "irr-006",
+"v1": "bite",
+"v2": [
+"bit"
+],
+"v3": [
+"bitten"
+],
+"tr": "ısırmak",
+"type": "ABC"
+},
+{
+"id": "irr-007",
+"v1": "blow",
+"v2": [
+"blew"
+],
+"v3": [
+"blown"
+],
+"tr": "esmek, üflemek",
+"type": "ABC"
+},
+{
+"id": "irr-008",
+"v1": "break",
+"v2": [
+"broke"
+],
+"v3": [
+"broken"
+],
+"tr": "kırmak",
+"type": "ABC"
+},
+{
+"id": "irr-009",
+"v1": "bring",
+"v2": [
+"brought"
+],
+"v3": [
+"brought"
+],
+"tr": "getirmek",
+"type": "ABB"
+},
+{
+"id": "irr-010",
+"v1": "build",
+"v2": [
+"built"
+],
+"v3": [
+"built"
+],
+"tr": "inşa etmek",
+"type": "ABB"
+},
+{
+"id": "irr-011",
+"v1": "burn",
+"v2": [
+"burned",
+"burnt"
+],
+"v3": [
+"burned",
+"burnt"
+],
+"tr": "yanmak, yakmak",
+"type": "ABB"
+},
+{
+"id": "irr-012",
+"v1": "buy",
+"v2": [
+"bought"
+],
+"v3": [
+"bought"
+],
+"tr": "satın almak",
+"type": "ABB"
+},
+{
+"id": "irr-013",
+"v1": "catch",
+"v2": [
+"caught"
+],
+"v3": [
+"caught"
+],
+"tr": "yakalamak",
+"type": "ABB"
+},
+{
+"id": "irr-014",
+"v1": "choose",
+"v2": [
+"chose"
+],
+"v3": [
+"chosen"
+],
+"tr": "seçmek",
+"type": "ABC"
+},
+{
+"id": "irr-015",
+"v1": "come",
+"v2": [
+"came"
+],
+"v3": [
+"come"
+],
+"tr": "gelmek",
+"type": "ABA"
+},
+{
+"id": "irr-016",
+"v1": "cost",
+"v2": [
+"cost"
+],
+"v3": [
+"cost"
+],
+"tr": "(para) tutmak, mal olmak",
+"type": "AAA"
+},
+{
+"id": "irr-017",
+"v1": "cut",
+"v2": [
+"cut"
+],
+"v3": [
+"cut"
+],
+"tr": "kesmek",
+"type": "AAA"
+},
+{
+"id": "irr-018",
+"v1": "deal",
+"v2": [
+"dealt"
+],
+"v3": [
+"dealt"
+],
+"tr": "ilgilenmek, başa çıkmak",
+"type": "ABB"
+},
+{
+"id": "irr-019",
+"v1": "dig",
+"v2": [
+"dug"
+],
+"v3": [
+"dug"
+],
+"tr": "kazmak",
+"type": "ABB"
+},
+{
+"id": "irr-020",
+"v1": "do",
+"v2": [
+"did"
+],
+"v3": [
+"done"
+],
+"tr": "yapmak",
+"type": "ABC"
+},
+{
+"id": "irr-021",
+"v1": "draw",
+"v2": [
+"drew"
+],
+"v3": [
+"drawn"
+],
+"tr": "çizmek",
+"type": "ABC"
+},
+{
+"id": "irr-022",
+"v1": "dream",
+"v2": [
+"dreamed",
+"dreamt"
+],
+"v3": [
+"dreamed",
+"dreamt"
+],
+"tr": "rüya görmek, hayal etmek",
+"type": "ABB"
+},
+{
+"id": "irr-023",
+"v1": "drink",
+"v2": [
+"drank"
+],
+"v3": [
+"drunk"
+],
+"tr": "içmek",
+"type": "ABC"
+},
+{
+"id": "irr-024",
+"v1": "drive",
+"v2": [
+"drove"
+],
+"v3": [
+"driven"
+],
+"tr": "araba sürmek",
+"type": "ABC"
+},
+{
+"id": "irr-025",
+"v1": "eat",
+"v2": [
+"ate"
+],
+"v3": [
+"eaten"
+],
+"tr": "yemek yemek",
+"type": "ABC"
+},
+{
+"id": "irr-026",
+"v1": "fall",
+"v2": [
+"fell"
+],
+"v3": [
+"fallen"
+],
+"tr": "düşmek",
+"type": "ABC"
+},
+{
+"id": "irr-027",
+"v1": "feed",
+"v2": [
+"fed"
+],
+"v3": [
+"fed"
+],
+"tr": "beslemek",
+"type": "ABB"
+},
+{
+"id": "irr-028",
+"v1": "feel",
+"v2": [
+"felt"
+],
+"v3": [
+"felt"
+],
+"tr": "hissetmek",
+"type": "ABB"
+},
+{
+"id": "irr-029",
+"v1": "fight",
+"v2": [
+"fought"
+],
+"v3": [
+"fought"
+],
+"tr": "dövüşmek, kavga etmek",
+"type": "ABB"
+},
+{
+"id": "irr-030",
+"v1": "find",
+"v2": [
+"found"
+],
+"v3": [
+"found"
+],
+"tr": "bulmak",
+"type": "ABB"
+},
+{
+"id": "irr-031",
+"v1": "fly",
+"v2": [
+"flew"
+],
+"v3": [
+"flown"
+],
+"tr": "uçmak",
+"type": "ABC"
+},
+{
+"id": "irr-032",
+"v1": "forget",
+"v2": [
+"forgot"
+],
+"v3": [
+"forgotten"
+],
+"tr": "unutmak",
+"type": "ABC"
+},
+{
+"id": "irr-033",
+"v1": "forgive",
+"v2": [
+"forgave"
+],
+"v3": [
+"forgiven"
+],
+"tr": "affetmek",
+"type": "ABC"
+},
+{
+"id": "irr-034",
+"v1": "freeze",
+"v2": [
+"froze"
+],
+"v3": [
+"frozen"
+],
+"tr": "donmak",
+"type": "ABC"
+},
+{
+"id": "irr-035",
+"v1": "get",
+"v2": [
+"got"
+],
+"v3": [
+"got"
+],
+"tr": "almak, olmak, ulaşmak",
+"type": "ABB"
+},
+{
+"id": "irr-036",
+"v1": "give",
+"v2": [
+"gave"
+],
+"v3": [
+"given"
+],
+"tr": "vermek",
+"type": "ABC"
+},
+{
+"id": "irr-037",
+"v1": "go",
+"v2": [
+"went"
+],
+"v3": [
+"gone"
+],
+"tr": "gitmek",
+"type": "ABC"
+},
+{
+"id": "irr-038",
+"v1": "grow",
+"v2": [
+"grew"
+],
+"v3": [
+"grown"
+],
+"tr": "büyümek, yetişmek",
+"type": "ABC"
+},
+{
+"id": "irr-039",
+"v1": "hang",
+"v2": [
+"hung"
+],
+"v3": [
+"hung"
+],
+"tr": "asmak",
+"type": "ABB"
+},
+{
+"id": "irr-040",
+"v1": "have",
+"v2": [
+"had"
+],
+"v3": [
+"had"
+],
+"tr": "sahip olmak",
+"type": "ABB"
+},
+{
+"id": "irr-041",
+"v1": "hear",
+"v2": [
+"heard"
+],
+"v3": [
+"heard"
+],
+"tr": "duymak",
+"type": "ABB"
+},
+{
+"id": "irr-042",
+"v1": "hide",
+"v2": [
+"hid"
+],
+"v3": [
+"hidden"
+],
+"tr": "saklanmak, saklamak",
+"type": "ABC"
+},
+{
+"id": "irr-043",
+"v1": "hit",
+"v2": [
+"hit"
+],
+"v3": [
+"hit"
+],
+"tr": "vurmak",
+"type": "AAA"
+},
+{
+"id": "irr-044",
+"v1": "hold",
+"v2": [
+"held"
+],
+"v3": [
+"held"
+],
+"tr": "tutmak",
+"type": "ABB"
+},
+{
+"id": "irr-045",
+"v1": "hurt",
+"v2": [
+"hurt"
+],
+"v3": [
+"hurt"
+],
+"tr": "acıtmak, incitmek",
+"type": "AAA"
+},
+{
+"id": "irr-046",
+"v1": "keep",
+"v2": [
+"kept"
+],
+"v3": [
+"kept"
+],
+"tr": "tutmak, saklamak",
+"type": "ABB"
+},
+{
+"id": "irr-047",
+"v1": "know",
+"v2": [
+"knew"
+],
+"v3": [
+"known"
+],
+"tr": "bilmek, tanımak",
+"type": "ABC"
+},
+{
+"id": "irr-048",
+"v1": "lay",
+"v2": [
+"laid"
+],
+"v3": [
+"laid"
+],
+"tr": "koymak, sermek",
+"type": "ABB"
+},
+{
+"id": "irr-049",
+"v1": "lead",
+"v2": [
+"led"
+],
+"v3": [
+"led"
+],
+"tr": "yol göstermek, liderlik etmek",
+"type": "ABB"
+},
+{
+"id": "irr-050",
+"v1": "learn",
+"v2": [
+"learned",
+"learnt"
+],
+"v3": [
+"learned",
+"learnt"
+],
+"tr": "öğrenmek",
+"type": "ABB"
+},
+{
+"id": "irr-051",
+"v1": "leave",
+"v2": [
+"left"
+],
+"v3": [
+"left"
+],
+"tr": "ayrılmak, bırakmak",
+"type": "ABB"
+},
+{
+"id": "irr-052",
+"v1": "lend",
+"v2": [
+"lent"
+],
+"v3": [
+"lent"
+],
+"tr": "ödünç vermek",
+"type": "ABB"
+},
+{
+"id": "irr-053",
+"v1": "let",
+"v2": [
+"let"
+],
+"v3": [
+"let"
+],
+"tr": "izin vermek",
+"type": "AAA"
+},
+{
+"id": "irr-054",
+"v1": "light",
+"v2": [
+"lit",
+"lighted"
+],
+"v3": [
+"lit",
+"lighted"
+],
+"tr": "yakmak, aydınlatmak",
+"type": "ABB"
+},
+{
+"id": "irr-055",
+"v1": "lose",
+"v2": [
+"lost"
+],
+"v3": [
+"lost"
+],
+"tr": "kaybetmek",
+"type": "ABB"
+},
+{
+"id": "irr-056",
+"v1": "make",
+"v2": [
+"made"
+],
+"v3": [
+"made"
+],
+"tr": "yapmak, üretmek",
+"type": "ABB"
+},
+{
+"id": "irr-057",
+"v1": "mean",
+"v2": [
+"meant"
+],
+"v3": [
+"meant"
+],
+"tr": "anlamına gelmek",
+"type": "ABB"
+},
+{
+"id": "irr-058",
+"v1": "meet",
+"v2": [
+"met"
+],
+"v3": [
+"met"
+],
+"tr": "tanışmak, buluşmak",
+"type": "ABB"
+},
+{
+"id": "irr-059",
+"v1": "pay",
+"v2": [
+"paid"
+],
+"v3": [
+"paid"
+],
+"tr": "ödemek",
+"type": "ABB"
+},
+{
+"id": "irr-060",
+"v1": "put",
+"v2": [
+"put"
+],
+"v3": [
+"put"
+],
+"tr": "koymak",
+"type": "AAA"
+},
+{
+"id": "irr-061",
+"v1": "quit",
+"v2": [
+"quit"
+],
+"v3": [
+"quit"
+],
+"tr": "bırakmak, vazgeçmek",
+"type": "AAA"
+},
+{
+"id": "irr-062",
+"v1": "read",
+"v2": [
+"read"
+],
+"v3": [
+"read"
+],
+"tr": "okumak",
+"type": "AAA"
+},
+{
+"id": "irr-063",
+"v1": "ride",
+"v2": [
+"rode"
+],
+"v3": [
+"ridden"
+],
+"tr": "(bisiklet/at) sürmek, binmek",
+"type": "ABC"
+},
+{
+"id": "irr-064",
+"v1": "ring",
+"v2": [
+"rang"
+],
+"v3": [
+"rung"
+],
+"tr": "çalmak (zil), telefon etmek",
+"type": "ABC"
+},
+{
+"id": "irr-065",
+"v1": "rise",
+"v2": [
+"rose"
+],
+"v3": [
+"risen"
+],
+"tr": "yükselmek, doğmak",
+"type": "ABC"
+},
+{
+"id": "irr-066",
+"v1": "run",
+"v2": [
+"ran"
+],
+"v3": [
+"run"
+],
+"tr": "koşmak",
+"type": "ABA"
+},
+{
+"id": "irr-067",
+"v1": "say",
+"v2": [
+"said"
+],
+"v3": [
+"said"
+],
+"tr": "söylemek",
+"type": "ABB"
+},
+{
+"id": "irr-068",
+"v1": "see",
+"v2": [
+"saw"
+],
+"v3": [
+"seen"
+],
+"tr": "görmek",
+"type": "ABC"
+},
+{
+"id": "irr-069",
+"v1": "sell",
+"v2": [
+"sold"
+],
+"v3": [
+"sold"
+],
+"tr": "satmak",
+"type": "ABB"
+},
+{
+"id": "irr-070",
+"v1": "send",
+"v2": [
+"sent"
+],
+"v3": [
+"sent"
+],
+"tr": "göndermek",
+"type": "ABB"
+},
+{
+"id": "irr-071",
+"v1": "set",
+"v2": [
+"set"
+],
+"v3": [
+"set"
+],
+"tr": "ayarlamak, kurmak",
+"type": "AAA"
+},
+{
+"id": "irr-072",
+"v1": "shake",
+"v2": [
+"shook"
+],
+"v3": [
+"shaken"
+],
+"tr": "sallamak, titremek",
+"type": "ABC"
+},
+{
+"id": "irr-073",
+"v1": "shine",
+"v2": [
+"shone"
+],
+"v3": [
+"shone"
+],
+"tr": "parlamak",
+"type": "ABB"
+},
+{
+"id": "irr-074",
+"v1": "shoot",
+"v2": [
+"shot"
+],
+"v3": [
+"shot"
+],
+"tr": "ateş etmek, vurmak",
+"type": "ABB"
+},
+{
+"id": "irr-075",
+"v1": "show",
+"v2": [
+"showed"
+],
+"v3": [
+"shown",
+"showed"
+],
+"tr": "göstermek",
+"type": "ABC"
+},
+{
+"id": "irr-076",
+"v1": "shut",
+"v2": [
+"shut"
+],
+"v3": [
+"shut"
+],
+"tr": "kapatmak",
+"type": "AAA"
+},
+{
+"id": "irr-077",
+"v1": "sing",
+"v2": [
+"sang"
+],
+"v3": [
+"sung"
+],
+"tr": "şarkı söylemek",
+"type": "ABC"
+},
+{
+"id": "irr-078",
+"v1": "sink",
+"v2": [
+"sank"
+],
+"v3": [
+"sunk"
+],
+"tr": "batmak",
+"type": "ABC"
+},
+{
+"id": "irr-079",
+"v1": "sit",
+"v2": [
+"sat"
+],
+"v3": [
+"sat"
+],
+"tr": "oturmak",
+"type": "ABB"
+},
+{
+"id": "irr-080",
+"v1": "sleep",
+"v2": [
+"slept"
+],
+"v3": [
+"slept"
+],
+"tr": "uyumak",
+"type": "ABB"
+},
+{
+"id": "irr-081",
+"v1": "slide",
+"v2": [
+"slid"
+],
+"v3": [
+"slid"
+],
+"tr": "kaymak",
+"type": "ABB"
+},
+{
+"id": "irr-082",
+"v1": "smell",
+"v2": [
+"smelled",
+"smelt"
+],
+"v3": [
+"smelled",
+"smelt"
+],
+"tr": "koklamak, kokmak",
+"type": "ABB"
+},
+{
+"id": "irr-083",
+"v1": "speak",
+"v2": [
+"spoke"
+],
+"v3": [
+"spoken"
+],
+"tr": "konuşmak",
+"type": "ABC"
+},
+{
+"id": "irr-084",
+"v1": "spell",
+"v2": [
+"spelled",
+"spelt"
+],
+"v3": [
+"spelled",
+"spelt"
+],
+"tr": "hecelemek",
+"type": "ABB"
+},
+{
+"id": "irr-085",
+"v1": "spend",
+"v2": [
+"spent"
+],
+"v3": [
+"spent"
+],
+"tr": "harcamak, geçirmek (zaman)",
+"type": "ABB"
+},
+{
+"id": "irr-086",
+"v1": "spread",
+"v2": [
+"spread"
+],
+"v3": [
+"spread"
+],
+"tr": "yaymak, yayılmak",
+"type": "AAA"
+},
+{
+"id": "irr-087",
+"v1": "stand",
+"v2": [
+"stood"
+],
+"v3": [
+"stood"
+],
+"tr": "ayakta durmak",
+"type": "ABB"
+},
+{
+"id": "irr-088",
+"v1": "steal",
+"v2": [
+"stole"
+],
+"v3": [
+"stolen"
+],
+"tr": "çalmak, hırsızlık yapmak",
+"type": "ABC"
+},
+{
+"id": "irr-089",
+"v1": "stick",
+"v2": [
+"stuck"
+],
+"v3": [
+"stuck"
+],
+"tr": "yapıştırmak, saplamak",
+"type": "ABB"
+},
+{
+"id": "irr-090",
+"v1": "sweep",
+"v2": [
+"swept"
+],
+"v3": [
+"swept"
+],
+"tr": "süpürmek",
+"type": "ABB"
+},
+{
+"id": "irr-091",
+"v1": "swim",
+"v2": [
+"swam"
+],
+"v3": [
+"swum"
+],
+"tr": "yüzmek",
+"type": "ABC"
+},
+{
+"id": "irr-092",
+"v1": "swing",
+"v2": [
+"swung"
+],
+"v3": [
+"swung"
+],
+"tr": "sallanmak, savurmak",
+"type": "ABB"
+},
+{
+"id": "irr-093",
+"v1": "take",
+"v2": [
+"took"
+],
+"v3": [
+"taken"
+],
+"tr": "almak, götürmek",
+"type": "ABC"
+},
+{
+"id": "irr-094",
+"v1": "teach",
+"v2": [
+"taught"
+],
+"v3": [
+"taught"
+],
+"tr": "öğretmek",
+"type": "ABB"
+},
+{
+"id": "irr-095",
+"v1": "tear",
+"v2": [
+"tore"
+],
+"v3": [
+"torn"
+],
+"tr": "yırtmak",
+"type": "ABC"
+},
+{
+"id": "irr-096",
+"v1": "tell",
+"v2": [
+"told"
+],
+"v3": [
+"told"
+],
+"tr": "söylemek, anlatmak",
+"type": "ABB"
+},
+{
+"id": "irr-097",
+"v1": "think",
+"v2": [
+"thought"
+],
+"v3": [
+"thought"
+],
+"tr": "düşünmek",
+"type": "ABB"
+},
+{
+"id": "irr-098",
+"v1": "throw",
+"v2": [
+"threw"
+],
+"v3": [
+"thrown"
+],
+"tr": "atmak, fırlatmak",
+"type": "ABC"
+},
+{
+"id": "irr-099",
+"v1": "understand",
+"v2": [
+"understood"
+],
+"v3": [
+"understood"
+],
+"tr": "anlamak",
+"type": "ABB"
+},
+{
+"id": "irr-100",
+"v1": "wake",
+"v2": [
+"woke"
+],
+"v3": [
+"woken"
+],
+"tr": "uyanmak, uyandırmak",
+"type": "ABC"
+},
+{
+"id": "irr-101",
+"v1": "wear",
+"v2": [
+"wore"
+],
+"v3": [
+"worn"
+],
+"tr": "giymek, takmak",
+"type": "ABC"
+},
+{
+"id": "irr-102",
+"v1": "win",
+"v2": [
+"won"
+],
+"v3": [
+"won"
+],
+"tr": "kazanmak",
+"type": "ABB"
+},
+{
+"id": "irr-103",
+"v1": "write",
+"v2": [
+"wrote"
+],
+"v3": [
+"written"
+],
+"tr": "yazmak",
+"type": "ABC"
+}
+]
+}

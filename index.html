@@ -7,10 +7,12 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon.svg">
+<script>try{if(!sessionStorage.getItem("splash")){sessionStorage.setItem("splash","1");document.documentElement.classList.add("sp")}}catch(e){}</script>
 <title>English File Pratik</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div id="splash" role="dialog" aria-label="Created by MrXen"><div class="sp-glow"></div><div class="sp-in"><div class="sp-txt" id="spTxt" aria-hidden="true"></div><div class="sp-line"></div></div></div>
 <div class="bg"></div><div class="veil"></div>
 <header class="top">
   <h1>English<span>File</span></h1>
@@ -24,6 +26,7 @@
   <button data-tab="cards" class="on"><i>🗂</i>Kartlar</button>
   <button data-tab="quiz"><i>✏️</i>Quiz</button>
   <button data-tab="grammar"><i>📘</i>Gramer</button>
+  <button data-tab="verbs"><i>🔁</i>Fiiller</button>
   <button data-tab="progress"><i>📊</i>İlerleme</button>
 </nav>
 <dialog id="settings" class="glass">
@@ -34,6 +37,19 @@
   <button class="btn" id="resetBtn">İlerlemeyi sıfırla</button>
   <button class="btn primary" id="closeSet">Kapat</button>
 </dialog>
+<script>
+(function(){
+  var sp=document.getElementById('splash');if(!sp)return;
+  if(!document.documentElement.classList.contains('sp')){sp.remove();return}
+  var t=document.getElementById('spTxt'),s='Created by MrXen';
+  s.split('').forEach(function(c,i){var e=document.createElement('span');e.textContent=c===' '?'\u00a0':c;e.style.setProperty('--i',i);t.appendChild(e)});
+  var gone=false;
+  function bye(){if(gone)return;gone=true;sp.classList.add('out');setTimeout(function(){sp.remove()},600)}
+  sp.addEventListener('click',bye);sp.addEventListener('touchstart',bye,{passive:true});
+  addEventListener('keydown',bye,{once:true});
+  setTimeout(bye,2800);
+})();
+</script>
 <script src="app.js"></script>
 </body>
 </html>

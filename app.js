@@ -14,6 +14,7 @@ function load(){try{const s=JSON.parse(localStorage.getItem(KEY));if(s){
     delete s.box;delete s.days;delete s.total;delete s.correct}
   return s}}catch(e){}return{units:{},auto:true,rate:0.9,unit:'unit1'}}
 function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+const IR=()=>S.irr||(S.irr={box:{},days:{},total:0,correct:0});   // irregular-verb progress (independent of units)
 const P=()=>S.units[S.unit]||(S.units[S.unit]=newProg());   // progress of the selected unit
 function record(ok){
   const p=P();p.total++;if(ok)p.correct++;
@@ -50,7 +51,10 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-say]');if(
 
 /* ---------- data ---------- */
 let UNITS=[],U=null,tab='cards';
+let IRRV=null;
+async function loadIrr(){if(IRRV)return IRRV;IRRV=(await (await fetch('data/irregular.json')).json()).verbs;return IRRV}
 async function init(){
+  loadIrr().then(()=>{if(tab==='progress'&&U)render()}).catch(()=>{});   // preload for the progress card; doesn't block startup
   UNITS=await (await fetch('data/units.json')).json();
   const sel=$('#unitSel');sel.innerHTML=UNITS.map(u=>`<option value="${u.id}">${esc(u.title)}</option>`).join('');
   if(!UNITS.find(u=>u.id===S.unit))S.unit=UNITS[0].id;sel.value=S.unit;
@@ -61,9 +65,9 @@ async function init(){
 }
 async function loadUnit(id){const u=UNITS.find(x=>x.id===id);const d=await (await fetch(u.file)).json();U=d;S.unit=id}
 const app=$('#app');
-function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,progress:progressView}[tab])()}
+function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,verbs:verbsView,progress:progressView}[tab])()}
 $('#tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;tab=b.dataset.tab;
-  document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));window.speechSynthesis?.cancel();render();scrollTo(0,0)};
+  document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));window.speechSynthesis?.cancel();IS=null;render();scrollTo(0,0)};
 const boxOf=id=>P().box[id]||0;
 
 /* ---------- flashcards ---------- */
@@ -195,6 +199,101 @@ function grammarView(){
   ${g.examples.map(([en,tr])=>`<div class="ex"><div>${esc(en)}<small>${esc(tr)}</small></div>${spk(en)}</div>`).join('')}</div></details>`).join('');
 }
 
+
+/* ---------- irregular verbs ---------- */
+const irrBox=id=>IR().box[id]||0;
+const GROUPS=[['AAA','Aynı biçimli (V1 = V2 = V3)','cut – cut – cut'],['ABB','V2 = V3','buy – bought – bought'],['ABC','Üç biçim farklı','go – went – gone'],['ABA','V1 = V3','come – came – come']];
+let icfg={view:'az',q:'',mode:'list',given:'v1',scope:'all',size:10},IS=null;
+const forms=(v,k)=>v[k]===undefined?[v.v1]:v[k];
+const showForm=a=>a.join(' / ');
+const irrRow=v=>`<div class="ex"><div><b>${esc(v.v1)}</b> – ${esc(showForm(v.v2))} – ${esc(showForm(v.v3))}<small>${esc(v.tr)}${v.v1==='read'?' · read /riːd/, read /red/, read /red/':''}</small></div><span class="muted">${irrBox(v.id)?'K'+irrBox(v.id):''}</span>${spk([v.v1,showForm(v.v2).split(' / ')[0],showForm(v.v3).split(' / ')[0]].join(', '))}</div>`;
+async function verbsView(){
+  try{await loadIrr()}catch(e){app.innerHTML='<div class="card"><div class="fb bad">Fiil verisi yüklenemedi. Bağlantını kontrol et.</div></div>';return}
+  if(tab!=='verbs')return;
+  if(IS)return irrStep();
+  const tabs=chips('mode',[['list','📖 Liste'],['study','✍️ Çalış']],icfg.mode);
+  if(icfg.mode==='study'){
+    const weak=IRRV.filter(v=>irrBox(v.id)>0&&irrBox(v.id)<3).length;
+    app.innerHTML=`<div class="card"><h2>Düzensiz Fiiller</h2>${tabs}<p class="muted">${IRRV.length} fiil · ${weak} tanesi tekrar bekliyor (kutu 1-2)</p>
+    <b>Verilen</b>${chips('given',[['v1','V1 + Türkçe → V2, V3'],['tr','Türkçe → V1, V2, V3'],['mix','Karışık (V1/V2/V3)']],icfg.given)}
+    <b>Fiiller</b>${chips('scope',[['all','Hepsi'],['same','Aynı biçimli'],['weak','Zayıf (kutu 1-2)'],['new','Yeni']],icfg.scope)}
+    <b>Oturum</b>${chips('size',[[10,'10'],[20,'20'],[999,'Tümü']],icfg.size)}
+    <button class="btn primary" id="go" style="width:100%;margin-top:6px">Başla</button></div>`;
+    bindChips(icfg);$('#go').onclick=startIrr;return;
+  }
+  const q=normTr(icfg.q),match=v=>!q||normTr([v.v1,...v.v2,...v.v3,v.tr].join(' ')).includes(q);
+  const list=IRRV.filter(match);
+  let body;
+  if(!list.length)body='<p class="muted center">Sonuç yok.</p>';
+  else if(icfg.view==='az')body=`<div class="card">${list.map(irrRow).join('')}</div>`;
+  else body=GROUPS.map(([t,name,ex])=>{const g=list.filter(v=>v.type===t);return g.length?`<details class="card" open><summary>${name} <span class="muted">${g.length} · ${ex}</span></summary><div class="in">${g.map(irrRow).join('')}</div></details>`:''}).join('');
+  app.innerHTML=`<div class="card"><h2>Düzensiz Fiiller</h2>${tabs}
+    <input type="text" id="irq" class="inp" style="margin:0 0 12px;text-align:left" placeholder="Ara: fiil biçimi veya Türkçe" value="${esc(icfg.q)}" autocomplete="off" autocapitalize="off" spellcheck="false">
+    ${chips('view',[['az','A–Z'],['grp','Gruplu']],icfg.view)}<p class="muted" style="margin:0">${list.length}/${IRRV.length} fiil · 🔊 V1, V2, V3 sırayla okur</p></div>${body}`;
+  bindChips(icfg);
+  const inp=$('#irq');inp.oninput=()=>{icfg.q=inp.value;const pos=inp.selectionStart;verbsView().then(()=>{const n=$('#irq');if(n){n.focus();n.setSelectionRange(pos,pos)}})};
+}
+function startIrr(){
+  let pool=IRRV.slice();
+  if(icfg.scope==='same')pool=pool.filter(v=>v.type==='AAA');
+  if(icfg.scope==='weak')pool=pool.filter(v=>irrBox(v.id)>0&&irrBox(v.id)<3);
+  if(icfg.scope==='new')pool=pool.filter(v=>!irrBox(v.id));
+  if(!pool.length){app.insertAdjacentHTML('afterbegin','<div class="fb bad">Bu kapsamda fiil yok.</div>');return}
+  pool=shuffle(pool).sort((a,b)=>irrBox(a.id)-irrBox(b.id)).slice(0,icfg.size);
+  IS={queue:shuffle(pool),first:{},wrong:{},total:pool.length,done:0,moves:[]};irrStep();
+}
+const irrGiven=v=>{const k=icfg.given==='tr'?'tr':icfg.given==='v1'?'v1':['v1','v2','v3','tr'][Math.random()*4|0];
+  const f=k==='tr'?v.tr:forms(v,k)[Math.random()*forms(v,k).length|0];return{k,f}};
+function irrStep(){
+  if(!IS.queue.length)return irrSummary();
+  const v=IS.queue[0],retry=IS.first[v.id]!==undefined;
+  if(!IS.cur||IS.cur.v!==v){IS.cur={v,g:irrGiven(v)}}   // new prompt each time it comes up
+  const g=IS.cur.g,want=icfg.given==='tr'?['v1','v2','v3']:['v1','v2','v3'].filter(k=>k!==g.k);
+  const lab={v1:'V1',v2:'V2 (past simple)',v3:'V3 (past participle)'};
+  const head=`<div class="bar"><i style="width:${IS.done/IS.total*100}%"></i></div><p class="muted center">${IS.done}/${IS.total}${retry?' · tekrar':''} · kutu ${irrBox(v.id)||'yeni'}</p>`;
+  const given=g.k==='tr'?`<div class="big">${esc(v.tr)}</div>`:`<div class="big">${esc(g.f)}</div><p class="muted center">${g.k==='v1'?'V1 · '+esc(v.tr):g.k.toUpperCase()}</p><div class="center">${spk(g.f)}</div>`;
+  app.innerHTML=`<div class="card">${head}${given}${want.map(k=>`<label class="muted">${lab[k]}</label><input type="text" class="inp" data-k="${k}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false">`).join('')}<div id="fb"></div><button class="btn primary" id="chk" style="width:100%">Kontrol et</button></div>`;
+  const ins=[...app.querySelectorAll('input.inp')];ins[0].focus();let checked=false;
+  const go=()=>{
+    if(checked){irrNext();return}
+    if(ins.some(i=>!i.value.trim()))return;checked=true;
+    let all=true;
+    ins.forEach(i=>{const ok=forms(v,i.dataset.k).includes(i.value.trim().toLowerCase().replace(/’/g,"'"));if(!ok)all=false;
+      i.disabled=true;i.style.borderColor=ok?'var(--ok)':'var(--bad)'});
+    irrGrade(v,all);
+    $('#fb').innerHTML=`<div class="fb ${all?'ok':'bad'}">${all?'Doğru! ✓':'Yanlış.'} ${esc(v.v1)} – ${esc(showForm(v.v2))} – ${esc(showForm(v.v3))}</div>`;
+    $('#chk').textContent='Devam';$('#chk').focus();IS.lastOk=all;
+    say([v.v1,v.v2[0],v.v3[0]].join(', '))};
+  $('#chk').onclick=go;
+  ins.forEach((inp,n)=>inp.onkeydown=e=>{if(e.key==='Enter'){if(n<ins.length-1&&!inp.disabled&&!ins[n+1].value)ins[n+1].focus();else go()}});
+}
+function irrGrade(v,ok){
+  if(IS.first[v.id]!==undefined)return;
+  IS.first[v.id]=ok;const old=irrBox(v.id),nb=ok?Math.min(5,old+1):1,p=IR();p.box[v.id]=nb;IS.moves.push({v,old,nb});
+  p.total++;if(ok)p.correct++;const d=p.days[today()]||(p.days[today()]={n:0,c:0});d.n++;if(ok)d.c++;
+  if(!ok)IS.wrong[v.id]=v;save();
+}
+function irrNext(){
+  const v=IS.queue.shift();
+  if(!IS.lastOk)IS.queue.push(v);   // wrong ones return at the end of the session until answered correctly
+  IS.cur=null;IS.done=IS.total-new Set(IS.queue.map(x=>x.id)).size;irrStep();
+}
+function irrSummary(){
+  const ok=Object.values(IS.first).filter(Boolean).length,n=IS.total,w=Object.values(IS.wrong);
+  app.innerHTML=`<div class="card center"><h2>Oturum bitti 🎉</h2><div class="big">${ok}/${n}</div><p class="muted">İlk denemede doğruluk: %${Math.round(ok/n*100)}</p></div>
+  ${w.length?`<div class="card"><h3>Tekrar edilecekler</h3>${w.map(irrRow).join('')}</div>`:''}
+  <div class="card"><h3>Kutu hareketleri</h3><p class="muted">${IS.moves.map(m=>`${esc(m.v.v1)}: ${m.old||'yeni'}→${m.nb}`).join(' · ')}</p></div>
+  <button class="btn primary" id="again" style="width:100%">Yeni oturum</button>`;
+  $('#again').onclick=()=>{IS=null;render()};IS=null;
+}
+function irrProgress(){
+  if(!IRRV)return '';
+  const p=IR(),seen=IRRV.filter(v=>irrBox(v.id)>0).length,acc=p.total?Math.round(p.correct/p.total*100):0;
+  const dist=[0,1,2,3,4,5].map(b=>IRRV.filter(v=>irrBox(v.id)===b).length),mx=Math.max(1,...dist);
+  return `<div class="card"><h3>Düzensiz fiiller</h3><p class="muted">${seen}/${IRRV.length} çalışıldı · %${acc} doğruluk · ${dist[5]} öğrenildi (kutu 5)</p>
+  <div class="cols">${dist.map((n,b)=>`<div class="col">${n}<div class="b" style="height:${n/mx*100}px"></div>${b?'Kutu '+b:'Yeni'}</div>`).join('')}</div></div>`;
+}
+
 /* ---------- progress ---------- */
 function progressView(){
   const p=P(),seen=U.vocab.filter(v=>boxOf(v.id)>0).length,acc=p.total?Math.round(p.correct/p.total*100):0;
@@ -202,6 +301,7 @@ function progressView(){
   const days=[...Array(7)].map((_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);const r=p.days[today(d)]||{n:0,c:0};return{l:['Pz','Pt','Sa','Ça','Pe','Cu','Ct'][d.getDay()],...r}}),dm=Math.max(1,...days.map(d=>d.n));
   app.innerHTML=`<div class="stats"><div class="card stat"><b>${seen}/${U.vocab.length}</b>çalışılan kelime</div><div class="card stat"><b>%${acc}</b>doğruluk</div><div class="card stat"><b>${streak()} 🔥</b>gün serisi</div><div class="card stat"><b>${dist[5]}</b>öğrenilen (kutu 5)</div></div>
   <div class="card"><h3>Leitner kutuları</h3><div class="cols">${dist.map((n,b)=>`<div class="col">${n}<div class="b" style="height:${n/mx*100}px"></div>${b?'Kutu '+b:'Yeni'}</div>`).join('')}</div></div>
+  ${irrProgress()}
   <div class="card"><h3>Son 7 gün</h3><div class="cols">${days.map(d=>`<div class="col" title="${d.c}/${d.n} doğru">${d.n}<div class="b" style="height:${d.n/dm*100}px"></div>${d.l}</div>`).join('')}</div></div>`;
 }
 
@@ -211,7 +311,7 @@ $('#setBtn').onclick=()=>{$('#autoSpeak').checked=S.auto;$('#rate').value=S.rate
 $('#closeSet').onclick=()=>dlg.close();
 $('#autoSpeak').onchange=e=>{S.auto=e.target.checked;save()};
 $('#rate').oninput=e=>{S.rate=+e.target.value;save()};
-$('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit}=S;S={units:{},auto,rate,unit};save();dlg.close();render()}};
+$('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit}=S;S={units:{},auto,rate,unit};IS=null;save();dlg.close();render()}};
 
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 init();
