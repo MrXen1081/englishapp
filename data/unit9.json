@@ -1,0 +1,2359 @@
+{
+ "unit": 9,
+ "title": "Unit 9",
+ "source": "English File 5th ed. Elementary Workbook, Unit 9 (s.61-68)",
+ "vocab": [
+  {
+   "en": "carrots",
+   "tr": "havuç",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-001"
+  },
+  {
+   "en": "mushrooms",
+   "tr": "mantar",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-002"
+  },
+  {
+   "en": "onions",
+   "tr": "soğan",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-003"
+  },
+  {
+   "en": "peas",
+   "tr": "bezelye",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-004"
+  },
+  {
+   "en": "potatoes",
+   "tr": "patates",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-005"
+  },
+  {
+   "en": "tomatoes",
+   "tr": "domates",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-006"
+  },
+  {
+   "en": "peppers",
+   "tr": "biber",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-007"
+  },
+  {
+   "en": "lettuce",
+   "tr": "marul",
+   "alt": [],
+   "cat": "Sebze",
+   "id": "u9-008"
+  },
+  {
+   "en": "apples",
+   "tr": "elma",
+   "alt": [],
+   "cat": "Meyve",
+   "id": "u9-009"
+  },
+  {
+   "en": "bananas",
+   "tr": "muz",
+   "alt": [],
+   "cat": "Meyve",
+   "id": "u9-010"
+  },
+  {
+   "en": "oranges",
+   "tr": "portakal",
+   "alt": [],
+   "cat": "Meyve",
+   "id": "u9-011"
+  },
+  {
+   "en": "pineapple",
+   "tr": "ananas",
+   "alt": [],
+   "cat": "Meyve",
+   "id": "u9-012"
+  },
+  {
+   "en": "strawberries",
+   "tr": "çilek",
+   "alt": [],
+   "cat": "Meyve",
+   "id": "u9-013"
+  },
+  {
+   "en": "biscuits",
+   "tr": "bisküvi",
+   "alt": [],
+   "cat": "Atıştırmalık",
+   "id": "u9-014"
+  },
+  {
+   "en": "chocolate",
+   "tr": "çikolata",
+   "alt": [],
+   "cat": "Atıştırmalık",
+   "id": "u9-015"
+  },
+  {
+   "en": "crisps",
+   "tr": "cips",
+   "alt": [
+    "patates cipsi"
+   ],
+   "cat": "Atıştırmalık",
+   "id": "u9-016"
+  },
+  {
+   "en": "nuts",
+   "tr": "kuruyemiş",
+   "alt": [
+    "fındık fıstık"
+   ],
+   "cat": "Atıştırmalık",
+   "id": "u9-017"
+  },
+  {
+   "en": "sweets",
+   "tr": "şekerleme",
+   "alt": [
+    "şeker"
+   ],
+   "cat": "Atıştırmalık",
+   "id": "u9-018"
+  },
+  {
+   "en": "cheese",
+   "tr": "peynir",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-019"
+  },
+  {
+   "en": "fish",
+   "tr": "balık",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-020"
+  },
+  {
+   "en": "bread",
+   "tr": "ekmek",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-021"
+  },
+  {
+   "en": "eggs",
+   "tr": "yumurta",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-022"
+  },
+  {
+   "en": "sugar",
+   "tr": "şeker",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-023"
+  },
+  {
+   "en": "butter",
+   "tr": "tereyağı",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-024"
+  },
+  {
+   "en": "oil",
+   "tr": "yağ",
+   "alt": [
+    "sıvı yağ"
+   ],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-025"
+  },
+  {
+   "en": "meat",
+   "tr": "et",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-026"
+  },
+  {
+   "en": "ham",
+   "tr": "jambon",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-027"
+  },
+  {
+   "en": "sausages",
+   "tr": "sosis",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-028"
+  },
+  {
+   "en": "seafood",
+   "tr": "deniz ürünleri",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-029"
+  },
+  {
+   "en": "pasta",
+   "tr": "makarna",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-030"
+  },
+  {
+   "en": "rice",
+   "tr": "pirinç",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-031"
+  },
+  {
+   "en": "milk",
+   "tr": "süt",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-032"
+  },
+  {
+   "en": "orange juice",
+   "tr": "portakal suyu",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-033"
+  },
+  {
+   "en": "cereal",
+   "tr": "mısır gevreği",
+   "alt": [
+    "kahvaltılık gevrek"
+   ],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-034"
+  },
+  {
+   "en": "jam",
+   "tr": "reçel",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-035"
+  },
+  {
+   "en": "tuna",
+   "tr": "ton balığı",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-036"
+  },
+  {
+   "en": "salmon",
+   "tr": "somon",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-037"
+  },
+  {
+   "en": "herbs",
+   "tr": "otlar",
+   "alt": [
+    "baharat otları"
+   ],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-038"
+  },
+  {
+   "en": "spices",
+   "tr": "baharatlar",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-039"
+  },
+  {
+   "en": "ketchup",
+   "tr": "ketçap",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-040"
+  },
+  {
+   "en": "fruit salad",
+   "tr": "meyve salatası",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-041"
+  },
+  {
+   "en": "garlic bread",
+   "tr": "sarımsaklı ekmek",
+   "alt": [],
+   "cat": "Yiyecek & içecek",
+   "id": "u9-042"
+  },
+  {
+   "en": "jar",
+   "tr": "kavanoz",
+   "alt": [],
+   "cat": "Kaplar",
+   "id": "u9-043"
+  },
+  {
+   "en": "box",
+   "tr": "kutu",
+   "alt": [],
+   "cat": "Kaplar",
+   "id": "u9-044"
+  },
+  {
+   "en": "carton",
+   "tr": "karton kutu",
+   "alt": [],
+   "cat": "Kaplar",
+   "id": "u9-045"
+  },
+  {
+   "en": "tin",
+   "tr": "teneke kutu",
+   "alt": [
+    "konserve"
+   ],
+   "cat": "Kaplar",
+   "id": "u9-046"
+  },
+  {
+   "en": "packet",
+   "tr": "paket",
+   "alt": [],
+   "cat": "Kaplar",
+   "id": "u9-047"
+  },
+  {
+   "en": "can",
+   "tr": "kutu (içecek)",
+   "alt": [
+    "teneke"
+   ],
+   "cat": "Kaplar",
+   "id": "u9-048"
+  },
+  {
+   "en": "bottle",
+   "tr": "şişe",
+   "alt": [],
+   "cat": "Kaplar",
+   "id": "u9-049"
+  },
+  {
+   "en": "hundred",
+   "tr": "yüz",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u9-050"
+  },
+  {
+   "en": "thousand",
+   "tr": "bin",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u9-051"
+  },
+  {
+   "en": "million",
+   "tr": "milyon",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u9-052"
+  },
+  {
+   "en": "population",
+   "tr": "nüfus",
+   "alt": [],
+   "cat": "Sayılar",
+   "id": "u9-053"
+  },
+  {
+   "en": "starter",
+   "tr": "başlangıç yemeği",
+   "alt": [
+    "meze"
+   ],
+   "cat": "Restoran & menü",
+   "id": "u9-054"
+  },
+  {
+   "en": "main course",
+   "tr": "ana yemek",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-055"
+  },
+  {
+   "en": "dessert",
+   "tr": "tatlı",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-056"
+  },
+  {
+   "en": "courses",
+   "tr": "yemek servisleri",
+   "alt": [
+    "çeşitler"
+   ],
+   "cat": "Restoran & menü",
+   "id": "u9-057"
+  },
+  {
+   "en": "grilled",
+   "tr": "ızgara",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-058"
+  },
+  {
+   "en": "home-made",
+   "tr": "ev yapımı",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-059"
+  },
+  {
+   "en": "sauce",
+   "tr": "sos",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-060"
+  },
+  {
+   "en": "soup",
+   "tr": "çorba",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-061"
+  },
+  {
+   "en": "bill",
+   "tr": "hesap",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-062"
+  },
+  {
+   "en": "reservation",
+   "tr": "rezervasyon",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-063"
+  },
+  {
+   "en": "still water",
+   "tr": "gazsız su",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-064"
+  },
+  {
+   "en": "sparkling water",
+   "tr": "gazlı su",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-065"
+  },
+  {
+   "en": "mineral water",
+   "tr": "maden suyu",
+   "alt": [],
+   "cat": "Restoran & menü",
+   "id": "u9-066"
+  },
+  {
+   "en": "dangerous",
+   "tr": "tehlikeli",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-067"
+  },
+  {
+   "en": "comfortable",
+   "tr": "rahat",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-068"
+  },
+  {
+   "en": "difficult",
+   "tr": "zor",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-069"
+  },
+  {
+   "en": "expensive",
+   "tr": "pahalı",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-070"
+  },
+  {
+   "en": "cheap",
+   "tr": "ucuz",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-071"
+  },
+  {
+   "en": "hungry",
+   "tr": "aç",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-072"
+  },
+  {
+   "en": "dry",
+   "tr": "kuru",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-073"
+  },
+  {
+   "en": "wet",
+   "tr": "ıslak",
+   "alt": [],
+   "cat": "Sıfatlar",
+   "id": "u9-074"
+  },
+  {
+   "en": "thin",
+   "tr": "ince",
+   "alt": [
+    "zayıf"
+   ],
+   "cat": "Sıfatlar",
+   "id": "u9-075"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Countable / uncountable nouns, a/an, some/any (9A)",
+   "tr": "İsimler <b>sayılabilir</b> (apple – apples) veya <b>sayılamaz</b> (rice, meat, butter) olabilir. Sayılamaz isimler genelde tekil kabul edilir ve çoğul olmaz (<i>two rices</i> ✗). Tekil sayılabilir isimle <b>a / an</b> kullanılır. <b>some</b> olumlu cümlede çoğul sayılabilir ve sayılamaz isimlerle; <b>any</b> olumsuz ve soru cümlesinde kullanılır. Birine bir şey ikram ederken veya isterken soruda da <b>some</b> kullanılır: <i>Can I have some sugar? Would you like some coffee?</i> Bazı isimler iki türlü kullanılır: <i>an ice cream</i> (bir dondurma) / <i>some ice cream</i>.",
+   "table": {
+    "head": [
+     "Sayılabilir (tekil / çoğul)",
+     "Sayılamaz"
+    ],
+    "rows": [
+     [
+      "an apple, three apples, a tomato",
+      "rice, meat, butter"
+     ],
+     [
+      "We need some apples. / We need a tomato.",
+      "We need some butter."
+     ],
+     [
+      "We don't need any apples.",
+      "We don't need any rice."
+     ],
+     [
+      "Do we need any oranges? / an orange?",
+      "Do we need any cheese?"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "We need some butter.",
+     "Biraz tereyağına ihtiyacımız var."
+    ],
+    [
+     "There isn't any milk in the fridge.",
+     "Buzdolabında hiç süt yok."
+    ],
+    [
+     "Can I have some sugar, please?",
+     "Biraz şeker alabilir miyim?"
+    ],
+    [
+     "I had an egg for breakfast.",
+     "Kahvaltıda bir yumurta yedim."
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Quantifiers: how much / how many, a lot of (9B)",
+   "tr": "<b>How much…?</b> sayılamaz, <b>How many…?</b> çoğul sayılabilir isimlerle sorulur. Miktar: <b>a lot (of)</b> çok, <b>quite a lot (of)</b> orta, <b>a little</b> (sayılamaz) / <b>a few</b> (çoğul) az, <b>not much</b> (sayılamaz) / <b>not many</b> (çoğul) çok değil, <b>not any</b> (kısa cevapta <b>None</b>) hiç. Olumlu cümlede genelde <b>a lot of</b>, olumsuz ve soruda <b>much / many</b> tercih edilir. Kısa cevapta <i>of</i> kullanılmaz: <i>A lot. / Quite a lot.</i> (<i>Quite a lot of.</i> ✗). <i>A lot of</i> ve <i>lots of</i> aynı anlamdadır.",
+   "table": {
+    "head": [
+     "Sayılamaz",
+     "Çoğul sayılabilir"
+    ],
+    "rows": [
+     [
+      "How much sugar do you eat?",
+      "How many sweets do you eat?"
+     ],
+     [
+      "A lot. / Quite a lot.",
+      "A lot. / Quite a lot."
+     ],
+     [
+      "A little. / Not much.",
+      "A few. / Not many."
+     ],
+     [
+      "None. I don't eat any sugar.",
+      "None. I don't eat any sweets."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I eat a lot of sugar.",
+     "Çok şeker yerim."
+    ],
+    [
+     "I don't drink much water.",
+     "Fazla su içmem."
+    ],
+    [
+     "How many sweets do you eat? A few.",
+     "Kaç şekerleme yersin? Birkaç tane."
+    ],
+    [
+     "I have a little cereal for breakfast.",
+     "Kahvaltıda biraz mısır gevreği yerim."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Comparative adjectives (9C)",
+   "tr": "İki şeyi, kişiyi vs. karşılaştırmak için <b>sıfat + -er / more + sıfat + than</b> kullanılır. Tek heceli sıfatlara <b>-er</b> (old → older; <i>-e</i> ile bitiyorsa <b>-r</b>: nice → nicer). Tek ünlü + tek ünsüzle bitenler ünsüzü ikiler (big → bigger). Bir veya iki heceli ve <b>-y</b> ile bitenlerde y → <b>-ier</b> (dry → drier, healthy → healthier). <b>-ed</b> ile bitenler ve iki veya daha çok heceli sıfatlar <b>more</b> alır (more expensive, more tired, more famous). Düzensizler: good → better, bad → worse, far → further.",
+   "table": {
+    "head": [
+     "Kural",
+     "Örnek"
+    ],
+    "rows": [
+     [
+      "1 hece: + -er",
+      "old → older, cheap → cheaper"
+     ],
+     [
+      "1 ünlü + 1 ünsüz: ünsüz ikilenir",
+      "big → bigger, hot → hotter"
+     ],
+     [
+      "-y ile biten: y → -ier",
+      "dry → drier, healthy → healthier"
+     ],
+     [
+      "2+ hece (ve -ed): more + sıfat",
+      "more expensive, more tired"
+     ],
+     [
+      "Düzensiz",
+      "good → better, bad → worse, far → further"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Stonehenge is older than the Pyramids.",
+     "Stonehenge, Piramitlerden daha eskidir."
+    ],
+    [
+     "Brazil is wetter than Ireland.",
+     "Brezilya İrlanda'dan daha yağışlıdır."
+    ],
+    [
+     "New York is more expensive than Paris.",
+     "New York Paris'ten daha pahalıdır."
+    ],
+    [
+     "The traffic is always worse in the evening.",
+     "Trafik akşamları hep daha kötüdür."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? carrots",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Vegetables",
+   "explain": "",
+   "id": "u9-e001"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? mushrooms",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Vegetables",
+   "explain": "",
+   "id": "u9-e002"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? onions",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Vegetables",
+   "explain": "",
+   "id": "u9-e003"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? peas",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Vegetables",
+   "explain": "",
+   "id": "u9-e004"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? potatoes",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Vegetables",
+   "explain": "",
+   "id": "u9-e005"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? biscuits",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Snacks",
+   "explain": "",
+   "id": "u9-e006"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? chocolate",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Snacks",
+   "explain": "",
+   "id": "u9-e007"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? crisps",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Snacks",
+   "explain": "",
+   "id": "u9-e008"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? nuts",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Snacks",
+   "explain": "",
+   "id": "u9-e009"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? sweets",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Snacks",
+   "explain": "",
+   "id": "u9-e010"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? apples",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Fruit",
+   "explain": "",
+   "id": "u9-e011"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? bananas",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Fruit",
+   "explain": "",
+   "id": "u9-e012"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? oranges",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Fruit",
+   "explain": "",
+   "id": "u9-e013"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? pineapple",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Fruit",
+   "explain": "",
+   "id": "u9-e014"
+  },
+  {
+   "type": "mc",
+   "topic": "food and drink: categories",
+   "q": "Which group? strawberries",
+   "options": [
+    "Vegetables",
+    "Snacks",
+    "Fruit"
+   ],
+   "answer": "Fruit",
+   "explain": "",
+   "id": "u9-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "There's ___ or fruit salad for dessert. (i… c…)",
+   "answer": [
+    "ice cream"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "I prefer ___ to meat. Salmon is my favourite. (f…)",
+   "answer": [
+    "fish"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "Do you take ___ in your tea? (s…)",
+   "answer": [
+    "sugar"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "There isn't any ___, so you can't have a sandwich. (br…)",
+   "answer": [
+    "bread"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "We have ___ for breakfast every morning. (e…)",
+   "answer": [
+    "eggs"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "Do you cook with butter or ___? (o…)",
+   "answer": [
+    "oil"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "food and drink: complete the sentences",
+   "q": "There's a ___, but there aren't any tomatoes so I can't make a salad. (l…)",
+   "answer": [
+    "lettuce"
+   ],
+   "explain": "ilk harfi verilen yiyecek sözcüğü (bağlamdan türetildi)",
+   "id": "u9-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "Sarah and Martin bought ___ sausages.",
+   "answer": [
+    "some"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ ham.",
+   "answer": [
+    "some"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ apple.",
+   "answer": [
+    "an"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ peppers.",
+   "answer": [
+    "some"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ orange juice.",
+   "answer": [
+    "some"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ pineapple.",
+   "answer": [
+    "a"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ onion.",
+   "answer": [
+    "an"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "a / an / some",
+   "q": "They bought ___ seafood.",
+   "answer": [
+    "some"
+   ],
+   "explain": "a/an → tekil sayılabilir (sesli harf önünde an); some → çoğul ve sayılamaz",
+   "id": "u9-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "positive / negative: some / any",
+   "q": "There are some herbs in our garden. → There aren't ___ herbs in our garden.",
+   "answer": [
+    "any"
+   ],
+   "explain": "olumsuzda some → any",
+   "id": "u9-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "positive / negative: some / any",
+   "q": "I didn't have an egg for breakfast. → I ___ an egg for breakfast.",
+   "answer": [
+    "had"
+   ],
+   "explain": "olumsuz didn't have → olumlu had",
+   "id": "u9-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "positive / negative: some / any",
+   "q": "I didn't eat any snacks yesterday. → I ___ some snacks yesterday.",
+   "answer": [
+    "ate"
+   ],
+   "explain": "didn't eat → ate; any → some",
+   "id": "u9-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "positive / negative: some / any",
+   "q": "There weren't any spices in the cupboard. → There ___ some spices in the cupboard.",
+   "answer": [
+    "were"
+   ],
+   "explain": "weren't → were; any → some",
+   "id": "u9-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "positive / negative: some / any",
+   "q": "She made a cake for his birthday. → She ___ make a cake for his birthday.",
+   "answer": [
+    "didn't",
+    "did not"
+   ],
+   "explain": "olumsuz: didn't + yalın fiil",
+   "id": "u9-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "positive / negative: some / any",
+   "q": "There was some bread on the table. → There wasn't ___ bread on the table.",
+   "answer": [
+    "any"
+   ],
+   "explain": "olumsuzda some → any",
+   "id": "u9-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "I want to make ___ lasagne. (a / an / some)",
+   "answer": [
+    "a"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "We need ___ pasta and ___ meat. (some / any) — ilk boşluk:",
+   "answer": [
+    "some"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "Are there ___ tomatoes in the fridge? (some / any)",
+   "answer": [
+    "any"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "There's ___ onion, but there aren't ___ tomatoes. — ilk boşluk:",
+   "answer": [
+    "an"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "There's ___ onion, but there aren't ___ tomatoes. — ikinci boşluk:",
+   "answer": [
+    "any"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "Is there ___ cheese? (some / any)",
+   "answer": [
+    "any"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "Yes, there's ___ mozzarella cheese. (some / any)",
+   "answer": [
+    "some"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "Let's have ___ salad with the lasagne. (a / an / some)",
+   "answer": [
+    "a"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "Then we need to buy ___ lettuce. (some / any)",
+   "answer": [
+    "some"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "Is there ___ fruit? (some / any)",
+   "answer": [
+    "any"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "dinner party list: a / an / some / any",
+   "q": "No, there isn't. Let's get ___ strawberries. (some / any)",
+   "answer": [
+    "some"
+   ],
+   "explain": "some → olumlu; any → olumsuz ve soru; a/an → tekil sayılabilir",
+   "id": "u9-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "food containers",
+   "q": "I gave her a ___ of chocolates to say thank you.",
+   "answer": [
+    "box"
+   ],
+   "explain": "kap sözcüğü bağlamdan türetildi",
+   "id": "u9-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "food containers",
+   "q": "He took the ___ of strawberry jam out of the cupboard.",
+   "answer": [
+    "jar"
+   ],
+   "explain": "kap sözcüğü bağlamdan türetildi",
+   "id": "u9-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "food containers",
+   "q": "I sometimes have a ___ of crisps when I'm hungry.",
+   "answer": [
+    "packet"
+   ],
+   "explain": "kap sözcüğü bağlamdan türetildi",
+   "id": "u9-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "food containers",
+   "q": "We always take a ___ of water when we go for a walk.",
+   "answer": [
+    "bottle"
+   ],
+   "explain": "kap sözcüğü bağlamdan türetildi",
+   "id": "u9-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "food containers",
+   "q": "They made some sandwiches with a ___ of tuna.",
+   "answer": [
+    "tin"
+   ],
+   "explain": "kap sözcüğü bağlamdan türetildi",
+   "id": "u9-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "food containers",
+   "q": "Do you need the scissors to open that ___ of juice?",
+   "answer": [
+    "carton"
+   ],
+   "explain": "kap sözcüğü bağlamdan türetildi",
+   "id": "u9-e053"
+  },
+  {
+   "type": "mc",
+   "topic": "quantifiers: right or wrong?",
+   "q": "A How much fruit did you buy? B ___",
+   "options": [
+    "Quite a lot.",
+    "Quite a lot of."
+   ],
+   "answer": "Quite a lot.",
+   "explain": "kısa cevapta of kullanılmaz",
+   "id": "u9-e054"
+  },
+  {
+   "type": "fill",
+   "topic": "quantifiers: right or wrong?",
+   "q": "I only have a ___ milk on my cereal. (few / little)",
+   "answer": [
+    "little"
+   ],
+   "explain": "milk sayılamaz → a little",
+   "id": "u9-e055"
+  },
+  {
+   "type": "mc",
+   "topic": "quantifiers: right or wrong?",
+   "q": "A How much coffee do you drink? B ___ I don't like it.",
+   "options": [
+    "Any.",
+    "None."
+   ],
+   "answer": "None.",
+   "explain": "kısa cevapta 'Any' değil 'None'",
+   "id": "u9-e056"
+  },
+  {
+   "type": "fill",
+   "topic": "quantifiers: right or wrong?",
+   "q": "I always have a ___ biscuits with my tea. (few / little)",
+   "answer": [
+    "few"
+   ],
+   "explain": "biscuits çoğul sayılabilir → a few",
+   "id": "u9-e057"
+  },
+  {
+   "type": "fill",
+   "topic": "quantifiers: right or wrong?",
+   "q": "We don't eat ___ snacks between meals. (much / many)",
+   "answer": [
+    "many"
+   ],
+   "explain": "snacks çoğul sayılabilir → many",
+   "id": "u9-e058"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ sugar is there in an orange? (23 grams)",
+   "answer": [
+    "How much"
+   ],
+   "explain": "sugar sayılamaz → How much",
+   "id": "u9-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ calories are there in a banana? (about 125)",
+   "answer": [
+    "How many"
+   ],
+   "explain": "calories sayılabilir → How many",
+   "id": "u9-e060"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ oranges are there in a carton of orange juice? (about 18)",
+   "answer": [
+    "How many"
+   ],
+   "explain": "oranges sayılabilir",
+   "id": "u9-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ salt is there in a bowl of cereal? (1.2 grams)",
+   "answer": [
+    "How much"
+   ],
+   "explain": "salt sayılamaz",
+   "id": "u9-e062"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ eggs are there in a box? (six)",
+   "answer": [
+    "How many"
+   ],
+   "explain": "eggs sayılabilir",
+   "id": "u9-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ jam is there in a jar? (454 grams)",
+   "answer": [
+    "How much"
+   ],
+   "explain": "jam sayılamaz",
+   "id": "u9-e064"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ tomatoes are there in a bottle of ketchup? (about five)",
+   "answer": [
+    "How many"
+   ],
+   "explain": "tomatoes sayılabilir",
+   "id": "u9-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ spices are there in a curry? (at least four)",
+   "answer": [
+    "How many"
+   ],
+   "explain": "spices sayılabilir",
+   "id": "u9-e066"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ butter is there in a croissant? (about 12 grams)",
+   "answer": [
+    "How much"
+   ],
+   "explain": "butter sayılamaz",
+   "id": "u9-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "How much / How many: food facts",
+   "q": "___ potatoes are there in a small packet of crisps? (usually one)",
+   "answer": [
+    "How many"
+   ],
+   "explain": "potatoes sayılabilir",
+   "id": "u9-e068"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: a hundred and fifty",
+   "answer": [
+    "150"
+   ],
+   "explain": "",
+   "id": "u9-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: five hundred and twenty",
+   "answer": [
+    "520"
+   ],
+   "explain": "",
+   "id": "u9-e070"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: one thousand eight hundred and thirty",
+   "answer": [
+    "1,830",
+    "1830"
+   ],
+   "explain": "",
+   "id": "u9-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: two thousand eight hundred",
+   "answer": [
+    "2,800",
+    "2800"
+   ],
+   "explain": "",
+   "id": "u9-e072"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: thirty thousand six hundred and forty",
+   "answer": [
+    "30,640",
+    "30640"
+   ],
+   "explain": "",
+   "id": "u9-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: one million seven hundred thousand",
+   "answer": [
+    "1,700,000",
+    "1700000"
+   ],
+   "explain": "",
+   "id": "u9-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: four hundred and seventy-five thousand",
+   "answer": [
+    "475,000",
+    "475000"
+   ],
+   "explain": "",
+   "id": "u9-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: words → digits",
+   "q": "Write the number: eight million two hundred and fifty thousand",
+   "answer": [
+    "8,250,000",
+    "8250000"
+   ],
+   "explain": "",
+   "id": "u9-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "Shanghai 29,211,000: twenty-nine million two hundred and ___ thousand",
+   "answer": [
+    "eleven"
+   ],
+   "explain": "",
+   "id": "u9-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "São Paulo 22,620,000: twenty-two million ___ and twenty thousand",
+   "answer": [
+    "six hundred"
+   ],
+   "explain": "",
+   "id": "u9-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "Mexico City 22,281,000: twenty-two million two hundred and ___ thousand",
+   "answer": [
+    "eighty-one"
+   ],
+   "explain": "",
+   "id": "u9-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "Cairo 22,183,000: twenty-two million one hundred and ___ thousand",
+   "answer": [
+    "eighty-three"
+   ],
+   "explain": "",
+   "id": "u9-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "New York City 18,937,000: ___ million nine hundred and thirty-seven thousand",
+   "answer": [
+    "eighteen"
+   ],
+   "explain": "",
+   "id": "u9-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "Istanbul 15,848,000: fifteen million eight hundred and ___ thousand",
+   "answer": [
+    "forty-eight"
+   ],
+   "explain": "",
+   "id": "u9-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: city populations",
+   "q": "Buenos Aires 15,490,000: fifteen million ___ and ninety thousand",
+   "answer": [
+    "four hundred"
+   ],
+   "explain": "",
+   "id": "u9-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 895",
+   "answer": [
+    "eight hundred and ninety-five"
+   ],
+   "explain": "",
+   "id": "u9-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 4,500",
+   "answer": [
+    "four thousand five hundred",
+    "four thousand, five hundred"
+   ],
+   "explain": "",
+   "id": "u9-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 12,470",
+   "answer": [
+    "twelve thousand four hundred and seventy"
+   ],
+   "explain": "",
+   "id": "u9-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 33,930",
+   "answer": [
+    "thirty-three thousand nine hundred and thirty"
+   ],
+   "explain": "",
+   "id": "u9-e087"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 575,600",
+   "answer": [
+    "five hundred and seventy-five thousand six hundred"
+   ],
+   "explain": "",
+   "id": "u9-e088"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 6,250,000",
+   "answer": [
+    "six million two hundred and fifty thousand"
+   ],
+   "explain": "",
+   "id": "u9-e089"
+  },
+  {
+   "type": "fill",
+   "topic": "high numbers: digits → words",
+   "q": "Write in words: 34,860,000",
+   "answer": [
+    "thirty-four million eight hundred and sixty thousand"
+   ],
+   "explain": "",
+   "id": "u9-e090"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'cheap': ___",
+   "answer": [
+    "cheaper"
+   ],
+   "explain": "1 hece → -er",
+   "id": "u9-e091"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'cold': ___",
+   "answer": [
+    "colder"
+   ],
+   "explain": "1 hece → -er",
+   "id": "u9-e092"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'high': ___",
+   "answer": [
+    "higher"
+   ],
+   "explain": "1 hece → -er",
+   "id": "u9-e093"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'sad': ___",
+   "answer": [
+    "sadder"
+   ],
+   "explain": "1 ünlü + 1 ünsüz → ünsüz ikilenir",
+   "id": "u9-e094"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'thin': ___",
+   "answer": [
+    "thinner"
+   ],
+   "explain": "1 ünlü + 1 ünsüz → ünsüz ikilenir",
+   "id": "u9-e095"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'wet': ___",
+   "answer": [
+    "wetter"
+   ],
+   "explain": "1 ünlü + 1 ünsüz → ünsüz ikilenir",
+   "id": "u9-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'dirty': ___",
+   "answer": [
+    "dirtier"
+   ],
+   "explain": "-y → -ier",
+   "id": "u9-e097"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'dry': ___",
+   "answer": [
+    "drier"
+   ],
+   "explain": "-y → -ier",
+   "id": "u9-e098"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'hungry': ___",
+   "answer": [
+    "hungrier"
+   ],
+   "explain": "-y → -ier",
+   "id": "u9-e099"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'beautiful': ___",
+   "answer": [
+    "more beautiful"
+   ],
+   "explain": "2+ hece → more",
+   "id": "u9-e100"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'comfortable': ___",
+   "answer": [
+    "more comfortable"
+   ],
+   "explain": "2+ hece → more",
+   "id": "u9-e101"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'difficult': ___",
+   "answer": [
+    "more difficult"
+   ],
+   "explain": "2+ hece → more",
+   "id": "u9-e102"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'bad': ___",
+   "answer": [
+    "worse"
+   ],
+   "explain": "düzensiz",
+   "id": "u9-e103"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'good': ___",
+   "answer": [
+    "better"
+   ],
+   "explain": "düzensiz",
+   "id": "u9-e104"
+  },
+  {
+   "type": "fill",
+   "topic": "comparative adjectives: forms",
+   "q": "Comparative of 'far': ___",
+   "answer": [
+    "further",
+    "farther"
+   ],
+   "explain": "düzensiz",
+   "id": "u9-e105"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "France is smaller than Australia. → Australia is ___ than France.",
+   "answer": [
+    "bigger",
+    "larger"
+   ],
+   "explain": "small ↔ big / large",
+   "id": "u9-e106"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "Manchester is wetter than London. → London is ___ than Manchester.",
+   "answer": [
+    "drier"
+   ],
+   "explain": "wet ↔ dry",
+   "id": "u9-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "January is longer than February. → February is ___ than January.",
+   "answer": [
+    "shorter"
+   ],
+   "explain": "long ↔ short",
+   "id": "u9-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "Skiing is more dangerous than swimming. → Swimming is ___ than skiing.",
+   "answer": [
+    "safer"
+   ],
+   "explain": "dangerous ↔ safe",
+   "id": "u9-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "Fridays are better than Mondays. → Mondays are ___ than Fridays.",
+   "answer": [
+    "worse"
+   ],
+   "explain": "good ↔ bad",
+   "id": "u9-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "Spain is hotter than the UK. → The UK is ___ than Spain.",
+   "answer": [
+    "colder",
+    "cooler"
+   ],
+   "explain": "hot ↔ cold",
+   "id": "u9-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives: opposite adjective",
+   "q": "Driving a car is easier than flying a plane. → Flying a plane is ___ than driving a car.",
+   "answer": [
+    "more difficult",
+    "harder"
+   ],
+   "explain": "easy ↔ difficult / hard",
+   "id": "u9-e112"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives with pictures",
+   "q": "Istanbul: 728 mm rain; Barcelona: 640 mm rain. Barcelona is ___ than Istanbul. (dry)",
+   "answer": [
+    "drier"
+   ],
+   "explain": "",
+   "id": "u9-e113"
+  },
+  {
+   "type": "fill",
+   "topic": "comparatives with pictures",
+   "q": "Silver watch: £5,750; black watch: £1,500. The silver watch is ___ than the black watch. (expensive)",
+   "answer": [
+    "more expensive"
+   ],
+   "explain": "",
+   "id": "u9-e114"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "Three ___ for £22.00 or two for £18.50",
+   "answer": [
+    "courses"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e115"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "Starters list heading: ___ (Chicken soup / Melon with Parma ham)",
+   "answer": [
+    "Starters"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e116"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "Chicken ___",
+   "answer": [
+    "soup"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e117"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "Main courses list heading: ___",
+   "answer": [
+    "Main courses"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e118"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "Steak with mushroom ___ with vegetables",
+   "answer": [
+    "sauce"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e119"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "___ salmon with chips and peas",
+   "answer": [
+    "grilled"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e120"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "Dessert list heading: ___ (Chocolate brownie …)",
+   "answer": [
+    "Desserts"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e121"
+  },
+  {
+   "type": "fill",
+   "topic": "understanding a menu",
+   "q": "___ cheesecake",
+   "answer": [
+    "home-made"
+   ],
+   "explain": "menü sözcüğü bağlamdan türetildi",
+   "id": "u9-e122"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "Are",
+    "you",
+    "ready",
+    "to",
+    "order",
+    "?"
+   ],
+   "answer": "Are you ready to order?",
+   "explain": "",
+   "id": "u9-e123"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "Could",
+    "we",
+    "have",
+    "the",
+    "bill,",
+    "please",
+    "?"
+   ],
+   "answer": "Could we have the bill, please?",
+   "explain": "",
+   "id": "u9-e124"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "Hello,",
+    "we",
+    "have",
+    "a",
+    "reservation",
+    "."
+   ],
+   "answer": "Hello, we have a reservation.",
+   "explain": "",
+   "id": "u9-e125"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "I'll",
+    "have",
+    "the",
+    "steak,",
+    "please",
+    "."
+   ],
+   "answer": "I'll have the steak, please.",
+   "explain": "",
+   "id": "u9-e126"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "How",
+    "was",
+    "your",
+    "meal",
+    "?"
+   ],
+   "answer": "How was your meal?",
+   "explain": "",
+   "id": "u9-e127"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "Still",
+    "or",
+    "sparkling",
+    "?"
+   ],
+   "answer": "Still or sparkling?",
+   "explain": "",
+   "id": "u9-e128"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "What",
+    "would",
+    "you",
+    "like",
+    "to",
+    "drink",
+    "?"
+   ],
+   "answer": "What would you like to drink?",
+   "explain": "",
+   "id": "u9-e129"
+  },
+  {
+   "type": "order",
+   "topic": "going out for dinner",
+   "words": [
+    "A",
+    "table",
+    "for",
+    "two",
+    "."
+   ],
+   "answer": "A table for two.",
+   "explain": "",
+   "id": "u9-e130"
+  },
+  {
+   "type": "mc",
+   "topic": "restaurant conversation",
+   "q": "Customer: A bottle of mineral water, please. Waiter: ___ Customer: Sparkling, please.",
+   "options": [
+    "Still or sparkling?",
+    "How was your meal?",
+    "A table for two."
+   ],
+   "answer": "Still or sparkling?",
+   "explain": "cevap 'Sparkling' → seçenek sorusu",
+   "id": "u9-e131"
+  },
+  {
+   "type": "mc",
+   "topic": "restaurant conversation",
+   "q": "Waiter: ___ Customer: It was great, thanks.",
+   "options": [
+    "How was your meal?",
+    "What would you like to drink?",
+    "Are you ready to order?"
+   ],
+   "answer": "How was your meal?",
+   "explain": "",
+   "id": "u9-e132"
+  },
+  {
+   "type": "mc",
+   "topic": "restaurant conversation",
+   "q": "Waiter: Yes, here we are. ___ Come this way.",
+   "options": [
+    "A table for two?",
+    "Could we have the bill, please?",
+    "Still or sparkling?"
+   ],
+   "answer": "A table for two?",
+   "explain": "rezervasyon sonrası masa sayısı",
+   "id": "u9-e133"
+  },
+  {
+   "type": "mc",
+   "topic": "restaurant conversation",
+   "q": "Waiter: ___ Customer: Yes. I'll have the steak, please.",
+   "options": [
+    "Are you ready to order?",
+    "How was your meal?",
+    "Still or sparkling?"
+   ],
+   "answer": "Are you ready to order?",
+   "explain": "",
+   "id": "u9-e134"
+  },
+  {
+   "type": "mc",
+   "topic": "restaurant conversation",
+   "q": "Waiter: Would you like a dessert? Customer: No, thank you. ___ Waiter: Of course.",
+   "options": [
+    "Could we have the bill, please?",
+    "Hello, we have a reservation.",
+    "I'll have the steak, please."
+   ],
+   "answer": "Could we have the bill, please?",
+   "explain": "",
+   "id": "u9-e135"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: It's a beautiful evening. B: ___",
+   "options": [
+    "Yes, it is.",
+    "Wow! That's great!",
+    "No problem."
+   ],
+   "answer": "Yes, it is.",
+   "explain": "",
+   "id": "u9-e136"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: I got an interview. B: ___",
+   "options": [
+    "Wow! That's great!",
+    "That's OK.",
+    "Yes, I'm fine."
+   ],
+   "answer": "Wow! That's great!",
+   "explain": "",
+   "id": "u9-e137"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: Sorry I'm late. B: ___",
+   "options": [
+    "No problem.",
+    "Yes, I'm fine.",
+    "Wow! That's great!"
+   ],
+   "answer": "No problem.",
+   "explain": "",
+   "id": "u9-e138"
+  },
+  {
+   "type": "mc",
+   "topic": "social English",
+   "q": "A: Are you OK? B: ___",
+   "options": [
+    "Yes, I'm fine.",
+    "No problem.",
+    "It's a beautiful evening."
+   ],
+   "answer": "Yes, I'm fine.",
+   "explain": "",
+   "id": "u9-e139"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "Jack ___ at work yesterday. I saw him there.",
+   "answer": [
+    "was"
+   ],
+   "explain": "be'nin geçmişi, tekil özne",
+   "id": "u9-e140"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "Where ___ you buy them? (past)",
+   "answer": [
+    "did"
+   ],
+   "explain": "past simple soru: did + özne + yalın fiil",
+   "id": "u9-e141"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "They ___ going to play football because it's raining.",
+   "answer": [
+    "aren't",
+    "are not"
+   ],
+   "explain": "be going to olumsuz",
+   "id": "u9-e142"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "My wife is ___ engineer.",
+   "answer": [
+    "an"
+   ],
+   "explain": "sesli harf önünde an",
+   "id": "u9-e143"
+  },
+  {
+   "type": "fill",
+   "topic": "Can you remember…? (grammar)",
+   "q": "Can you help me? I ___ understand the homework.",
+   "answer": [
+    "don't",
+    "do not"
+   ],
+   "explain": "present simple olumsuz",
+   "id": "u9-e144"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (food photos article)",
+   "q": "How often ___ photos of your dinner?",
+   "options": [
+    "do you take",
+    "you take",
+    "you do take"
+   ],
+   "answer": "do you take",
+   "explain": "",
+   "id": "u9-e145"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (food photos article)",
+   "q": "Some photos are ___ than others.",
+   "options": [
+    "good",
+    "best",
+    "better"
+   ],
+   "answer": "better",
+   "explain": "",
+   "id": "u9-e146"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (food photos article)",
+   "q": "A company ___ these Instagram photos and made a world map.",
+   "options": [
+    "study",
+    "did study",
+    "studied"
+   ],
+   "answer": "studied",
+   "explain": "",
+   "id": "u9-e147"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (food photos article)",
+   "q": "Instagram has more photos of pizza from people ___ New York.",
+   "options": [
+    "in",
+    "on",
+    "to"
+   ],
+   "answer": "in",
+   "explain": "",
+   "id": "u9-e148"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (food photos article)",
+   "q": "The same is true of the popular ___ food, sushi.",
+   "options": [
+    "China",
+    "Japanese",
+    "Japan"
+   ],
+   "answer": "Japanese",
+   "explain": "",
+   "id": "u9-e149"
+  },
+  {
+   "type": "mc",
+   "topic": "Can you remember…? (food photos article)",
+   "q": "Sushi is cooked rice with ___, for example salmon or tuna.",
+   "options": [
+    "fish",
+    "meat",
+    "snacks"
+   ],
+   "answer": "fish",
+   "explain": "",
+   "id": "u9-e150"
+  }
+ ],
+ "skipped": [
+  "s.61 1a (eksik ünlüleri tamamlama; resimli, OCR'da okunamadı), s.61 2a madde 2 ('lettuce' için a/some resme bağlı, belirsiz)",
+  "s.62 2b (resimli a/an/some), s.62 2c madde 4 (OCR bozuk), s.62 2e (kişisel yazma), s.62 3 (ea sesi — maddeler/kelimeler OCR'da eksik, dinleme)",
+  "s.63 1a (harf tamamlama, yalnızca kelimeler kelime listesine alındı), s.63 1c (resimli kap alıştırması), s.63 2a madde 3 ve 8 (zaten doğru cümleler)",
+  "s.64 2b (soru/cevap tablosu OCR'da karışık; yerine 2c 'Food facts' soruları kuruldu), s.64 3 (/ʃ/ ve /s/ telaffuz/dinleme)",
+  "s.66 2c madde 4-5 (resimdeki ikinci öğe/hız değerleri OCR'da okunamadı), s.66 2d (kişisel yazma), s.66 3 (dinleme)",
+  "s.67 2b diyaloğu parçalara bölünerek çoktan seçmeli yapıldı (boşluk numaraları OCR'da kısmen kayıp)",
+  "s.68 madde 1.2 (OCR bozuk), 2 (farklı olanı bul — resim/OCR), 3 (telaffuz), 4 madde 1, 4, 9, 10 (şıklar OCR'da eksik)",
+  "Cevap anahtarı olmadığından tüm cevaplar gramer kuralından / bağlamdan türetildi"
+ ]
+}
