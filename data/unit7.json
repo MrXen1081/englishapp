@@ -1,0 +1,3219 @@
+{
+ "unit": 7,
+ "title": "Unit 7",
+ "source": "English File 5th ed. Elementary Workbook, Unit 7 (s.47-52)",
+ "vocab": [
+  {
+   "en": "actor",
+   "tr": "aktör",
+   "alt": [
+    "oyuncu"
+   ],
+   "cat": "Meslekler",
+   "id": "u7-001"
+  },
+  {
+   "en": "artist",
+   "tr": "sanatçı",
+   "alt": [
+    "ressam"
+   ],
+   "cat": "Meslekler",
+   "id": "u7-002"
+  },
+  {
+   "en": "composer",
+   "tr": "besteci",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-003"
+  },
+  {
+   "en": "dancer",
+   "tr": "dansçı",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-004"
+  },
+  {
+   "en": "director",
+   "tr": "yönetmen",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-005"
+  },
+  {
+   "en": "inventor",
+   "tr": "mucit",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-006"
+  },
+  {
+   "en": "musician",
+   "tr": "müzisyen",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-007"
+  },
+  {
+   "en": "novelist",
+   "tr": "romancı",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-008"
+  },
+  {
+   "en": "painter",
+   "tr": "ressam",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-009"
+  },
+  {
+   "en": "pianist",
+   "tr": "piyanist",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-010"
+  },
+  {
+   "en": "politician",
+   "tr": "politikacı",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-011"
+  },
+  {
+   "en": "scientist",
+   "tr": "bilim insanı",
+   "alt": [
+    "bilimci"
+   ],
+   "cat": "Meslekler",
+   "id": "u7-012"
+  },
+  {
+   "en": "singer",
+   "tr": "şarkıcı",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-013"
+  },
+  {
+   "en": "writer",
+   "tr": "yazar",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-014"
+  },
+  {
+   "en": "poet",
+   "tr": "şair",
+   "alt": [],
+   "cat": "Meslekler",
+   "id": "u7-015"
+  },
+  {
+   "en": "yesterday",
+   "tr": "dün",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-016"
+  },
+  {
+   "en": "last night",
+   "tr": "dün gece",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-017"
+  },
+  {
+   "en": "yesterday morning",
+   "tr": "dün sabah",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-018"
+  },
+  {
+   "en": "yesterday afternoon",
+   "tr": "dün öğleden sonra",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-019"
+  },
+  {
+   "en": "the day before yesterday",
+   "tr": "evvelsi gün",
+   "alt": [
+    "önceki gün"
+   ],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-020"
+  },
+  {
+   "en": "ago",
+   "tr": "önce",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-021"
+  },
+  {
+   "en": "two weeks ago",
+   "tr": "iki hafta önce",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-022"
+  },
+  {
+   "en": "a long time ago",
+   "tr": "uzun zaman önce",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-023"
+  },
+  {
+   "en": "last week",
+   "tr": "geçen hafta",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-024"
+  },
+  {
+   "en": "last month",
+   "tr": "geçen ay",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-025"
+  },
+  {
+   "en": "last year",
+   "tr": "geçen yıl",
+   "alt": [
+    "geçen sene"
+   ],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-026"
+  },
+  {
+   "en": "last summer",
+   "tr": "geçen yaz",
+   "alt": [],
+   "cat": "Geçmiş zaman ifadeleri",
+   "id": "u7-027"
+  },
+  {
+   "en": "go to bed",
+   "tr": "yatmaya gitmek",
+   "alt": [
+    "yatmak"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-028"
+  },
+  {
+   "en": "go on holiday",
+   "tr": "tatile gitmek",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-029"
+  },
+  {
+   "en": "go for a walk",
+   "tr": "yürüyüşe çıkmak",
+   "alt": [
+    "yürüyüşe gitmek"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-030"
+  },
+  {
+   "en": "go out",
+   "tr": "dışarı çıkmak",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-031"
+  },
+  {
+   "en": "go shopping",
+   "tr": "alışverişe gitmek",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-032"
+  },
+  {
+   "en": "have breakfast",
+   "tr": "kahvaltı yapmak",
+   "alt": [
+    "kahvaltı etmek"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-033"
+  },
+  {
+   "en": "have lunch",
+   "tr": "öğle yemeği yemek",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-034"
+  },
+  {
+   "en": "have dinner",
+   "tr": "akşam yemeği yemek",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-035"
+  },
+  {
+   "en": "have a shower",
+   "tr": "duş almak",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-036"
+  },
+  {
+   "en": "have a good time",
+   "tr": "iyi vakit geçirmek",
+   "alt": [
+    "eğlenmek"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-037"
+  },
+  {
+   "en": "have a swim",
+   "tr": "yüzmek",
+   "alt": [
+    "yüzmeye gitmek"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-038"
+  },
+  {
+   "en": "get up",
+   "tr": "kalkmak",
+   "alt": [
+    "yataktan kalkmak"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-039"
+  },
+  {
+   "en": "get dressed",
+   "tr": "giyinmek",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-040"
+  },
+  {
+   "en": "get home",
+   "tr": "eve varmak",
+   "alt": [
+    "eve gelmek"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-041"
+  },
+  {
+   "en": "get a taxi",
+   "tr": "taksiye binmek",
+   "alt": [
+    "taksi tutmak"
+   ],
+   "cat": "go / have / get",
+   "id": "u7-042"
+  },
+  {
+   "en": "get an email",
+   "tr": "e-posta almak",
+   "alt": [],
+   "cat": "go / have / get",
+   "id": "u7-043"
+  },
+  {
+   "en": "come – came",
+   "tr": "gelmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-044"
+  },
+  {
+   "en": "wear – wore",
+   "tr": "giymek",
+   "alt": [
+    "takmak"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-045"
+  },
+  {
+   "en": "buy – bought",
+   "tr": "satın almak",
+   "alt": [
+    "almak"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-046"
+  },
+  {
+   "en": "know – knew",
+   "tr": "bilmek",
+   "alt": [
+    "tanımak"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-047"
+  },
+  {
+   "en": "find – found",
+   "tr": "bulmak",
+   "alt": [],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-048"
+  },
+  {
+   "en": "think – thought",
+   "tr": "düşünmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-049"
+  },
+  {
+   "en": "take – took",
+   "tr": "almak",
+   "alt": [
+    "götürmek"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-050"
+  },
+  {
+   "en": "say – said",
+   "tr": "söylemek",
+   "alt": [
+    "demek"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-051"
+  },
+  {
+   "en": "put on – put on",
+   "tr": "giymek",
+   "alt": [
+    "üstüne giymek"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-052"
+  },
+  {
+   "en": "feel – felt",
+   "tr": "hissetmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-053"
+  },
+  {
+   "en": "go – went",
+   "tr": "gitmek",
+   "alt": [],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-054"
+  },
+  {
+   "en": "have – had",
+   "tr": "sahip olmak",
+   "alt": [
+    "yemek"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-055"
+  },
+  {
+   "en": "get – got",
+   "tr": "almak",
+   "alt": [
+    "varmak"
+   ],
+   "cat": "Düzensiz fiiller",
+   "id": "u7-056"
+  },
+  {
+   "en": "weekend",
+   "tr": "hafta sonu",
+   "alt": [],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-057"
+  },
+  {
+   "en": "flight",
+   "tr": "uçuş",
+   "alt": [
+    "uçak seferi"
+   ],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-058"
+  },
+  {
+   "en": "beach",
+   "tr": "plaj",
+   "alt": [
+    "kumsal"
+   ],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-059"
+  },
+  {
+   "en": "delicious",
+   "tr": "lezzetli",
+   "alt": [
+    "nefis"
+   ],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-060"
+  },
+  {
+   "en": "local",
+   "tr": "yerel",
+   "alt": [],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-061"
+  },
+  {
+   "en": "famous",
+   "tr": "ünlü",
+   "alt": [
+    "meşhur"
+   ],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-062"
+  },
+  {
+   "en": "born",
+   "tr": "doğmuş",
+   "alt": [
+    "doğdu"
+   ],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-063"
+  },
+  {
+   "en": "visit",
+   "tr": "ziyaret etmek",
+   "alt": [
+    "gezmek"
+   ],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-064"
+  },
+  {
+   "en": "birthday",
+   "tr": "doğum günü",
+   "alt": [],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-065"
+  },
+  {
+   "en": "wait for",
+   "tr": "beklemek",
+   "alt": [],
+   "cat": "Hafta sonu & genel",
+   "id": "u7-066"
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g1",
+   "title": "Past simple of be: was / were",
+   "tr": "<b>be</b> fiilinin geçmişi <b>was / were</b>'dir. <b>I / he / she / it → was</b>, <b>you / we / they → were</b>. Olumsuz: <b>wasn't / weren't</b>. Soruda özne ile fiilin yeri değişir: <i>Was he Dutch?</i> Genelde <i>yesterday, last night, in 2014</i> gibi geçmiş zaman ifadeleriyle kullanılır. 'Doğmak' için <b>was / were born</b> deriz: <i>I was born in Scotland.</i>",
+   "table": {
+    "head": [
+     "Olumlu / olumsuz",
+     "Soru"
+    ],
+    "rows": [
+     [
+      "I / he / she / it was there",
+      "Was he / she / it there?"
+     ],
+     [
+      "I / he / she / it wasn't there",
+      "Yes, he was. / No, he wasn't."
+     ],
+     [
+      "you / we / they were there",
+      "Were you / we / they there?"
+     ],
+     [
+      "you / we / they weren't there",
+      "Yes, they were. / No, they weren't."
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "Vincent van Gogh was an artist.",
+     "Vincent van Gogh bir sanatçıydı."
+    ],
+    [
+     "She wasn't in class yesterday.",
+     "Dün sınıfta değildi."
+    ],
+    [
+     "The Beatles were famous in the 1960s.",
+     "The Beatles 1960'larda ünlüydü."
+    ],
+    [
+     "Where were you last night?",
+     "Dün gece neredeydin?"
+    ]
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Past simple: regular verbs",
+   "tr": "Düzenli fiillerin geçmişi <b>-ed</b> ile yapılır ve tüm kişilerde aynıdır. Olumsuz ve soru için <b>did / didn't + yalın fiil</b> kullanılır (did, do'nun geçmişidir): <i>I didn't work. Did you work?</i> Bu zaman, geçmişte bitmiş eylemler için (bir kez ya da tekrar tekrar olmuş) kullanılır. Yazım: çoğu fiile <b>-ed</b> (work → worked); <b>-e</b> ile bitenlere <b>-d</b> (arrive → arrived); <b>ünsüz + y</b> → <b>-ied</b> (study → studied); <b>tek ünlü + tek ünsüz</b> → ünsüz ikilenir (stop → stopped). Zaman ifadeleri: <b>yesterday, last night/week/month, two days ago</b>.",
+   "table": {
+    "head": [
+     "Fiil",
+     "Geçmiş"
+    ],
+    "rows": [
+     [
+      "watch",
+      "watched"
+     ],
+     [
+      "play",
+      "played"
+     ],
+     [
+      "arrive",
+      "arrived"
+     ],
+     [
+      "study",
+      "studied"
+     ],
+     [
+      "stop",
+      "stopped"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I booked the flights yesterday.",
+     "Uçuşları dün ayırttım."
+    ],
+    [
+     "We didn't work yesterday.",
+     "Dün çalışmadık."
+    ],
+    [
+     "Did he study at university?",
+     "Üniversitede okudu mu?"
+    ],
+    [
+     "They arrived two hours ago.",
+     "İki saat önce vardılar."
+    ]
+   ]
+  },
+  {
+   "id": "g3",
+   "title": "Past simple: irregular verbs",
+   "tr": "Bazı fiiller geçmişte düzensiz değişir: <b>go → went, have → had</b>. Bu düzensiz biçim yalnızca <b>olumlu</b> cümlede kullanılır; olumsuz ve soruda <b>did / didn't + yalın fiil</b> gelir: <i>I bought a bag. I didn't buy a bag. Did you go out?</i> (<i>Did you went</i> yanlış). Soru sırası: <b>ASI</b> (Auxiliary, Subject, Infinitive): <i>Did you go shopping?</i>; <b>QuASI</b>: <i>Where did you go?</i> <b>can</b>'in geçmişi <b>could</b>'dur: <i>I couldn't see him. Could you wear jeans at school?</i>",
+   "table": {
+    "head": [
+     "Yalın fiil",
+     "Geçmiş"
+    ],
+    "rows": [
+     [
+      "buy",
+      "bought"
+     ],
+     [
+      "come",
+      "came"
+     ],
+     [
+      "feel",
+      "felt"
+     ],
+     [
+      "find",
+      "found"
+     ],
+     [
+      "get",
+      "got"
+     ],
+     [
+      "go",
+      "went"
+     ],
+     [
+      "have",
+      "had"
+     ],
+     [
+      "know",
+      "knew"
+     ],
+     [
+      "put on",
+      "put on"
+     ],
+     [
+      "say",
+      "said"
+     ],
+     [
+      "take",
+      "took"
+     ],
+     [
+      "think",
+      "thought"
+     ],
+     [
+      "wear",
+      "wore"
+     ]
+    ]
+   },
+   "examples": [
+    [
+     "I went to California in December.",
+     "Aralıkta Kaliforniya'ya gittim."
+    ],
+    [
+     "I didn't go to New York.",
+     "New York'a gitmedim."
+    ],
+    [
+     "Where did you go?",
+     "Nereye gittin?"
+    ],
+    [
+     "We could see the whole city.",
+     "Bütün şehri görebiliyorduk."
+    ]
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: This watch ___ a present.",
+   "options": [
+    "was",
+    "were"
+   ],
+   "answer": "was",
+   "explain": "",
+   "id": "u7-e001"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: ___ those headphones expensive?",
+   "options": [
+    "Was",
+    "Were"
+   ],
+   "answer": "Were",
+   "explain": "",
+   "id": "u7-e002"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: I ___ hungry this morning.",
+   "options": [
+    "wasn't",
+    "weren't"
+   ],
+   "answer": "wasn't",
+   "explain": "",
+   "id": "u7-e003"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: We ___ at Laura's party last night.",
+   "options": [
+    "was",
+    "were"
+   ],
+   "answer": "were",
+   "explain": "",
+   "id": "u7-e004"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: The teacher ___ here yesterday.",
+   "options": [
+    "wasn't",
+    "weren't"
+   ],
+   "answer": "wasn't",
+   "explain": "",
+   "id": "u7-e005"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: ___ you late for work this morning?",
+   "options": [
+    "Was",
+    "Were"
+   ],
+   "answer": "Were",
+   "explain": "",
+   "id": "u7-e006"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: It ___ really cold last night.",
+   "options": [
+    "was",
+    "were"
+   ],
+   "answer": "was",
+   "explain": "",
+   "id": "u7-e007"
+  },
+  {
+   "type": "mc",
+   "topic": "was / were",
+   "q": "Choose: Milo and Alice ___ at the meeting last week.",
+   "options": [
+    "wasn't",
+    "weren't"
+   ],
+   "answer": "weren't",
+   "explain": "",
+   "id": "u7-e008"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "She ___ a painter. (Louise Vigée Le Brun)",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e009"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "A: Was she English? B: No, she ___. She was French.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u7-e010"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "She ___ born in Paris.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e011"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "Were her paintings popular in her lifetime? Yes, they ___ very popular.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e012"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "Were all her paintings of people? No, they ___.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u7-e013"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "A: ___ your sister at home? B: No, she isn't. (present)",
+   "answer": [
+    "Is"
+   ],
+   "explain": "",
+   "id": "u7-e014"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "She ___ here this morning, but now she's at work.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e015"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "A: Where ___ my keys? (present) B: They were on your desk.",
+   "answer": [
+    "are"
+   ],
+   "explain": "",
+   "id": "u7-e016"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "They ___ on your desk this morning.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e017"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "A: Where ___ your new boyfriend from? (present)",
+   "answer": [
+    "is"
+   ],
+   "explain": "",
+   "id": "u7-e018"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "He ___ born in England, but his parents were born in Singapore.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e019"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "His parents ___ born in Singapore.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e020"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "A: Why ___ your boss angry yesterday? B: Because I was very late.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e021"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "Because I ___ very late for work.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e022"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "A: ___ Alex and Lena at the party last night?",
+   "answer": [
+    "Were"
+   ],
+   "explain": "",
+   "id": "u7-e023"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "No, they ___. They're on holiday at the moment.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u7-e024"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "Yesterday ___ Sunday. Today is Monday.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e025"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "She's at home today. → She ___ at home yesterday.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e026"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "Where are you now? → Where ___ you yesterday?",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e027"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "It isn't open now. → It ___ open yesterday.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u7-e028"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "They aren't in the office. → They ___ in the office yesterday.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u7-e029"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "They're tired. → They ___ tired last night.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e030"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "Where ___ you born? (soru)",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e031"
+  },
+  {
+   "type": "fill",
+   "topic": "was / were",
+   "q": "I ___ born in Scotland.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e032"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: act → ___",
+   "answer": [
+    "actor"
+   ],
+   "explain": "",
+   "id": "u7-e033"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: art → ___",
+   "answer": [
+    "artist"
+   ],
+   "explain": "",
+   "id": "u7-e034"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: compose → ___",
+   "answer": [
+    "composer"
+   ],
+   "explain": "",
+   "id": "u7-e035"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: dance → ___",
+   "answer": [
+    "dancer"
+   ],
+   "explain": "",
+   "id": "u7-e036"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: direct → ___",
+   "answer": [
+    "director"
+   ],
+   "explain": "",
+   "id": "u7-e037"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: invent → ___",
+   "answer": [
+    "inventor"
+   ],
+   "explain": "",
+   "id": "u7-e038"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: music → ___",
+   "answer": [
+    "musician"
+   ],
+   "explain": "",
+   "id": "u7-e039"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: novel → ___",
+   "answer": [
+    "novelist"
+   ],
+   "explain": "",
+   "id": "u7-e040"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: paint → ___",
+   "answer": [
+    "painter"
+   ],
+   "explain": "",
+   "id": "u7-e041"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: piano → ___",
+   "answer": [
+    "pianist"
+   ],
+   "explain": "",
+   "id": "u7-e042"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: politics → ___",
+   "answer": [
+    "politician"
+   ],
+   "explain": "",
+   "id": "u7-e043"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: science → ___",
+   "answer": [
+    "scientist"
+   ],
+   "explain": "",
+   "id": "u7-e044"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: sing → ___",
+   "answer": [
+    "singer"
+   ],
+   "explain": "",
+   "id": "u7-e045"
+  },
+  {
+   "type": "fill",
+   "topic": "meslekler",
+   "q": "Make a job from the word: write → ___",
+   "answer": [
+    "writer"
+   ],
+   "explain": "",
+   "id": "u7-e046"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Rudolf Nureyev was a ___.",
+   "answer": [
+    "dancer"
+   ],
+   "explain": "",
+   "id": "u7-e047"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Beethoven and Mozart were ___.",
+   "answer": [
+    "composers"
+   ],
+   "explain": "",
+   "id": "u7-e048"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Sidney Poitier was an ___.",
+   "answer": [
+    "actor"
+   ],
+   "explain": "",
+   "id": "u7-e049"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Marie Curie was a ___.",
+   "answer": [
+    "scientist"
+   ],
+   "explain": "",
+   "id": "u7-e050"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Aretha Franklin was a ___.",
+   "answer": [
+    "singer"
+   ],
+   "explain": "",
+   "id": "u7-e051"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "The Wright brothers were ___.",
+   "answer": [
+    "inventors"
+   ],
+   "explain": "",
+   "id": "u7-e052"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Agatha Christie was a ___.",
+   "answer": [
+    "writer",
+    "novelist"
+   ],
+   "explain": "",
+   "id": "u7-e053"
+  },
+  {
+   "type": "fill",
+   "topic": "famous people",
+   "q": "Degas and Toulouse-Lautrec were ___.",
+   "answer": [
+    "artists",
+    "painters"
+   ],
+   "explain": "",
+   "id": "u7-e054"
+  },
+  {
+   "type": "mc",
+   "topic": "meslekler",
+   "q": "Which job ends with -ian?",
+   "options": [
+    "musician",
+    "dancer",
+    "pianist"
+   ],
+   "answer": "musician",
+   "explain": "",
+   "id": "u7-e055"
+  },
+  {
+   "type": "mc",
+   "topic": "meslekler",
+   "q": "Which job ends with -or?",
+   "options": [
+    "painter",
+    "director",
+    "novelist"
+   ],
+   "answer": "director",
+   "explain": "",
+   "id": "u7-e056"
+  },
+  {
+   "type": "mc",
+   "topic": "meslekler",
+   "q": "Which job ends with -ist?",
+   "options": [
+    "scientist",
+    "composer",
+    "actor"
+   ],
+   "answer": "scientist",
+   "explain": "",
+   "id": "u7-e057"
+  },
+  {
+   "type": "mc",
+   "topic": "meslekler",
+   "q": "Which job ends with -er?",
+   "options": [
+    "writer",
+    "inventor",
+    "politician"
+   ],
+   "answer": "writer",
+   "explain": "",
+   "id": "u7-e058"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Were",
+    "Richard",
+    "Burton",
+    "and",
+    "Elizabeth",
+    "Taylor",
+    "actors",
+    "?"
+   ],
+   "answer": "Were Richard Burton and Elizabeth Taylor actors?",
+   "explain": "",
+   "id": "u7-e059"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Were Richard Burton and Elizabeth Taylor actors? Yes, they ___.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e060"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Was",
+    "Alexander",
+    "Graham",
+    "Bell",
+    "an",
+    "artist",
+    "?"
+   ],
+   "answer": "Was Alexander Graham Bell an artist?",
+   "explain": "",
+   "id": "u7-e061"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Was Alexander Graham Bell an artist? No, he ___. He was an inventor.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u7-e062"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Was",
+    "Charlotte",
+    "Brontë",
+    "a",
+    "novelist",
+    "?"
+   ],
+   "answer": "Was Charlotte Brontë a novelist?",
+   "explain": "",
+   "id": "u7-e063"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Was Charlotte Brontë a novelist? Yes, she ___.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e064"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Was",
+    "Frida",
+    "Kahlo",
+    "a",
+    "pianist",
+    "?"
+   ],
+   "answer": "Was Frida Kahlo a pianist?",
+   "explain": "",
+   "id": "u7-e065"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Was Frida Kahlo a pianist? No, she ___. She was an artist.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u7-e066"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Were",
+    "JRR",
+    "Tolkien",
+    "and",
+    "CS",
+    "Lewis",
+    "musicians",
+    "?"
+   ],
+   "answer": "Were JRR Tolkien and CS Lewis musicians?",
+   "explain": "",
+   "id": "u7-e067"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Were JRR Tolkien and CS Lewis musicians? No, they ___. They were writers.",
+   "answer": [
+    "weren't"
+   ],
+   "explain": "",
+   "id": "u7-e068"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Was",
+    "Sinéad",
+    "O'Connor",
+    "a",
+    "singer",
+    "?"
+   ],
+   "answer": "Was Sinéad O'Connor a singer?",
+   "explain": "",
+   "id": "u7-e069"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Was Sinéad O'Connor a singer? Yes, she ___.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e070"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Were",
+    "Vivaldi",
+    "and",
+    "Bach",
+    "composers",
+    "?"
+   ],
+   "answer": "Were Vivaldi and Bach composers?",
+   "explain": "",
+   "id": "u7-e071"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Were Vivaldi and Bach composers? Yes, they ___.",
+   "answer": [
+    "were"
+   ],
+   "explain": "",
+   "id": "u7-e072"
+  },
+  {
+   "type": "order",
+   "topic": "questions with was / were",
+   "words": [
+    "Was",
+    "Dante",
+    "Alighieri",
+    "a",
+    "politician",
+    "?"
+   ],
+   "answer": "Was Dante Alighieri a politician?",
+   "explain": "",
+   "id": "u7-e073"
+  },
+  {
+   "type": "fill",
+   "topic": "questions with was / were",
+   "q": "Was Dante Alighieri a politician? No, he ___. He was a poet.",
+   "answer": [
+    "wasn't"
+   ],
+   "explain": "",
+   "id": "u7-e074"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "I ___ my sister last night, but I didn't call my parents.",
+   "answer": [
+    "called"
+   ],
+   "explain": "",
+   "id": "u7-e075"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "I called my sister last night, but I ___ my parents.",
+   "answer": [
+    "didn't call",
+    "did not call"
+   ],
+   "explain": "",
+   "id": "u7-e076"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "They invited me to the party, but they ___ my partner.",
+   "answer": [
+    "didn't invite",
+    "did not invite"
+   ],
+   "explain": "",
+   "id": "u7-e077"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "My husband ___ the film, but he didn't like the book.",
+   "answer": [
+    "liked"
+   ],
+   "explain": "",
+   "id": "u7-e078"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "My husband liked the film, but he ___ the book.",
+   "answer": [
+    "didn't like",
+    "did not like"
+   ],
+   "explain": "",
+   "id": "u7-e079"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "We ___ at the shirts in Zara, but we didn't look at jackets.",
+   "answer": [
+    "looked"
+   ],
+   "explain": "",
+   "id": "u7-e080"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "We looked at the shirts in Zara, but we ___ at jackets.",
+   "answer": [
+    "didn't look",
+    "did not look"
+   ],
+   "explain": "",
+   "id": "u7-e081"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "Isabel ___ her messages, but she didn't check her emails.",
+   "answer": [
+    "checked"
+   ],
+   "explain": "",
+   "id": "u7-e082"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "Isabel checked her messages, but she ___ her emails.",
+   "answer": [
+    "didn't check",
+    "did not check"
+   ],
+   "explain": "",
+   "id": "u7-e083"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "We ___ flights, but we didn't book a hotel.",
+   "answer": [
+    "booked"
+   ],
+   "explain": "",
+   "id": "u7-e084"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "We booked flights, but we ___ a hotel.",
+   "answer": [
+    "didn't book",
+    "did not book"
+   ],
+   "explain": "",
+   "id": "u7-e085"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "They ___ rugby at school, but they didn't play basketball.",
+   "answer": [
+    "played"
+   ],
+   "explain": "",
+   "id": "u7-e086"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "They played rugby at school, but they ___ basketball.",
+   "answer": [
+    "didn't play",
+    "did not play"
+   ],
+   "explain": "",
+   "id": "u7-e087"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "What",
+    "did",
+    "you",
+    "watch",
+    "on",
+    "TV",
+    "last",
+    "night",
+    "?"
+   ],
+   "answer": "What did you watch on TV last night?",
+   "explain": "",
+   "id": "u7-e088"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "What",
+    "time",
+    "did",
+    "the",
+    "match",
+    "finish",
+    "?"
+   ],
+   "answer": "What time did the match finish?",
+   "explain": "",
+   "id": "u7-e089"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "Did",
+    "you",
+    "like",
+    "your",
+    "birthday",
+    "presents",
+    "?"
+   ],
+   "answer": "Did you like your birthday presents?",
+   "explain": "",
+   "id": "u7-e090"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "What",
+    "did",
+    "your",
+    "brother",
+    "study",
+    "at",
+    "university",
+    "?"
+   ],
+   "answer": "What did your brother study at university?",
+   "explain": "",
+   "id": "u7-e091"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "Did",
+    "your",
+    "parents",
+    "arrive",
+    "last",
+    "night",
+    "?"
+   ],
+   "answer": "Did your parents arrive last night?",
+   "explain": "",
+   "id": "u7-e092"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "Where",
+    "did",
+    "your",
+    "friends",
+    "live",
+    "in",
+    "Germany",
+    "?"
+   ],
+   "answer": "Where did your friends live in Germany?",
+   "explain": "",
+   "id": "u7-e093"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "Did",
+    "you",
+    "cry",
+    "at",
+    "the",
+    "end",
+    "of",
+    "the",
+    "film",
+    "?"
+   ],
+   "answer": "Did you cry at the end of the film?",
+   "explain": "",
+   "id": "u7-e094"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (regular)",
+   "words": [
+    "What",
+    "time",
+    "did",
+    "Sandra",
+    "start",
+    "work",
+    "yesterday",
+    "?"
+   ],
+   "answer": "What time did Sandra start work yesterday?",
+   "explain": "",
+   "id": "u7-e095"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "work → ___ (past)",
+   "answer": [
+    "worked"
+   ],
+   "explain": "",
+   "id": "u7-e096"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "play → ___ (past)",
+   "answer": [
+    "played"
+   ],
+   "explain": "",
+   "id": "u7-e097"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "arrive → ___ (past)",
+   "answer": [
+    "arrived"
+   ],
+   "explain": "",
+   "id": "u7-e098"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "study → ___ (past)",
+   "answer": [
+    "studied"
+   ],
+   "explain": "",
+   "id": "u7-e099"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "stop → ___ (past)",
+   "answer": [
+    "stopped"
+   ],
+   "explain": "",
+   "id": "u7-e100"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "watch → ___ (past)",
+   "answer": [
+    "watched"
+   ],
+   "explain": "",
+   "id": "u7-e101"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "live → ___ (past)",
+   "answer": [
+    "lived"
+   ],
+   "explain": "",
+   "id": "u7-e102"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple spelling",
+   "q": "travel → ___ (past)",
+   "answer": [
+    "travelled",
+    "traveled"
+   ],
+   "explain": "",
+   "id": "u7-e103"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "Did you ___ TV last night? (watch)",
+   "answer": [
+    "watch"
+   ],
+   "explain": "did + yalın fiil",
+   "id": "u7-e104"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (regular)",
+   "q": "She didn't ___ the book. (like)",
+   "answer": [
+    "like"
+   ],
+   "explain": "didn't + yalın fiil",
+   "id": "u7-e105"
+  },
+  {
+   "type": "mc",
+   "topic": "past simple (regular)",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Did he work yesterday?",
+    "Did he worked yesterday?",
+    "Was he work yesterday?"
+   ],
+   "answer": "Did he work yesterday?",
+   "explain": "",
+   "id": "u7-e106"
+  },
+  {
+   "type": "mc",
+   "topic": "past simple (regular)",
+   "q": "Which sentence is correct?",
+   "options": [
+    "We didn't watched the film.",
+    "We didn't watch the film.",
+    "We not watched the film."
+   ],
+   "answer": "We didn't watch the film.",
+   "explain": "",
+   "id": "u7-e107"
+  },
+  {
+   "type": "fill",
+   "topic": "dates & past simple",
+   "q": "When did the Covid-19 pandemic start? It ___ in 2019.",
+   "answer": [
+    "started"
+   ],
+   "explain": "",
+   "id": "u7-e108"
+  },
+  {
+   "type": "fill",
+   "topic": "dates & past simple",
+   "q": "When did Neil Armstrong walk on the moon? He walked on the moon in ___.",
+   "answer": [
+    "1969"
+   ],
+   "explain": "",
+   "id": "u7-e109"
+  },
+  {
+   "type": "fill",
+   "topic": "dates & past simple",
+   "q": "When did the satellite Juno arrive at Jupiter? It ___ at Jupiter in 2016.",
+   "answer": [
+    "arrived"
+   ],
+   "explain": "",
+   "id": "u7-e110"
+  },
+  {
+   "type": "fill",
+   "topic": "dates & past simple",
+   "q": "When did Tim Berners-Lee create the World Wide Web? He ___ it in 1990.",
+   "answer": [
+    "created"
+   ],
+   "explain": "",
+   "id": "u7-e111"
+  },
+  {
+   "type": "fill",
+   "topic": "dates & past simple",
+   "q": "When did Queen Elizabeth II die? She died in ___.",
+   "answer": [
+    "2022"
+   ],
+   "explain": "",
+   "id": "u7-e112"
+  },
+  {
+   "type": "order",
+   "topic": "dates & past simple",
+   "words": [
+    "When",
+    "did",
+    "the",
+    "Burj",
+    "Khalifa",
+    "open",
+    "?"
+   ],
+   "answer": "When did the Burj Khalifa open?",
+   "explain": "",
+   "id": "u7-e113"
+  },
+  {
+   "type": "order",
+   "topic": "dates & past simple",
+   "words": [
+    "When",
+    "did",
+    "the",
+    "Covid-19",
+    "pandemic",
+    "start",
+    "?"
+   ],
+   "answer": "When did the Covid-19 pandemic start?",
+   "explain": "",
+   "id": "u7-e114"
+  },
+  {
+   "type": "order",
+   "topic": "dates & past simple",
+   "words": [
+    "When",
+    "did",
+    "Queen",
+    "Elizabeth",
+    "II",
+    "die",
+    "?"
+   ],
+   "answer": "When did Queen Elizabeth II die?",
+   "explain": "",
+   "id": "u7-e115"
+  },
+  {
+   "type": "order",
+   "topic": "dates & past simple",
+   "words": [
+    "When",
+    "did",
+    "Neil",
+    "Armstrong",
+    "walk",
+    "on",
+    "the",
+    "moon",
+    "?"
+   ],
+   "answer": "When did Neil Armstrong walk on the moon?",
+   "explain": "",
+   "id": "u7-e116"
+  },
+  {
+   "type": "order",
+   "topic": "dates & past simple",
+   "words": [
+    "When",
+    "did",
+    "the",
+    "satellite",
+    "Juno",
+    "arrive",
+    "at",
+    "Jupiter",
+    "?"
+   ],
+   "answer": "When did the satellite Juno arrive at Jupiter?",
+   "explain": "",
+   "id": "u7-e117"
+  },
+  {
+   "type": "order",
+   "topic": "dates & past simple",
+   "words": [
+    "When",
+    "did",
+    "Tim",
+    "Berners-Lee",
+    "create",
+    "the",
+    "World",
+    "Wide",
+    "Web",
+    "?"
+   ],
+   "answer": "When did Tim Berners-Lee create the World Wide Web?",
+   "explain": "",
+   "id": "u7-e118"
+  },
+  {
+   "type": "mc",
+   "topic": "-ed endings",
+   "q": "Which verb has an /ɪd/ ending?",
+   "options": [
+    "booked",
+    "checked",
+    "wanted",
+    "walked"
+   ],
+   "answer": "wanted",
+   "explain": "",
+   "id": "u7-e119"
+  },
+  {
+   "type": "mc",
+   "topic": "-ed endings",
+   "q": "Which verb has an /ɪd/ ending?",
+   "options": [
+    "painted",
+    "arrived",
+    "finished",
+    "travelled"
+   ],
+   "answer": "painted",
+   "explain": "",
+   "id": "u7-e120"
+  },
+  {
+   "type": "mc",
+   "topic": "-ed endings",
+   "q": "Which verb has an /ɪd/ ending?",
+   "options": [
+    "asked",
+    "waited",
+    "looked",
+    "stopped"
+   ],
+   "answer": "waited",
+   "explain": "",
+   "id": "u7-e121"
+  },
+  {
+   "type": "mc",
+   "topic": "-ed endings",
+   "q": "Which verb has an /ɪd/ ending?",
+   "options": [
+    "called",
+    "played",
+    "posted",
+    "listened"
+   ],
+   "answer": "posted",
+   "explain": "",
+   "id": "u7-e122"
+  },
+  {
+   "type": "mc",
+   "topic": "-ed endings",
+   "q": "Which verb has an /ɪd/ ending?",
+   "options": [
+    "missed",
+    "watched",
+    "cooked",
+    "started"
+   ],
+   "answer": "started",
+   "explain": "",
+   "id": "u7-e123"
+  },
+  {
+   "type": "mc",
+   "topic": "-ed endings",
+   "q": "Which verb has an /ɪd/ ending?",
+   "options": [
+    "followed",
+    "decided",
+    "lived",
+    "relaxed"
+   ],
+   "answer": "decided",
+   "explain": "",
+   "id": "u7-e124"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "I chatted to my friends for an hour ___.",
+   "options": [
+    "last night",
+    "yesterday night"
+   ],
+   "answer": "last night",
+   "explain": "",
+   "id": "u7-e125"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "My girlfriend finished university ___.",
+   "options": [
+    "two years ago",
+    "ago two years"
+   ],
+   "answer": "two years ago",
+   "explain": "",
+   "id": "u7-e126"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "They travelled abroad ___.",
+   "options": [
+    "last month",
+    "the last month"
+   ],
+   "answer": "last month",
+   "explain": "",
+   "id": "u7-e127"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "Did you call me ___?",
+   "options": [
+    "yesterday morning",
+    "last morning"
+   ],
+   "answer": "yesterday morning",
+   "explain": "",
+   "id": "u7-e128"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "It stopped raining ___.",
+   "options": [
+    "two hours ago",
+    "two ago hours"
+   ],
+   "answer": "two hours ago",
+   "explain": "",
+   "id": "u7-e129"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "My brother worked in Greece ___.",
+   "options": [
+    "last July",
+    "the last July"
+   ],
+   "answer": "last July",
+   "explain": "",
+   "id": "u7-e130"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "We watched that film ___.",
+   "options": [
+    "two weeks ago",
+    "before two weeks"
+   ],
+   "answer": "two weeks ago",
+   "explain": "",
+   "id": "u7-e131"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "David booked the tickets ___.",
+   "options": [
+    "yesterday afternoon",
+    "last afternoon"
+   ],
+   "answer": "yesterday afternoon",
+   "explain": "",
+   "id": "u7-e132"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "My grandparents were born ___.",
+   "options": [
+    "a long time ago",
+    "a lot time ago"
+   ],
+   "answer": "a long time ago",
+   "explain": "",
+   "id": "u7-e133"
+  },
+  {
+   "type": "mc",
+   "topic": "past time expressions",
+   "q": "I played golf ___.",
+   "options": [
+    "the day before yesterday",
+    "before yesterday"
+   ],
+   "answer": "the day before yesterday",
+   "explain": "",
+   "id": "u7-e134"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "I called a taxi five minutes ___.",
+   "answer": [
+    "ago"
+   ],
+   "explain": "",
+   "id": "u7-e135"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "We talked to our bank manager ___ month.",
+   "answer": [
+    "last"
+   ],
+   "explain": "",
+   "id": "u7-e136"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "My aunt and uncle moved to Canada a long time ___.",
+   "answer": [
+    "ago"
+   ],
+   "explain": "",
+   "id": "u7-e137"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "She shared her holiday photos on Facebook ___ morning.",
+   "answer": [
+    "yesterday"
+   ],
+   "explain": "",
+   "id": "u7-e138"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "They arrived in Venice the day before ___.",
+   "answer": [
+    "yesterday"
+   ],
+   "explain": "",
+   "id": "u7-e139"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "I booked the restaurant three days ___.",
+   "answer": [
+    "ago"
+   ],
+   "explain": "",
+   "id": "u7-e140"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "Jack and Diane lived in San Francisco some years ___.",
+   "answer": [
+    "ago"
+   ],
+   "explain": "",
+   "id": "u7-e141"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "We travelled to Vietnam ___ summer.",
+   "answer": [
+    "last"
+   ],
+   "explain": "",
+   "id": "u7-e142"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "I went to work ___ morning.",
+   "answer": [
+    "yesterday"
+   ],
+   "explain": "",
+   "id": "u7-e143"
+  },
+  {
+   "type": "fill",
+   "topic": "past time expressions",
+   "q": "My mum went to the concert three months ___.",
+   "answer": [
+    "ago"
+   ],
+   "explain": "",
+   "id": "u7-e144"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "come → ___ (past)",
+   "answer": [
+    "came"
+   ],
+   "explain": "",
+   "id": "u7-e145"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "wear → ___ (past)",
+   "answer": [
+    "wore"
+   ],
+   "explain": "",
+   "id": "u7-e146"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "buy → ___ (past)",
+   "answer": [
+    "bought"
+   ],
+   "explain": "",
+   "id": "u7-e147"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "know → ___ (past)",
+   "answer": [
+    "knew"
+   ],
+   "explain": "",
+   "id": "u7-e148"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "find → ___ (past)",
+   "answer": [
+    "found"
+   ],
+   "explain": "",
+   "id": "u7-e149"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "think → ___ (past)",
+   "answer": [
+    "thought"
+   ],
+   "explain": "",
+   "id": "u7-e150"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "take → ___ (past)",
+   "answer": [
+    "took"
+   ],
+   "explain": "",
+   "id": "u7-e151"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "say → ___ (past)",
+   "answer": [
+    "said"
+   ],
+   "explain": "",
+   "id": "u7-e152"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "put on → ___ (past)",
+   "answer": [
+    "put on"
+   ],
+   "explain": "",
+   "id": "u7-e153"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "go → ___ (past)",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e154"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "have → ___ (past)",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e155"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "get → ___ (past)",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e156"
+  },
+  {
+   "type": "fill",
+   "topic": "irregular verbs",
+   "q": "feel → ___ (past)",
+   "answer": [
+    "felt"
+   ],
+   "explain": "",
+   "id": "u7-e157"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "He comes home late. → He ___ home late last night.",
+   "answer": [
+    "came"
+   ],
+   "explain": "",
+   "id": "u7-e158"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "Diego goes shopping after work. → Diego ___ shopping after work last night.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e159"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "Emily wears jeans. → Emily ___ jeans yesterday.",
+   "answer": [
+    "wore"
+   ],
+   "explain": "",
+   "id": "u7-e160"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "We don't have dinner at home. → We ___ have dinner at home last night.",
+   "answer": [
+    "didn't",
+    "did not"
+   ],
+   "explain": "",
+   "id": "u7-e161"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "They buy a lot of things. → They ___ a lot of things yesterday.",
+   "answer": [
+    "bought"
+   ],
+   "explain": "",
+   "id": "u7-e162"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "Alex doesn't get up early. → Alex ___ get up early yesterday morning.",
+   "answer": [
+    "didn't",
+    "did not"
+   ],
+   "explain": "",
+   "id": "u7-e163"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "My daughter feels ill. → My daughter ___ ill yesterday.",
+   "answer": [
+    "felt"
+   ],
+   "explain": "",
+   "id": "u7-e164"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "Helen doesn't go out during the week. → Helen ___ go out during the week last week.",
+   "answer": [
+    "didn't",
+    "did not"
+   ],
+   "explain": "",
+   "id": "u7-e165"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "I have breakfast. → I ___ breakfast yesterday.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e166"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "Lucy can't come to my party. → Lucy ___ come to my party last year.",
+   "answer": [
+    "couldn't",
+    "could not"
+   ],
+   "explain": "",
+   "id": "u7-e167"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (irregular)",
+   "words": [
+    "Who",
+    "did",
+    "you",
+    "go",
+    "with",
+    "?"
+   ],
+   "answer": "Who did you go with?",
+   "explain": "",
+   "id": "u7-e168"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (irregular)",
+   "words": [
+    "What",
+    "did",
+    "you",
+    "wear",
+    "?"
+   ],
+   "answer": "What did you wear?",
+   "explain": "",
+   "id": "u7-e169"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (irregular)",
+   "words": [
+    "What",
+    "time",
+    "did",
+    "you",
+    "get",
+    "home",
+    "?"
+   ],
+   "answer": "What time did you get home?",
+   "explain": "",
+   "id": "u7-e170"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (irregular)",
+   "words": [
+    "Did",
+    "you",
+    "get",
+    "a",
+    "taxi",
+    "home",
+    "?"
+   ],
+   "answer": "Did you get a taxi home?",
+   "explain": "",
+   "id": "u7-e171"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (irregular)",
+   "words": [
+    "Did",
+    "you",
+    "have",
+    "a",
+    "good",
+    "time",
+    "?"
+   ],
+   "answer": "Did you have a good time?",
+   "explain": "",
+   "id": "u7-e172"
+  },
+  {
+   "type": "order",
+   "topic": "past simple (irregular)",
+   "words": [
+    "Where",
+    "did",
+    "you",
+    "go",
+    "last",
+    "night",
+    "?"
+   ],
+   "answer": "Where did you go last night?",
+   "explain": "",
+   "id": "u7-e173"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "A: Was it good? B: Yes, it ___ great.",
+   "answer": [
+    "was"
+   ],
+   "explain": "",
+   "id": "u7-e174"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "We ___ home at about midnight. (get)",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e175"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "We ___ a great time. The food was fantastic! (have)",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e176"
+  },
+  {
+   "type": "fill",
+   "topic": "past simple (irregular)",
+   "q": "We didn't ___ a taxi. (get)",
+   "answer": [
+    "get"
+   ],
+   "explain": "didn't + yalın fiil",
+   "id": "u7-e177"
+  },
+  {
+   "type": "mc",
+   "topic": "past simple (irregular)",
+   "q": "Which sentence is correct?",
+   "options": [
+    "Did you go out last night?",
+    "Did you went out last night?",
+    "Do you went out last night?"
+   ],
+   "answer": "Did you go out last night?",
+   "explain": "",
+   "id": "u7-e178"
+  },
+  {
+   "type": "mc",
+   "topic": "past simple (irregular)",
+   "q": "Which sentence is correct?",
+   "options": [
+    "I didn't bought a bag.",
+    "I didn't buy a bag.",
+    "I not buy a bag."
+   ],
+   "answer": "I didn't buy a bag.",
+   "explain": "",
+   "id": "u7-e179"
+  },
+  {
+   "type": "fill",
+   "topic": "could",
+   "q": "I ___ see him. (can't → past)",
+   "answer": [
+    "couldn't",
+    "could not"
+   ],
+   "explain": "",
+   "id": "u7-e180"
+  },
+  {
+   "type": "fill",
+   "topic": "could",
+   "q": "___ you wear jeans when you were at school? (can → past)",
+   "answer": [
+    "Could"
+   ],
+   "explain": "",
+   "id": "u7-e181"
+  },
+  {
+   "type": "fill",
+   "topic": "could",
+   "q": "We ___ see the whole city from the plane. (can → past)",
+   "answer": [
+    "could"
+   ],
+   "explain": "",
+   "id": "u7-e182"
+  },
+  {
+   "type": "mc",
+   "topic": "go / have / get",
+   "q": "GO: which one is wrong?",
+   "options": [
+    "to the beach",
+    "out to a restaurant",
+    "a bus"
+   ],
+   "answer": "a bus",
+   "explain": "",
+   "id": "u7-e183"
+  },
+  {
+   "type": "mc",
+   "topic": "go / have / get",
+   "q": "HAVE: which one is wrong?",
+   "options": [
+    "lunch",
+    "a sandwich",
+    "for a walk",
+    "a drink"
+   ],
+   "answer": "for a walk",
+   "explain": "",
+   "id": "u7-e184"
+  },
+  {
+   "type": "mc",
+   "topic": "go / have / get",
+   "q": "GET: which one is wrong?",
+   "options": [
+    "dressed",
+    "a good time",
+    "up",
+    "an email"
+   ],
+   "answer": "a good time",
+   "explain": "",
+   "id": "u7-e185"
+  },
+  {
+   "type": "mc",
+   "topic": "go / have / get",
+   "q": "GO: which one is wrong?",
+   "options": [
+    "to bed",
+    "a car home",
+    "on holiday"
+   ],
+   "answer": "a car home",
+   "explain": "",
+   "id": "u7-e186"
+  },
+  {
+   "type": "mc",
+   "topic": "go / have / get",
+   "q": "HAVE: which one is wrong?",
+   "options": [
+    "breakfast",
+    "a bike",
+    "a shower",
+    "by train"
+   ],
+   "answer": "by train",
+   "explain": "",
+   "id": "u7-e187"
+  },
+  {
+   "type": "mc",
+   "topic": "go / have / get",
+   "q": "GET: which one is wrong?",
+   "options": [
+    "shopping",
+    "home",
+    "a newspaper",
+    "a taxi"
+   ],
+   "answer": "shopping",
+   "explain": "",
+   "id": "u7-e188"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "I ___ breakfast at eight every day. (go / have / get)",
+   "answer": [
+    "have"
+   ],
+   "explain": "",
+   "id": "u7-e189"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "We ___ to the beach yesterday.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e190"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "I ___ up at seven this morning.",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e191"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "Let's ___ shopping on Saturday.",
+   "answer": [
+    "go"
+   ],
+   "explain": "",
+   "id": "u7-e192"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "She ___ a shower before bed.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e193"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "They ___ on holiday last summer.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e194"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "I ___ an email from my boss yesterday.",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e195"
+  },
+  {
+   "type": "fill",
+   "topic": "go / have / get",
+   "q": "We ___ a great time at the party.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e196"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "we ___ a taxi to the airport. (Friday)",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e197"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "When we ___ to the airport, we waited for our flight.",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e198"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "We waited for our flight and we ___ a sandwich.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e199"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "It was late when we arrived at our hotel, so we ___ to bed.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e200"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "The next day, we ___ up early.",
+   "answer": [
+    "got"
+   ],
+   "explain": "",
+   "id": "u7-e201"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "We ___ breakfast in the hotel.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e202"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "It was a beautiful day, so we ___ to the beach.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e203"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "We ___ a swim in the morning.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e204"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "In the afternoon, we ___ for a walk.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e205"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "In the evening, we ___ dinner in a local restaurant.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e206"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "The next day was Sunday, so we visited the old town before we ___ home.",
+   "answer": [
+    "went"
+   ],
+   "explain": "",
+   "id": "u7-e207"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "The weekend was very short, but we ___ a great time.",
+   "answer": [
+    "had"
+   ],
+   "explain": "",
+   "id": "u7-e208"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "Where",
+    "did",
+    "he",
+    "go",
+    "?"
+   ],
+   "answer": "Where did he go?",
+   "explain": "",
+   "id": "u7-e209"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "Who",
+    "did",
+    "he",
+    "go",
+    "with",
+    "?"
+   ],
+   "answer": "Who did he go with?",
+   "explain": "",
+   "id": "u7-e210"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "How",
+    "did",
+    "they",
+    "go",
+    "?"
+   ],
+   "answer": "How did they go?",
+   "explain": "",
+   "id": "u7-e211"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "When",
+    "did",
+    "they",
+    "arrive",
+    "?"
+   ],
+   "answer": "When did they arrive?",
+   "explain": "",
+   "id": "u7-e212"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "What",
+    "was",
+    "the",
+    "weather",
+    "like",
+    "?"
+   ],
+   "answer": "What was the weather like?",
+   "explain": "",
+   "id": "u7-e213"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "Where",
+    "did",
+    "they",
+    "have",
+    "dinner",
+    "?"
+   ],
+   "answer": "Where did they have dinner?",
+   "explain": "",
+   "id": "u7-e214"
+  },
+  {
+   "type": "order",
+   "topic": "A weekend away",
+   "words": [
+    "Did",
+    "they",
+    "have",
+    "a",
+    "good",
+    "time",
+    "?"
+   ],
+   "answer": "Did they have a good time?",
+   "explain": "",
+   "id": "u7-e215"
+  },
+  {
+   "type": "fill",
+   "topic": "A weekend away",
+   "q": "Where did he go? To ___. (Ibiza)",
+   "answer": [
+    "Ibiza"
+   ],
+   "explain": "",
+   "id": "u7-e216"
+  },
+  {
+   "type": "mc",
+   "topic": "A weekend away",
+   "q": "Who did he go with?",
+   "options": [
+    "With his wife.",
+    "With his boss.",
+    "On his own."
+   ],
+   "answer": "With his wife.",
+   "explain": "",
+   "id": "u7-e217"
+  }
+ ],
+ "skipped": [
+  "s.47 1c madde 1 (OCR'da okunamadı) ve 1d (kişisel sorular)",
+  "s.48 2a-2b (dinleme: ses dosyası gerekir)",
+  "s.49 1c madde 6 (first tablets: tarih zaman çizelgesinden kesin çıkarılamadı)",
+  "s.50 2a-2b (dinleme; /ɪd/ sesi mc olarak yapıldı), 2c (kişisel yazma)",
+  "s.52 2c madde 6 (cevap metinden belirsiz), 2d (yazma), 3 (dinleme)"
+ ]
+}
