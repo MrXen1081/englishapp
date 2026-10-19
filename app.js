@@ -371,5 +371,28 @@ $('#autoSpeak').onchange=e=>{S.auto=e.target.checked;save()};
 $('#rate').oninput=e=>{S.rate=+e.target.value;save()};
 $('#resetBtn').onclick=()=>{if(confirm('Tüm ilerleme silinsin mi?')){const {auto,rate,unit,wr,wd}=S;S={units:{},auto,rate,unit,wr,wd};IS=null;save();dlg.close();render()}};
 
+const ioMsg=(t,bad)=>{const m=$('#ioMsg');m.textContent=t;m.style.color=bad?'#f87171':''};
+$('#expBtn').onclick=()=>{
+  const blob=new Blob([JSON.stringify({app:'englishfile',version:1,exported:new Date().toISOString(),data:S},null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='ingilizce-ilerleme-'+today()+'.json';
+  document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),1000);ioMsg('İlerleme indirildi.');
+};
+$('#impBtn').onclick=()=>{ioMsg('');$('#impFile').click()};
+$('#impFile').onchange=e=>{
+  const f=e.target.files[0];e.target.value='';if(!f)return;
+  const r=new FileReader();
+  r.onerror=()=>ioMsg('Dosya okunamadı.',1);
+  r.onload=()=>{
+    let d;
+    try{d=JSON.parse(r.result);if(d&&d.app==='englishfile'&&d.data)d=d.data}catch(_){d=null}
+    if(!d||typeof d!=='object'||Array.isArray(d)||!d.units||typeof d.units!=='object'||Array.isArray(d.units)){
+      ioMsg('Geçersiz dosya: bu uygulamanın ilerleme yedeği değil.',1);return}
+    if(!confirm('Mevcut ilerleme silinecek ve bu dosyadaki veriyle değiştirilecek. Devam edilsin mi?'))return;
+    S=d;if(typeof S.auto!=='boolean')S.auto=true;if(typeof S.rate!=='number')S.rate=0.9;if(!S.unit)S.unit='unit1';
+    IS=null;save();$('#autoSpeak').checked=S.auto;$('#rate').value=S.rate;ioMsg('İlerleme yüklendi.');render();
+  };
+  r.readAsText(f);
+};
+
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 init();

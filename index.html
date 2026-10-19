@@ -35,6 +35,10 @@
   <label class="row"><input type="checkbox" id="autoSpeak"> Kelimeyi otomatik oku</label>
   <label class="row">Konuşma hızı <input type="range" id="rate" min="0.5" max="1.2" step="0.1"></label>
   <p class="muted" id="voiceInfo"></p>
+  <button class="btn" id="expBtn">İlerlemeyi indir</button>
+  <button class="btn" id="impBtn">İlerlemeyi yükle</button>
+  <input type="file" id="impFile" accept=".json,application/json" hidden>
+  <p class="muted" id="ioMsg" role="status"></p>
   <button class="btn" id="resetBtn">İlerlemeyi sıfırla</button>
   <button class="btn primary" id="closeSet">Kapat</button>
 </dialog>
