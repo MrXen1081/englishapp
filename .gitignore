@@ -3,3 +3,5 @@ SB.pdf
 ocr/
 ocr_sb/
 *.png
+.env.local
+tools/
