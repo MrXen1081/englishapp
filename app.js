@@ -59,14 +59,15 @@ async function init(){
   const sel=$('#unitSel');sel.innerHTML=UNITS.map(u=>`<option value="${u.id}">${esc(u.title)}</option>`).join('');
   if(!UNITS.find(u=>u.id===S.unit))S.unit=UNITS[0].id;sel.value=S.unit;
   sel.onchange=async()=>{
+    if(typeof slBusy!=='undefined'&&slBusy){sel.value=S.unit;return}   // don't swap words under a running slot spin
     try{await loadUnit(sel.value)}catch(e){sel.value=S.unit;return}   // keep the current unit if the new one can't be loaded
     C=null;Q=null;save();render();scrollTo(0,0)};
   await loadUnit(S.unit);render();
 }
 async function loadUnit(id){const u=UNITS.find(x=>x.id===id);const d=await (await fetch(u.file)).json();U=d;S.unit=id}
 const app=$('#app');
-function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,verbs:verbsView,write:writeView,progress:progressView}[tab])()}
-$('#tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;tab=b.dataset.tab;
+function render(){({cards:cardsHome,quiz:quizHome,grammar:grammarView,verbs:verbsView,write:writeView,slot:slotView,progress:progressView}[tab])()}
+$('#tabs').onclick=e=>{const b=e.target.closest('button');if(!b||(typeof slBusy!=='undefined'&&slBusy))return;tab=b.dataset.tab;
   document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b));window.speechSynthesis?.cancel();IS=null;render();scrollTo(0,0)};
 const boxOf=id=>P().box[id]||0;
 
